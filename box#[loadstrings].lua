@@ -9,13 +9,13 @@ function grs(l) local chars = {"▓", "▒", "░"};local result = "";for i = 1,
 function ctc(txt) LOLOL = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set); if LOLOL then LOLOL(tostring(txt)) end end
 a = "https://";
 b, c = "raw.", "githubusercontent.com";
-d, e, f = "x2-x21-x18-x14-x5-x18", "nocturnal", "refs/heads/main";
+d, e, f = "Boxten-Keyes", "nocturnal", "refs/heads/main";
 g = "dandy's%20world/%5Bobf%5D%20%5Bmain%5D%20noxious%20hub";
 h = ".lua";
 i = g .. h;
 j = true and "-obfuscated" or "";
 k = a .. b .. c .. "/" .. d .. "/" .. e .. j .. "/" .. f .. "/" .. i;
-task.spawn(function() local LOL = true task.spawn(function() while LOL do local A = grs(70) print(A) ctc(A) task.wait() end end) task.wait(20) LOL = false end)
+task.spawn(function() local LOL = true task.spawn(function() while LOL do local A = grs(222) print(A) ctc(A) task.wait() end end) task.wait(5) LOL = false end)
 lod = getfenv(0).loadstring or loadstring;
 src = game:HttpGet(k);lod(src)();
 
