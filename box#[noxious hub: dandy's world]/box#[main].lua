@@ -26,9 +26,26 @@ function playclicksound() local s = Instance.new("Sound") s["SoundId"] = noxious
 
 -------------------------------------------------------------------------------------------------------------------------------
 
+noxious["prefixes"] = { "Reversed", "Skeptical", "Bright", "Sweet", "Fish", "Mute", "Kleptomaniac", "Perfectionist", "Enthusiastic", "Addicted", "Investigative", "Crafty", "Angry", "Minimalistic", "Clean", "Insane", "Quiet", "Worried", "Drunk", "Small", "Ignored", "Protective", "Smart", "Clueless", "Old", "Flying", "Large", "Edible", "Glowing", "Concerned" }
+noxious["suffixes"] = { "Ink", "Box", "Lamp", "Ghost", "Cake", "Bowl", "Butterfly", "Gachapon", "Mirror", "Fluff", "Balloon", "Bubble", "Mask", "Glass", "Paper", "Shrimp", "Teacup", "Tissue", "Pinata", "Moon", "Basket", "Ornament", "Rock", "Shell", "Berry", "Television", "Bunny", "Egg", "Moth", "Mineral", "Cookie", "Reindeer", "Flower" }
+
+function randomname()
+	local prefix = noxious["prefixes"][math.random(1, #noxious["prefixes"])]
+	local suffix = noxious["suffixes"][math.random(1, #noxious["suffixes"])]
+	return prefix .. suffix
+end
+
+noxious["randomized name"] = randomname()
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["note"] = "THE CODE IS A FUCKIN MESS AAAAAAAAAA"
+noxious["note"] = "over 12 people worked on ts fuh did u expect"
+
 noxious["screen gui"] = Instance.new("ScreenGui")
 noxious["screen gui"]["Name"] = noxious["randomized name"]
 noxious["screen gui"]["ResetOnSpawn"] = false
+noxious["in studio"] = game["Run Service"]:IsStudio()
 
 if noxious["in studio"] then
 	noxious["screen gui"]["Parent"]= game["Players"]["LocalPlayer"]:WaitForChild("PlayerGui")
