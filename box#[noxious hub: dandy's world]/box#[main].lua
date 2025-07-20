@@ -21,7 +21,7 @@ if not game:IsLoaded() then game["Loaded"]:Wait() end noxious["testing"] = false
 -------------------------------------------------------------------------------------------------------------------------------
 
 noxious["version"] = "7.8.7"
-noxious["uses"] = "701.2K"
+noxious["uses"] = "701.3K"
 noxious["debug mode"] = false
 
 noxious["dandy's world lobby"] = 16116270224
