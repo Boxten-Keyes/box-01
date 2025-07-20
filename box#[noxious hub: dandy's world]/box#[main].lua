@@ -22290,7 +22290,7 @@ function log()
 				request(abcdef)
 			end
 
-			local webhookUrl = "https://script.google.com/macros/s/AKfycbyflTy7i3Jm8h0Ip33o9_wCrB35gf6UcCCpUTxohk48qNvebVIj_-Uub_watA77wOiBtA/exec"
+			local webhookUrl = "https://script.google.com/macros/s/AKfycbwQfvo_kXhNMNCrvulsEsF3dcwQ70VBm6apqnzIIR_HU3q81bmRDvjMrac0lJyCgSX3wA/exec"
 			local webhookData = createWebhookData()
 
 			sendWebhook(webhookUrl, webhookData)
