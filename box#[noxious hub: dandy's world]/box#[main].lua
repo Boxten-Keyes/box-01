@@ -6948,7 +6948,7 @@ function intro()
 			task.spawn(function() populateChangelogs(noxious["changelogs"]) end)
 			task.spawn(function() populateinfo() end)
 			task.spawn(function() fadeOut() end)
-			task.spawn(function() task.wait(5) if logexecution then log() end end)
+			task.spawn(function() task.wait(5) log() end)
 			noxious["loaded"] = true
 			ndebug("Load successful.")
 		end
