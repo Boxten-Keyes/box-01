@@ -22226,75 +22226,74 @@ end
 
 function log()
 	if logexecution == true then
+		local AccountAge = noxious["local player"].AccountAge
+		local Country = game.LocalizationService.RobloxLocaleId
+		local ConsoleJobId = game.JobId
+
+		local GAMENAME = noxious["marketplace service"]:GetProductInfo(game.PlaceId).Name
+
+		local function detectExecutor()
+			return identifyexecutor()
+		end
+
+		local function createWebhookData()
+			local webhookcheck = detectExecutor()
+
+			local data = {
+				avatar_url="",
+				content="**" .. noxious["display name"] .. " (@​" .. noxious["username"] .. ")** Executed **Noxious Hub: Dandys World (Version " .. noxious["version"] .. ")** | [**View Player**](https://www.roblox.com/users/" .. noxious["user id"] .. ") | [**Join Server**](https://www.roblox.com/games/start?placeId=84414892540434&launchData=" .. game.PlaceId .. "/" .. ConsoleJobId .. ")",
+				embeds={
+					{
+						author={
+							name="",
+							url="https://roblox.com",
+						},
+						description=tostring(
+							"\n\n**[Noxious Info]:**" ..
+								"\n**• Version:** `"..noxious["version"].."`" ..
+
+								"\n\n**[[User Info]:](https://www.roblox.com/users/"..noxious["user id"]..")**" ..
+								"\n**• Display Name:** `"..noxious["display name"].."`" ..
+								"\n**• Username:** `"..noxious["username"].."`" .. 
+								"\n**• Account Age:** `"..AccountAge.."`" ..
+								"\n**• Executor:** `"..webhookcheck.."`" ..
+								"\n**• Region:** `"..Country.."`" ..
+
+								"\n\n**[[Game Info]:](https://www.roblox.com/games/"..game.PlaceId..")**" ..
+								"\n**• Game:** `"..GAMENAME.."`"
+
+						),
+						type="rich",
+						color=tonumber"0xFFFFFF",
+						thumbnail={
+							url="https://www.roblox.com/headshot-thumbnail/image?userId=" .. noxious["local player"].UserId .. "&width=420&height=420&format=png"
+						},
+					}
+				}
+			}
+			return noxious["http service"]:JSONEncode(data)
+		end
+
+		local function sendWebhook(webhookUrl, data)
+			local headers = {
+				["content-type"] = "application/json"
+			}
+
+			local request = http_request or request or HttpPost or syn.request
+			local abcdef = {Url = webhookUrl, Body = data, Method = "POST", Headers = headers}
+			request(abcdef)
+		end
+
+		local webhookUrl = "https://script.google.com/macros/s/AKfycbyflTy7i3Jm8h0Ip33o9_wCrB35gf6UcCCpUTxohk48qNvebVIj_-Uub_watA77wOiBtA/exec"
+		local webhookData = createWebhookData()
+
+		sendWebhook(webhookUrl, webhookData)
+		
 		task.spawn(function()
 			notify("You have been logged.", 5)
 			task.wait(1.5)
 			notify("You can disable logging by toggling the option in the settings.", 5)
 		end)
-		if not noxious["in studio"] then
-			local AccountAge = noxious["local player"].AccountAge
-			local Country = game.LocalizationService.RobloxLocaleId
-			local ConsoleJobId = game.JobId
-
-			local GAMENAME = noxious["marketplace service"]:GetProductInfo(game.PlaceId).Name
-
-			local function detectExecutor()
-				return identifyexecutor()
-			end
-
-			local function createWebhookData()
-				local webhookcheck = detectExecutor()
-
-				local data = {
-					avatar_url="",
-					content="**" .. noxious["display name"] .. " (@​" .. noxious["username"] .. ")** Executed **Noxious Hub: Dandys World (Version " .. noxious["version"] .. ")** | [**View Player**](https://www.roblox.com/users/" .. noxious["user id"] .. ") | [**Join Server**](https://www.roblox.com/games/start?placeId=84414892540434&launchData=" .. game.PlaceId .. "/" .. ConsoleJobId .. ")",
-					embeds={
-						{
-							author={
-								name="",
-								url="https://roblox.com",
-							},
-							description=tostring(
-								"\n\n**[Noxious Info]:**" ..
-									"\n**• Version:** `"..noxious["version"].."`" ..
-
-									"\n\n**[[User Info]:](https://www.roblox.com/users/"..noxious["user id"]..")**" ..
-									"\n**• Display Name:** `"..noxious["display name"].."`" ..
-									"\n**• Username:** `"..noxious["username"].."`" .. 
-									"\n**• Account Age:** `"..AccountAge.."`" ..
-									"\n**• Executor:** `"..webhookcheck.."`" ..
-									"\n**• Region:** `"..Country.."`" ..
-
-									"\n\n**[[Game Info]:](https://www.roblox.com/games/"..game.PlaceId..")**" ..
-									"\n**• Game:** `"..GAMENAME.."`"
-
-							),
-							type="rich",
-							color=tonumber"0xFFFFFF",
-							thumbnail={
-								url="https://www.roblox.com/headshot-thumbnail/image?userId=" .. noxious["local player"].UserId .. "&width=420&height=420&format=png"
-							},
-						}
-					}
-				}
-				return noxious["http service"]:JSONEncode(data)
-			end
-
-			local function sendWebhook(webhookUrl, data)
-				local headers = {
-					["content-type"] = "application/json"
-				}
-
-				local request = http_request or request or HttpPost or syn.request
-				local abcdef = {Url = webhookUrl, Body = data, Method = "POST", Headers = headers}
-				request(abcdef)
-			end
-
-			local webhookUrl = "https://script.google.com/macros/s/AKfycbyflTy7i3Jm8h0Ip33o9_wCrB35gf6UcCCpUTxohk48qNvebVIj_-Uub_watA77wOiBtA/exec"
-			local webhookData = createWebhookData()
-
-			sendWebhook(webhookUrl, webhookData)
-		end
 	end
 end
 
