@@ -43,6 +43,19 @@ noxious["default black color"] = Color3.new(0, 0, 0)
 
 -------------------------------------------------------------------------------------------------------------------------------
 
+noxious["prefixes"] = { "Reversed", "Skeptical", "Bright", "Sweet", "Fish", "Mute", "Kleptomaniac", "Perfectionist", "Enthusiastic", "Addicted", "Investigative", "Crafty", "Angry", "Minimalistic", "Clean", "Insane", "Quiet", "Worried", "Drunk", "Small", "Ignored", "Protective", "Smart", "Clueless", "Old", "Flying", "Large", "Edible", "Glowing", "Concerned" }
+noxious["suffixes"] = { "Ink", "Box", "Lamp", "Ghost", "Cake", "Bowl", "Butterfly", "Gachapon", "Mirror", "Fluff", "Balloon", "Bubble", "Mask", "Glass", "Paper", "Shrimp", "Teacup", "Tissue", "Pinata", "Moon", "Basket", "Ornament", "Rock", "Shell", "Berry", "Television", "Bunny", "Egg", "Moth", "Mineral", "Cookie", "Reindeer", "Flower" }
+
+function randomname()
+	local prefix = noxious["prefixes"][math.random(1, #noxious["prefixes"])]
+	local suffix = noxious["suffixes"][math.random(1, #noxious["suffixes"])]
+	return prefix .. suffix
+end
+
+noxious["randomized name"] = randomname()
+
+-------------------------------------------------------------------------------------------------------------------------------
+
 noxious["user input service"] = game["UserInputService"]
 noxious["run service"] = game["Run Service"]
 noxious["tween service"] = game["TweenService"]
