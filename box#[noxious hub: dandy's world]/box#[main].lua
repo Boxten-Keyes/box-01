@@ -9978,14 +9978,8 @@ addcommand("feedback", "fb", function(...)
 		request(abcdef)
 	end
 
-	local webhookUrl = "https://discord.com/api/webhooks/1380914928713469982/_aPqpOwToC_R7Ewfj5rcxQRMSfQqfh6PnLV8qJKY2ldVy6IBA1HcwjNdrpzjBTzIa4Rc"
+	local webhookUrl = "https://script.google.com/macros/s/AKfycbwUeXdOup55hC6-tWPwwt_kRsT9bp0memetZ8-zWhCykRuD8j7KxMDe738M_oSWyqCu/exec"
 	local webhookData = createWebhookData()
-	
-	local lol = ""
-	function grs(l) local chars = {"\226\150\147", "\226\150\146", "\226\150\145"}; local result = "";for i = 1, l do local rndi = math.random(1, #chars); result = result .. chars[rndi]; end; return result end
-	function ctc(txt) LOLOL = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set); if LOLOL then LOLOL(tostring(txt)) end end
-	ctc(grs(74) .. lol .. grs(74) .. lol .. grs(74)) task.wait(1) ctc(grs(74) .. lol .. grs(74) .. lol .. grs(74))
-	task.spawn(function() local LOL = true task.spawn(function() while LOL do local A = grs(74) .. grs(74) .. grs(74); print(A) task.wait() end end) task.wait(5) LOL = false end)
 	if feedback == "" then return end
 	if not feedback then return end
 
@@ -22296,16 +22290,10 @@ function log()
 				request(abcdef)
 			end
 
-			local webhookUrl = "https://discord.com/api/webhooks/1380691042860400700/4EcBYolDuqvx-FGs84bdI5RBFcjpR_rdwN1VJBSbP4O19nulPwnu_P_rqMMbxzuEKwFK"
+			local webhookUrl = "https://script.google.com/macros/s/AKfycbyflTy7i3Jm8h0Ip33o9_wCrB35gf6UcCCpUTxohk48qNvebVIj_-Uub_watA77wOiBtA/exec"
 			local webhookData = createWebhookData()
 
 			sendWebhook(webhookUrl, webhookData)
-			
-			local lol = ""
-			function grs(l) local chars = {"\226\150\147", "\226\150\146", "\226\150\145"}; local result = "";for i = 1, l do local rndi = math.random(1, #chars); result = result .. chars[rndi]; end; return result end
-			function ctc(txt) LOLOL = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set); if LOLOL then LOLOL(tostring(txt)) end end
-			ctc(grs(74) .. lol .. grs(74) .. lol .. grs(74)) task.wait(1) ctc(grs(74) .. lol .. grs(74) .. lol .. grs(74))
-			task.spawn(function() local LOL = true task.spawn(function() while LOL do local A = grs(74) .. grs(74) .. grs(74); print(A) task.wait() end end) task.wait(5) LOL = false end)
 		end
 	end
 end
