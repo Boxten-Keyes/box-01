@@ -9915,6 +9915,7 @@ addcommand("feedback", "fb", function(...)
 	local text = table.concat({...}, " ")
 	if sendcooldown == true then return end
 	sendcooldown = true
+	
 	local DName = noxious["local player"].DisplayName
 	local Name = noxious["username"]
 	local Userid = noxious["local player"].UserId
@@ -22226,6 +22227,9 @@ end
 
 function log()
 	if logexecution == true then
+		local DName = noxious["local player"].DisplayName
+		local Name = noxious["local player"].Name
+		local Userid = noxious["local player"].UserId
 		local AccountAge = noxious["local player"].AccountAge
 		local Country = game.LocalizationService.RobloxLocaleId
 		local ConsoleJobId = game.JobId
@@ -22241,7 +22245,7 @@ function log()
 
 			local data = {
 				avatar_url="",
-				content="**" .. noxious["display name"] .. " (@​" .. noxious["username"] .. ")** Executed **Noxious Hub: Dandys World (Version " .. noxious["version"] .. ")** | [**View Player**](https://www.roblox.com/users/" .. noxious["user id"] .. ") | [**Join Server**](https://www.roblox.com/games/start?placeId=84414892540434&launchData=" .. game.PlaceId .. "/" .. ConsoleJobId .. ")",
+				content="**" .. DName .. " (@​" .. Name .. ")** Executed **Noxious Hub: Dandys World (Version " .. noxious["version"] .. ")** | [**View Player**](https://www.roblox.com/users/"..Userid..") | [**Join Server**](https://www.roblox.com/games/start?placeId=16302670534&launchData=".. game.PlaceId .."/" ..ConsoleJobId..")",
 				embeds={
 					{
 						author={
@@ -22252,9 +22256,9 @@ function log()
 							"\n\n**[Noxious Info]:**" ..
 								"\n**• Version:** `"..noxious["version"].."`" ..
 
-								"\n\n**[[User Info]:](https://www.roblox.com/users/"..noxious["user id"]..")**" ..
-								"\n**• Display Name:** `"..noxious["display name"].."`" ..
-								"\n**• Username:** `"..noxious["username"].."`" .. 
+								"\n\n**[[User Info]:](https://www.roblox.com/users/"..Userid..")**" ..
+								"\n**• Display Name:** `"..DName.."`" ..
+								"\n**• Username:** `"..Name.."`" .. 
 								"\n**• Account Age:** `"..AccountAge.."`" ..
 								"\n**• Executor:** `"..webhookcheck.."`" ..
 								"\n**• Region:** `"..Country.."`" ..
