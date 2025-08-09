@@ -1,1 +1,1 @@
-return "fat cosmo supremacy"
+return [[fat cosmo supremacy]]
