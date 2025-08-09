@@ -1,0 +1,1 @@
+return "fat cosmo supremacy"
