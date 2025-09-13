@@ -1,1 +1,1 @@
-return { "Brightney", "Finn", "Flutter", "Gigi", "Glisten", "Goob", "Rodger", "Scraps", "Shrimpo", "Teagan", "Tisha", "Toodles", "Astro", "Shelly", }
+return { "Brightney", "Finn", "Flutter", "Gigi", "Goob", "Rodger", "Scraps", "Shrimpo", "Teagan", "Tisha", "Toodles" }
