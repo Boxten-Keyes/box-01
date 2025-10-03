@@ -1,1 +1,0 @@
-return [[fat cosmo supremacy]]
