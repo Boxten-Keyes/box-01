@@ -5,7 +5,7 @@
   \ \_____\  \ \__/".~\_\  \ \_____\  \/\_____\  \ \_\    \ \_____\  \ \_____\  \ \_\    \ \_\ 
    \/_____/   \/_/   \/_/   \/_____/   \/_____/   \/_/     \/_____/   \/_____/   \/_/     \/_/ 
                                                                                                        
-   Made by Team Noxious, Team Occulence & Team Symphysis -- uwusploit [version 6]
+   Made by Team Noxious, Team Occulence & Team Symphysis -- uwusploit [Version 6]
    
 ---------------------------------------------------------------------------------------------------------------------------]]--
 
@@ -54,7 +54,7 @@ uwu["in studio"] = uwu["run service"]:IsStudio()
 if not uwu["in studio"] then
 	uwu["local player"].OnTeleport:Connect(function(State)
 		qtp = (syn and syn.queue_on_teleport) or queue_on_teleport or (fluxus and fluxus.queue_on_teleport)
-		qtp([[loadstring(game:HttpGet("https://raw.githubusercontent.com/Team-Noxious/UwUsploit/refs/heads/main/UwUsploit.lua"))()]])
+		qtp([[loadstring(game:HttpGet("https://github.com/Boxten-Keyes/box-01/blob/main/box%23%5Buwusploit%5D/box%23%5Bmain%5D.lua"))()]])
 	end)
 end
 
