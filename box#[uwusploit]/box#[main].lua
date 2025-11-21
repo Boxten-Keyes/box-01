@@ -9,11 +9,11 @@
    
 ---------------------------------------------------------------------------------------------------------------------------]]--
 
-if getgenv().uwusploitloaded == true then return end uwusploitloaded = true
+if _G.uwusploitloaded == true then return end _G.uwusploitloaded = true
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-t = task.wait t(2) uwu = {} -- 7/28/2025: now open sourced!!! yay!!! skidders rejoice!!! (friendly fire)
+t = task.wait t(0.5) uwu = {} -- 7/28/2025: now open sourced!!! yay!!! skidders rejoice!!! (friendly fire)
 
 -------------------------------------------------------------------------------------------------------------------------------
 
@@ -4589,7 +4589,7 @@ end
 local function toHex(numStr)
 	local num = tonumber(numStr)
 	if not num then return "00" end
-	local hex = string.format("%02X", num) -- e.g., 05 -> "05", 26 -> "1A"
+	local hex = string.format("%02X", num)
 	return hex
 end
 
@@ -4637,38 +4637,6 @@ function encodeInput(input)
 		result = result:sub(1, -2)
 	end
 	return result
-end
-
--- Helpers (must match encoder)
-local MULTIPLIER = 51
-
-local function reverseStr(s)
-	return string.reverse(s)
-end
-
-local function padTwoDigits(num)
-	num = num % 100
-	return (num < 10 and "0" or "") .. tostring(num)
-end
-
--- Convert decimal (string or number) to 2-digit hex string
-local function toHex(numStr)
-	local num = tonumber(numStr)
-	if not num then return "00" end
-	return string.format("%02X", num) -- 0 -> "00", 5 -> "05", 26 -> "1A"
-end
-
--- Map two hex characters (each 0..F) to two printable chars: 0->'A', 1->'B', ... 15->'P'
-local function hexToTwoChars(hexStr)
-	local out = {}
-	for i = 1, #hexStr do
-		local digit = hexStr:sub(i, i)
-		local val = tonumber(digit, 16)
-		-- safety: if val nil (shouldn't happen), treat as 0
-		if not val then val = 0 end
-		out[#out + 1] = string.char(65 + val)
-	end
-	return table.concat(out)
 end
 
 function decodeInput(encoded)
@@ -6141,11 +6109,14 @@ uwu["logs textbox"]:GetPropertyChangedSignal("Text"):Connect(updateCanvas3)
 
 updateCanvas3()
 
-local LogService = game:GetService("LogService")
+local logcd = false
 
-LogService.MessageOut:Connect(function(message, messageType)
+game:GetService("LogService").MessageOut:Connect(function(message, messageType)
+	if logcd then return end 
+	logcd = true
 	addTextWithNewline2(uwu["output textbox"], message)
 	updateCanvas3()
+	task.delay(5, function() logcd = false end)
 end)
 
 -------------------------------------------------------------------------------------------------------------------------------
