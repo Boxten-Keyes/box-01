@@ -2870,7 +2870,7 @@ function scanTarget()
 	scan.SoundId = "rbxassetid://8503529653"
 	scan.Parent = uwu["local player"]
 	scan.Name = "canttouchthis"
-	scan.Volume = 1
+	scan.Volume = 3.8
 	scan:Play()
 
 	uwu["gaydar info"].Text = string.format("target: %s\nuser: %s\n\ngayness: scanning...\naccuracy: scanning...", 
